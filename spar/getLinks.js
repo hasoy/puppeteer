@@ -1,6 +1,6 @@
 const fs = require("fs");
 const puppeteer = require("puppeteer");
-const appendToJson = require("./appendToJson");
+const appendToJson = require("../appendToJson");
 
 async function getLinks() {
   const browser = await puppeteer.launch({ headless: "new" });

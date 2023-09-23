@@ -1,18 +1,16 @@
-const fs = require("fs");
+import fs from "fs";
 
 function removeDuplicatesAndWriteToFile(filePath) {
   try {
-    // Read the JSON file and parse its contents into an array
     const rawData = fs.readFileSync(filePath);
     const originalArray = JSON.parse(rawData);
+    console.log("original length", originalArray.length);
 
-    // Create a Set from the original array to remove duplicates
     const uniqueSet = new Set(originalArray);
 
-    // Convert the Set back into an array
     const uniqueArray = [...uniqueSet];
+    console.log("new length", uniqueArray.length);
 
-    // Write the updated array back to the same file
     fs.writeFileSync(filePath, JSON.stringify(uniqueArray, null, 2));
 
     console.log("Duplicates removed and data written to the file successfully.");
@@ -21,6 +19,5 @@ function removeDuplicatesAndWriteToFile(filePath) {
   }
 }
 
-// Example usage:
-const filePath = "sparLinks.json"; // Replace with the path to your JSON file
+const filePath = "coopProducts.json";
 removeDuplicatesAndWriteToFile(filePath);
