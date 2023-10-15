@@ -19,5 +19,5 @@ function removeDuplicatesAndWriteToFile(filePath) {
   }
 }
 
-const filePath = "coopProducts.json";
+const filePath = "dirkLinks.json";
 removeDuplicatesAndWriteToFile(filePath);

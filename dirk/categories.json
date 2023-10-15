@@ -1,0 +1,86 @@
+[
+  {
+    "brood-beleg-koek": [
+      "afbakbrood",
+      "brood",
+      "bolletjes-croissants",
+      "koekjes",
+      "ontbijtkoek",
+      "broodjes-snacks",
+      "broodbeleg",
+      "beschuit-crackers",
+      "vers-klein-gebak",
+      "biologisch-brood-beleg-koek"
+    ]
+  },
+  {
+    "zuivel-kaas": [
+      "kaas-gesneden",
+      "melk-karnemelk",
+      "eieren",
+      "toetjes",
+      "yoghurt-kwark-pap",
+      "boter-margarine",
+      "slagroom-kookroom",
+      "zuiveldranken",
+      "kaas-stuk",
+      "lactosevrije-zuivel",
+      "overige-kazen",
+      "vla",
+      "biologisch-zuivel-kaas"
+    ]
+  },
+  {
+    "voorraadkast": [
+      "bakproducten-suiker",
+      "internationale-keuken",
+      "oliën-sauzen-mixen",
+      "muesli-cereals-pap",
+      "pasta-pasta-sauzen",
+      "kruiden-specerijen",
+      "speciale-voeding",
+      "rijst-couscous-quinoa",
+      "biologische-voorraadkast"
+    ]
+  },
+  {
+    "maaltijden-salades-tapas": [
+      "houdbare-maaltijden",
+      "houdbare-soepen",
+      "tapas",
+      "verse-maaltijden",
+      "maaltijdsalades",
+      "salades",
+      "verse-sauzen"
+    ]
+  },
+  {
+    "diepvries": [
+      "diepvries-fruit-deeg",
+      "diepvries-aardappelproducten",
+      "diepvries-dierenvoeding",
+      "diepvries-brood-gebak",
+      "diepvries-groente",
+      "ijs",
+      "diepvries-pizza-s-maaltijden",
+      "diepvries-snacks",
+      "diepvries-vis",
+      "diepvries-vlees"
+    ]
+  },
+  {
+    "snacks-snoep": [
+      "chips",
+      "chocolade",
+      "drop",
+      "kauwgom",
+      "noten-pinda-s",
+      "popcorn-toastjes",
+      "snoep",
+      "zoutjes",
+      "mondverfrissers-keelpastilles",
+      "biologische-snacks-snoep",
+      "seizoens-zoetwaren"
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "brood-beleg-koek": [
+      "brood",
+      "broodjes-snacks",
+      "beschuit-crackers",
+      "afbakbrood",
+      "broodbeleg",
+      "bolletjes-croissants",
+      "koekjes",
+      "ontbijtkoek",
+      "vers-klein-gebak",
+      "biologisch-brood-beleg-koek"
+    ]
+  },
+  {
+    "voorraadkast": [
+      "bakproducten-suiker",
+      "internationale-keuken",
+      "kruiden-specerijen",
+      "muesli-cereals-pap",
+      "oliën-sauzen-mixen",
+      "pasta-pasta-sauzen",
+      "rijst-couscous-quinoa",
+      "speciale-voeding",
+      "biologische-voorraadkast"
+    ]
+  },
+  {
+    "diepvries": [
+      "diepvries-aardappelproducten",
+      "diepvries-dierenvoeding",
+      "diepvries-fruit-deeg",
+      "diepvries-brood-gebak",
+      "diepvries-groente",
+      "diepvries-pizza-s-maaltijden",
+      "diepvries-snacks",
+      "diepvries-vis",
+      "diepvries-vlees",
+      "ijs"
+    ]
+  },
+  {
+    "snacks-snoep": [
+      "chips",
+      "chocolade",
+      "drop",
+      "kauwgom",
+      "mondverfrissers-keelpastilles",
+      "noten-pinda-s",
+      "popcorn-toastjes",
+      "snoep",
+      "zoutjes",
+      "biologische-snacks-snoep",
+      "seizoens-zoetwaren"
+    ]
+  },
+  {
+    "zuivel-kaas": [
+      "boter-margarine",
+      "eieren",
+      "kaas-gesneden",
+      "kaas-stuk",
+      "lactosevrije-zuivel",
+      "melk-karnemelk",
+      "slagroom-kookroom",
+      "toetjes",
+      "vla",
+      "yoghurt-kwark-pap",
+      "zuiveldranken",
+      "overige-kazen",
+      "biologisch-zuivel-kaas"
+    ]
+  },
+  {
+    "maaltijden-salades-tapas": [
+      "houdbare-maaltijden",
+      "houdbare-soepen",
+      "maaltijdsalades",
+      "tapas",
+      "verse-maaltijden",
+      "salades",
+      "verse-sauzen"
+    ]
+  }
+]
