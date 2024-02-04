@@ -1,6 +1,6 @@
-const puppeteer = require("puppeteer");
-const jumboUrls = require("./jumboUrls");
-const appendToJson = require("../appendToJson");
+import puppeteer from "puppeteer";
+import jumboUrls from "./jumboUrls.json" assert { type: "json" };
+import appendToJson from "../appendToJson.js";
 
 async function run() {
   let productsArray = [];

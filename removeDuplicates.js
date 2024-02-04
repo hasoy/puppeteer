@@ -19,5 +19,5 @@ function removeDuplicatesAndWriteToFile(filePath) {
   }
 }
 
-const filePath = "dirkLinks.json";
+const filePath = "ahLinks.json";
 removeDuplicatesAndWriteToFile(filePath);

@@ -44,27 +44,27 @@ async function fetchAndWriteProduct(id) {
     const response = await fetch(coopUrl);
     const data = await parseJson(response);
     if (!data) return;
-    const product = {
-      productName: data.name,
-      barcode: data.sku ?? id,
-      store: "Coop",
-      allIngredients:
-        data.attributeGroups.PRODUCT_DETAIL_ATTRIBUTES_INGREDIENTS.attributes[0].value,
-      land: "Netherlands",
-      weight: data.attributes[0].value,
-      category: data.defaultCategory.name,
+    // const product = {
+    //   productName: data.name,
+    //   barcode: data.sku ?? id,
+    //   store: "Coop",
+    //   allIngredients:
+    //     data.attributeGroups.PRODUCT_DETAIL_ATTRIBUTES_INGREDIENTS.attributes[0].value,
+    //   land: "Netherlands",
+    //   weight: data.attributes[0].value,
+    //   category: data.defaultCategory.name,
 
-      vegan:
-        data.attributeGroups.PRODUCT_DETAIL_ATTRIBUTES_LOGO.attributes.includes({
-          name: "Vegan",
-          type: "Boolean",
-          value: true,
-        }) ||
-        data.defaultCategory.name.toLowerCase() === "vegan" ||
-        data.name.toLowerCase().includes("vegan"),
-    };
-    console.log(product);
-    tempArray.push(product);
+    //   vegan:
+    //     data.attributeGroups.PRODUCT_DETAIL_ATTRIBUTES_LOGO.attributes.includes({
+    //       name: "Vegan",
+    //       type: "Boolean",
+    //       value: true,
+    //     }) ||
+    //     data.defaultCategory.name.toLowerCase() === "vegan" ||
+    //     data.name.toLowerCase().includes("vegan"),
+    // };
+    console.log(data);
+    tempArray.push(data);
   } catch (error) {
     console.log("id:" + id, error);
     return;

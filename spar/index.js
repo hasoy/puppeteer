@@ -1,6 +1,6 @@
-const puppeteer = require("puppeteer");
-const sparUrls = require("./failedRequests");
-const appendToJson = require("../appendToJson");
+import puppeteer from "puppeteer";
+import sparUrls from "./failedRequests.json" assert { type: "json" };
+import appendToJson from "../appendToJson.js";
 
 async function run() {
   let productsArray = [];
