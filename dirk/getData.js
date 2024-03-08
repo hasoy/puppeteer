@@ -1,19 +1,20 @@
-import dirkLinks from "./dirkLinks.json" assert { type: "json" };
+import dirkLinks from "./dirkLinks2.json" assert { type: "json" };
 import appendToJson from "../appendToJson.js";
 import fetch from "node-fetch";
 
 // total product coop 4696
-const offset = 0;
-const loopAmount = 4696;
+const offset = 2750;
+const loopAmount = dirkLinks.length;
 let tempArray = [];
+console.log(loopAmount);
 
 const splitArray = dirkLinks?.slice(offset);
 function fetchProductsLoop(index, loopAmount) {
   if (index >= loopAmount) {
     return;
   }
-  if (tempArray.length === 50) {
-    appendToJson([...tempArray], "dirkProducts.json");
+  if (tempArray.length === 42) {
+    appendToJson([...tempArray], "dirkProducts2.json");
     tempArray = [];
   }
 
@@ -49,11 +50,11 @@ async function fetchAndWriteProduct(id) {
         `${data.Brand?.toLowerCase()} ${data.MainDescription?.toLowerCase()} ${data.SubDescription?.toLowerCase()}`?.trim(),
       barcode: data.ProductBarcodes.map((barcode) => barcode.Barcode)?.join(),
       store: "Dirk",
-      allIngredients: data.ProductDeclarations[0].ProductIngredients[0].Text,
+      allIngredients: data?.ProductDeclarations[0]?.ProductIngredients[0]?.Text,
       land: "Netherlands",
       weight: data.CommercialContent,
-      category: data.WebSubGroups[0].WebGroup.WebDepartment.Description,
-      allergens: data.ProductDeclarations[0].ProductAllergens?.map(
+      category: data.WebSubGroups[0]?.WebGroup.WebDepartment.Description,
+      allergens: data.ProductDeclarations[0]?.ProductAllergens?.map(
         (allergen) => allergen.AllergenDescription
       )?.join(),
     };

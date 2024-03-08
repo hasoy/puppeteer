@@ -10,3 +10,12 @@ const UsedCategories = [
   "koek_gebak_en_snoep",
   "chips_nootjes_en_borrelhapjes",
 ];
+
+const unusedCategories = [
+  "fruit",
+  "groenten",
+  "vlees_kip_vis_en_vegetarisch",
+  "frisdranken_sappen_en_water",
+  "baby-verzorging-en-hygiene",
+  "koffie_en_thee",
+];

@@ -10,3 +10,11 @@ const usedCategories = [
   "koek,-snoep,-chocolade-en-chips",
   "diepvries",
 ];
+
+const missingCategories = [
+  "aardappelen,-groente-en-fruit",
+  "koffie-en-thee",
+  "frisdrank-en-sappen",
+  "drogisterij",
+  "baby,-peuter",
+];

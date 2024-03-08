@@ -1,32 +1,34 @@
-import puppeteer from "puppeteer";
-import jumboUrls from "./jumboUrls.json" assert { type: "json" };
+import puppeteer from "puppeteer-extra";
+import StealthPlugin from "puppeteer-extra-plugin-stealth";
+import jumboUrls from "./newLinks.json" assert { type: "json" };
 import appendToJson from "../appendToJson.js";
 
+puppeteer.use(StealthPlugin());
+
 async function run() {
+  console.log(jumboUrls.length);
   let productsArray = [];
-  const loopStart = 0;
-  const TOTAL_LOOPS = 11000;
+  const loopStart = 6000 + 3900;
+  const totalLoops = jumboUrls.length - loopStart;
   let totalAdded = 0;
   const browser = await puppeteer.launch({ headless: "new" });
   const page = await browser.newPage();
+  await page.goto("https://www.jumbo.com/");
 
-  for (let loopIndex = loopStart; loopIndex < TOTAL_LOOPS + loopIndex; loopIndex++) {
+  for (let loopIndex = loopStart; loopIndex > totalLoops; loopIndex++) {
     try {
       await page.goto(jumboUrls[loopIndex], {
         waitUntil: "networkidle0",
         timeout: 30000, // Set a timeout value in milliseconds
       });
-      const headTag = await page.$("head");
-      const scriptTag = await headTag.$('script[type="application/ld+json"]');
+      const bodyTag = await page.$("body");
+      const scriptTag = await bodyTag.$('script[id="__NUXT_DATA__"]');
       const barcodeContent = await page.evaluate((element) => element.textContent, scriptTag);
       const barcode = JSON.parse(barcodeContent).gtin13;
 
-      const bodyTag = await page.$("body");
       const titleTag = await bodyTag.$('strong[data-testid="product-title"]');
 
       const titleContent = await page.evaluate((element) => element.textContent, titleTag);
-
-      const ulElement = await page.$('ul[data-testid="ingredients-text-body"]');
 
       const weightElement = await page.$('h2[data-testid="product-subtitle"]');
       const weightContent = await page?.evaluate((element) => element.textContent, weightElement);
@@ -41,6 +43,7 @@ async function run() {
         li?.textContent?.trim()
       );
 
+      const ulElement = await page.$('ul[data-testid="ingredients-text-body"]');
       const liElements = await ulElement?.$$("li");
       let ingredients;
       if (liElements) {
@@ -62,13 +65,14 @@ async function run() {
       productsArray.push(product);
 
       if (productsArray.length === 50) {
-        appendToJson(productsArray, "jumboProducts.json");
+        appendToJson(productsArray, "newJumboProducts.json");
         totalAdded += 50;
         console.log(`${totalAdded} added`);
         productsArray = [];
       }
     } catch (error) {
       console.error(`Request failed or timed out for URL: ${jumboUrls[loopIndex]}`);
+      console.log(error);
       // Handle the error and go to the next URL
       appendToJson([jumboUrls[loopIndex]], "failedRequests.json");
       continue;

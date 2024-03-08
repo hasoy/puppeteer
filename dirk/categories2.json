@@ -1,0 +1,75 @@
+[
+  {
+    "aardappelen-groente-fruit": [
+      "aardappelen",
+      "groente",
+      "sla-verse-kruiden",
+      "fruit",
+      "gedroogd-fruit-en-noten",
+      "fruitconserven",
+      "groenteconserven",
+      "biologisch-agf"
+    ]
+  },
+  {
+    "vlees-vis": [
+      "rundvlees",
+      "varkensvlees",
+      "vleeswaren",
+      "vis",
+      "vlugklaar",
+      "kip-kalkoen",
+      "gehakt-worst",
+      "vleesconserven",
+      "bbq-gourmet-fondue",
+      "overig-vlees-gevogelte",
+      "lamsvlees",
+      "vegetarisch",
+      "visconserven",
+      "biologische-vlees-kip-vleeswaren",
+      "halal-vlees-kip"
+    ]
+  },
+  {
+    "dranken-sap-koffie-thee": [
+      "frisdranken",
+      "mineraal-bronwater",
+      "vruchtensappen",
+      "limonade",
+      "aperitieven-mixen",
+      "wijn",
+      "bier",
+      "slijterij",
+      "koffie-cacao",
+      "thee",
+      "koffiemelk",
+      "biologisch-dranken-sap-koffie-thee",
+      "houdbare-zuivel"
+    ]
+  },
+  {
+    "kind-drogisterij": [
+      "babyverzorging",
+      "babyvoeding-0-4-maanden",
+      "bad-douche-zeep",
+      "deodorant",
+      "huidverzorging",
+      "dameshygiëne",
+      "mondverzorging",
+      "scheren",
+      "intimiteit",
+      "haarverzorging",
+      "babyvoeding-vanaf-4-maanden",
+      "babyvoeding-vanaf-6-maanden",
+      "babyvoeding-vanaf-8-maanden",
+      "babyvoeding-vanaf-12-maanden",
+      "babyvoeding-vanaf-15-maanden",
+      "peutervoeding-vanaf-24-maanden",
+      "peutervoeding-vanaf-36-maanden",
+      "geneesmiddelen",
+      "zonnebrand",
+      "luiers",
+      "biologisch-kind-drogisterij"
+    ]
+  }
+]

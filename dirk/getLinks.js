@@ -1,16 +1,13 @@
 import puppeteer from "puppeteer";
 import appendToJson from "../appendToJson.js";
-import categories from "./categories.json" assert { type: "json" };
-
-let category;
+import categories from "./categories2.json" assert { type: "json" };
 
 const browser = await puppeteer.launch({ headless: "new" });
 const page = await browser.newPage();
 
 for (const obj of categories) {
-  for (const key of Object.keys(obj)) {
-    category = key;
-    for (const value of obj[key]) {
+  for (const category of Object.keys(obj)) {
+    for (const value of obj[category]) {
       const categoryUrl = `https://www.dirk.nl/boodschappen/${category}/${value}`;
       console.log(categoryUrl);
       await page.goto(categoryUrl);
@@ -27,7 +24,7 @@ async function getLinks() {
   );
   console.log(hrefs.at(-1));
 
-  appendToJson(hrefs, "dirkLinks.json");
+  appendToJson(hrefs, "dirkLinks2.json");
 
   await sleep(1000);
 }
