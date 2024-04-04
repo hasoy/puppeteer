@@ -1,0 +1,1921 @@
+[
+  {
+    "gtin": "05400141052107",
+    "productId": "11225",
+    "name": "Paprika Nuts",
+    "description": "*Gebakken in\npalmolie en\nraapzaadolie",
+    "technicalArticleNumber": "1386331",
+    "commercialArticleNumber": "19892",
+    "LongName": "EVERYDAY Paprika Nuts 200g"
+  },
+  {
+    "gtin": "08710398500410",
+    "productId": "597856",
+    "name": "chips naturel XL",
+    "description": "*Aardappelen chips\n*Zout smaak",
+    "technicalArticleNumber": "4260973",
+    "commercialArticleNumber": "3671",
+    "LongName": "LAY'S chips naturel XL 275g"
+  },
+  {
+    "gtin": "05400141160550",
+    "productId": "19545",
+    "name": "chips zout",
+    "description": "*Gebakken in\nzonnebloemolie",
+    "technicalArticleNumber": "1688626",
+    "commercialArticleNumber": "18204",
+    "LongName": "EVERYDAY chips zout 200g"
+  },
+  {
+    "gtin": "08710398500434",
+    "productId": "600370",
+    "name": "chips paprika XL",
+    "description": "*Aardappelen chips\n*Paprika smaak",
+    "technicalArticleNumber": "4266135",
+    "commercialArticleNumber": "16850",
+    "LongName": "LAY'S chips paprika XL 275g"
+  },
+  {
+    "gtin": "08710398524294",
+    "productId": "777995",
+    "name": "salt black pepper",
+    "technicalArticleNumber": "4570985",
+    "commercialArticleNumber": "25016",
+    "LongName": "LAY'S MAX salt black pepper 250g"
+  },
+  {
+    "gtin": "08710398502285",
+    "productId": "187420",
+    "name": "Grills",
+    "description": "*Chips van maïs\n*Bacon smaak",
+    "technicalArticleNumber": "3460068",
+    "commercialArticleNumber": "50308",
+    "LongName": "LAY'S Grills 125g"
+  },
+  {
+    "gtin": "08710398507402",
+    "productId": "427218",
+    "name": "Bugles cheese",
+    "description": "*Chips van maïs\n*Kaas smaak",
+    "technicalArticleNumber": "3965214",
+    "commercialArticleNumber": "2770",
+    "LongName": "LAY'S Bugles cheese 160g"
+  },
+  {
+    "gtin": "05400141073706",
+    "productId": "1459",
+    "name": "Tortilla chips natuur",
+    "description": "*Gebakken in\nzonnebloemolie",
+    "technicalArticleNumber": "19809",
+    "commercialArticleNumber": "19809",
+    "LongName": "BONI Tortilla chips natuur 200g"
+  },
+  {
+    "gtin": "15400141975694",
+    "productId": "12734",
+    "name": "pinda's geroosterd-gez",
+    "description": "*Gebakken in\narachideolie",
+    "technicalArticleNumber": "1235199",
+    "commercialArticleNumber": "19864",
+    "LongName": "EVERYDAY pinda's geroosterd-gez 250g"
+  },
+  {
+    "gtin": "05400141214789",
+    "productId": "19649",
+    "name": "chips paprika",
+    "description": "*Gebakken in\nzonnebloemolie",
+    "technicalArticleNumber": "1688627",
+    "commercialArticleNumber": "18205",
+    "LongName": "EVERYDAY chips paprika 200g"
+  },
+  {
+    "gtin": "08710398524393",
+    "productId": "779177",
+    "name": "paprika",
+    "technicalArticleNumber": "4573117",
+    "commercialArticleNumber": "28616",
+    "LongName": "LAY'S MAX paprika 250g"
+  },
+  {
+    "gtin": "03168930000020",
+    "productId": "2365",
+    "name": "chips Naturel",
+    "description": "*Aardappelen chips\n*Zout smaak",
+    "technicalArticleNumber": "1099334",
+    "commercialArticleNumber": "19752",
+    "LongName": "LAY'S chips Naturel 45g"
+  },
+  {
+    "gtin": "15400141342427",
+    "productId": "422123",
+    "name": "chips paprika ribble",
+    "description": "*Geribbelde gebakken\n*Paprika",
+    "technicalArticleNumber": "3946333",
+    "commercialArticleNumber": "1686",
+    "LongName": "BONI chips paprika ribble 200g"
+  },
+  {
+    "gtin": "08710398160881",
+    "productId": "24222",
+    "name": "OVEN BAKED Roasted paprika",
+    "description": "*Aardappelen chips\n*Oven gebakken\n*Paprika smaak",
+    "technicalArticleNumber": "1967363",
+    "commercialArticleNumber": "19302",
+    "LongName": "LAY'S OVEN BAKED Roasted paprika 150g"
+  },
+  {
+    "gtin": "15400141304494",
+    "productId": "537407",
+    "name": "ribble chips zout",
+    "technicalArticleNumber": "4133846",
+    "commercialArticleNumber": "8731",
+    "LongName": "BONI ribble chips zout 200g"
+  },
+  {
+    "gtin": "05400141190106",
+    "productId": "174350",
+    "name": "Ribble Chips Salt&Pepper",
+    "description": "*Gebakken in\nzonnebloemolie",
+    "technicalArticleNumber": "3349475",
+    "commercialArticleNumber": "7220",
+    "LongName": "BONI Ribble Chips Salt&Pepper 200g"
+  },
+  {
+    "gtin": "08710398302830",
+    "productId": "2366",
+    "name": "chips paprika",
+    "description": "*Aardappelen chips\n*Paprika smaak",
+    "technicalArticleNumber": "1099336",
+    "commercialArticleNumber": "19753",
+    "LongName": "LAY'S chips paprika 45g"
+  },
+  {
+    "gtin": "05400141229851",
+    "productId": "16796",
+    "name": "cashew geroost&gezouten",
+    "technicalArticleNumber": "1558363",
+    "commercialArticleNumber": "19380",
+    "LongName": "BONI cashew geroost&gezouten 200g"
+  },
+  {
+    "gtin": "25400141461323",
+    "productId": "454859",
+    "name": "hummus klassiek",
+    "description": "*O.b.v. kikkererwten",
+    "technicalArticleNumber": "4024313",
+    "commercialArticleNumber": "5301",
+    "LongName": "BONI hummus klassiek 200g"
+  },
+  {
+    "gtin": "08710398500472",
+    "productId": "600363",
+    "name": "Heinz tomato ketchup XL",
+    "description": "*Aardappelen chips\n*Ketchup smaak",
+    "technicalArticleNumber": "4266128",
+    "commercialArticleNumber": "16833",
+    "LongName": "LAY'S Heinz tomato ketchup XL 275g"
+  },
+  {
+    "gtin": "05400141311242",
+    "productId": "111819",
+    "name": "Kroepoek",
+    "description": "*Gebakken in zonnebloemolie",
+    "technicalArticleNumber": "3017847",
+    "commercialArticleNumber": "4366",
+    "LongName": "BONI Kroepoek 100g"
+  },
+  {
+    "gtin": "08710398160829",
+    "productId": "35942",
+    "name": "OVEN BAKED Naturel",
+    "description": "*Aardappelen chips\n*Oven gebakken\n*Zout smaak",
+    "technicalArticleNumber": "1862855",
+    "commercialArticleNumber": "19284",
+    "LongName": "LAY'S OVEN BAKED Naturel 150g"
+  },
+  {
+    "gtin": "08710398524324",
+    "productId": "779204",
+    "name": "naturel",
+    "technicalArticleNumber": "4573144",
+    "commercialArticleNumber": "28622",
+    "LongName": "LAY'S MAX naturel 250g"
+  },
+  {
+    "gtin": "08710398504630",
+    "productId": "187417",
+    "name": "kaas-paprika",
+    "description": "*Chips\n*Kaas smaak\n*Paprika smaak",
+    "technicalArticleNumber": "3460062",
+    "commercialArticleNumber": "50307",
+    "LongName": "LAY'S MAMA MIA'S kaas-paprika 125g"
+  },
+  {
+    "gtin": "04018077632006",
+    "productId": "24676",
+    "name": "Original",
+    "description": "*Gebakken in\nplantaardige olie",
+    "technicalArticleNumber": "1888676",
+    "commercialArticleNumber": "19979",
+    "LongName": "LORENZ MONSTER MUNCH Original 75g"
+  },
+  {
+    "gtin": "05400141311228",
+    "productId": "37355",
+    "name": "Cheese Flips",
+    "description": "*Gebakken in\nzonnebloemolie",
+    "technicalArticleNumber": "1814447",
+    "commercialArticleNumber": "19077",
+    "LongName": "BONI Cheese Flips 125g"
+  },
+  {
+    "gtin": "08710398527325",
+    "productId": "192755",
+    "name": "Ringlings ui fijne kruiden",
+    "description": "*Chips van maïs\n*Ajuin smaak\n*Kruiden smaak",
+    "technicalArticleNumber": "3460048",
+    "commercialArticleNumber": "50306",
+    "LongName": "LAY'S Ringlings ui fijne kruiden 125g"
+  },
+  {
+    "gtin": "08710398500458",
+    "productId": "600358",
+    "name": "chips pickles XL",
+    "description": "*Aardappelen chips\n*Pickles smaak",
+    "technicalArticleNumber": "4266123",
+    "commercialArticleNumber": "16822",
+    "LongName": "LAY'S chips pickles XL 275g"
+  },
+  {
+    "gtin": "05414283308305",
+    "productId": "36736",
+    "name": "OVEN BAKED Mediterran. Herbs",
+    "description": "*Aardappelen chips\n*Oven gebakken\n*Mediterraans",
+    "technicalArticleNumber": "1797565",
+    "commercialArticleNumber": "19280",
+    "LongName": "LAY'S OVEN BAKED Mediterran. Herbs 150g"
+  },
+  {
+    "gtin": "05400141034219",
+    "productId": "16580",
+    "name": "chips zout",
+    "description": "*Gebakken in\nzonnebloemolie",
+    "technicalArticleNumber": "1568532",
+    "commercialArticleNumber": "22662",
+    "LongName": "EVERYDAY chips zout 50g"
+  },
+  {
+    "gtin": "08710398160027",
+    "productId": "17066",
+    "name": "SENSATIONS Thai Sweet Chilli",
+    "description": "*Aardappelen chips\n*Thaise zoete chili",
+    "technicalArticleNumber": "1438170",
+    "commercialArticleNumber": "19592",
+    "LongName": "LAY'S SENSATIONS Thai Sweet Chilli 150g"
+  },
+  {
+    "gtin": "08710398502407",
+    "productId": "502547",
+    "name": "Bugles Roasted paprika",
+    "description": "*Chips van maïs\n*Paprika smaak",
+    "technicalArticleNumber": "4046553",
+    "commercialArticleNumber": "6448",
+    "LongName": "LAY'S Bugles Roasted paprika 125g"
+  },
+  {
+    "gtin": "08713276001023",
+    "productId": "55019",
+    "name": "popcorn zoet",
+    "technicalArticleNumber": "2291446",
+    "commercialArticleNumber": "16506",
+    "LongName": "JIMMY'S popcorn zoet 150g"
+  },
+  {
+    "gtin": "15400141310617",
+    "productId": "166859",
+    "name": "Tortilla chips Sweet Chili",
+    "description": "*Gebakken in\nzonnebloemolie",
+    "technicalArticleNumber": "3398488",
+    "commercialArticleNumber": "13472",
+    "LongName": "BONI Tortilla chips Sweet Chili 200g"
+  },
+  {
+    "gtin": "05400141053326",
+    "productId": "279290",
+    "name": "Ribble Chips Pickles",
+    "technicalArticleNumber": "3674815",
+    "commercialArticleNumber": "22144",
+    "LongName": "BONI Ribble Chips Pickles 200g"
+  },
+  {
+    "gtin": "08710398601681",
+    "productId": "2367",
+    "name": "chips Pickles",
+    "description": "*Aardappelen chips\n*Pickles smaak",
+    "technicalArticleNumber": "1099337",
+    "commercialArticleNumber": "19754",
+    "LongName": "LAY'S chips Pickles 45g"
+  },
+  {
+    "gtin": "45400141762301",
+    "productId": "782467",
+    "name": "original",
+    "technicalArticleNumber": "4579594",
+    "commercialArticleNumber": "2584",
+    "LongName": "PRINGLES original 185g"
+  },
+  {
+    "gtin": "05410138003104",
+    "productId": "13398",
+    "name": "paprika",
+    "description": "*Krokante nootjes\n*Paprika smaak",
+    "technicalArticleNumber": "1309101",
+    "commercialArticleNumber": "19886",
+    "LongName": "DUYVIS CRAC-A-NUT paprika 200g"
+  },
+  {
+    "gtin": "05400141311341",
+    "productId": "1461",
+    "name": "pinda's geroosterd & gezouten",
+    "description": "*Gebakken in\narachideolie",
+    "technicalArticleNumber": "19875",
+    "commercialArticleNumber": "19875",
+    "LongName": "BONI pinda's geroosterd & gezouten 500g"
+  },
+  {
+    "gtin": "08710398524249",
+    "productId": "777993",
+    "name": "salt&black pepper",
+    "technicalArticleNumber": "4570983",
+    "commercialArticleNumber": "23672",
+    "LongName": "LAY'S MAX salt&black pepper 45g"
+  },
+  {
+    "gtin": "05414359922015",
+    "productId": "110268",
+    "name": "paprika",
+    "description": "*Gebakken in\nzonnebloemolie",
+    "technicalArticleNumber": "3091970",
+    "commercialArticleNumber": "40416",
+    "LongName": "CROKY paprika 200g"
+  },
+  {
+    "gtin": "08710398524423",
+    "productId": "778912",
+    "name": "pickles",
+    "technicalArticleNumber": "4572659",
+    "commercialArticleNumber": "28582",
+    "LongName": "LAY'S MAX pickles 250g"
+  },
+  {
+    "gtin": "05414359321030",
+    "productId": "59124",
+    "name": "Barbecue",
+    "description": "*Gebakken in\nzonnebloemolie",
+    "technicalArticleNumber": "2278578",
+    "commercialArticleNumber": "19796",
+    "LongName": "CROKY HULAHOOPS Barbecue 100g"
+  },
+  {
+    "gtin": "03168930107552",
+    "productId": "10807",
+    "name": "Heinz Tomato Ketchup",
+    "description": "*Aardappelen chips\n*Ketchup smaak",
+    "technicalArticleNumber": "1365740",
+    "commercialArticleNumber": "19756",
+    "LongName": "LAY'S Heinz Tomato Ketchup 45g"
+  },
+  {
+    "gtin": "08710398524102",
+    "productId": "786318",
+    "name": "heinz tomato ketchup",
+    "technicalArticleNumber": "4587883",
+    "commercialArticleNumber": "18499",
+    "LongName": "LAY'S MAX heinz tomato ketchup 185g"
+  },
+  {
+    "gtin": "08710398502230",
+    "productId": "187424",
+    "name": "Grills",
+    "description": "*Chips van maïs\n*Bacon smaak",
+    "technicalArticleNumber": "3460074",
+    "commercialArticleNumber": "50310",
+    "LongName": "LAY'S Grills 40g"
+  },
+  {
+    "gtin": "08710398515742",
+    "productId": "15720",
+    "name": "SENSATIONS Mex.Peppers&Cream",
+    "description": "*Aardappelen chips\n*Hete peper smaak\n*Room smaak",
+    "technicalArticleNumber": "1583441",
+    "commercialArticleNumber": "19564",
+    "LongName": "LAY'S SENSATIONS Mex.Peppers&Cream 150g"
+  },
+  {
+    "gtin": "05400141083248",
+    "productId": "16581",
+    "name": "chips paprika",
+    "description": "*Gebakken in\nzonnebloemolie",
+    "technicalArticleNumber": "1568536",
+    "commercialArticleNumber": "22663",
+    "LongName": "EVERYDAY chips paprika 50g"
+  },
+  {
+    "gtin": "05414359321016",
+    "productId": "38716",
+    "name": "paprika",
+    "description": "*Gebakken in\nzonnebloemolie",
+    "technicalArticleNumber": "1829704",
+    "commercialArticleNumber": "19795",
+    "LongName": "CROKY HULAHOOPS paprika 100g"
+  },
+  {
+    "gtin": "05400141099713",
+    "productId": "2609",
+    "name": "olijven zwart ontpit",
+    "description": "Zwarte ontpitte olijven. Lekker bij\nhet aperitief of als garnituur.",
+    "technicalArticleNumber": "1101211",
+    "commercialArticleNumber": "13099",
+    "LongName": "BONI olijven zwart ontpit 400g"
+  },
+  {
+    "gtin": "15400141352952",
+    "productId": "2368",
+    "name": "olijven groen ontpit",
+    "description": "Groene ontpitte olijven. Lekker bij\nhet aperitief of als garnituur.",
+    "technicalArticleNumber": "1099775",
+    "commercialArticleNumber": "13095",
+    "LongName": "BONI olijven groen ontpit 335g"
+  },
+  {
+    "gtin": "05400141490442",
+    "productId": "452740",
+    "name": "groene olijven met kaas",
+    "description": "*Zie verpakking",
+    "technicalArticleNumber": "4030404",
+    "commercialArticleNumber": "5573",
+    "LongName": "EVERYDAY groene olijven met kaas 200g"
+  },
+  {
+    "gtin": "15400141974383",
+    "productId": "949",
+    "name": "groene olijven kaasblokjes",
+    "description": "*Groen\n*Ontpit\n*Griekenland\n*Met kaasblokjes",
+    "technicalArticleNumber": "28894",
+    "commercialArticleNumber": "28894",
+    "LongName": "BONI groene olijven kaasblokjes 150g"
+  },
+  {
+    "gtin": "05053990167913",
+    "productId": "782459",
+    "name": "hot&spicy",
+    "technicalArticleNumber": "4579586",
+    "commercialArticleNumber": "2323",
+    "LongName": "PRINGLES hot&spicy 185g"
+  },
+  {
+    "gtin": "05400141186789",
+    "productId": "17775",
+    "name": "gezouten sticks",
+    "technicalArticleNumber": "1776051",
+    "commercialArticleNumber": "19313",
+    "LongName": "EVERYDAY gezouten sticks 250g"
+  },
+  {
+    "gtin": "05414359922022",
+    "productId": "110265",
+    "name": "Bolognese",
+    "description": "*Gebakken in\nzonnebloemolie",
+    "technicalArticleNumber": "3091966",
+    "commercialArticleNumber": "40414",
+    "LongName": "CROKY Bolognese 200g"
+  },
+  {
+    "gtin": "05053990167883",
+    "productId": "782456",
+    "name": "classic paprika",
+    "technicalArticleNumber": "4579569",
+    "commercialArticleNumber": "2279",
+    "LongName": "PRINGLES classic paprika 185g"
+  },
+  {
+    "gtin": "05400141088922",
+    "productId": "947",
+    "name": "groene olijven met look",
+    "description": "*Groen\n*Ontpit\n*Griekenland\n*Met look",
+    "technicalArticleNumber": "28892",
+    "commercialArticleNumber": "28892",
+    "LongName": "BONI groene olijven met look 150g"
+  },
+  {
+    "gtin": "08710398517623",
+    "productId": "600373",
+    "name": "classic burger xl",
+    "description": "*Aardappelen chips\n*Kruiden smaak",
+    "technicalArticleNumber": "4266138",
+    "commercialArticleNumber": "16985",
+    "LongName": "LAY'S classic burger xl 275g"
+  },
+  {
+    "gtin": "05400141352481",
+    "productId": "291562",
+    "name": "olijven mix Grieks",
+    "technicalArticleNumber": "3689959",
+    "commercialArticleNumber": "34023",
+    "LongName": "BONI olijven mix Grieks 150g"
+  },
+  {
+    "gtin": "05400141354478",
+    "productId": "200643",
+    "name": "guacamole mild",
+    "description": "*Guacamole op basis\nvan Mexicaanse Hass\navocado's, met\ntomaat, paprika, ui\nen milde kruiding",
+    "technicalArticleNumber": "3422731",
+    "commercialArticleNumber": "30377",
+    "LongName": "BONI guacamole mild 200g"
+  },
+  {
+    "gtin": "05414359909009",
+    "productId": "136687",
+    "name": "chips à l'ancienne Naturel",
+    "description": "*Gebakken in\nzonnebloemolie",
+    "technicalArticleNumber": "3168675",
+    "commercialArticleNumber": "32349",
+    "LongName": "CROKY chips à l'ancienne Naturel 200g"
+  },
+  {
+    "gtin": "08710398504487",
+    "productId": "192650",
+    "name": "Bugles Sweet Chilli",
+    "description": "*Chips van maïs\n*Sweet chili smaak",
+    "technicalArticleNumber": "3460039",
+    "commercialArticleNumber": "50304",
+    "LongName": "LAY'S Bugles Sweet Chilli 125g"
+  },
+  {
+    "gtin": "05414359910418",
+    "productId": "15992",
+    "name": "chips paprika",
+    "description": "*Gebakken in\nzonnebloemolie",
+    "technicalArticleNumber": "1440068",
+    "commercialArticleNumber": "20005",
+    "LongName": "CROKY chips paprika 45g"
+  },
+  {
+    "gtin": "08710398523747",
+    "productId": "772635",
+    "name": "Naturel",
+    "description": "*Chips van maïs",
+    "technicalArticleNumber": "4561294",
+    "commercialArticleNumber": "28456",
+    "LongName": "DORITOS Naturel 185g"
+  },
+  {
+    "gtin": "05414359962615",
+    "productId": "740173",
+    "name": "Explosions Thai Curry",
+    "technicalArticleNumber": "4504384",
+    "commercialArticleNumber": "25442",
+    "LongName": "CROKY Explosions Thai Curry 150g"
+  },
+  {
+    "gtin": "05410138003098",
+    "productId": "14756",
+    "name": "Cocktail",
+    "description": "*Krokante nootjes",
+    "technicalArticleNumber": "1593880",
+    "commercialArticleNumber": "22812",
+    "LongName": "DUYVIS CRAC-A-NUT Cocktail 200g"
+  },
+  {
+    "gtin": "15400141979258",
+    "productId": "113215",
+    "name": "gevulde kerspaprika",
+    "description": "*Kerspaprika gevuld\nmet roomkaas",
+    "technicalArticleNumber": "3002190",
+    "commercialArticleNumber": "8446",
+    "LongName": "BONI gevulde kerspaprika 150g"
+  },
+  {
+    "gtin": "15400141595823",
+    "productId": "758879",
+    "name": "mild dip saus",
+    "technicalArticleNumber": "4536186",
+    "commercialArticleNumber": "28241",
+    "LongName": "BONI mild dip saus 300g"
+  },
+  {
+    "gtin": "05414359994425",
+    "productId": "180476",
+    "name": "Hula Hoops bolognese",
+    "description": "*Gebakken in\nzonnebloemolie",
+    "technicalArticleNumber": "3339462",
+    "commercialArticleNumber": "1413",
+    "LongName": "CROKY Hula Hoops bolognese 100g"
+  },
+  {
+    "gtin": "08710398011619",
+    "productId": "1460",
+    "name": "paprika",
+    "description": "*Krokante nootjes\n*Paprika smaak",
+    "technicalArticleNumber": "19869",
+    "commercialArticleNumber": "19869",
+    "LongName": "DUYVIS CRAC-A-NUT paprika 500g"
+  },
+  {
+    "gtin": "05400141506624",
+    "productId": "9898",
+    "name": "dipsaus Hot Cheese",
+    "description": "*Kaassmaak\n*Voor tortilla,\nchips of als\nbijgerecht bij\nMexicaanse gerechten",
+    "technicalArticleNumber": "1383240",
+    "commercialArticleNumber": "12254",
+    "LongName": "BONI dipsaus Hot Cheese 300g"
+  },
+  {
+    "gtin": "05400141466829",
+    "productId": "731188",
+    "name": "olijven natuur",
+    "description": "*Groene olijf ontpit",
+    "technicalArticleNumber": "4488657",
+    "commercialArticleNumber": "8170",
+    "LongName": "BONI olijven natuur 150g"
+  },
+  {
+    "gtin": "04018077634970",
+    "productId": "532891",
+    "name": "paprika",
+    "technicalArticleNumber": "4125361",
+    "commercialArticleNumber": "9320",
+    "LongName": "LORENZ MONSTER MUNCH paprika 75g"
+  },
+  {
+    "gtin": "05400141925548",
+    "productId": "830343",
+    "name": "crisps zout koker",
+    "description": "*Gebakken in zonnebloemolie",
+    "technicalArticleNumber": "4669737",
+    "commercialArticleNumber": "30144",
+    "LongName": "BONI crisps zout koker 175g"
+  },
+  {
+    "gtin": "15400141054665",
+    "productId": "85056",
+    "name": "mini crackers Sour Cr&Onion",
+    "technicalArticleNumber": "3026909",
+    "commercialArticleNumber": "16203",
+    "LongName": "BONI mini crackers Sour Cr&Onion 125g"
+  },
+  {
+    "gtin": "05400141224276",
+    "productId": "84866",
+    "name": "Cornitos Nacho Chips",
+    "description": "*Gebakken in\nzonnebloemolie,\npalmolie en\nkokosolie",
+    "technicalArticleNumber": "2991692",
+    "commercialArticleNumber": "1865",
+    "LongName": "BONI Cornitos Nacho Chips 125g"
+  },
+  {
+    "gtin": "05400141931914",
+    "productId": "830819",
+    "name": "crisps paprika koker",
+    "description": "*Gebakken in zonnebloemolie",
+    "technicalArticleNumber": "4670374",
+    "commercialArticleNumber": "3105",
+    "LongName": "BONI crisps paprika koker 175g"
+  },
+  {
+    "gtin": "05414359722042",
+    "productId": "177342",
+    "name": "Pickles",
+    "description": "*Smaak: Belgische\npickles",
+    "technicalArticleNumber": "3336694",
+    "commercialArticleNumber": "2381",
+    "LongName": "CROKY Pickles 200g"
+  },
+  {
+    "gtin": "18434165608150",
+    "productId": "815416",
+    "name": "crackers zout",
+    "technicalArticleNumber": "4644141",
+    "commercialArticleNumber": "21287",
+    "LongName": "KRIT crackers zout 100g"
+  },
+  {
+    "gtin": "05414359910401",
+    "productId": "15991",
+    "name": "chips Naturel",
+    "description": "*Gebakken in\nzonnebloemolie",
+    "technicalArticleNumber": "1440063",
+    "commercialArticleNumber": "20046",
+    "LongName": "CROKY chips Naturel 45g"
+  },
+  {
+    "gtin": "05400141608380",
+    "productId": "766054",
+    "name": "hummus",
+    "technicalArticleNumber": "4549070",
+    "commercialArticleNumber": "12381",
+    "LongName": "BONI hummus 450g"
+  },
+  {
+    "gtin": "08710532467562",
+    "productId": "419073",
+    "name": "pombär original",
+    "description": "*Glutenvrij\n*Zonder smaakversterkers\n*Zonder kleurstoffen",
+    "technicalArticleNumber": "3941652",
+    "commercialArticleNumber": "1485",
+    "LongName": "CHIO pombär original 90g"
+  },
+  {
+    "gtin": "05400141488067",
+    "productId": "447234",
+    "name": "groene olijven knoflook",
+    "description": "*Zie verpakking",
+    "technicalArticleNumber": "4030482",
+    "commercialArticleNumber": "5583",
+    "LongName": "EVERYDAY groene olijven knoflook 200g"
+  },
+  {
+    "gtin": "05400141705898",
+    "productId": "472878",
+    "name": "zwarte olijven ontpit",
+    "description": "*Ontpit zwarte\ngeoxideerde olijven\n*Oorsprong: Griekenland",
+    "technicalArticleNumber": "4073699",
+    "commercialArticleNumber": "7285",
+    "LongName": "BONI zwarte olijven ontpit 150g"
+  },
+  {
+    "gtin": "05400141162387",
+    "productId": "326706",
+    "name": "snackmengeling",
+    "technicalArticleNumber": "3771780",
+    "commercialArticleNumber": "16693",
+    "LongName": "EVERYDAY snackmengeling 300g"
+  },
+  {
+    "gtin": "05400141208917",
+    "productId": "484769",
+    "name": "bbq+chili balls",
+    "technicalArticleNumber": "4011911",
+    "commercialArticleNumber": "4904",
+    "LongName": "BONI bbq+chili balls 200g"
+  },
+  {
+    "gtin": "05414359962677",
+    "productId": "740090",
+    "name": "Explosions sweet chili",
+    "technicalArticleNumber": "4504300",
+    "commercialArticleNumber": "25089",
+    "LongName": "CROKY Explosions sweet chili 150g"
+  },
+  {
+    "gtin": "15400141991649",
+    "productId": "667841",
+    "name": "halfgedroogde tomaten",
+    "description": "*Halfgedroogde\ntomaten,\nkruiden gemarineerd",
+    "technicalArticleNumber": "4378176",
+    "commercialArticleNumber": "14258",
+    "LongName": "BONI halfgedroogde tomaten 150g"
+  },
+  {
+    "gtin": "08710398523563",
+    "productId": "786332",
+    "name": "bbq style",
+    "technicalArticleNumber": "4587897",
+    "commercialArticleNumber": "18686",
+    "LongName": "DORITOS bbq style 170g"
+  },
+  {
+    "gtin": "08710398524706",
+    "productId": "779434",
+    "name": "double crunch spare ribs",
+    "technicalArticleNumber": "4573533",
+    "commercialArticleNumber": "28630",
+    "LongName": "LAY'S MAX double crunch spare ribs 140g"
+  },
+  {
+    "gtin": "05414359979750",
+    "productId": "861680",
+    "name": "Rollers smokey barbecue",
+    "technicalArticleNumber": "4713173",
+    "commercialArticleNumber": "31826",
+    "LongName": "CROKY Rollers smokey barbecue 100g"
+  },
+  {
+    "gtin": "05400141740714",
+    "productId": "664439",
+    "name": "hummus pikant",
+    "description": "*kikkererwten,\nsesampasta,\nchilipeper",
+    "technicalArticleNumber": "4372451",
+    "commercialArticleNumber": "19804",
+    "LongName": "BONI hummus pikant 200g"
+  },
+  {
+    "gtin": "05400141492798",
+    "productId": "11743",
+    "name": "groene olijven zonder pit",
+    "description": "*Groen\n*Ontpit\n*Griekenland",
+    "technicalArticleNumber": "1358366",
+    "commercialArticleNumber": "28925",
+    "LongName": "BONI BIO groene olijven zonder pit 150g"
+  },
+  {
+    "gtin": "05400141705911",
+    "productId": "189113",
+    "name": "groene olijven basilicum",
+    "description": "*Groene\n*Met basilicum\n*Ontpit\n*Griekenland",
+    "technicalArticleNumber": "3447107",
+    "commercialArticleNumber": "28912",
+    "LongName": "BONI groene olijven basilicum 150g"
+  },
+  {
+    "gtin": "08710398524683",
+    "productId": "779432",
+    "name": "do.crunch red sweet chili",
+    "technicalArticleNumber": "4573378",
+    "commercialArticleNumber": "28629",
+    "LongName": "LAY'S MAX do.crunch red sweet chili 140g"
+  },
+  {
+    "gtin": "05400141054651",
+    "productId": "85058",
+    "name": "mini crackers Tom-On-Chili",
+    "technicalArticleNumber": "3026911",
+    "commercialArticleNumber": "16206",
+    "LongName": "BONI mini crackers Tom-On-Chili 125g"
+  },
+  {
+    "gtin": "05410138003074",
+    "productId": "13399",
+    "name": "Barbecue",
+    "description": "*Krokante nootjes\n*BBQ smaak",
+    "technicalArticleNumber": "1309104",
+    "commercialArticleNumber": "19889",
+    "LongName": "DUYVIS CRAC-A-NUT Barbecue 200g"
+  },
+  {
+    "gtin": "05400141161427",
+    "productId": "323933",
+    "name": "cassave chips",
+    "technicalArticleNumber": "3765426",
+    "commercialArticleNumber": "16274",
+    "LongName": "BONI cassave chips 60g"
+  },
+  {
+    "gtin": "05400141513103",
+    "productId": "838549",
+    "name": "Dipsauzen Pesto Rosso",
+    "technicalArticleNumber": "4681222",
+    "commercialArticleNumber": "30464",
+    "LongName": "BONI Dipsauzen Pesto Rosso 175g"
+  },
+  {
+    "gtin": "15400141974871",
+    "productId": "8015",
+    "name": "groene olijven met look",
+    "description": "*Groen\n*Ontpit\n*Griekenland\n*Met look",
+    "technicalArticleNumber": "1181803",
+    "commercialArticleNumber": "28889",
+    "LongName": "BONI groene olijven met look 400g"
+  },
+  {
+    "gtin": "15400141751380",
+    "productId": "265741",
+    "name": "Trio dip Grieks",
+    "technicalArticleNumber": "3648375",
+    "commercialArticleNumber": "31760",
+    "LongName": "BONI Trio dip Grieks 210g"
+  },
+  {
+    "gtin": "05400141473667",
+    "productId": "291558",
+    "name": "groen peper gevuld LV",
+    "technicalArticleNumber": "3689951",
+    "commercialArticleNumber": "34017",
+    "LongName": "BONI groen peper gevuld LV 150g"
+  },
+  {
+    "gtin": "15400141504818",
+    "productId": "715430",
+    "name": "hummus",
+    "description": "*Bereiding op basis\nvan kikkerwten en\nsesampasta",
+    "technicalArticleNumber": "4460474",
+    "commercialArticleNumber": "22024",
+    "LongName": "BONI BIO hummus 200g"
+  },
+  {
+    "gtin": "15400141406266",
+    "productId": "6027",
+    "name": "zongedroogde tomaten basilicum",
+    "description": "*Zongedroogde\ntomaten met\nbasilicum,\nniet gemarineerd",
+    "technicalArticleNumber": "1170174",
+    "commercialArticleNumber": "28901",
+    "LongName": "BONI zongedroogde tomaten basilicum 100g"
+  },
+  {
+    "gtin": "15400141569848",
+    "productId": "85095",
+    "name": "Gouda Cheese Snacks",
+    "technicalArticleNumber": "3018387",
+    "commercialArticleNumber": "16130",
+    "LongName": "BONI Gouda Cheese Snacks 85g"
+  },
+  {
+    "gtin": "15400141357742",
+    "productId": "333286",
+    "name": "salsa mix",
+    "technicalArticleNumber": "3809862",
+    "commercialArticleNumber": "15509",
+    "LongName": "BONI salsa mix 400g"
+  },
+  {
+    "gtin": "05412514777746",
+    "productId": "269861",
+    "name": "taco shells 12st",
+    "technicalArticleNumber": "3625437",
+    "commercialArticleNumber": "19042",
+    "LongName": "POCO LOCO taco shells 12st 135g"
+  },
+  {
+    "gtin": "05400141990997",
+    "productId": "742545",
+    "name": "halfgedroogde tomaten gemar.",
+    "description": "*Halfgedroogde\ncheritos tomaten,\ngemarineerd zachte\nsmaak",
+    "technicalArticleNumber": "4508691",
+    "commercialArticleNumber": "28142",
+    "LongName": "BONI halfgedroogde tomaten gemar. 200g"
+  },
+  {
+    "gtin": "15400141546627",
+    "productId": "787913",
+    "name": "zoute crackertjes",
+    "technicalArticleNumber": "4590644",
+    "commercialArticleNumber": "23771",
+    "LongName": "BONI zoute crackertjes 120g"
+  },
+  {
+    "gtin": "05400141039382",
+    "productId": "51036",
+    "name": "groene olijven kaasblokjes",
+    "description": "*Groen\n*Ontpit\n*Griekenland\n*Met kaasblokjes",
+    "technicalArticleNumber": "2344114",
+    "commercialArticleNumber": "18169",
+    "LongName": "BONI groene olijven kaasblokjes 400g"
+  },
+  {
+    "gtin": "04251097411521",
+    "productId": "780086",
+    "name": "original family pack",
+    "technicalArticleNumber": "4574477",
+    "commercialArticleNumber": "28676",
+    "LongName": "BIFI original family pack 7x20g"
+  },
+  {
+    "gtin": "05425026054465",
+    "productId": "801897",
+    "name": "aperitiefkoekje rozem.&tijm",
+    "technicalArticleNumber": "4617189",
+    "commercialArticleNumber": "10812",
+    "LongName": "CRUMBEL aperitiefkoekje rozem.&tijm 150g"
+  },
+  {
+    "gtin": "00000025199314",
+    "productId": "1463",
+    "name": "Canasta Goudasmaak",
+    "technicalArticleNumber": "19931",
+    "commercialArticleNumber": "19931",
+    "LongName": "DELACRE Canasta Goudasmaak 75g"
+  },
+  {
+    "gtin": "05400141546613",
+    "productId": "787952",
+    "name": "mini crackers hot paprika",
+    "technicalArticleNumber": "4590773",
+    "commercialArticleNumber": "24452",
+    "LongName": "BONI mini crackers hot paprika 120g"
+  },
+  {
+    "gtin": "05400141927757",
+    "productId": "654143",
+    "name": "mammoet olijven look en chili",
+    "technicalArticleNumber": "4353556",
+    "commercialArticleNumber": "1273",
+    "LongName": "BONI mammoet olijven look en chili 150g"
+  },
+  {
+    "gtin": "05414359979798",
+    "productId": "860780",
+    "name": "Rollers mexican taco",
+    "technicalArticleNumber": "4711671",
+    "commercialArticleNumber": "12879",
+    "LongName": "CROKY Rollers mexican taco 100g"
+  },
+  {
+    "gtin": "05400141458473",
+    "productId": "748952",
+    "name": "cashewnoten rozemarijn",
+    "technicalArticleNumber": "4519357",
+    "commercialArticleNumber": "9828",
+    "LongName": "BONI cashewnoten rozemarijn 250g"
+  },
+  {
+    "gtin": "15400141354451",
+    "productId": "154273",
+    "name": "tomaten tapenade",
+    "description": "*Tomenade op basis\nvan gedroogde tomaat",
+    "technicalArticleNumber": "3255076",
+    "commercialArticleNumber": "34835",
+    "LongName": "BONI tomaten tapenade 150g"
+  },
+  {
+    "gtin": "15400141910923",
+    "productId": "789760",
+    "name": "halfgedroogde kerstomaten",
+    "description": "*Bereiding op basis\nvan tomaten",
+    "technicalArticleNumber": "4595523",
+    "commercialArticleNumber": "29424",
+    "LongName": "BONI halfgedroogde kerstomaten 200g"
+  },
+  {
+    "gtin": "05414359709012",
+    "productId": "589507",
+    "name": "chips anc.papr&roasted onion",
+    "technicalArticleNumber": "4247225",
+    "commercialArticleNumber": "20722",
+    "LongName": "CROKY chips anc.papr&roasted onion 200g"
+  },
+  {
+    "gtin": "05400141915785",
+    "productId": "697073",
+    "name": "Tzatziki",
+    "description": "*Dip op basis van\nyoghurt en komkommer",
+    "technicalArticleNumber": "4427202",
+    "commercialArticleNumber": "26099",
+    "LongName": "BONI Tzatziki 175g"
+  },
+  {
+    "gtin": "05414359762635",
+    "productId": "737188",
+    "name": "Explosions Pizza",
+    "technicalArticleNumber": "4499743",
+    "commercialArticleNumber": "27892",
+    "LongName": "CROKY Explosions Pizza 150g"
+  },
+  {
+    "gtin": "05400141209853",
+    "productId": "138652",
+    "name": "groene tapenade",
+    "description": "*Tapenade op basis\nvan groene olijven,\nkappers",
+    "technicalArticleNumber": "3202574",
+    "commercialArticleNumber": "34376",
+    "LongName": "BONI groene tapenade 150g"
+  },
+  {
+    "gtin": "05400141311013",
+    "productId": "174358",
+    "name": "mini twist Butter&Cheese",
+    "technicalArticleNumber": "3349555",
+    "commercialArticleNumber": "7456",
+    "LongName": "BONI mini twist Butter&Cheese 75g"
+  },
+  {
+    "gtin": "15400141507123",
+    "productId": "293546",
+    "name": "kerspaprika gevuld lactosevrij",
+    "description": "*Gevuld met kaas\n*Lactosevrij",
+    "technicalArticleNumber": "3689793",
+    "commercialArticleNumber": "34014",
+    "LongName": "BONI kerspaprika gevuld lactosevrij 150g"
+  },
+  {
+    "gtin": "05414359994661",
+    "productId": "887020",
+    "name": "Tubes nacho cheese",
+    "description": "*Smaak: nacho cheese",
+    "technicalArticleNumber": "4746389",
+    "commercialArticleNumber": "32732",
+    "LongName": "CROKY Tubes nacho cheese 100g"
+  },
+  {
+    "gtin": "05425020166553",
+    "productId": "571160",
+    "name": "Trio hummus papr-peterselie-basil.",
+    "description": "*Paprika, peterselie\nbasilicum",
+    "technicalArticleNumber": "4216337",
+    "commercialArticleNumber": "7536",
+    "LongName": "Trio hummus papr-peterselie-basil. 210g"
+  },
+  {
+    "gtin": "05414359981517",
+    "productId": "107807",
+    "name": "Superfrites paprika",
+    "description": "*Gebakken in\nzonnebloemolie",
+    "technicalArticleNumber": "3096196",
+    "commercialArticleNumber": "42596",
+    "LongName": "CROKY Superfrites paprika 150g"
+  },
+  {
+    "gtin": "05400141513097",
+    "productId": "838247",
+    "name": "Dipsaus groene pesto",
+    "technicalArticleNumber": "4681079",
+    "commercialArticleNumber": "30456",
+    "LongName": "BONI Dipsaus groene pesto 175g"
+  },
+  {
+    "gtin": "05400141083354",
+    "productId": "3842",
+    "name": "Hot Mix pinda's&rijstcrackers",
+    "technicalArticleNumber": "1004655",
+    "commercialArticleNumber": "19870",
+    "LongName": "BONI Hot Mix pinda's&rijstcrackers 500g"
+  },
+  {
+    "gtin": "15400141399704",
+    "productId": "323936",
+    "name": "Sweet Chili kroepoek",
+    "technicalArticleNumber": "3765439",
+    "commercialArticleNumber": "16275",
+    "LongName": "BONI Sweet Chili kroepoek 60g"
+  },
+  {
+    "gtin": "05400141488081",
+    "productId": "948",
+    "name": "olijven Kalamon Grieks",
+    "description": "*Zwart\n*Met pit\n*Griekenland",
+    "technicalArticleNumber": "28893",
+    "commercialArticleNumber": "28893",
+    "LongName": "BONI olijven Kalamon Grieks 200g"
+  },
+  {
+    "gtin": "05400141326109",
+    "productId": "547295",
+    "name": "Trio hummus",
+    "description": "O.b.v. gegrilde rode\npaprika en zon-\ngedroogde tomaten",
+    "technicalArticleNumber": "4175818",
+    "commercialArticleNumber": "11675",
+    "LongName": "BONI Trio hummus 210g"
+  },
+  {
+    "gtin": "15400141987482",
+    "productId": "2196",
+    "name": "groene olijven pikant",
+    "description": "*Groen\n*Ontpit\n*Griekenland\n*Met pikante saus",
+    "technicalArticleNumber": "28898",
+    "commercialArticleNumber": "28898",
+    "LongName": "BONI groene olijven pikant 150g"
+  },
+  {
+    "gtin": "08710532471262",
+    "productId": "741325",
+    "name": "Flippies Cheese XXL",
+    "technicalArticleNumber": "4506178",
+    "commercialArticleNumber": "27953",
+    "LongName": "CHIO Flippies Cheese XXL 115g"
+  },
+  {
+    "gtin": "15430001603009",
+    "productId": "659186",
+    "name": "crispy balls paprika",
+    "technicalArticleNumber": "4362525",
+    "commercialArticleNumber": "24066",
+    "LongName": "CRROXX crispy balls paprika 200g"
+  },
+  {
+    "gtin": "08710398524775",
+    "productId": "779190",
+    "name": "strong chili & lime",
+    "technicalArticleNumber": "4573130",
+    "commercialArticleNumber": "28618",
+    "LongName": "LAY'S MAX strong chili & lime 150g"
+  },
+  {
+    "gtin": "15400141474760",
+    "productId": "755818",
+    "name": "Halfgedroogde tomaat olie",
+    "technicalArticleNumber": "4530669",
+    "commercialArticleNumber": "8169",
+    "LongName": "BONI Halfgedroogde tomaat olie 470g"
+  },
+  {
+    "gtin": "08713276011329",
+    "productId": "659201",
+    "name": "classic sweet&salt popcorn",
+    "technicalArticleNumber": "4362540",
+    "commercialArticleNumber": "24069",
+    "LongName": "JIMMY'S classic sweet&salt popcorn 100g"
+  },
+  {
+    "gtin": "15400141826163",
+    "productId": "187099",
+    "name": "Chunky dip&mix",
+    "description": "*Nederland\n*Mengeling van\ntomaten, cashewnoten\nbasilicum",
+    "technicalArticleNumber": "3452482",
+    "commercialArticleNumber": "31782",
+    "LongName": "BONI Chunky dip&mix"
+  },
+  {
+    "gtin": "15400141301721",
+    "productId": "534327",
+    "name": "tapenade sweet pepper",
+    "technicalArticleNumber": "4128909",
+    "commercialArticleNumber": "9421",
+    "LongName": "BONI tapenade sweet pepper 150g"
+  },
+  {
+    "gtin": "05414359994678",
+    "productId": "886993",
+    "name": "Tubes sweet chili",
+    "description": "*Smaak: sweet chili",
+    "technicalArticleNumber": "4746352",
+    "commercialArticleNumber": "32722",
+    "LongName": "CROKY Tubes sweet chili 100g"
+  },
+  {
+    "gtin": "05400141345971",
+    "productId": "567563",
+    "name": "tapenades trio classic",
+    "description": "*Groene olijven,\ngegrilde paprika,\nzongedroogde tomaten,\nkappers",
+    "technicalArticleNumber": "4210583",
+    "commercialArticleNumber": "16202",
+    "LongName": "BONI tapenades trio classic 210g"
+  },
+  {
+    "gtin": "08713276001030",
+    "productId": "658113",
+    "name": "popcorn zout",
+    "technicalArticleNumber": "4360405",
+    "commercialArticleNumber": "7800",
+    "LongName": "JIMMY'S popcorn zout 100g"
+  },
+  {
+    "gtin": "05400141162370",
+    "productId": "318817",
+    "name": "Partymix",
+    "technicalArticleNumber": "3771256",
+    "commercialArticleNumber": "16671",
+    "LongName": "BONI Partymix 1kg"
+  },
+  {
+    "gtin": "03116430217462",
+    "productId": "821356",
+    "name": "bâtons goudasmaak",
+    "technicalArticleNumber": "4655105",
+    "commercialArticleNumber": "28072",
+    "LongName": "DELACRE bâtons goudasmaak 75g"
+  },
+  {
+    "gtin": "04251097418742",
+    "productId": "601107",
+    "name": "rol",
+    "technicalArticleNumber": "4267215",
+    "commercialArticleNumber": "20579",
+    "LongName": "BIFI rol 3x45g"
+  },
+  {
+    "gtin": "15400141301714",
+    "productId": "534322",
+    "name": "Hummus paprika chili",
+    "technicalArticleNumber": "4128904",
+    "commercialArticleNumber": "9420",
+    "LongName": "BONI Hummus paprika chili 150g"
+  },
+  {
+    "gtin": "05412514937188",
+    "productId": "844836",
+    "name": "groen.jalapeños schijfjes",
+    "technicalArticleNumber": "4690467",
+    "commercialArticleNumber": "2179",
+    "LongName": "POCO LOCO groen.jalapeños schijfjes 225g"
+  },
+  {
+    "gtin": "05400141279887",
+    "productId": "513726",
+    "name": "Aioli",
+    "description": "*Knoflooksaus",
+    "technicalArticleNumber": "4083334",
+    "commercialArticleNumber": "7757",
+    "LongName": "BONI Aioli 150g"
+  },
+  {
+    "gtin": "05060326870911",
+    "productId": "851104",
+    "name": "Po.Prot.Crps S&Bl.Pep.",
+    "description": "*Popped chips\n*High proteine\n*Vegan\n*Gluten vrij",
+    "technicalArticleNumber": "4699027",
+    "commercialArticleNumber": "30902",
+    "LongName": "GOOD & HONEST Po.Prot.Crps S&Bl.Pep. 85g"
+  },
+  {
+    "gtin": "05400141469646",
+    "productId": "630162",
+    "name": "guacamole 300 g V",
+    "technicalArticleNumber": "4315685",
+    "commercialArticleNumber": "6245",
+    "LongName": "BONI guacamole 300 g V"
+  },
+  {
+    "gtin": "54105510002900",
+    "productId": "382087",
+    "name": "vedettes snack tuinkruiden",
+    "technicalArticleNumber": "3841854",
+    "commercialArticleNumber": "51283",
+    "LongName": "LASLO vedettes snack tuinkruiden 300g"
+  },
+  {
+    "gtin": "05400141991017",
+    "productId": "742569",
+    "name": "olijven zonder pit Hercules",
+    "description": "*Groen\n*Ontpit\n*Griekenland\n*Met paprikapasta,\nkruidige marinade",
+    "technicalArticleNumber": "4508715",
+    "commercialArticleNumber": "28143",
+    "LongName": "BONI olijven zonder pit Hercules 145g"
+  },
+  {
+    "gtin": "15400141712695",
+    "productId": "869904",
+    "name": "Olijven Pesto",
+    "technicalArticleNumber": "4723343",
+    "commercialArticleNumber": "19973",
+    "LongName": "BONI Olijven Pesto 150g"
+  },
+  {
+    "gtin": "05400141212709",
+    "productId": "288045",
+    "name": "dip zoete aardappel",
+    "technicalArticleNumber": "3687168",
+    "commercialArticleNumber": "36223",
+    "LongName": "BONI dip zoete aardappel 150g"
+  },
+  {
+    "gtin": "15400141351771",
+    "productId": "147209",
+    "name": "trio tapenade",
+    "description": "*Sweetbite tapenade,\nkaastapenade en\nroomkaastapenade met\nzoete peper",
+    "technicalArticleNumber": "3321363",
+    "commercialArticleNumber": "31769",
+    "LongName": "BONI trio tapenade 210g"
+  },
+  {
+    "gtin": "15400141771319",
+    "productId": "765035",
+    "name": "Mezze",
+    "technicalArticleNumber": "4545990",
+    "commercialArticleNumber": "7566",
+    "LongName": "BONI Mezze 370g"
+  },
+  {
+    "gtin": "15400141637462",
+    "productId": "350562",
+    "name": "Muhammara dip",
+    "technicalArticleNumber": "3857329",
+    "commercialArticleNumber": "22014",
+    "LongName": "BONI Muhammara dip 200g"
+  },
+  {
+    "gtin": "05017764900410",
+    "productId": "268966",
+    "name": "Sea Salt",
+    "technicalArticleNumber": "3643930",
+    "commercialArticleNumber": "17231",
+    "LongName": "KETTLE VEG CHIPS Sea Salt 100g"
+  },
+  {
+    "gtin": "08710873002088",
+    "productId": "7211",
+    "name": "kaaskoekjes oude Gouda bio",
+    "technicalArticleNumber": "1179815",
+    "commercialArticleNumber": "2940",
+    "LongName": "BUITEMAN kaaskoekjes oude Gouda bio 125g"
+  },
+  {
+    "gtin": "05414359931758",
+    "productId": "867527",
+    "name": "Bicky",
+    "description": "*Bicky burger smaak",
+    "technicalArticleNumber": "4720471",
+    "commercialArticleNumber": "12144",
+    "LongName": "CROKY Bicky 175g"
+  },
+  {
+    "gtin": "05414359910425",
+    "productId": "780214",
+    "name": "chips bolognese",
+    "technicalArticleNumber": "4574787",
+    "commercialArticleNumber": "28750",
+    "LongName": "CROKY chips bolognese 45g"
+  },
+  {
+    "gtin": "05400141443646",
+    "productId": "865578",
+    "name": "Trio Mediterraans",
+    "technicalArticleNumber": "4717768",
+    "commercialArticleNumber": "3993",
+    "LongName": "BONI Trio Mediterraans 180g"
+  },
+  {
+    "gtin": "05060326875077",
+    "productId": "851075",
+    "name": "Popped Crisps Sw.Barb.",
+    "description": "*Popped chips\n*Vegan\n*Gluten vrij",
+    "technicalArticleNumber": "4698992",
+    "commercialArticleNumber": "30895",
+    "LongName": "GOOD & HONEST Popped Crisps Sw.Barb. 85g"
+  },
+  {
+    "gtin": "15400141423386",
+    "productId": "463455",
+    "name": "hummus mango kokos",
+    "description": "*obv kikkererwten",
+    "technicalArticleNumber": "3957446",
+    "commercialArticleNumber": "2259",
+    "LongName": "BONI hummus mango kokos 150g"
+  },
+  {
+    "gtin": "15400141399810",
+    "productId": "452160",
+    "name": "hummus topping",
+    "description": "*O.b.v. kikkererwten",
+    "technicalArticleNumber": "4028261",
+    "commercialArticleNumber": "5447",
+    "LongName": "BONI hummus topping 200g"
+  },
+  {
+    "gtin": "05425020166546",
+    "productId": "572801",
+    "name": "Hummus tomaat basilicum",
+    "technicalArticleNumber": "4219280",
+    "commercialArticleNumber": "17432",
+    "LongName": "Hummus tomaat basilicum 150g"
+  },
+  {
+    "gtin": "05400141991000",
+    "productId": "742533",
+    "name": "artisjokhart gemarineerd",
+    "description": "*Artisjokharten\nin marinade",
+    "technicalArticleNumber": "4508677",
+    "commercialArticleNumber": "28141",
+    "LongName": "BONI artisjokhart gemarineerd 125g"
+  },
+  {
+    "gtin": "15400141981732",
+    "productId": "661045",
+    "name": "groentenkroepoek",
+    "technicalArticleNumber": "4366376",
+    "commercialArticleNumber": "24120",
+    "LongName": "BONI groentenkroepoek 60g"
+  },
+  {
+    "gtin": "05400141354263",
+    "productId": "574083",
+    "name": "gegrilde paprika's z.rood",
+    "description": "*Gegrilde paprika",
+    "technicalArticleNumber": "4220973",
+    "commercialArticleNumber": "17647",
+    "LongName": "BONI gegrilde paprika's z.rood 270g"
+  },
+  {
+    "gtin": "15400141274384",
+    "productId": "10897",
+    "name": "Maraschino zonder steel",
+    "description": "Marasquinokersen op siroop, zonder\nsteeltje. Ideaal bij cocktails en\naperitieven of in desserts.",
+    "technicalArticleNumber": "1345469",
+    "commercialArticleNumber": "19852",
+    "LongName": "BONI Maraschino zonder steel 225g"
+  },
+  {
+    "gtin": "15400141420903",
+    "productId": "130827",
+    "name": "pikante tapenade",
+    "description": "*Tapenade op basis\nvan groene olijven,\nzongedroogde tomaten\npaprika en rode\npepers",
+    "technicalArticleNumber": "3221125",
+    "commercialArticleNumber": "35239",
+    "LongName": "BONI pikante tapenade 150g"
+  },
+  {
+    "gtin": "15400141155935",
+    "productId": "325687",
+    "name": "olijven Nocellara Italiaans",
+    "technicalArticleNumber": "3676362",
+    "commercialArticleNumber": "9252",
+    "LongName": "BONI olijven Nocellara Italiaans 150g"
+  },
+  {
+    "gtin": "05425026054427",
+    "productId": "801902",
+    "name": "aperitiefkoekje zout",
+    "technicalArticleNumber": "4617194",
+    "commercialArticleNumber": "10813",
+    "LongName": "CRUMBEL aperitiefkoekje zout 150g"
+  },
+  {
+    "gtin": "05400141165814",
+    "productId": "138646",
+    "name": "zwarte tapenade",
+    "description": "*Tapenade op basis\nvan zwarte olijven,\nkappers",
+    "technicalArticleNumber": "3202566",
+    "commercialArticleNumber": "34411",
+    "LongName": "BONI zwarte tapenade 150g"
+  },
+  {
+    "gtin": "05425001800063",
+    "productId": "484157",
+    "name": "guacamole pikant",
+    "technicalArticleNumber": "4009865",
+    "commercialArticleNumber": "4799",
+    "LongName": "WONKY guacamole pikant 150g"
+  },
+  {
+    "gtin": "08713276331151",
+    "productId": "848900",
+    "name": "Nacho To-go met cheese dip",
+    "description": "*Nacho chips\n*To go\n*Cheese dipsaus",
+    "technicalArticleNumber": "4696244",
+    "commercialArticleNumber": "30732",
+    "LongName": "JIMMY'S Nacho To-go met cheese dip 200g"
+  },
+  {
+    "gtin": "05400141886276",
+    "productId": "745253",
+    "name": "lookteentjes basilicum",
+    "description": "*Knoflookteentjes\nmet basilicum",
+    "technicalArticleNumber": "4512947",
+    "commercialArticleNumber": "6537",
+    "LongName": "BONI lookteentjes basilicum 150g"
+  },
+  {
+    "gtin": "05425026054434",
+    "productId": "801896",
+    "name": "aperitiefkoekje paprika",
+    "technicalArticleNumber": "4617188",
+    "commercialArticleNumber": "10810",
+    "LongName": "CRUMBEL aperitiefkoekje paprika 150g"
+  },
+  {
+    "gtin": "08718781203252",
+    "productId": "855568",
+    "name": "Chips sea salt",
+    "technicalArticleNumber": "4704715",
+    "commercialArticleNumber": "31339",
+    "LongName": "KETTLE Chips sea salt 130g"
+  },
+  {
+    "gtin": "05400141886221",
+    "productId": "15817",
+    "name": "olijven groen&zwart paprika",
+    "description": "*Mix groen en zwart\n*Ontpit\n*Griekenland",
+    "technicalArticleNumber": "1639582",
+    "commercialArticleNumber": "31604",
+    "LongName": "BONI olijven groen&zwart paprika 150g"
+  },
+  {
+    "gtin": "05907029010933",
+    "productId": "1020874",
+    "name": "Zoutsticks",
+    "technicalArticleNumber": "4789656",
+    "commercialArticleNumber": "20236",
+    "LongName": "SOLEO Zoutsticks 250g"
+  },
+  {
+    "gtin": "05400141664867",
+    "productId": "183769",
+    "name": "appelkappertjes azijn",
+    "description": "*Appelkappertjes op\nazijn",
+    "technicalArticleNumber": "3435713",
+    "commercialArticleNumber": "50113",
+    "LongName": "BONI appelkappertjes azijn 340g"
+  },
+  {
+    "gtin": "05400141406542",
+    "productId": "11742",
+    "name": "olijven gr&zw paprika look",
+    "description": "* Mix groen en zwart\n* Ontpit\n* Griekenland\n* Met paprika, look en kruiden gevuld",
+    "technicalArticleNumber": "1358365",
+    "commercialArticleNumber": "28924",
+    "LongName": "BONI olijven gr&zw paprika look 1,25kg"
+  },
+  {
+    "gtin": "08710105018474",
+    "productId": "657192",
+    "name": "cr.peas smoked paprika",
+    "description": "*Knapperige erwtensnack\nmet gerookte paprika\n*Bevat 60% minder vet\n*Bron van eiwitten",
+    "technicalArticleNumber": "4358596",
+    "commercialArticleNumber": "23966",
+    "LongName": "BITESWELOVE cr.peas smoked paprika 100g"
+  },
+  {
+    "gtin": "15400141301745",
+    "productId": "534330",
+    "name": "Auberginecrème",
+    "technicalArticleNumber": "4128912",
+    "commercialArticleNumber": "9422",
+    "LongName": "BONI Auberginecrème 150g"
+  },
+  {
+    "gtin": "05400141712681",
+    "productId": "873039",
+    "name": "guacamole",
+    "technicalArticleNumber": "4727513",
+    "commercialArticleNumber": "24281",
+    "LongName": "BONI guacamole 450g"
+  },
+  {
+    "gtin": "05400141461343",
+    "productId": "709265",
+    "name": "Tarama",
+    "description": "*Dip op basis\nvan viseitjes",
+    "technicalArticleNumber": "4448921",
+    "commercialArticleNumber": "26344",
+    "LongName": "BONI Tarama 175g"
+  },
+  {
+    "gtin": "05400141438536",
+    "productId": "534952",
+    "name": "HUMMUS PESTO",
+    "technicalArticleNumber": "4128897",
+    "commercialArticleNumber": "9416",
+    "LongName": "BONI HUMMUS PESTO 150g"
+  },
+  {
+    "gtin": "15425020166574",
+    "productId": "572224",
+    "name": "Hummus Griekse topping",
+    "technicalArticleNumber": "4218516",
+    "commercialArticleNumber": "17255",
+    "LongName": "Hummus Griekse topping 200g"
+  },
+  {
+    "gtin": "05400141502312",
+    "productId": "866922",
+    "name": "Hummus Rode Biet Bio",
+    "technicalArticleNumber": "4719596",
+    "commercialArticleNumber": "10343",
+    "LongName": "BONI BIO Hummus Rode Biet Bio 200g"
+  },
+  {
+    "gtin": "05400141443691",
+    "productId": "863503",
+    "name": "mango hummus",
+    "technicalArticleNumber": "4714915",
+    "commercialArticleNumber": "31923",
+    "LongName": "BONI mango hummus 175g"
+  },
+  {
+    "gtin": "08710398011602",
+    "productId": "618056",
+    "name": "crac nut hot sweet chili",
+    "technicalArticleNumber": "4294996",
+    "commercialArticleNumber": "13648",
+    "LongName": "DUYVIS crac nut hot sweet chili 200g"
+  },
+  {
+    "gtin": "05060326875107",
+    "productId": "851043",
+    "name": "Popped Crisps Sw.Chili",
+    "description": "*Popped chips\n*Vegan\n*Gluten vrij",
+    "technicalArticleNumber": "4698957",
+    "commercialArticleNumber": "30894",
+    "LongName": "GOOD & HONEST Popped Crisps Sw.Chili 85g"
+  },
+  {
+    "gtin": "15400141453321",
+    "productId": "865590",
+    "name": "Cheritos in pesto",
+    "technicalArticleNumber": "4717780",
+    "commercialArticleNumber": "3995",
+    "LongName": "BONI Cheritos in pesto 150g"
+  },
+  {
+    "gtin": "05400141443677",
+    "productId": "863494",
+    "name": "Hummus met Muhammara",
+    "technicalArticleNumber": "4714906",
+    "commercialArticleNumber": "31921",
+    "LongName": "BONI Hummus met Muhammara 175g"
+  },
+  {
+    "gtin": "35400141453325",
+    "productId": "863492",
+    "name": "Tomaat mozzarella dip",
+    "technicalArticleNumber": "4714896",
+    "commercialArticleNumber": "31918",
+    "LongName": "BONI Tomaat mozzarella dip 175g"
+  },
+  {
+    "gtin": "05053990107339",
+    "productId": "385939",
+    "name": "Original zout",
+    "technicalArticleNumber": "3836778",
+    "commercialArticleNumber": "21904",
+    "LongName": "PRINGLES Original zout 40g"
+  },
+  {
+    "gtin": "05053990161614",
+    "productId": "384115",
+    "name": "paprika",
+    "technicalArticleNumber": "3836730",
+    "commercialArticleNumber": "21903",
+    "LongName": "PRINGLES paprika 40g"
+  },
+  {
+    "gtin": "05412535002599",
+    "productId": "686674",
+    "name": "ontpitte groene olijven",
+    "technicalArticleNumber": "4410172",
+    "commercialArticleNumber": "24986",
+    "LongName": "BRINDOLIVE ontpitte groene olijven 940g"
+  },
+  {
+    "gtin": "05400141911176",
+    "productId": "873527",
+    "name": "Trio wintergroenten",
+    "technicalArticleNumber": "4728419",
+    "commercialArticleNumber": "31676",
+    "LongName": "BONI Trio wintergroenten 180g"
+  },
+  {
+    "gtin": "05412535017326",
+    "productId": "686270",
+    "name": "gesuikerde pinda's jumbo",
+    "technicalArticleNumber": "4409745",
+    "commercialArticleNumber": "24910",
+    "LongName": "GARMELLO gesuikerde pinda's jumbo 300g"
+  },
+  {
+    "gtin": "15400141155690",
+    "productId": "285957",
+    "name": "Franse zwarte olijven Nyons",
+    "technicalArticleNumber": "3677008",
+    "commercialArticleNumber": "9258",
+    "LongName": "BONI Franse zwarte olijven Nyons 150g"
+  },
+  {
+    "gtin": "08713276331144",
+    "productId": "847567",
+    "name": "Nacho To-go met Salsa dip",
+    "description": "*Nacho chips\n*To go\n*Salsa dipsaus",
+    "technicalArticleNumber": "4693983",
+    "commercialArticleNumber": "21371",
+    "LongName": "JIMMY'S Nacho To-go met Salsa dip 200g"
+  },
+  {
+    "gtin": "05400141442373",
+    "productId": "60235",
+    "name": "Tortilla Rolls tomaat",
+    "description": "*Zonnebloemolie",
+    "technicalArticleNumber": "2323460",
+    "commercialArticleNumber": "16684",
+    "LongName": "BONI BIO Tortilla Rolls tomaat 125g"
+  },
+  {
+    "gtin": "05414359981531",
+    "productId": "1021492",
+    "name": "Patatas Fritas Ketchup",
+    "description": "*Patatas Fritas Ketchup",
+    "technicalArticleNumber": "4790396",
+    "commercialArticleNumber": "30755",
+    "LongName": "CROKY Patatas Fritas Ketchup 100g"
+  },
+  {
+    "gtin": "05430003393024",
+    "productId": "850424",
+    "name": "peulvruchtensticks zout",
+    "description": "*Snack op basis van\npeulvruchten\n*Licht gezouten\n*Glutenvrij",
+    "technicalArticleNumber": "4697900",
+    "commercialArticleNumber": "30859",
+    "LongName": "FABO SNACKS peulvruchtensticks zout 40g"
+  },
+  {
+    "gtin": "10014113290842",
+    "productId": "890845",
+    "name": "Geroost.ongez.",
+    "technicalArticleNumber": "4751711",
+    "commercialArticleNumber": "14288",
+    "LongName": "WONDERFUL PISTACHIOS Geroost.ongez. 250g"
+  },
+  {
+    "gtin": "05425001808625",
+    "productId": "774510",
+    "name": "tomaat bruschetta",
+    "technicalArticleNumber": "4563904",
+    "commercialArticleNumber": "1523",
+    "LongName": "WONKY tomaat bruschetta 150g"
+  },
+  {
+    "gtin": "05430003393017",
+    "productId": "850418",
+    "name": "peulvruchtensticks papr.",
+    "description": "*Snack op basis van\npeulvruchten\n*Met paprika en tomaten-\nen oreganokruiden\n*Glutenvrij",
+    "technicalArticleNumber": "4697892",
+    "commercialArticleNumber": "30858",
+    "LongName": "FABO SNACKS peulvruchtensticks papr. 40g"
+  },
+  {
+    "gtin": "15404009101911",
+    "productId": "227447",
+    "name": "pinda's gezouten",
+    "description": "econom pinda zout 2kg",
+    "technicalArticleNumber": "3568012",
+    "commercialArticleNumber": "15542",
+    "LongName": "ECONOM pinda's gezouten 2kg"
+  },
+  {
+    "gtin": "05412514936952",
+    "productId": "671691",
+    "name": "nacho natuur",
+    "technicalArticleNumber": "4385081",
+    "commercialArticleNumber": "24458",
+    "LongName": "POCO LOCO nacho natuur 200g"
+  },
+  {
+    "gtin": "03609209003934",
+    "productId": "777056",
+    "name": "tortilla pops sweet chili",
+    "description": "*Gepofte crackers\n*van maïs, peulvruchten met chilismaak\n*50% minder vet\n*Glutenvrij\n*Veganistisch",
+    "technicalArticleNumber": "4569226",
+    "commercialArticleNumber": "15156",
+    "LongName": "N.A! tortilla pops sweet chili 80g"
+  },
+  {
+    "gtin": "05400141506617",
+    "productId": "730654",
+    "name": "Zalmstukj Belle Vue",
+    "description": "*Hapjes gestoomde\nzalm kruiden",
+    "technicalArticleNumber": "4487719",
+    "commercialArticleNumber": "2417",
+    "LongName": "BONI Zalmstukj Belle Vue 90g"
+  },
+  {
+    "gtin": "85400141453320",
+    "productId": "865608",
+    "name": "Pesto",
+    "technicalArticleNumber": "4717806",
+    "commercialArticleNumber": "4056",
+    "LongName": "BONI Pesto 300g"
+  },
+  {
+    "gtin": "08013945932802",
+    "productId": "849830",
+    "name": "tapenade zwart olijf",
+    "technicalArticleNumber": "4697180",
+    "commercialArticleNumber": "30821",
+    "LongName": "FATTORIE UMBRE tapenade zwart olijf 140g"
+  },
+  {
+    "gtin": "15400141850014",
+    "productId": "878676",
+    "name": "groene olijven",
+    "technicalArticleNumber": "4734923",
+    "commercialArticleNumber": "18766",
+    "LongName": "BONI groene olijven 300g"
+  },
+  {
+    "gtin": "05400141850031",
+    "productId": "878681",
+    "name": "zwarte olijven",
+    "technicalArticleNumber": "4734935",
+    "commercialArticleNumber": "18860",
+    "LongName": "BONI zwarte olijven 300g"
+  },
+  {
+    "gtin": "04251097404233",
+    "productId": "1028856",
+    "name": "Snackpack",
+    "technicalArticleNumber": "4793601",
+    "commercialArticleNumber": "35819",
+    "LongName": "BIFI Snackpack 60g"
+  },
+  {
+    "gtin": "04251097401454",
+    "productId": "663450",
+    "name": "original XXL",
+    "technicalArticleNumber": "4370724",
+    "commercialArticleNumber": "10552",
+    "LongName": "BIFI original XXL 30x40g"
+  },
+  {
+    "gtin": "05411506170251",
+    "productId": "132503",
+    "name": "marasquinkers met steel",
+    "description": "Marasquinokersen op siroop, met\nsteeltje. Ideaal bij cocktails en\naperitieven of in desserts.",
+    "technicalArticleNumber": "3141998",
+    "commercialArticleNumber": "26590",
+    "LongName": "AVILA marasquinkers met steel 950g"
+  },
+  {
+    "gtin": "05400197600208",
+    "productId": "864865",
+    "name": "Snack Mix Oosters.Kruiden",
+    "technicalArticleNumber": "4716903",
+    "commercialArticleNumber": "1542",
+    "LongName": "Snack Mix Oosters.Kruiden 250g"
+  },
+  {
+    "gtin": "08412289003740",
+    "productId": "334405",
+    "name": "tapas de queso",
+    "description": "*Spanje\n*Iberico, Cabra,\nManchego",
+    "technicalArticleNumber": "3797124",
+    "commercialArticleNumber": "33057",
+    "LongName": "GARCIA BAQUERO tapas de queso 150g"
+  }
+]

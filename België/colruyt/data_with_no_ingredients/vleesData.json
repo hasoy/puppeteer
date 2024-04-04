@@ -1,0 +1,48 @@
+[
+    {
+        "productId": "14429",
+        "technicalArticleNumber": "1609516",
+        "commercialArticleNumber": "27184",
+        "name": "chimichurri",
+        "description": "Saus die in de beenhouwerij gebruikt\nwordt voor Toscaanse vulling.",
+        "thumbNail": "https://ecgproductmw.colruytgroup.com/ecgproductmw/noPicForArticle_2.jpg",
+        "fullImage": "https://ecgproductmw.colruytgroup.com/ecgproductmw/noPicForArticle_5.jpg",
+        "squareImage": "https://ecgproductmw.colruytgroup.com/ecgproductmw/noPicForArticle_5.jpg",
+        "content": "4x700ml",
+        "walkRouteSequenceNumber": 19698,
+        "price": {
+            "basicPrice": 0.989,
+            "recommendedQuantity": "1.0",
+            "measurementUnitPrice": 0.354,
+            "measurementUnit": "L",
+            "isRedPrice": false,
+            "pricePerUOM": 0.354,
+            "activationDate": "14-11-2023",
+            "isPromoActive": "N",
+            "priceChangeCode": "E"
+        },
+        "isAvailable": true,
+        "isPriceAvailable": true,
+        "inPromo": false,
+        "gtin": [
+            "08712200376749"
+        ],
+        "topCategoryName": "Colruyt-vlees",
+        "topCategoryId": "1399",
+        "businessDomain": "RETAIL_BE",
+        "IsPrivateLabel": false,
+        "IsBiffe": false,
+        "WeightconversionFactor": "0",
+        "IsWeightArticle": false,
+        "IsBio": false,
+        "CountryOfOrigin": "BELGIË",
+        "IsExclusivelySoldInLuxembourg": false,
+        "OrderUnit": "P",
+        "ShortName": "BH CHIMICHURRI 4X700ML",
+        "IsNew": false,
+        "RecentQuanityOfStockUnits": "1",
+        "LongName": "chimichurri 4x700ml",
+        "AlcoholVolume": "0",
+        "FicCode": "E"
+    }
+]

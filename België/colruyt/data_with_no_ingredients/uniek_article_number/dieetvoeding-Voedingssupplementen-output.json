@@ -1,0 +1,802 @@
+[
+  {
+    "gtin": "15400141604112",
+    "productId": "138343",
+    "name": "galetten koffiesmaak suik.vr.",
+    "description": "*Suikervrij\n*Met zoetstoffen:\nmaltitol\n*Individueel verpakt",
+    "technicalArticleNumber": "3176420",
+    "commercialArticleNumber": "36743",
+    "LongName": "BONI galetten koffiesmaak suik.vr. 5x34g"
+  },
+  {
+    "gtin": "05410063021235",
+    "productId": "257719",
+    "name": "chocolate chip cookie SV",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3593312",
+    "commercialArticleNumber": "13859",
+    "LongName": "CÉRÉAL chocolate chip cookie SV 130g"
+  },
+  {
+    "gtin": "05410063021266",
+    "productId": "113734",
+    "name": "koeken kokos suikervrij",
+    "description": "*Suikvervrij:\nmaltitol\n*Vezelrijk\n*Individueel verpakt",
+    "technicalArticleNumber": "3084627",
+    "commercialArticleNumber": "37278",
+    "LongName": "CÉRÉAL koeken kokos suikervrij 3x44g"
+  },
+  {
+    "gtin": "15400141604105",
+    "productId": "140012",
+    "name": "wafels vanillesmaak suikervr.",
+    "description": "*Suikervrij\n*Individueel verpakt",
+    "technicalArticleNumber": "3184395",
+    "commercialArticleNumber": "26287",
+    "LongName": "BONI wafels vanillesmaak suikervr. 6x25g"
+  },
+  {
+    "gtin": "15400141315995",
+    "productId": "18453",
+    "name": "chocoladewafels maltitol",
+    "description": "*Suikervrij:\nmaltitol\n*Individueel verpakt",
+    "technicalArticleNumber": "1673537",
+    "commercialArticleNumber": "31014",
+    "LongName": "BONI chocoladewafels maltitol 6x30g"
+  },
+  {
+    "gtin": "05410063027121",
+    "productId": "150011",
+    "name": "orange delight zonder suiker",
+    "description": "Koekjes met chocolade en sinaasappel\nmet 95% minder suiker dan een verge-\nlijkbaar koekje.",
+    "technicalArticleNumber": "3310729",
+    "commercialArticleNumber": "21805",
+    "LongName": "CÉRÉAL orange delight zonder suiker 140g"
+  },
+  {
+    "gtin": "08723700009822",
+    "productId": "687793",
+    "name": "rozijnenkoeken",
+    "technicalArticleNumber": "4412361",
+    "commercialArticleNumber": "1431",
+    "LongName": "CÉRÉAL rozijnenkoeken 4x90g"
+  },
+  {
+    "gtin": "05410063033023",
+    "productId": "468033",
+    "name": "koekjes citroen - yuzu",
+    "technicalArticleNumber": "4064528",
+    "commercialArticleNumber": "7121",
+    "LongName": "CÉRÉAL koekjes citroen - yuzu 3x44g"
+  },
+  {
+    "gtin": "05410063007871",
+    "productId": "27393",
+    "name": "koeken choco del. puur",
+    "description": "*Met zoetstoffen:\nmaltitol, sucralose\n*Bron van vezels",
+    "technicalArticleNumber": "1960052",
+    "commercialArticleNumber": "30399",
+    "LongName": "CÉRÉAL koeken choco del. puur 12x10,5g"
+  },
+  {
+    "gtin": "05410063040847",
+    "productId": "837337",
+    "name": "Koeken Abrikoos-pistache",
+    "technicalArticleNumber": "4679828",
+    "commercialArticleNumber": "30362",
+    "LongName": "CEREAL Koeken Abrikoos-pistache 160g"
+  },
+  {
+    "gtin": "05410063024335",
+    "productId": "257725",
+    "name": "koekjes sesam vanille SV",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3593325",
+    "commercialArticleNumber": "13868",
+    "LongName": "CÉRÉAL koekjes sesam vanille SV 132g"
+  },
+  {
+    "gtin": "15400141236962",
+    "productId": "828603",
+    "name": "multivitamine bruistablet",
+    "technicalArticleNumber": "4667305",
+    "commercialArticleNumber": "451099",
+    "LongName": "BONI multivitamine bruistablet 20st"
+  },
+  {
+    "gtin": "15400141307570",
+    "productId": "100654",
+    "name": "koeken speculoos suikervrij",
+    "description": "*Suikervrij:\nMaltitol,\nisomalt",
+    "technicalArticleNumber": "2854656",
+    "commercialArticleNumber": "34172",
+    "LongName": "BONI koeken speculoos suikervrij 200g"
+  },
+  {
+    "gtin": "05410063034556",
+    "productId": "358190",
+    "name": "ZS zandkoek choc&orange",
+    "technicalArticleNumber": "3873405",
+    "commercialArticleNumber": "22711",
+    "LongName": "CÉRÉAL ZS zandkoek choc&orange 132g"
+  },
+  {
+    "gtin": "08723700213663",
+    "productId": "16728",
+    "name": "confituur aardbei & framboos",
+    "description": "*Met zoetstoffen:\nmaltitol\n*50% vruchten",
+    "technicalArticleNumber": "1434924",
+    "commercialArticleNumber": "31587",
+    "LongName": "CÉRÉAL confituur aardbei & framboos 270g"
+  },
+  {
+    "gtin": "05400141236989",
+    "productId": "828610",
+    "name": "magnesium bruistablet",
+    "technicalArticleNumber": "4667314",
+    "commercialArticleNumber": "451100",
+    "LongName": "BONI magnesium bruistablet 20st"
+  },
+  {
+    "gtin": "08723700213571",
+    "productId": "8580",
+    "name": "koek.vitaliteit melkchoc.",
+    "description": "*Met vitamine E, B\n*Individueel verpakt",
+    "technicalArticleNumber": "1126901",
+    "commercialArticleNumber": "31641",
+    "LongName": "CÉRÉAL koek.vitaliteit melkchoc. 4x57,5g"
+  },
+  {
+    "gtin": "05410063037144",
+    "productId": "584737",
+    "name": "mini cakes chocoladevulling",
+    "technicalArticleNumber": "4239793",
+    "commercialArticleNumber": "19276",
+    "LongName": "CÉRÉAL mini cakes chocoladevulling 5x30g"
+  },
+  {
+    "gtin": "05410063039261",
+    "productId": "689793",
+    "name": "choco delight melk",
+    "technicalArticleNumber": "4415680",
+    "commercialArticleNumber": "14744",
+    "LongName": "CÉRÉAL choco delight melk 12x10,5g"
+  },
+  {
+    "gtin": "05410063023956",
+    "productId": "148685",
+    "name": "cookies gv lv",
+    "description": "*Glutenvrij\n*Lactosevrij\n*Individueel verpakt",
+    "technicalArticleNumber": "3311942",
+    "commercialArticleNumber": "21881",
+    "LongName": "CÉRÉAL cookies gv lv 3x50g"
+  },
+  {
+    "gtin": "05400141057676",
+    "productId": "134447",
+    "name": "pure chocolade maltitol",
+    "description": "*Met zoetstoffen\n*Minstens 58%\ncacaobestanddelen\n*Belgische chocolade",
+    "technicalArticleNumber": "3175113",
+    "commercialArticleNumber": "44221",
+    "LongName": "BONI pure chocolade maltitol 85g"
+  },
+  {
+    "gtin": "05410063033078",
+    "productId": "293286",
+    "name": "mini cakes chocoladestukjes",
+    "description": "* Zonder suiker",
+    "technicalArticleNumber": "3698881",
+    "commercialArticleNumber": "31097",
+    "LongName": "CÉRÉAL mini cakes chocoladestukjes 196g"
+  },
+  {
+    "gtin": "25400141413377",
+    "productId": "134444",
+    "name": "melkchocolade maltitol",
+    "description": "*Met zoetstoffen\n*Belgische chocolade",
+    "technicalArticleNumber": "3175105",
+    "commercialArticleNumber": "44220",
+    "LongName": "BONI melkchocolade maltitol 85g"
+  },
+  {
+    "gtin": "08723700213687",
+    "productId": "16727",
+    "name": "confituur abrikoos & perzik",
+    "description": "*Met zoetstoffen:\nmaltitol\n*50% vruchten",
+    "technicalArticleNumber": "1434916",
+    "commercialArticleNumber": "31586",
+    "LongName": "CÉRÉAL confituur abrikoos & perzik 270g"
+  },
+  {
+    "gtin": "05410063026605",
+    "productId": "584745",
+    "name": "mini cakes aardbeivulling",
+    "technicalArticleNumber": "4239801",
+    "commercialArticleNumber": "19282",
+    "LongName": "CÉRÉAL mini cakes aardbeivulling 6x35g"
+  },
+  {
+    "gtin": "05411146223782",
+    "productId": "272554",
+    "name": "chocopasta 13%hazeln. sa",
+    "technicalArticleNumber": "3627877",
+    "commercialArticleNumber": "19187",
+    "LongName": "BOERINNEKE chocopasta 13%hazeln. sa 400g"
+  },
+  {
+    "gtin": "05410063039247",
+    "productId": "689796",
+    "name": "fruity delight framboos",
+    "technicalArticleNumber": "4415683",
+    "commercialArticleNumber": "14808",
+    "LongName": "CÉRÉAL fruity delight framboos 144g"
+  },
+  {
+    "gtin": "05412141230140",
+    "productId": "825183",
+    "name": "vitamine C bruistablet",
+    "technicalArticleNumber": "4661807",
+    "commercialArticleNumber": "451093",
+    "LongName": "BIOVER vitamine C bruistablet 20st"
+  },
+  {
+    "gtin": "05412141230393",
+    "productId": "824468",
+    "name": "multivitamines",
+    "technicalArticleNumber": "4660604",
+    "commercialArticleNumber": "451055",
+    "LongName": "BIOVER multivitamines 30st"
+  },
+  {
+    "gtin": "05410063024052",
+    "productId": "148692",
+    "name": "Madeleines gv lv",
+    "description": "*Glutenvrij\n*Lactosevrij\n*Individueel verpakt",
+    "technicalArticleNumber": "3311956",
+    "commercialArticleNumber": "21871",
+    "LongName": "CÉRÉAL Madeleines gv lv 6x30g"
+  },
+  {
+    "gtin": "05400141069631",
+    "productId": "16086",
+    "name": "cakejes suikerarm",
+    "description": "*Suikerarm: maltitol",
+    "technicalArticleNumber": "1466338",
+    "commercialArticleNumber": "31006",
+    "LongName": "BONI cakejes suikerarm 7x25g"
+  },
+  {
+    "gtin": "05410063001190",
+    "productId": "239717",
+    "name": "aardbeien",
+    "technicalArticleNumber": "3542654",
+    "commercialArticleNumber": "50754",
+    "LongName": "CÉRÉAL GLUCOREGUL aardbeien 320g"
+  },
+  {
+    "gtin": "05412141230409",
+    "productId": "824710",
+    "name": "magnesium forte",
+    "technicalArticleNumber": "4661201",
+    "commercialArticleNumber": "451071",
+    "LongName": "BIOVER magnesium forte 45st"
+  },
+  {
+    "gtin": "05412141226457",
+    "productId": "825202",
+    "name": "multivitamine + bruistablet",
+    "technicalArticleNumber": "4661876",
+    "commercialArticleNumber": "451098",
+    "LongName": "BIOVER multivitamine + bruistablet 20st"
+  },
+  {
+    "gtin": "05425008133751",
+    "productId": "829003",
+    "name": "vlierbessensiroop FT",
+    "technicalArticleNumber": "4667896",
+    "commercialArticleNumber": "451103",
+    "LongName": "'T VLIERBOS vlierbessensiroop FT 200ml"
+  },
+  {
+    "gtin": "05425032430963",
+    "productId": "608100",
+    "name": "chocolade 70% puur sv",
+    "technicalArticleNumber": "4279377",
+    "commercialArticleNumber": "5494",
+    "LongName": "SWEET SWITCH chocolade 70% puur sv 100g"
+  },
+  {
+    "gtin": "05400141605020",
+    "productId": "822862",
+    "name": "magnesium tabletten",
+    "technicalArticleNumber": "4657996",
+    "commercialArticleNumber": "451000",
+    "LongName": "BONI magnesium tabletten 60st"
+  },
+  {
+    "gtin": "05412141229588",
+    "productId": "824486",
+    "name": "energie bruistablet",
+    "technicalArticleNumber": "4660622",
+    "commercialArticleNumber": "451060",
+    "LongName": "BIOVER energie bruistablet 20st"
+  },
+  {
+    "gtin": "05425032431748",
+    "productId": "608114",
+    "name": "puur amandel zeezout",
+    "technicalArticleNumber": "4279391",
+    "commercialArticleNumber": "5803",
+    "LongName": "SWEET SWITCH puur amandel zeezout 100g"
+  },
+  {
+    "gtin": "05410063038431",
+    "productId": "823580",
+    "name": "maiswafels ui-bieslook",
+    "technicalArticleNumber": "4659174",
+    "commercialArticleNumber": "451013",
+    "LongName": "GERLINÉA maiswafels ui-bieslook 12st"
+  },
+  {
+    "gtin": "05412141230263",
+    "productId": "824797",
+    "name": "vitamine D3",
+    "technicalArticleNumber": "4661370",
+    "commercialArticleNumber": "451079",
+    "LongName": "BIOVER vitamine D3 30st"
+  },
+  {
+    "gtin": "05412141230317",
+    "productId": "824173",
+    "name": "triple magnesium",
+    "technicalArticleNumber": "4660119",
+    "commercialArticleNumber": "451051",
+    "LongName": "BIOVER triple magnesium 30st"
+  },
+  {
+    "gtin": "05412141224521",
+    "productId": "824497",
+    "name": "Eucalyptus keelpastilles",
+    "description": "*Verzacht de keel",
+    "technicalArticleNumber": "4660633",
+    "commercialArticleNumber": "451062",
+    "LongName": "BIOVER Eucalyptus keelpastilles 45g"
+  },
+  {
+    "gtin": "05410063030657",
+    "productId": "823883",
+    "name": "afslank Shake vanille",
+    "technicalArticleNumber": "4659293",
+    "commercialArticleNumber": "451036",
+    "LongName": "GERLINÉA afslank Shake vanille 436g"
+  },
+  {
+    "gtin": "05412141230430",
+    "productId": "824174",
+    "name": "vitamine C + zink",
+    "description": "*Weerstand",
+    "technicalArticleNumber": "4660120",
+    "commercialArticleNumber": "451052",
+    "LongName": "BIOVER vitamine C + zink 60st"
+  },
+  {
+    "gtin": "05400141150773",
+    "productId": "822871",
+    "name": "Omega 3 capsules",
+    "technicalArticleNumber": "4658010",
+    "commercialArticleNumber": "451001",
+    "LongName": "BONI Omega 3 capsules 60st"
+  },
+  {
+    "gtin": "05425032431335",
+    "productId": "608123",
+    "name": "melkchoc.gez.karamel",
+    "technicalArticleNumber": "4279400",
+    "commercialArticleNumber": "5840",
+    "LongName": "SWEET-SWITCH melkchoc.gez.karamel 100g"
+  },
+  {
+    "gtin": "05412141230416",
+    "productId": "824749",
+    "name": "omega 3 visolie",
+    "technicalArticleNumber": "4661309",
+    "commercialArticleNumber": "451077",
+    "LongName": "BIOVER omega 3 visolie 60st"
+  },
+  {
+    "gtin": "05410063030671",
+    "productId": "823884",
+    "name": "afslank Shake chocolade",
+    "technicalArticleNumber": "4659294",
+    "commercialArticleNumber": "451037",
+    "LongName": "GERLINÉA afslank Shake chocolade 436g"
+  },
+  {
+    "gtin": "05412141227379",
+    "productId": "825111",
+    "name": "dennensiroop",
+    "technicalArticleNumber": "4661728",
+    "commercialArticleNumber": "451086",
+    "LongName": "BIOVER dennensiroop 150ml"
+  },
+  {
+    "gtin": "05410063038448",
+    "productId": "823610",
+    "name": "rijstwaf. choco-hazelnoten",
+    "description": "*Mijn pauze",
+    "technicalArticleNumber": "4659234",
+    "commercialArticleNumber": "451023",
+    "LongName": "GERLINÉA rijstwaf. choco-hazelnoten 142g"
+  },
+  {
+    "gtin": "07610313701391",
+    "productId": "822959",
+    "name": "Echinacea bonbons",
+    "technicalArticleNumber": "4658315",
+    "commercialArticleNumber": "451009",
+    "LongName": "A.VOGEL Echinacea bonbons 75g"
+  },
+  {
+    "gtin": "05412141224439",
+    "productId": "824495",
+    "name": "Echinacea weerstand pastillen",
+    "description": "*Weerstand",
+    "technicalArticleNumber": "4660631",
+    "commercialArticleNumber": "451061",
+    "LongName": "BIOVER Echinacea weerstand pastillen 45g"
+  },
+  {
+    "gtin": "05412141004468",
+    "productId": "824814",
+    "name": "100% natuurbiergist",
+    "technicalArticleNumber": "4661392",
+    "commercialArticleNumber": "451084",
+    "LongName": "BIOVER 100% natuurbiergist 275g"
+  },
+  {
+    "gtin": "05410063007451",
+    "productId": "823882",
+    "name": "afslankdrink koffie",
+    "description": "*1 drank=1 maaltijd",
+    "technicalArticleNumber": "4659291",
+    "commercialArticleNumber": "451035",
+    "LongName": "GERLINÉA afslankdrink koffie 4x236ml"
+  },
+  {
+    "gtin": "05412141230867",
+    "productId": "824470",
+    "name": "valeriana forte",
+    "technicalArticleNumber": "4660606",
+    "commercialArticleNumber": "451056",
+    "LongName": "BIOVER valeriana forte 45st"
+  },
+  {
+    "gtin": "05410063017573",
+    "productId": "823630",
+    "name": "chocoladepudding",
+    "description": "*1 pudding=1maaltijd",
+    "technicalArticleNumber": "4659254",
+    "commercialArticleNumber": "451026",
+    "LongName": "GERLINÉA chocoladepudding 2x210g"
+  },
+  {
+    "gtin": "05412141227447",
+    "productId": "824509",
+    "name": "propolis spray den bio",
+    "description": "*Verzacht de keel",
+    "technicalArticleNumber": "4660645",
+    "commercialArticleNumber": "451064",
+    "LongName": "BIOVER propolis spray den bio 23ml"
+  },
+  {
+    "gtin": "03175681852006",
+    "productId": "823880",
+    "name": "afslankdrink chocolade",
+    "description": "*1 drank=1 maaltijd",
+    "technicalArticleNumber": "4659288",
+    "commercialArticleNumber": "451033",
+    "LongName": "GERLINÉA afslankdrink chocolade 4x236ml"
+  },
+  {
+    "gtin": "08718503010588",
+    "productId": "822951",
+    "name": "Multivitaminen gummies",
+    "description": "*Vanaf 3 jaar",
+    "technicalArticleNumber": "4658304",
+    "commercialArticleNumber": "451007",
+    "LongName": "CARS Multivitaminen gummies 60st"
+  },
+  {
+    "gtin": "05412141230447",
+    "productId": "824506",
+    "name": "Echinacea Forte",
+    "description": "*Weerstand",
+    "technicalArticleNumber": "4660642",
+    "commercialArticleNumber": "451063",
+    "LongName": "BIOVER Echinacea Forte 30st"
+  },
+  {
+    "gtin": "05410063028159",
+    "productId": "823581",
+    "name": "Easy Go choco crisp reep",
+    "description": "*1 reep = 1 maaltijd",
+    "technicalArticleNumber": "4659179",
+    "commercialArticleNumber": "451014",
+    "LongName": "GERLINÉA Easy Go choco crisp reep 2x58g"
+  },
+  {
+    "gtin": "08723700973864",
+    "productId": "823636",
+    "name": "sinaas-pure choc.reep",
+    "description": "*Mijn pauze",
+    "technicalArticleNumber": "4659275",
+    "commercialArticleNumber": "451029",
+    "LongName": "GERLINÉA sinaas-pure choc.reep 12x31g"
+  },
+  {
+    "gtin": "08711596580082",
+    "productId": "822963",
+    "name": "Melkwei conc.",
+    "description": "*Lactosevrij\n*Caloriearm",
+    "technicalArticleNumber": "4658319",
+    "commercialArticleNumber": "451010",
+    "LongName": "A.VOGEL MOLKOSAN Melkwei conc. 500ml"
+  },
+  {
+    "gtin": "08723700016691",
+    "productId": "823632",
+    "name": "puur-wit chocolade reep",
+    "description": "*Mijn pauze",
+    "technicalArticleNumber": "4659271",
+    "commercialArticleNumber": "451027",
+    "LongName": "GERLINÉA puur-wit chocolade reep 12x31g"
+  },
+  {
+    "gtin": "05412141231055",
+    "productId": "824250",
+    "name": "huid, haar & nagels",
+    "description": "*Voedingssupplement",
+    "technicalArticleNumber": "4660310",
+    "commercialArticleNumber": "451054",
+    "LongName": "BIOVER huid, haar & nagels 45st"
+  },
+  {
+    "gtin": "05412141230782",
+    "productId": "824730",
+    "name": "B-complex",
+    "technicalArticleNumber": "4661222",
+    "commercialArticleNumber": "451073",
+    "LongName": "BIOVER B-complex 45st"
+  },
+  {
+    "gtin": "08712053577089",
+    "productId": "822916",
+    "name": "voed.sup.zw.kr.bitter",
+    "description": "*Vanaf 12 jaar",
+    "technicalArticleNumber": "4658044",
+    "commercialArticleNumber": "451004",
+    "LongName": "JACOB HOOY voed.sup.zw.kr.bitter 500ml"
+  },
+  {
+    "gtin": "05410063036284",
+    "productId": "823634",
+    "name": "reep chocolade",
+    "description": "*2 repen=1 maaltijd",
+    "technicalArticleNumber": "4659273",
+    "commercialArticleNumber": "451028",
+    "LongName": "GERLINÉA reep chocolade 12x31g"
+  },
+  {
+    "gtin": "05410063038479",
+    "productId": "823616",
+    "name": "rijstw.w.choco-rode vrucht",
+    "description": "*Mijn pauze",
+    "technicalArticleNumber": "4659240",
+    "commercialArticleNumber": "451024",
+    "LongName": "GERLINÉA rijstw.w.choco-rode vrucht 132g"
+  },
+  {
+    "gtin": "05410063002883",
+    "productId": "823881",
+    "name": "afslankdrink vanille",
+    "description": "*1 drank=1 maaltijd",
+    "technicalArticleNumber": "4659289",
+    "commercialArticleNumber": "451034",
+    "LongName": "GERLINÉA afslankdrink vanille 4x236ml"
+  },
+  {
+    "gtin": "08718503010502",
+    "productId": "822950",
+    "name": "multivitamine gummies",
+    "description": "*Vanaf 3 jaar",
+    "technicalArticleNumber": "4658303",
+    "commercialArticleNumber": "451006",
+    "LongName": "FROZEN multivitamine gummies 60st"
+  },
+  {
+    "gtin": "05412141230201",
+    "productId": "824473",
+    "name": "cholesterol",
+    "technicalArticleNumber": "4660609",
+    "commercialArticleNumber": "451057",
+    "LongName": "BIOVER cholesterol 45st"
+  },
+  {
+    "gtin": "05412141220882",
+    "productId": "825188",
+    "name": "etherische olie Lavandin",
+    "technicalArticleNumber": "4661812",
+    "commercialArticleNumber": "451094",
+    "LongName": "BIOVER etherische olie Lavandin 50ml"
+  },
+  {
+    "gtin": "05410063009004",
+    "productId": "823637",
+    "name": "chocolade-hazelnoot reep",
+    "description": "*Mijn pauze",
+    "technicalArticleNumber": "4659284",
+    "commercialArticleNumber": "451030",
+    "LongName": "GERLINÉA chocolade-hazelnoot reep 8x20g"
+  },
+  {
+    "gtin": "05412141229625",
+    "productId": "824481",
+    "name": "jun.multivit.ext.D framboos",
+    "description": "*Framboos",
+    "technicalArticleNumber": "4660617",
+    "commercialArticleNumber": "451059",
+    "LongName": "BIOVER jun.multivit.ext.D framboos 120st"
+  },
+  {
+    "gtin": "05412141230188",
+    "productId": "824178",
+    "name": "geheugen & concentratie",
+    "technicalArticleNumber": "4660124",
+    "commercialArticleNumber": "451053",
+    "LongName": "BIOVER geheugen & concentratie 45st"
+  },
+  {
+    "gtin": "05410063024137",
+    "productId": "823879",
+    "name": "pudding vanille-karamel",
+    "description": "*1 pudding=1maaltijd",
+    "technicalArticleNumber": "4659287",
+    "commercialArticleNumber": "451032",
+    "LongName": "GERLINÉA pudding vanille-karamel 2x210g"
+  },
+  {
+    "gtin": "05412141220974",
+    "productId": "825190",
+    "name": "etherische olie eucalyptus",
+    "technicalArticleNumber": "4661814",
+    "commercialArticleNumber": "451095",
+    "LongName": "BIOVER etherische olie eucalyptus 50ml"
+  },
+  {
+    "gtin": "05410063035782",
+    "productId": "823589",
+    "name": "CRHP repen banaan&choco.",
+    "description": "*Mijn pauze",
+    "technicalArticleNumber": "4659207",
+    "commercialArticleNumber": "451017",
+    "LongName": "GERLINÉA CRHP repen banaan&choco. 12x31g"
+  },
+  {
+    "gtin": "05410063038790",
+    "productId": "823595",
+    "name": "Shake vanille",
+    "description": "*Mijn pauze",
+    "technicalArticleNumber": "4659213",
+    "commercialArticleNumber": "451019",
+    "LongName": "GERLINÉA Shake vanille 240g"
+  },
+  {
+    "gtin": "05410063004092",
+    "productId": "823638",
+    "name": "afslanken tabletten",
+    "technicalArticleNumber": "4659285",
+    "commercialArticleNumber": "451031",
+    "LongName": "GERLINÉA afslanken tabletten 28st"
+  },
+  {
+    "gtin": "05412141230461",
+    "productId": "824745",
+    "name": "spier en gewrichten",
+    "technicalArticleNumber": "4661239",
+    "commercialArticleNumber": "451076",
+    "LongName": "BIOVER spier en gewrichten 45st"
+  },
+  {
+    "gtin": "05410063036277",
+    "productId": "823590",
+    "name": "afslankreep karamel",
+    "description": "*2 repen=1 maaltijd",
+    "technicalArticleNumber": "4659208",
+    "commercialArticleNumber": "451018",
+    "LongName": "GERLINÉA afslankreep karamel 12x31g"
+  },
+  {
+    "gtin": "05412141000286",
+    "productId": "824731",
+    "name": "vitamine E",
+    "technicalArticleNumber": "4661223",
+    "commercialArticleNumber": "451074",
+    "LongName": "BIOVER vitamine E 100st"
+  },
+  {
+    "gtin": "05410063036307",
+    "productId": "823596",
+    "name": "CRHP repen frambo&choco.",
+    "description": "*Mijn pauze",
+    "technicalArticleNumber": "4659214",
+    "commercialArticleNumber": "451020",
+    "LongName": "GERLINÉA CRHP repen frambo&choco. 12x31g"
+  },
+  {
+    "gtin": "05412141230485",
+    "productId": "824794",
+    "name": "soepele gewrichten",
+    "technicalArticleNumber": "4661365",
+    "commercialArticleNumber": "451078",
+    "LongName": "BIOVER soepele gewrichten 45st"
+  },
+  {
+    "gtin": "05412141227720",
+    "productId": "824020",
+    "name": "triple energy",
+    "technicalArticleNumber": "4659819",
+    "commercialArticleNumber": "451044",
+    "LongName": "BIOVER triple energy 20st"
+  },
+  {
+    "gtin": "05414969016142",
+    "productId": "823904",
+    "name": "gewichtsverlies",
+    "description": "*Vermindert vet",
+    "technicalArticleNumber": "4659609",
+    "commercialArticleNumber": "451041",
+    "LongName": "XL-S gewichtsverlies 150st"
+  },
+  {
+    "gtin": "05410063026117",
+    "productId": "823601",
+    "name": "reep appel-blauwe bes",
+    "description": "*2 repen=1 maaltijd",
+    "technicalArticleNumber": "4659219",
+    "commercialArticleNumber": "451022",
+    "LongName": "GERLINÉA reep appel-blauwe bes 8x45g"
+  },
+  {
+    "gtin": "05412141227102",
+    "productId": "824739",
+    "name": "kuur vet verbrander",
+    "technicalArticleNumber": "4661233",
+    "commercialArticleNumber": "451075",
+    "LongName": "XL-S kuur vet verbrander 60st"
+  },
+  {
+    "gtin": "05412141229632",
+    "productId": "824171",
+    "name": "junior vitamine D",
+    "technicalArticleNumber": "4660117",
+    "commercialArticleNumber": "451050",
+    "LongName": "BIOVER junior vitamine D 150st"
+  },
+  {
+    "gtin": "05410063038813",
+    "productId": "823598",
+    "name": "Shake ijskoffie",
+    "description": "*Mijn pauze",
+    "technicalArticleNumber": "4659216",
+    "commercialArticleNumber": "451021",
+    "LongName": "GERLINÉA Shake ijskoffie 240g"
+  },
+  {
+    "gtin": "03175681186446",
+    "productId": "823885",
+    "name": "detox artisjok-appel",
+    "technicalArticleNumber": "4659296",
+    "commercialArticleNumber": "451038",
+    "LongName": "GERLINÉA detox artisjok-appel 7x10ml"
+  }
+]

@@ -1,0 +1,4836 @@
+[
+  {
+    "gtin": "15400141895596",
+    "productId": "2238",
+    "name": "Atlantische gerookte zalm",
+    "description": "*Aquacultuur uit\nNoorwegen\n*Subtiele rooksmaak\n*5 à 8 sneden\n*ASC",
+    "technicalArticleNumber": "27931",
+    "commercialArticleNumber": "27931",
+    "LongName": "EVERYDAY Atlantische gerookte zalm 200g"
+  },
+  {
+    "gtin": "05400141164503",
+    "productId": "2056",
+    "name": "bladerdeeg",
+    "description": "*Kant- en klaar deeg\n*Geschikt voor zoete\nen hartige\nbereidingen",
+    "technicalArticleNumber": "26104",
+    "commercialArticleNumber": "26104",
+    "LongName": "BONI bladerdeeg 230g"
+  },
+  {
+    "gtin": "15400141951179",
+    "productId": "643690",
+    "name": "gerookte spekblokjes",
+    "description": "* Herkomst: België\n* Gerookt\n* Culinair (Quiche, ontbijt, salade,\n.)",
+    "technicalArticleNumber": "4338623",
+    "commercialArticleNumber": "27120",
+    "LongName": "EVERYDAY gerookte spekblokjes 250g"
+  },
+  {
+    "gtin": "05400141364583",
+    "productId": "582761",
+    "name": "Gekookte schouderham",
+    "technicalArticleNumber": "4236702",
+    "commercialArticleNumber": "27197",
+    "LongName": "EVERYDAY Gekookte schouderham 300g"
+  },
+  {
+    "gtin": "05400141605716",
+    "productId": "464451",
+    "name": "kipfilet sneden",
+    "description": "* België\n* 90% kipfilet\n* Boterham, koude schotel, in salade",
+    "technicalArticleNumber": "4032438",
+    "commercialArticleNumber": "27767",
+    "LongName": "BONI kipfilet sneden 200g"
+  },
+  {
+    "gtin": "15400141994404",
+    "productId": "83263",
+    "name": "Ambachtel. ham met zwoerd",
+    "description": "*België\n*97 % varkensvlees,\ngekookt\n*Boterham, koude en\nwarme schotels",
+    "technicalArticleNumber": "2946055",
+    "commercialArticleNumber": "38786",
+    "LongName": "EVERYDAY Ambachtel. ham met zwoerd 200g"
+  },
+  {
+    "gtin": "05400141800913",
+    "productId": "43942",
+    "name": "kipfilet sneetjes",
+    "description": "*België\n*87 % kippenvlees\n*Boterham, koude\nschotel, in salade",
+    "technicalArticleNumber": "2497840",
+    "commercialArticleNumber": "8111",
+    "LongName": "EVERYDAY kipfilet sneetjes 200g"
+  },
+  {
+    "gtin": "15400141242901",
+    "productId": "464458",
+    "name": "Kalkoenfilet GV",
+    "technicalArticleNumber": "4032445",
+    "commercialArticleNumber": "27769",
+    "LongName": "BONI Kalkoenfilet GV 150g"
+  },
+  {
+    "gtin": "05400141319774",
+    "productId": "165708",
+    "name": "hespenworst sneetjes",
+    "description": "*België\n*Gekookt\n*Boterham, koude\nschotels",
+    "technicalArticleNumber": "3393405",
+    "commercialArticleNumber": "38228",
+    "LongName": "BONI hespenworst sneetjes 200g"
+  },
+  {
+    "gtin": "05400141852127",
+    "productId": "875350",
+    "name": "Beenham zonder gluten",
+    "technicalArticleNumber": "4730347",
+    "commercialArticleNumber": "32202",
+    "LongName": "BONI Beenham zonder gluten 150g"
+  },
+  {
+    "gtin": "05400141375954",
+    "productId": "81556",
+    "name": "gegrilde ham",
+    "description": "*België\n*95 % varkensvlees,\ngegrild",
+    "technicalArticleNumber": "2940408",
+    "commercialArticleNumber": "38787",
+    "LongName": "BONI gegrilde ham 200g"
+  },
+  {
+    "gtin": "05400141902266",
+    "productId": "871248",
+    "name": "Ontvette ham GV",
+    "description": "*\n*",
+    "technicalArticleNumber": "4725025",
+    "commercialArticleNumber": "7685",
+    "LongName": "BONI Ontvette ham GV 150g"
+  },
+  {
+    "gtin": "05400141322538",
+    "productId": "237484",
+    "name": "spekblokjes gerookt GV",
+    "description": "*België\n*Gerookt\n*In salades, omelet,bij pasta\n*Glutenvrij",
+    "technicalArticleNumber": "3536584",
+    "commercialArticleNumber": "27024",
+    "LongName": "BONI spekblokjes gerookt GV 2x100g"
+  },
+  {
+    "gtin": "05400141324020",
+    "productId": "65305",
+    "name": "salami z.look sneetjes",
+    "description": "*België\n*Salami zonder look\n*64 % vlees\n*Boterham, koude\nschotels",
+    "technicalArticleNumber": "2824422",
+    "commercialArticleNumber": "26499",
+    "LongName": "EVERYDAY salami z.look sneetjes 225g"
+  },
+  {
+    "gtin": "15400141354284",
+    "productId": "574242",
+    "name": "GEKOOKTE HAMBLOKJES",
+    "technicalArticleNumber": "4221133",
+    "commercialArticleNumber": "27155",
+    "LongName": "EVERYDAY GEKOOKTE HAMBLOKJES 250g"
+  },
+  {
+    "gtin": "05400141322880",
+    "productId": "211291",
+    "name": "hespenworst sneetjes",
+    "technicalArticleNumber": "3519678",
+    "commercialArticleNumber": "27271",
+    "LongName": "EVERYDAY hespenworst sneetjes 200g"
+  },
+  {
+    "gtin": "05400141374414",
+    "productId": "389996",
+    "name": "Prosciutto Crudo",
+    "description": "Voorgesneden product op basis van\ngezouten varkensbouten die minstens\n9 maanden rijpen. Op het einde van de\nrijpingsperiode worden de hammen\nuitgebeend, ontvet en geperst.",
+    "technicalArticleNumber": "3940955",
+    "commercialArticleNumber": "27621",
+    "LongName": "BONI Prosciutto Crudo 175g"
+  },
+  {
+    "gtin": "15400141040491",
+    "productId": "34199",
+    "name": "pizzadeeg gist",
+    "description": "*Kant- en klaar deeg",
+    "technicalArticleNumber": "1793047",
+    "commercialArticleNumber": "34049",
+    "LongName": "BONI pizzadeeg gist 260g"
+  },
+  {
+    "gtin": "05400141270396",
+    "productId": "470600",
+    "name": "surimisalade",
+    "technicalArticleNumber": "4067768",
+    "commercialArticleNumber": "27301",
+    "LongName": "EVERYDAY surimisalade 250g"
+  },
+  {
+    "gtin": "05400141338669",
+    "productId": "238113",
+    "name": "spekblokjes gezouten GV",
+    "description": "*Glutenvrij",
+    "technicalArticleNumber": "3536636",
+    "commercialArticleNumber": "27054",
+    "LongName": "BONI spekblokjes gezouten GV 2x100g"
+  },
+  {
+    "gtin": "15400141856108",
+    "productId": "206408",
+    "name": "salami zonder look GV",
+    "description": "*België\n*Salami zonder look\n*65,7 % vlees, gedroogd, gerookt\n*Boterham, aperitief\n*Glutenvrij",
+    "technicalArticleNumber": "3518226",
+    "commercialArticleNumber": "27154",
+    "LongName": "BONI salami zonder look GV 200g"
+  },
+  {
+    "gtin": "15400141652847",
+    "productId": "51863",
+    "name": "surimisticks",
+    "description": "*Wild, Litouwen\n*MSC",
+    "technicalArticleNumber": "2196909",
+    "commercialArticleNumber": "27750",
+    "LongName": "EVERYDAY surimisticks 4x100g"
+  },
+  {
+    "gtin": "05400141561012",
+    "productId": "159311",
+    "name": "chorizo zacht sneden",
+    "description": "*Spanje\n*93 % vlees",
+    "technicalArticleNumber": "3280065",
+    "commercialArticleNumber": "23363",
+    "LongName": "BONI chorizo zacht sneden 150g"
+  },
+  {
+    "gtin": "15400141456025",
+    "productId": "29693",
+    "name": "pizza bolognese",
+    "description": "*Met 4 %\nvarkensvlees\n*In de oven",
+    "technicalArticleNumber": "1903898",
+    "commercialArticleNumber": "35602",
+    "LongName": "EVERYDAY pizza bolognese 350g"
+  },
+  {
+    "gtin": "05400141293715",
+    "productId": "356500",
+    "name": "kip curry salade",
+    "description": "Salade op basis van kip met curry saus",
+    "technicalArticleNumber": "3856870",
+    "commercialArticleNumber": "27571",
+    "LongName": "EVERYDAY kip curry salade 250g"
+  },
+  {
+    "gtin": "95400141340597",
+    "productId": "114641",
+    "name": "Atl.zalmfilet graatloos",
+    "description": "*Aquacultuur uit\nNoorwegen",
+    "technicalArticleNumber": "3046600",
+    "commercialArticleNumber": "22612",
+    "LongName": "BONI Atl.zalmfilet graatloos 2x±180g"
+  },
+  {
+    "gtin": "05400141029314",
+    "productId": "460938",
+    "name": "Baconreepjes",
+    "technicalArticleNumber": "3951470",
+    "commercialArticleNumber": "27066",
+    "LongName": "BONI Baconreepjes 2x100g"
+  },
+  {
+    "gtin": "05400141852134",
+    "productId": "875380",
+    "name": "Beenham",
+    "technicalArticleNumber": "4730381",
+    "commercialArticleNumber": "32207",
+    "LongName": "BONI Beenham 250g"
+  },
+  {
+    "gtin": "05400141387940",
+    "productId": "595374",
+    "name": "mini gevogelte balletjes",
+    "technicalArticleNumber": "4256801",
+    "commercialArticleNumber": "27324",
+    "LongName": "BONI mini gevogelte balletjes 300g"
+  },
+  {
+    "gtin": "03154230814085",
+    "productId": "141734",
+    "name": "spekreepjes gerookt",
+    "description": "*Frankrijk\n*Gerookt",
+    "technicalArticleNumber": "3166596",
+    "commercialArticleNumber": "20641",
+    "LongName": "HERTA spekreepjes gerookt 2x100g"
+  },
+  {
+    "gtin": "05400141594973",
+    "productId": "11788",
+    "name": "Tortellini ricotta & spinazie",
+    "description": "*Verse pasta,\n40 % vulling:\nspinazie, ricotta\n*In de kookpot",
+    "technicalArticleNumber": "1389280",
+    "commercialArticleNumber": "27997",
+    "LongName": "BONI Tortellini ricotta & spinazie 500g"
+  },
+  {
+    "gtin": "05400141164510",
+    "productId": "2057",
+    "name": "kruimeldeeg",
+    "description": "*Kant- en klaar\n*Geschikt voor zoete\nbereidingen",
+    "technicalArticleNumber": "26105",
+    "commercialArticleNumber": "26105",
+    "LongName": "BONI kruimeldeeg 230g"
+  },
+  {
+    "gtin": "05400141958539",
+    "productId": "1882",
+    "name": "pannenkoeken 11st",
+    "technicalArticleNumber": "26444",
+    "commercialArticleNumber": "26444",
+    "LongName": "BONI pannenkoeken 11st 600g"
+  },
+  {
+    "gtin": "05400141615838",
+    "productId": "159125",
+    "name": "kipcurrysalade",
+    "description": "*49 % kip\n*Met currysaus",
+    "technicalArticleNumber": "3266123",
+    "commercialArticleNumber": "36561",
+    "LongName": "BONI kipcurrysalade 200g"
+  },
+  {
+    "gtin": "15400141911937",
+    "productId": "26080",
+    "name": "salami ministicks",
+    "description": "*Frankrijk\n*Droge worst\n*94 % varkensvlees,\nnatuurgerijpt",
+    "technicalArticleNumber": "1977593",
+    "commercialArticleNumber": "27015",
+    "LongName": "BONI salami ministicks 12st"
+  },
+  {
+    "gtin": "07613036942850",
+    "productId": "423892",
+    "name": "Superieur ham natuur 3 sn.",
+    "description": "*Frankrijk\n*Gekookte ham\n*Boterham, koude\nschotel",
+    "technicalArticleNumber": "3948261",
+    "commercialArticleNumber": "1759",
+    "LongName": "HERTA Superieur ham natuur 3 sn. 100g"
+  },
+  {
+    "gtin": "05400141321104",
+    "productId": "179494",
+    "name": "gehaktballen",
+    "description": "*België\n*Boterham, koude\nschotel",
+    "technicalArticleNumber": "3354197",
+    "commercialArticleNumber": "22426",
+    "LongName": "EVERYDAY gehaktballen 8x60g"
+  },
+  {
+    "gtin": "05400141191066",
+    "productId": "42661",
+    "name": "Prosciutto di Parma",
+    "description": "*Italië, IGP\n*Gedroogd\n*Boterham, koud\nbuffet, aperitief,\nvoorgerecht",
+    "technicalArticleNumber": "2489442",
+    "commercialArticleNumber": "39346",
+    "LongName": "BONI Prosciutto di Parma 90g"
+  },
+  {
+    "gtin": "05400141339536",
+    "productId": "2240",
+    "name": "gerookte forelfilet",
+    "description": "*Aquacultuur uit\nDenemarken\n*Traditioneel\ngerookt en gezouten",
+    "technicalArticleNumber": "27944",
+    "commercialArticleNumber": "27944",
+    "LongName": "BONI gerookte forelfilet 125g"
+  },
+  {
+    "gtin": "05400141027280",
+    "productId": "65304",
+    "name": "salami met look sneetjes",
+    "description": "*België\n*Salami met look\n*64 % vlees\n*Boterham, koude\nschotels",
+    "technicalArticleNumber": "2824416",
+    "commercialArticleNumber": "26558",
+    "LongName": "EVERYDAY salami met look sneetjes 225g"
+  },
+  {
+    "gtin": "05400141325218",
+    "productId": "128725",
+    "name": "kipfilet tuinkr. sneetjes",
+    "description": "*België\n*99 % kippenvlees",
+    "technicalArticleNumber": "3253279",
+    "commercialArticleNumber": "23554",
+    "LongName": "BONI kipfilet tuinkr. sneetjes 150g"
+  },
+  {
+    "gtin": "05400141902273",
+    "productId": "871031",
+    "name": "ontvette ham glutenvrij",
+    "description": "*\n*",
+    "technicalArticleNumber": "4724867",
+    "commercialArticleNumber": "5492",
+    "LongName": "BONI ontvette ham glutenvrij 300g"
+  },
+  {
+    "gtin": "05400141197358",
+    "productId": "21091",
+    "name": "droge worst mager",
+    "description": "*Frankrijk\n*Droge varkensworst\n*88,5 % varkensvlees",
+    "technicalArticleNumber": "1963547",
+    "commercialArticleNumber": "27345",
+    "LongName": "BONI droge worst mager 200g"
+  },
+  {
+    "gtin": "05400141351811",
+    "productId": "570389",
+    "name": "filet de saxe GV",
+    "description": "Boni filet de saxe glutenvrij",
+    "technicalArticleNumber": "4214928",
+    "commercialArticleNumber": "27227",
+    "LongName": "BONI filet de saxe GV 200g"
+  },
+  {
+    "gtin": "15400141364320",
+    "productId": "583010",
+    "name": "spek gerookt sneetjes",
+    "technicalArticleNumber": "4236539",
+    "commercialArticleNumber": "27175",
+    "LongName": "EVERYDAY spek gerookt sneetjes 250g"
+  },
+  {
+    "gtin": "05400141363777",
+    "productId": "581979",
+    "name": "Vleessalade",
+    "description": "Vleessalade op basis van een dressing,\nmet stukjes groenten (augurken,\najuin). Het vlees bestaat zowel uit\ngekookte worst als uit gekookte ham.\nAfkomstig uit ons eigen lastenboek",
+    "technicalArticleNumber": "4235082",
+    "commercialArticleNumber": "27172",
+    "LongName": "EVERYDAY Vleessalade 250g"
+  },
+  {
+    "gtin": "15400141856559",
+    "productId": "207323",
+    "name": "bacon sneetjes GV",
+    "description": "*Belgie\n*Licht gezout\n*Broodvulling, koude gerechten\n*Glutenvrij",
+    "technicalArticleNumber": "3519570",
+    "commercialArticleNumber": "27231",
+    "LongName": "BONI bacon sneetjes GV 200g"
+  },
+  {
+    "gtin": "05400141980196",
+    "productId": "470609",
+    "name": "Vleessalade | Zonder gluten",
+    "technicalArticleNumber": "4067777",
+    "commercialArticleNumber": "27786",
+    "LongName": "BONI Vleessalade | Zonder gluten 200g"
+  },
+  {
+    "gtin": "05400141781823",
+    "productId": "619294",
+    "name": "TONIJNSALADE",
+    "technicalArticleNumber": "4297075",
+    "commercialArticleNumber": "27083",
+    "LongName": "EVERYDAY TONIJNSALADE 250g"
+  },
+  {
+    "gtin": "05400141443905",
+    "productId": "861905",
+    "name": "pannenkoeken",
+    "technicalArticleNumber": "4712996",
+    "commercialArticleNumber": "29090",
+    "LongName": "EVERYDAY pannenkoeken 600g"
+  },
+  {
+    "gtin": "05400141507799",
+    "productId": "688915",
+    "name": "ontvette ham glutenvrij",
+    "description": "* Ontvette gekookte ham\n* Als broodbeleg, op koude schotel of\nwarme bereidingen\n* Gluttenvrij",
+    "technicalArticleNumber": "4414337",
+    "commercialArticleNumber": "27244",
+    "LongName": "BONI ontvette ham glutenvrij 500g"
+  },
+  {
+    "gtin": "07613034720825",
+    "productId": "141736",
+    "name": "spekreepjes natuur",
+    "description": "*Frankrijk\n*Rauwe ham",
+    "technicalArticleNumber": "3166599",
+    "commercialArticleNumber": "20603",
+    "LongName": "HERTA spekreepjes natuur 2x100g"
+  },
+  {
+    "gtin": "05400141321494",
+    "productId": "210560",
+    "name": "ontbijtspek gerookt sneden",
+    "description": "*België\n*Gerookt",
+    "technicalArticleNumber": "3520573",
+    "commercialArticleNumber": "27378",
+    "LongName": "BONI ontbijtspek gerookt sneden 250g"
+  },
+  {
+    "gtin": "15400141246121",
+    "productId": "476253",
+    "name": "salami zonder look",
+    "technicalArticleNumber": "3994070",
+    "commercialArticleNumber": "27667",
+    "LongName": "EVERYDAY salami zonder look 400g"
+  },
+  {
+    "gtin": "05400141319613",
+    "productId": "154409",
+    "name": "ham Zwartewoud",
+    "description": "*Duitsland\n*Boterham, koude\nschotel",
+    "technicalArticleNumber": "3278378",
+    "commercialArticleNumber": "18182",
+    "LongName": "BONI ham Zwartewoud 200g"
+  },
+  {
+    "gtin": "05400141618044",
+    "productId": "634658",
+    "name": "KIPFILET MET CURRY",
+    "description": "* Herkomst: België\n* 86% kippenvlees\n* Kipfilet met currymantel\n* Toepassing: Boterham, salade",
+    "technicalArticleNumber": "4323241",
+    "commercialArticleNumber": "27121",
+    "LongName": "BONI KIPFILET MET CURRY 150g"
+  },
+  {
+    "gtin": "15400141266235",
+    "productId": "354156",
+    "name": "vers pizzadeeg",
+    "description": "*Vers pizzadeeg\n*Uitgerold op bak-\npapier\n*29x38cm",
+    "technicalArticleNumber": "3876935",
+    "commercialArticleNumber": "22734",
+    "LongName": "BONI vers pizzadeeg 550g"
+  },
+  {
+    "gtin": "08410843079613",
+    "productId": "13638",
+    "name": "Fuetec",
+    "description": "*Spanje\n*Gedroogd",
+    "technicalArticleNumber": "1228438",
+    "commercialArticleNumber": "27032",
+    "LongName": "ELPOZO Fuetec 170g"
+  },
+  {
+    "gtin": "05400141797046",
+    "productId": "517668",
+    "name": "fuet sneden",
+    "technicalArticleNumber": "4099699",
+    "commercialArticleNumber": "27620",
+    "LongName": "BONI fuet sneden 150g"
+  },
+  {
+    "gtin": "05400141190892",
+    "productId": "85966",
+    "name": "Coppa",
+    "description": "*Italië\n*Gedroogd, gezouten,\nlicht gekruid",
+    "technicalArticleNumber": "2931679",
+    "commercialArticleNumber": "37012",
+    "LongName": "BONI Coppa 100g"
+  },
+  {
+    "gtin": "05400141027037",
+    "productId": "2112",
+    "name": "lasagne bolognese",
+    "description": "*Met 20 %\nvarkensvlees\n*In de oven,\nmicrogolfoven",
+    "technicalArticleNumber": "27874",
+    "commercialArticleNumber": "27874",
+    "LongName": "EVERYDAY lasagne bolognese 1kg"
+  },
+  {
+    "gtin": "05400141837766",
+    "productId": "710400",
+    "name": "GEROOKTE KIPFILET",
+    "description": "Gerookte kipfilet",
+    "technicalArticleNumber": "4451560",
+    "commercialArticleNumber": "27088",
+    "LongName": "BONI GEROOKTE KIPFILET 150g"
+  },
+  {
+    "gtin": "15400141539933",
+    "productId": "558471",
+    "name": "hamreepjes",
+    "technicalArticleNumber": "4194476",
+    "commercialArticleNumber": "27586",
+    "LongName": "BONI hamreepjes 200g"
+  },
+  {
+    "gtin": "05400141333831",
+    "productId": "436838",
+    "name": "gv tonijnsalade",
+    "technicalArticleNumber": "3981451",
+    "commercialArticleNumber": "27647",
+    "LongName": "BONI gv tonijnsalade 200g"
+  },
+  {
+    "gtin": "05400141971408",
+    "productId": "607333",
+    "name": "kippenvleesbrood",
+    "technicalArticleNumber": "4278189",
+    "commercialArticleNumber": "27053",
+    "LongName": "BONI kippenvleesbrood 200g"
+  },
+  {
+    "gtin": "05400141340563",
+    "productId": "87555",
+    "name": "Noorse gerookte zalm sneden",
+    "description": "*Aquacultuur uit\nNoorwegen\n*Subtiele rooksmaak\n*4 à 6 sneden\n*ASC-certificaat",
+    "technicalArticleNumber": "2963085",
+    "commercialArticleNumber": "38573",
+    "LongName": "BONI Noorse gerookte zalm sneden 140g"
+  },
+  {
+    "gtin": "15400141804864",
+    "productId": "547261",
+    "name": "tofu vegetarisch",
+    "description": "*Op basis van\nsojabonen\n*Vegan",
+    "technicalArticleNumber": "4175783",
+    "commercialArticleNumber": "11583",
+    "LongName": "BONI BIO tofu vegetarisch 250g"
+  },
+  {
+    "gtin": "05400141320480",
+    "productId": "206398",
+    "name": "Rosette sneetjes",
+    "description": "Zuiver varkensvlees en superieure\nkwaliteit.\nProduct gemaakt met 100% vers\nvarkensvlees van Franse origine.",
+    "technicalArticleNumber": "3518212",
+    "commercialArticleNumber": "27146",
+    "LongName": "BONI Rosette sneetjes 200g"
+  },
+  {
+    "gtin": "05400141319958",
+    "productId": "207641",
+    "name": "salami met look GV",
+    "description": "*Belgique\n*Salami à l'ail\n*65,3 % de viande, fumé, séché\n*Apéritif, pain\n*Glutenvrij",
+    "technicalArticleNumber": "3518339",
+    "commercialArticleNumber": "27230",
+    "LongName": "BONI salami met look GV 200g"
+  },
+  {
+    "gtin": "05411153010153",
+    "productId": "56018",
+    "name": "salade kip curry",
+    "description": "Salade met kip in currysaus",
+    "technicalArticleNumber": "2389273",
+    "commercialArticleNumber": "1710",
+    "LongName": "DÉLIO salade kip curry 200g"
+  },
+  {
+    "gtin": "05400141275803",
+    "productId": "556015",
+    "name": "CREMEPATE",
+    "description": "EVERYDAY CREMEPATE SNEDEN",
+    "technicalArticleNumber": "4190268",
+    "commercialArticleNumber": "27580",
+    "LongName": "EVERYDAY CREMEPATE 170g"
+  },
+  {
+    "gtin": "05400141726138",
+    "productId": "2115",
+    "name": "lasagne bolognese",
+    "description": "*Met 20 %\nvarkensvlees\n*In de oven,\nmicrogolfoven",
+    "technicalArticleNumber": "27877",
+    "commercialArticleNumber": "27877",
+    "LongName": "EVERYDAY lasagne bolognese 400g"
+  },
+  {
+    "gtin": "05400141539943",
+    "productId": "211817",
+    "name": "vleesbrood sneetjes",
+    "description": "*gebakken vleesbrood\n*85,5% vlees\n*boterhambeleg",
+    "technicalArticleNumber": "3521455",
+    "commercialArticleNumber": "27417",
+    "LongName": "BONI vleesbrood sneetjes 150g"
+  },
+  {
+    "gtin": "15400141320043",
+    "productId": "209259",
+    "name": "gezouten spek sneden GV",
+    "description": "*Glutenvrij",
+    "technicalArticleNumber": "3519623",
+    "commercialArticleNumber": "27256",
+    "LongName": "BONI gezouten spek sneden GV 250g"
+  },
+  {
+    "gtin": "15400141365785",
+    "productId": "175178",
+    "name": "Martino Spread licht gekr.",
+    "description": "*België\n*60,2 % varkensvlees\n*Met frietjes,\nboterham",
+    "technicalArticleNumber": "3375700",
+    "commercialArticleNumber": "14331",
+    "LongName": "BONI Martino Spread licht gekr. 200g"
+  },
+  {
+    "gtin": "05400141042276",
+    "productId": "10008",
+    "name": "Pancetta",
+    "description": "*Italië\n*Gedroogd, licht\ngekruid\n*Boterham, koud\nbuffet, antipasti",
+    "technicalArticleNumber": "1383991",
+    "commercialArticleNumber": "27959",
+    "LongName": "BONI Pancetta 100g"
+  },
+  {
+    "gtin": "15400141726166",
+    "productId": "2113",
+    "name": "lasagne bolognese 20% vlees",
+    "description": "*Met 20 % Belgisch\nvarkensvlees\n*In de oven,\nmicrogolfoven",
+    "technicalArticleNumber": "27875",
+    "commercialArticleNumber": "27875",
+    "LongName": "BONI lasagne bolognese 20% vlees 400g"
+  },
+  {
+    "gtin": "05400141698794",
+    "productId": "848220",
+    "name": "salade caeser",
+    "technicalArticleNumber": "4695490",
+    "commercialArticleNumber": "27562",
+    "LongName": "BONI salade caeser 400g"
+  },
+  {
+    "gtin": "04034900006806",
+    "productId": "81238",
+    "name": "baguette kruidenboter",
+    "description": "*Stokbrood,\nkruidenboter\n*In de oven",
+    "technicalArticleNumber": "2953758",
+    "commercialArticleNumber": "38902",
+    "LongName": "FARMLAND baguette kruidenboter 175g"
+  },
+  {
+    "gtin": "15400141781752",
+    "productId": "545436",
+    "name": "cervela 3st",
+    "technicalArticleNumber": "4172149",
+    "commercialArticleNumber": "27210",
+    "LongName": "EVERYDAY cervela 3st 450g"
+  },
+  {
+    "gtin": "05400141319576",
+    "productId": "158644",
+    "name": "chorizo licht pikant",
+    "description": "*Spanje\n*Pikant",
+    "technicalArticleNumber": "3281357",
+    "commercialArticleNumber": "44339",
+    "LongName": "BONI chorizo licht pikant 225g"
+  },
+  {
+    "gtin": "15400141975137",
+    "productId": "28435",
+    "name": "macaroni ham-kaas",
+    "description": "*Verse macaroni,\n57 % kaassaus,\n13 % ham\n*In de microgolfoven\noven",
+    "technicalArticleNumber": "2159577",
+    "commercialArticleNumber": "27025",
+    "LongName": "EVERYDAY macaroni ham-kaas 1kg"
+  },
+  {
+    "gtin": "05400141469608",
+    "productId": "84833",
+    "name": "kabeljauwburger graatl.MSC",
+    "description": "*Wild, noord-\noostelijk deel van\nAtlantische oceaan\n*Graatloos, 4 stuks\n*met label MSC",
+    "technicalArticleNumber": "2987649",
+    "commercialArticleNumber": "42189",
+    "LongName": "BONI kabeljauwburger graatl.MSC 4x100g"
+  },
+  {
+    "gtin": "05400141615845",
+    "productId": "159112",
+    "name": "kipsalade andalouse",
+    "description": "*49 % kip\n*Met andalousesaus",
+    "technicalArticleNumber": "3266094",
+    "commercialArticleNumber": "36560",
+    "LongName": "BONI kipsalade andalouse 200g"
+  },
+  {
+    "gtin": "05400141197679",
+    "productId": "120018",
+    "name": "spaghetti bolognese",
+    "description": "* Met 39 %\nvarkensvlees\n* Microgolfoven",
+    "technicalArticleNumber": "3073013",
+    "commercialArticleNumber": "31420",
+    "LongName": "BONI spaghetti bolognese 450g"
+  },
+  {
+    "gtin": "05400141196610",
+    "productId": "135444",
+    "name": "ontvette ham -25%z",
+    "description": "*België\n*97 % varkensvlees,\nontvet",
+    "technicalArticleNumber": "3204890",
+    "commercialArticleNumber": "43631",
+    "LongName": "BONI ontvette ham -25%z 150g"
+  },
+  {
+    "gtin": "03154230045984",
+    "productId": "2096",
+    "name": "Original",
+    "description": "*België",
+    "technicalArticleNumber": "27403",
+    "commercialArticleNumber": "27403",
+    "LongName": "HERTA KNACKI Original 10st"
+  },
+  {
+    "gtin": "05413848187331",
+    "productId": "17876",
+    "name": "lasagne bolognese",
+    "description": "*Met 18 %\nvarkensvlees\n*In de oven",
+    "technicalArticleNumber": "1762581",
+    "commercialArticleNumber": "33800",
+    "LongName": "COME A CASA lasagne bolognese 2x400g"
+  },
+  {
+    "gtin": "05400141337129",
+    "productId": "555305",
+    "name": "pepersalami sneetjes",
+    "technicalArticleNumber": "4189227",
+    "commercialArticleNumber": "14479",
+    "LongName": "EVERYDAY pepersalami sneetjes 200g"
+  },
+  {
+    "gtin": "15400141323808",
+    "productId": "109594",
+    "name": "peterselieworst sneden",
+    "description": "*België\n*Met kruiden en\npeterselie\n*64 % varkensvlees",
+    "technicalArticleNumber": "3100509",
+    "commercialArticleNumber": "20234",
+    "LongName": "BONI peterselieworst sneden 150g"
+  },
+  {
+    "gtin": "05400141384314",
+    "productId": "239393",
+    "name": "Serranoham Reserva 12m GV",
+    "description": "*Gedroogd Serranoham\nReserva ideaal als\naperitief, koude\nschotel of als tapas\n*Glutenvrij",
+    "technicalArticleNumber": "3539122",
+    "commercialArticleNumber": "27063",
+    "LongName": "BONI Serranoham Reserva 12m GV 200g"
+  },
+  {
+    "gtin": "05400141022681",
+    "productId": "131856",
+    "name": "tomatensoep met balletjes",
+    "description": "*Met tomaat,\n3,5% kippenballetjes\n*In de kookpot",
+    "technicalArticleNumber": "3188075",
+    "commercialArticleNumber": "26316",
+    "LongName": "BONI tomatensoep met balletjes 950ml"
+  },
+  {
+    "gtin": "07613036947404",
+    "productId": "90182",
+    "name": "ontbijtspek gerookt",
+    "description": "Ontbijtspek in sneetjes. Moet\ngebakken worden.",
+    "technicalArticleNumber": "2974552",
+    "commercialArticleNumber": "4324",
+    "LongName": "HERTA ontbijtspek gerookt 100g"
+  },
+  {
+    "gtin": "05400141784657",
+    "productId": "153191",
+    "name": "eiersalade",
+    "description": "*64 % gekookte\nscharreleieren\n*Met mayonaise",
+    "technicalArticleNumber": "3266353",
+    "commercialArticleNumber": "36580",
+    "LongName": "BONI eiersalade 200g"
+  },
+  {
+    "gtin": "05400141413700",
+    "productId": "609068",
+    "name": "CHIFFONADE KIPFILET",
+    "technicalArticleNumber": "4280979",
+    "commercialArticleNumber": "27055",
+    "LongName": "BONI CHIFFONADE KIPFILET 110g"
+  },
+  {
+    "gtin": "05400141700350",
+    "productId": "131865",
+    "name": "kippensoep",
+    "description": "*3,5 % kippenvlees\n*In de kookpot",
+    "technicalArticleNumber": "3188100",
+    "commercialArticleNumber": "26397",
+    "LongName": "BONI kippensoep 950ml"
+  },
+  {
+    "gtin": "05400141564556",
+    "productId": "800087",
+    "name": "droge worsten 5st",
+    "technicalArticleNumber": "4613788",
+    "commercialArticleNumber": "10262",
+    "LongName": "EVERYDAY droge worsten 5st 5x55g"
+  },
+  {
+    "gtin": "05400141850444",
+    "productId": "824004",
+    "name": "gebraden kipfilet stukjes",
+    "technicalArticleNumber": "4659786",
+    "commercialArticleNumber": "29804",
+    "LongName": "BONI gebraden kipfilet stukjes 150g"
+  },
+  {
+    "gtin": "15400141763314",
+    "productId": "2167",
+    "name": "haringfilet op azijn MSC",
+    "description": "*Wild, noord-\noostelijk deel van\nAtlantische oceaan\n*met label MSC",
+    "technicalArticleNumber": "27067",
+    "commercialArticleNumber": "27067",
+    "LongName": "EVERYDAY haringfilet op azijn MSC 330g"
+  },
+  {
+    "gtin": "95400141271808",
+    "productId": "2085",
+    "name": "hespenworst",
+    "description": "*België\n*Boterham, koude\nschotel",
+    "technicalArticleNumber": "27180",
+    "commercialArticleNumber": "27180",
+    "LongName": "EVERYDAY hespenworst 400g"
+  },
+  {
+    "gtin": "15400141777793",
+    "productId": "806791",
+    "name": "poffertjes",
+    "technicalArticleNumber": "4627284",
+    "commercialArticleNumber": "7035",
+    "LongName": "BONI poffertjes 50st"
+  },
+  {
+    "gtin": "05400141804263",
+    "productId": "793545",
+    "name": "Gnocchi om te bakken",
+    "description": "*Om te bakken",
+    "technicalArticleNumber": "4601440",
+    "commercialArticleNumber": "9877",
+    "LongName": "BONI Gnocchi om te bakken 300g"
+  },
+  {
+    "gtin": "05400141937978",
+    "productId": "854576",
+    "name": "Ringworst",
+    "technicalArticleNumber": "4703608",
+    "commercialArticleNumber": "31271",
+    "LongName": "BONI Ringworst 150g"
+  },
+  {
+    "gtin": "04037473900014",
+    "productId": "2108",
+    "name": "cheeseburger",
+    "description": "*Met 51 % varkens-,\nrundsvlees,\n10 % cheddar\n*In de microgolfoven\noven",
+    "technicalArticleNumber": "27862",
+    "commercialArticleNumber": "27862",
+    "LongName": "EVERYDAY cheeseburger 2x148g"
+  },
+  {
+    "gtin": "05411123600261",
+    "productId": "11370",
+    "name": "worst gekookt",
+    "description": "*België\n*Assortiment:\npikant, normaal\n*Warme,koude bereid.",
+    "technicalArticleNumber": "1408642",
+    "commercialArticleNumber": "27622",
+    "LongName": "CHATAR worst gekookt 3x280g"
+  },
+  {
+    "gtin": "15400141535836",
+    "productId": "2100",
+    "name": "capelletti vlees",
+    "description": "*Verse pasta,\n36 % vulling:\nvarkensvlees\n*In de kookpot",
+    "technicalArticleNumber": "27801",
+    "commercialArticleNumber": "27801",
+    "LongName": "BONI capelletti vlees 500g"
+  },
+  {
+    "gtin": "05400141697131",
+    "productId": "794730",
+    "name": "Schotse gerookte zalm sneden",
+    "description": "*4 - 6 sneden\n*Volle rooksmaak",
+    "technicalArticleNumber": "4603313",
+    "commercialArticleNumber": "13405",
+    "LongName": "BONI Schotse gerookte zalm sneden 130g"
+  },
+  {
+    "gtin": "05400141801163",
+    "productId": "873466",
+    "name": "Gekookte ham zonder nitriet",
+    "description": "*België",
+    "technicalArticleNumber": "4728356",
+    "commercialArticleNumber": "30762",
+    "LongName": "BONI Gekookte ham zonder nitriet 150g"
+  },
+  {
+    "gtin": "05400141902280",
+    "productId": "871157",
+    "name": "achterham",
+    "description": "*\n*",
+    "technicalArticleNumber": "4725198",
+    "commercialArticleNumber": "8383",
+    "LongName": "EVERYDAY achterham 200g"
+  },
+  {
+    "gtin": "15400141539193",
+    "productId": "798974",
+    "name": "miniworstjes ±30st",
+    "description": "*Frankrijk\n*Droge worst\n*Aperitief,\npicknick, koud\nbuffet",
+    "technicalArticleNumber": "4611949",
+    "commercialArticleNumber": "9306",
+    "LongName": "BONI miniworstjes ±30st 180g"
+  },
+  {
+    "gtin": "05400141351415",
+    "productId": "162232",
+    "name": "kipsalade Hawaï",
+    "description": "*49 % kip\n*Met ananas",
+    "technicalArticleNumber": "3266163",
+    "commercialArticleNumber": "36575",
+    "LongName": "BONI kipsalade Hawaï 200g"
+  },
+  {
+    "gtin": "05400141322545",
+    "productId": "238093",
+    "name": "Coppa varkensreepjes",
+    "description": "gerookt varkensvlees",
+    "technicalArticleNumber": "3536613",
+    "commercialArticleNumber": "27039",
+    "LongName": "BONI Coppa varkensreepjes 2x100g"
+  },
+  {
+    "gtin": "05400141445091",
+    "productId": "388909",
+    "name": "pikante tonijnsalade",
+    "technicalArticleNumber": "3935316",
+    "commercialArticleNumber": "27608",
+    "LongName": "BONI pikante tonijnsalade 200g"
+  },
+  {
+    "gtin": "05400141191158",
+    "productId": "47030",
+    "name": "kalkoensalami gerookt sn.",
+    "description": "*98 % vlees,\nlicht gerookt",
+    "technicalArticleNumber": "2522006",
+    "commercialArticleNumber": "14236",
+    "LongName": "EVERYDAY kalkoensalami gerookt sn. 200g"
+  },
+  {
+    "gtin": "05425005031401",
+    "productId": "11493",
+    "name": "bladerdeeg Fillo",
+    "description": "*Hallal\n*Geschikt voor zoete\nen hartige\nbereidingen",
+    "technicalArticleNumber": "1411627",
+    "commercialArticleNumber": "28287",
+    "LongName": "SWEET HELLAS bladerdeeg Fillo 500g"
+  },
+  {
+    "gtin": "05413848131914",
+    "productId": "32842",
+    "name": "lasagne bolognese",
+    "description": "*Met 18 %\nvarkensvlees\n*In de oven",
+    "technicalArticleNumber": "1859397",
+    "commercialArticleNumber": "35600",
+    "LongName": "COME A CASA lasagne bolognese 1kg"
+  },
+  {
+    "gtin": "05400141321142",
+    "productId": "207625",
+    "name": "Ardeense worst sneetjes",
+    "description": "*België\n*68 % vlees, gerookt, gedroogd\n*Als broodbelg, salade, picknik",
+    "technicalArticleNumber": "3518318",
+    "commercialArticleNumber": "27226",
+    "LongName": "BONI Ardeense worst sneetjes 150g"
+  },
+  {
+    "gtin": "35400141340557",
+    "productId": "87556",
+    "name": "Noorse gerookte zalm sneden",
+    "description": "*Aquacultuur uit\nNoorwegen\n*Subtiele rooksmaak\n*8 à 12 sneden\n*ASC-certificaat",
+    "technicalArticleNumber": "2963097",
+    "commercialArticleNumber": "38571",
+    "LongName": "BONI Noorse gerookte zalm sneden 280g"
+  },
+  {
+    "gtin": "05400141804430",
+    "productId": "443680",
+    "name": "gv kipsalade",
+    "technicalArticleNumber": "3980624",
+    "commercialArticleNumber": "27418",
+    "LongName": "BONI gv kipsalade 200g"
+  },
+  {
+    "gtin": "03154230808916",
+    "productId": "150014",
+    "name": "Authentique ham natuur sn.",
+    "description": "*Frankrijk\n*Boterham, koude\nschotel",
+    "technicalArticleNumber": "3310747",
+    "commercialArticleNumber": "31533",
+    "LongName": "HERTA Authentique ham natuur sn. 200g"
+  },
+  {
+    "gtin": "05400141876741",
+    "productId": "848908",
+    "name": "boerenham",
+    "description": "*Gezouten\n*10m. gedroogde ham",
+    "technicalArticleNumber": "4696254",
+    "commercialArticleNumber": "30737",
+    "LongName": "BONI boerenham 150g"
+  },
+  {
+    "gtin": "05400141807455",
+    "productId": "389982",
+    "name": "tonijn cocktail",
+    "technicalArticleNumber": "3940924",
+    "commercialArticleNumber": "27619",
+    "LongName": "BONI tonijn cocktail 200g"
+  },
+  {
+    "gtin": "05400141802399",
+    "productId": "153925",
+    "name": "pitasalade",
+    "description": "*47 % varkensvlees\n*Met mayonaise",
+    "technicalArticleNumber": "3266801",
+    "commercialArticleNumber": "36581",
+    "LongName": "BONI pitasalade 200g"
+  },
+  {
+    "gtin": "95400141756596",
+    "productId": "737753",
+    "name": "kabeljauwhaasje graatl. MSC",
+    "description": "*Wild, noordooste-\nlijk deel van de\nAtlantische Oceaan\n*met label MSC",
+    "technicalArticleNumber": "4500345",
+    "commercialArticleNumber": "1393",
+    "LongName": "BONI kabeljauwhaasje graatl. MSC ±200g"
+  },
+  {
+    "gtin": "05400141322224",
+    "productId": "341600",
+    "name": "Bolzano salami",
+    "description": "Milde salami in smaak met fijn gemalen\nstukjes vlees omhuld door een zwarte\ndarm, versneden in plakjes.",
+    "technicalArticleNumber": "3832089",
+    "commercialArticleNumber": "27159",
+    "LongName": "BONI Bolzano salami 200g"
+  },
+  {
+    "gtin": "05400141718072",
+    "productId": "862942",
+    "name": "Vegan gehakt",
+    "technicalArticleNumber": "4714343",
+    "commercialArticleNumber": "31890",
+    "LongName": "BONI Vegan gehakt 200g"
+  },
+  {
+    "gtin": "05400141512205",
+    "productId": "848211",
+    "name": "salade kip, pasta & dressing",
+    "technicalArticleNumber": "4695476",
+    "commercialArticleNumber": "27556",
+    "LongName": "BONI salade kip, pasta & dressing 400g"
+  },
+  {
+    "gtin": "05400141042719",
+    "productId": "2865",
+    "name": "kippenhapjes",
+    "description": "*Gemarineerde en\ngebraden\nkippevleugeltjes\n*In de microgolfoven\noven, BBQ of koud",
+    "technicalArticleNumber": "1015143",
+    "commercialArticleNumber": "27425",
+    "LongName": "BONI kippenhapjes 500g"
+  },
+  {
+    "gtin": "05400141473971",
+    "productId": "46610",
+    "name": "balletjes vegetarisch",
+    "description": "*Balletjes",
+    "technicalArticleNumber": "2493299",
+    "commercialArticleNumber": "39379",
+    "LongName": "BONI balletjes vegetarisch 204g"
+  },
+  {
+    "gtin": "05400141322453",
+    "productId": "243817",
+    "name": "boerenpaté",
+    "description": "Deze pastei is zeer snijbaar en laat\nzich heel gemakkelijk op de boterham\nleggen. Is een typisch vlaams\noriginele boerenpastei.",
+    "technicalArticleNumber": "3520841",
+    "commercialArticleNumber": "27413",
+    "LongName": "BONI boerenpaté 200g"
+  },
+  {
+    "gtin": "03154230808930",
+    "productId": "152013",
+    "name": "Superieur ham natuur sn.",
+    "description": "*Frankrijk\n*Boterham, koude\nschotel",
+    "technicalArticleNumber": "3281592",
+    "commercialArticleNumber": "31734",
+    "LongName": "HERTA Superieur ham natuur sn. 340g"
+  },
+  {
+    "gtin": "05400141320442",
+    "productId": "206279",
+    "name": "gevogelteworst sneetjes",
+    "technicalArticleNumber": "3518180",
+    "commercialArticleNumber": "27108",
+    "LongName": "BONI gevogelteworst sneetjes 150g"
+  },
+  {
+    "gtin": "15400141963684",
+    "productId": "103884",
+    "name": "macaroni ham-4 kazen",
+    "description": "*Met 4 % emmentaler,\n1,8 % gorgonzola,\n1,6 % mozzarella,\n1% pecorino, 12% ham\n*In de (micro)oven",
+    "technicalArticleNumber": "3089635",
+    "commercialArticleNumber": "31393",
+    "LongName": "BONI macaroni ham-4 kazen 400g"
+  },
+  {
+    "gtin": "15413848532114",
+    "productId": "148417",
+    "name": "gevogelteworst sneetjes",
+    "technicalArticleNumber": "3325853",
+    "commercialArticleNumber": "4921",
+    "LongName": "MAYA gevogelteworst sneetjes 100g"
+  },
+  {
+    "gtin": "05411761359972",
+    "productId": "788689",
+    "name": "Disney kipworstj familypack",
+    "description": "*Familypack",
+    "technicalArticleNumber": "4592818",
+    "commercialArticleNumber": "29149",
+    "LongName": "AOSTE Disney kipworstj familypack 240g"
+  },
+  {
+    "gtin": "05400141491968",
+    "productId": "859830",
+    "name": "salami Milano GV",
+    "description": "*Glutenvrij",
+    "technicalArticleNumber": "4710390",
+    "commercialArticleNumber": "3091",
+    "LongName": "BONI salami Milano GV 150g"
+  },
+  {
+    "gtin": "05400141319699",
+    "productId": "164152",
+    "name": "Parijse worst sneetjes",
+    "technicalArticleNumber": "3386085",
+    "commercialArticleNumber": "34028",
+    "LongName": "BONI Parijse worst sneetjes 150g"
+  },
+  {
+    "gtin": "05400141850116",
+    "productId": "643692",
+    "name": "strassbourg",
+    "description": "- Broodbeleg\n- Varkenvlees",
+    "technicalArticleNumber": "4338625",
+    "commercialArticleNumber": "27139",
+    "LongName": "BONI strassbourg 200g"
+  },
+  {
+    "gtin": "04034900036810",
+    "productId": "782402",
+    "name": "baguette lookboter",
+    "technicalArticleNumber": "4579503",
+    "commercialArticleNumber": "1192",
+    "LongName": "FARMLAND baguette lookboter 175g"
+  },
+  {
+    "gtin": "05400141451313",
+    "productId": "629674",
+    "name": "serranoham met roomkaas",
+    "description": "*Rolletje van\nserranoham\nmet roomkaas naturel",
+    "technicalArticleNumber": "4314887",
+    "commercialArticleNumber": "23833",
+    "LongName": "BONI serranoham met roomkaas 100g"
+  },
+  {
+    "gtin": "15400141715153",
+    "productId": "341795",
+    "name": "Wrap kip pesto",
+    "description": "*Wrap met gerooster.\nkipblokjes,mayonaise\nspitskool, tomaat,\ngroene pesto, zonge-\ndroogde tomaten",
+    "technicalArticleNumber": "3734511",
+    "commercialArticleNumber": "41076",
+    "LongName": "BONI Wrap kip pesto 170g"
+  },
+  {
+    "gtin": "15411153010112",
+    "productId": "137841",
+    "name": "Vleessalade",
+    "description": "Smeersalade met vlees",
+    "technicalArticleNumber": "3173760",
+    "commercialArticleNumber": "37159",
+    "LongName": "DÉLIO Vleessalade 200g"
+  },
+  {
+    "gtin": "05400141325560",
+    "productId": "158382",
+    "name": "salade krab surimi",
+    "description": "*10 % krab,\n40 % surimi\n*Met mayonaise",
+    "technicalArticleNumber": "3266006",
+    "commercialArticleNumber": "36492",
+    "LongName": "BONI salade krab surimi 200g"
+  },
+  {
+    "gtin": "15400141838814",
+    "productId": "90857",
+    "name": "pizza Prosciutto",
+    "description": "*Ham, emmentaler\n*In de oven",
+    "technicalArticleNumber": "2953647",
+    "commercialArticleNumber": "38784",
+    "LongName": "EVERYDAY pizza Prosciutto 450g"
+  },
+  {
+    "gtin": "05410573002274",
+    "productId": "482708",
+    "name": "bladerdeeg",
+    "description": "*Vers bladerdeeg\n*Met margarine\n*Rond\n*Met bakpapier",
+    "technicalArticleNumber": "3998305",
+    "commercialArticleNumber": "1110",
+    "LongName": "HERTA bladerdeeg 230g"
+  },
+  {
+    "gtin": "05411761273216",
+    "productId": "290533",
+    "name": "Disney Mickey kippenworst 5st",
+    "description": "*Mickey kippen-\nworstjes\n*5x30g",
+    "technicalArticleNumber": "3679825",
+    "commercialArticleNumber": "27454",
+    "LongName": "AOSTE Disney Mickey kippenworst 5st 150g"
+  },
+  {
+    "gtin": "05400141321395",
+    "productId": "210528",
+    "name": "Cobourg ham gerookt",
+    "description": "*België\n*Ham\n*Gerookt\n*Boterham, koud\nbuffet",
+    "technicalArticleNumber": "3520497",
+    "commercialArticleNumber": "27377",
+    "LongName": "BONI Cobourg ham gerookt 225g"
+  },
+  {
+    "gtin": "05400141790184",
+    "productId": "158481",
+    "name": "groentesalade",
+    "description": "*57 % groentemix\n*Met mayonaise",
+    "technicalArticleNumber": "3266009",
+    "commercialArticleNumber": "36486",
+    "LongName": "BONI groentesalade 200g"
+  },
+  {
+    "gtin": "05400141650235",
+    "productId": "207235",
+    "name": "salami fijnkost",
+    "description": "*België\n*66 % vlees,\ngedroogd, gerookt",
+    "technicalArticleNumber": "3520652",
+    "commercialArticleNumber": "27399",
+    "LongName": "BONI salami fijnkost 300g"
+  },
+  {
+    "gtin": "05410916119461",
+    "productId": "25300",
+    "name": "Bistro Patron droge worst",
+    "description": "*België\n*Droge worst",
+    "technicalArticleNumber": "1889967",
+    "commercialArticleNumber": "35802",
+    "LongName": "AOSTE Bistro Patron droge worst 230g"
+  },
+  {
+    "gtin": "05400141513110",
+    "productId": "839770",
+    "name": "garnalen Jumbo ASC",
+    "description": "*Aquacultuur uit\nVietnam, Honduras,\nVenezuela, Ecuador\nIndonesië\n*met label ASC",
+    "technicalArticleNumber": "4683468",
+    "commercialArticleNumber": "6017",
+    "LongName": "BONI garnalen Jumbo ASC 150g"
+  },
+  {
+    "gtin": "05400141042894",
+    "productId": "62607",
+    "name": "lasagne bolognese",
+    "description": "*Met 20 % Belgisch\nvarkensvlees, met\nItaliaanse tomaten\n*In de oven,\nmicrogolfoven",
+    "technicalArticleNumber": "2785795",
+    "commercialArticleNumber": "32561",
+    "LongName": "BONI lasagne bolognese 1kg"
+  },
+  {
+    "gtin": "05400141187397",
+    "productId": "43654",
+    "name": "worstenbrood",
+    "description": "*Met 43% frikandel\n*In de oven",
+    "technicalArticleNumber": "2428191",
+    "commercialArticleNumber": "22811",
+    "LongName": "BONI worstenbrood 2x125g"
+  },
+  {
+    "gtin": "05400141419108",
+    "productId": "618057",
+    "name": "pandaworst",
+    "technicalArticleNumber": "4294997",
+    "commercialArticleNumber": "27080",
+    "LongName": "BONI pandaworst 100g"
+  },
+  {
+    "gtin": "05400141378566",
+    "productId": "108735",
+    "name": "3 haring maatjes met ui MSC",
+    "description": "*Gevangen in NO deel\nAtlantische Oceaan.\n*Schoongemaakte\nharing, met ui\n*met label MSC",
+    "technicalArticleNumber": "3152633",
+    "commercialArticleNumber": "16743",
+    "LongName": "BONI 3 haring maatjes met ui MSC"
+  },
+  {
+    "gtin": "05425007096569",
+    "productId": "123100",
+    "name": "miniworstjes parmezaan",
+    "description": "*Frankrijk\n*Met parmezaan\n*Aperitief, snack,\ntapas",
+    "technicalArticleNumber": "3213374",
+    "commercialArticleNumber": "15189",
+    "LongName": "BONI miniworstjes parmezaan 150g"
+  },
+  {
+    "gtin": "05400141894912",
+    "productId": "158653",
+    "name": "chorizo zacht",
+    "description": "*Spanje\n*Zacht",
+    "technicalArticleNumber": "3281372",
+    "commercialArticleNumber": "44337",
+    "LongName": "BONI chorizo zacht 225g"
+  },
+  {
+    "gtin": "05400141364217",
+    "productId": "549854",
+    "name": "kalfsworst",
+    "technicalArticleNumber": "4179690",
+    "commercialArticleNumber": "27409",
+    "LongName": "BONI kalfsworst 200g"
+  },
+  {
+    "gtin": "05400141589740",
+    "productId": "11787",
+    "name": "Cappelletti met rauwe ham",
+    "description": "*Verse pasta,\n36 % vulling: rauwe\nham\n*In de kookpot",
+    "technicalArticleNumber": "1389274",
+    "commercialArticleNumber": "27963",
+    "LongName": "BONI Cappelletti met rauwe ham 500g"
+  },
+  {
+    "gtin": "05411328055798",
+    "productId": "53633",
+    "name": "crèmepaté",
+    "description": "*België",
+    "technicalArticleNumber": "2359965",
+    "commercialArticleNumber": "26238",
+    "LongName": "AOSTE crèmepaté 150g"
+  },
+  {
+    "gtin": "05400141074628",
+    "productId": "2101",
+    "name": "Tagliatelle met verse eieren",
+    "description": "*Verse pasta\n*In de kookpot",
+    "technicalArticleNumber": "27805",
+    "commercialArticleNumber": "27805",
+    "LongName": "BONI Tagliatelle met verse eieren 500g"
+  },
+  {
+    "gtin": "05400141535853",
+    "productId": "269386",
+    "name": "Focaccia tomaat basilicum",
+    "description": "*Met tomaat en\nbasilicum\n*8-10 minuten in\nde oven op 180°C",
+    "technicalArticleNumber": "3635306",
+    "commercialArticleNumber": "31093",
+    "LongName": "BONI Focaccia tomaat basilicum 2x165g"
+  },
+  {
+    "gtin": "05400141355543",
+    "productId": "143556",
+    "name": "filet d'Anvers",
+    "description": "*België\n*Gerookt, gezouten\n*Boterham, carpaccio",
+    "technicalArticleNumber": "3304577",
+    "commercialArticleNumber": "26640",
+    "LongName": "BONI filet d'Anvers 150g"
+  },
+  {
+    "gtin": "05400141585124",
+    "productId": "892931",
+    "name": "Nuggets vegan",
+    "technicalArticleNumber": "4754897",
+    "commercialArticleNumber": "4861",
+    "LongName": "BONI Nuggets vegan 200g"
+  },
+  {
+    "gtin": "05400141433685",
+    "productId": "795500",
+    "name": "gerookte makreel",
+    "technicalArticleNumber": "4604865",
+    "commercialArticleNumber": "21687",
+    "LongName": "BONI gerookte makreel 300g"
+  },
+  {
+    "gtin": "00000087244335",
+    "productId": "38072",
+    "name": "lunchworst GV",
+    "description": "*Nederland\n*Gekookt, gerookt\n*100 % varkensvlees\n*Boterham, snack\n*Glutenvrij",
+    "technicalArticleNumber": "1800015",
+    "commercialArticleNumber": "34155",
+    "LongName": "ZANDVLIET lunchworst GV 350g"
+  },
+  {
+    "gtin": "05400141550283",
+    "productId": "340391",
+    "name": "focaccia kruidenboter",
+    "description": "*broodproduct met\nknoflook, mozzarella",
+    "technicalArticleNumber": "3820839",
+    "commercialArticleNumber": "40508",
+    "LongName": "BONI focaccia kruidenboter 300g"
+  },
+  {
+    "gtin": "15400141372417",
+    "productId": "422003",
+    "name": "San Daniel",
+    "description": "San Daniele, à partir de cuisses de\nporc national, salées et affinées dans\nune zone typique pour une période de\n14 mois minimum. A la fin de\nl'affinage, le jambons sont désossés,",
+    "technicalArticleNumber": "3936838",
+    "commercialArticleNumber": "27613",
+    "LongName": "BONI San Daniel 90g"
+  },
+  {
+    "gtin": "95400141036872",
+    "productId": "103239",
+    "name": "kabeljauwfilet graatloos MSC",
+    "description": "*Wild, noord-\noostelijk deel van\nAtlantische oceaan\n*Graatloos, 2 stuks\n*met label MSC",
+    "technicalArticleNumber": "3086336",
+    "commercialArticleNumber": "40227",
+    "LongName": "BONI kabeljauwfilet graatloos MSC ±300g"
+  },
+  {
+    "gtin": "05400141071832",
+    "productId": "102300",
+    "name": "spekrepen kalkoen gerookt",
+    "description": "*België\n*Gerookt",
+    "technicalArticleNumber": "3115202",
+    "commercialArticleNumber": "42878",
+    "LongName": "BONI spekrepen kalkoen gerookt 2x75g"
+  },
+  {
+    "gtin": "08001665720373",
+    "productId": "907665",
+    "name": "gnocchi",
+    "technicalArticleNumber": "4758895",
+    "commercialArticleNumber": "3013",
+    "LongName": "RANA gnocchi 400g"
+  },
+  {
+    "gtin": "05400141158854",
+    "productId": "122359",
+    "name": "Minestrone",
+    "description": "Verse minestronesoep. Opwarmen in een\nsteelpannetje of in de microgolfoven.",
+    "technicalArticleNumber": "3188225",
+    "commercialArticleNumber": "26734",
+    "LongName": "BONI Minestrone 950ml"
+  },
+  {
+    "gtin": "05420030616371",
+    "productId": "809242",
+    "name": "duopack salami-kaas",
+    "technicalArticleNumber": "4631489",
+    "commercialArticleNumber": "10978",
+    "LongName": "DELIMELO duopack salami-kaas 325g"
+  },
+  {
+    "gtin": "05400141042603",
+    "productId": "120015",
+    "name": "Tagliatelle carbonara",
+    "description": "* 9 % spekblokjes\n* Microgolfoven",
+    "technicalArticleNumber": "3073005",
+    "commercialArticleNumber": "31434",
+    "LongName": "BONI Tagliatelle carbonara 450g"
+  },
+  {
+    "gtin": "05400141339550",
+    "productId": "118038",
+    "name": "ansjovisfilet olie nat. MSC",
+    "description": "*Wild, Middellandse\nen Zwarte zee\n*met label MSC",
+    "technicalArticleNumber": "3072106",
+    "commercialArticleNumber": "8541",
+    "LongName": "BONI ansjovisfilet olie nat. MSC 200g"
+  },
+  {
+    "gtin": "05400141421019",
+    "productId": "118023",
+    "name": "quiche lorraine",
+    "description": "*Eieren, 7,3 % spek,\n7,3 % ham, ui\n*In de oven",
+    "technicalArticleNumber": "3072068",
+    "commercialArticleNumber": "31350",
+    "LongName": "BONI quiche lorraine 300g"
+  },
+  {
+    "gtin": "05400141325683",
+    "productId": "11423",
+    "name": "gekookte ham",
+    "description": "*België\n*Gekookt\n*Boterham, koud\nbuffet, in salades,\nwarme gerechten",
+    "technicalArticleNumber": "1373450",
+    "commercialArticleNumber": "27447",
+    "LongName": "BONI BIO gekookte ham 150g"
+  },
+  {
+    "gtin": "03154230813965",
+    "productId": "159973",
+    "name": "spekblokjes gerookt",
+    "description": "*Frankrijk\n*Gerookt",
+    "technicalArticleNumber": "3286566",
+    "commercialArticleNumber": "32979",
+    "LongName": "HERTA spekblokjes gerookt 200g"
+  },
+  {
+    "gtin": "15400141828624",
+    "productId": "90879",
+    "name": "pizza 3 formaggi",
+    "description": "*Emmentaler, cheddar\nmozzarella\n*In de oven",
+    "technicalArticleNumber": "2953703",
+    "commercialArticleNumber": "38785",
+    "LongName": "EVERYDAY pizza 3 formaggi 450g"
+  },
+  {
+    "gtin": "05400141241563",
+    "productId": "436841",
+    "name": "gv scampi dille",
+    "technicalArticleNumber": "3981454",
+    "commercialArticleNumber": "27656",
+    "LongName": "BONI gv scampi dille 160g"
+  },
+  {
+    "gtin": "15400141912514",
+    "productId": "98629",
+    "name": "paardenfilet sneetjes",
+    "description": "*België\n*Gerookt, gezouten",
+    "technicalArticleNumber": "2806661",
+    "commercialArticleNumber": "17446",
+    "LongName": "BONI paardenfilet sneetjes 150g"
+  },
+  {
+    "gtin": "07290012521317",
+    "productId": "86590",
+    "name": "rondo spin-kaas veg",
+    "description": "*Burger\n*Met spinazie,\nvegetarische kaas,\nbasilicum\n*Veggie",
+    "technicalArticleNumber": "2947752",
+    "commercialArticleNumber": "3425",
+    "LongName": "GARDEN GOURMET rondo spin-kaas veg 180g"
+  },
+  {
+    "gtin": "05400141449273",
+    "productId": "339577",
+    "name": "wokreepjes vegetarisch",
+    "description": "*Op basis van\nplantaardige\neiwitten",
+    "technicalArticleNumber": "3822762",
+    "commercialArticleNumber": "21126",
+    "LongName": "BONI wokreepjes vegetarisch 200g"
+  },
+  {
+    "gtin": "05411153009089",
+    "productId": "83511",
+    "name": "tonijnsalade",
+    "description": "Salade met tonijn en ei",
+    "technicalArticleNumber": "2935833",
+    "commercialArticleNumber": "38797",
+    "LongName": "DÉLIO tonijnsalade 180g"
+  },
+  {
+    "gtin": "05400141433678",
+    "productId": "795505",
+    "name": "gerookte makreelhaasje",
+    "technicalArticleNumber": "4604975",
+    "commercialArticleNumber": "21822",
+    "LongName": "BONI gerookte makreelhaasje 150g"
+  },
+  {
+    "gtin": "05400141615807",
+    "productId": "162235",
+    "name": "kipsalade Mexicana",
+    "description": "*49 % kip\n*Met Mexicaanse saus",
+    "technicalArticleNumber": "3266168",
+    "commercialArticleNumber": "36577",
+    "LongName": "BONI kipsalade Mexicana 200g"
+  },
+  {
+    "gtin": "05400141343403",
+    "productId": "556005",
+    "name": "Boerenpaté",
+    "description": "Halfgrove paté in snede 170g",
+    "technicalArticleNumber": "4190258",
+    "commercialArticleNumber": "27567",
+    "LongName": "EVERYDAY Boerenpaté 170g"
+  },
+  {
+    "gtin": "05400141445312",
+    "productId": "126107",
+    "name": "blokpaté sneetjes",
+    "description": "*België\n*Boterham,\naperitief, op toast",
+    "technicalArticleNumber": "3228386",
+    "commercialArticleNumber": "35938",
+    "LongName": "BONI blokpaté sneetjes 150g"
+  },
+  {
+    "gtin": "15400141941019",
+    "productId": "98930",
+    "name": "gerookte heilbot sneden",
+    "description": "*Wild",
+    "technicalArticleNumber": "2902456",
+    "commercialArticleNumber": "8563",
+    "LongName": "BONI gerookte heilbot sneden 150g"
+  },
+  {
+    "gtin": "05410916343217",
+    "productId": "57357",
+    "name": "saucis.d'Arden.IGP z.look",
+    "description": "*België\n*Salami zonder look",
+    "technicalArticleNumber": "2339942",
+    "commercialArticleNumber": "18520",
+    "LongName": "MARCASSOU saucis.d'Arden.IGP z.look 270g"
+  },
+  {
+    "gtin": "05400141562842",
+    "productId": "185831",
+    "name": "kip zoetzuur saus rijst",
+    "description": "*Basmatirijst,\n20% kip, zoetzure\nsaus, ananas, ui\n*Microgolfoven",
+    "technicalArticleNumber": "3456666",
+    "commercialArticleNumber": "30659",
+    "LongName": "BONI kip zoetzuur saus rijst 400g"
+  },
+  {
+    "gtin": "05400141761665",
+    "productId": "546869",
+    "name": "Kippenspiesjes",
+    "technicalArticleNumber": "4174987",
+    "commercialArticleNumber": "10808",
+    "LongName": "BONI Kippenspiesjes 195g"
+  },
+  {
+    "gtin": "05400141373332",
+    "productId": "243827",
+    "name": "crèmepaté GV",
+    "description": "smeerbare pastei, voldoet aan\nkwaliteitslabel Vlevico, volgens oud\nreceptuur. Zeer lekker tussen\nboterham, op toastjes, etc\n*Glutenvrij",
+    "technicalArticleNumber": "3520858",
+    "commercialArticleNumber": "27414",
+    "LongName": "BONI crèmepaté GV 200g"
+  },
+  {
+    "gtin": "15400141916604",
+    "productId": "57459",
+    "name": "Antipasto Italiano",
+    "description": "*Italië\n*Assortiment: coppa,\nProsciutto crudo,\nsalami Milano\n*Boterham, aperitief",
+    "technicalArticleNumber": "2478595",
+    "commercialArticleNumber": "38447",
+    "LongName": "BONI Antipasto Italiano 150g"
+  },
+  {
+    "gtin": "15400141140733",
+    "productId": "88123",
+    "name": "taboulé paprika-tomaat",
+    "description": "*Met griesmeel,\ntomaat, paprika\n*Koud te serveren",
+    "technicalArticleNumber": "2975249",
+    "commercialArticleNumber": "1004",
+    "LongName": "BONI taboulé paprika-tomaat 500g"
+  },
+  {
+    "gtin": "03154230600572",
+    "productId": "788699",
+    "name": "pizzadeeg",
+    "description": "*Pizzadeeg dun\nen rond",
+    "technicalArticleNumber": "4592829",
+    "commercialArticleNumber": "29157",
+    "LongName": "HERTA pizzadeeg 265g"
+  },
+  {
+    "gtin": "05400141326093",
+    "productId": "307083",
+    "name": "peperfilet",
+    "description": "Filet omhuld met pepermantel",
+    "technicalArticleNumber": "3746082",
+    "commercialArticleNumber": "27261",
+    "LongName": "BONI peperfilet 150g"
+  },
+  {
+    "gtin": "15400141294283",
+    "productId": "184524",
+    "name": "schelvishaasje graatl. MSC",
+    "description": "*Noordoostelijk deel\nAtlantische Oceaan\n*Graatloos\n*met label MSC",
+    "technicalArticleNumber": "3458880",
+    "commercialArticleNumber": "30683",
+    "LongName": "BONI schelvishaasje graatl. MSC ±250g"
+  },
+  {
+    "gtin": "35400141516587",
+    "productId": "46611",
+    "name": "schnitzels vegetarisch",
+    "description": "*Schnitzel",
+    "technicalArticleNumber": "2493300",
+    "commercialArticleNumber": "39376",
+    "LongName": "BONI schnitzels vegetarisch 200g"
+  },
+  {
+    "gtin": "05400141562835",
+    "productId": "185813",
+    "name": "Tikka Masala kip",
+    "description": "*Basmatirijst,\n21% kip, witte\nrozijnen,masalasaus\n*Microgolfoven",
+    "technicalArticleNumber": "3456643",
+    "commercialArticleNumber": "30658",
+    "LongName": "BONI Tikka Masala kip 400g"
+  },
+  {
+    "gtin": "15400141410829",
+    "productId": "605945",
+    "name": "CHIFFONADE ROSETTE",
+    "technicalArticleNumber": "4276000",
+    "commercialArticleNumber": "27043",
+    "LongName": "BONI CHIFFONADE ROSETTE 110g"
+  },
+  {
+    "gtin": "05400141372342",
+    "productId": "244393",
+    "name": "kalfskop sneden gv",
+    "description": "*België\n*Met tomatensaus en champignons\n*Warme en koude bereidingen\n*Glutenvrij",
+    "technicalArticleNumber": "3519741",
+    "commercialArticleNumber": "27367",
+    "LongName": "BONI kalfskop sneden gv 250g"
+  },
+  {
+    "gtin": "05400141720334",
+    "productId": "707317",
+    "name": "penne kip mascarpone",
+    "technicalArticleNumber": "4444746",
+    "commercialArticleNumber": "17640",
+    "LongName": "BONI penne kip mascarpone 450g"
+  },
+  {
+    "gtin": "05411153010023",
+    "productId": "640197",
+    "name": "salade met krab",
+    "description": "*Salade met\nen krab",
+    "technicalArticleNumber": "4332678",
+    "commercialArticleNumber": "13219",
+    "LongName": "DÉLIO salade met krab 200g"
+  },
+  {
+    "gtin": "05400141986020",
+    "productId": "784446",
+    "name": "Salade caesar",
+    "technicalArticleNumber": "4583562",
+    "commercialArticleNumber": "9900",
+    "LongName": "BONI Salade caesar 300g"
+  },
+  {
+    "gtin": "15413848332325",
+    "productId": "90149",
+    "name": "gevogelte worst",
+    "description": "*Duitsland\n*Met honing",
+    "technicalArticleNumber": "2977431",
+    "commercialArticleNumber": "3027",
+    "LongName": "MAYA DE BIJ gevogelte worst 2x50g"
+  },
+  {
+    "gtin": "05410916284817",
+    "productId": "356507",
+    "name": "Disney Cars hespenworst 5st",
+    "description": "*Cars hespenworstjes\n*5x30g",
+    "technicalArticleNumber": "3857513",
+    "commercialArticleNumber": "27576",
+    "LongName": "AOSTE Disney Cars hespenworst 5st 150g"
+  },
+  {
+    "gtin": "05400141550269",
+    "productId": "777759",
+    "name": "focaccia paprika/olijf",
+    "description": "*Voorgebakken wit\ntarwebrood belegd\nmet paprika en olijf\n*Ontdooid",
+    "technicalArticleNumber": "4570670",
+    "commercialArticleNumber": "20820",
+    "LongName": "BONI focaccia paprika/olijf 2x165g"
+  },
+  {
+    "gtin": "15400141939429",
+    "productId": "118041",
+    "name": "ansjovisfilet olie look MSC",
+    "description": "*Wild, Middellandse\nen Zwarte zee\n*met label MSC",
+    "technicalArticleNumber": "3072119",
+    "commercialArticleNumber": "8684",
+    "LongName": "BONI ansjovisfilet olie look MSC 200g"
+  },
+  {
+    "gtin": "05400141973440",
+    "productId": "700245",
+    "name": "falafels vegetarisch",
+    "description": "*Voorgegaarde\nveganistische\nballetjes op basis\nvan kikkererwten",
+    "technicalArticleNumber": "4432438",
+    "commercialArticleNumber": "14379",
+    "LongName": "BONI falafels vegetarisch 204g"
+  },
+  {
+    "gtin": "15400141451495",
+    "productId": "834711",
+    "name": "Bami Goreng",
+    "description": "*In de wok\ngebakken noedels\nmet hamblokjes,\nprei en ei.",
+    "technicalArticleNumber": "4676496",
+    "commercialArticleNumber": "10461",
+    "LongName": "BONI Bami Goreng 1kg"
+  },
+  {
+    "gtin": "04037473900106",
+    "productId": "13306",
+    "name": "hotdog 2st",
+    "description": "*Met varkensvlees\n*In de microgolfoven",
+    "technicalArticleNumber": "1331392",
+    "commercialArticleNumber": "27118",
+    "LongName": "EVERYDAY hotdog 2st 218g"
+  },
+  {
+    "gtin": "05400141992885",
+    "productId": "39303",
+    "name": "pangasiusf. graatl. ASC",
+    "description": "*Aquacultuur uit\nViëtnam\n*Graatloos\n*2 stuks",
+    "technicalArticleNumber": "1833033",
+    "commercialArticleNumber": "35100",
+    "LongName": "EVERYDAY pangasiusf. graatl. ASC 2x±180g"
+  },
+  {
+    "gtin": "05400141097917",
+    "productId": "53950",
+    "name": "grisonvlees",
+    "description": "*Zwitserland\n*Gedroogd\n*Boterham,buffet,\nkoude schotel,tapas,\nraclette",
+    "technicalArticleNumber": "2273316",
+    "commercialArticleNumber": "9791",
+    "LongName": "BONI grisonvlees 80g"
+  },
+  {
+    "gtin": "05400141323856",
+    "productId": "281607",
+    "name": "paté groene peper",
+    "description": "paté met groene peper",
+    "technicalArticleNumber": "3673472",
+    "commercialArticleNumber": "27239",
+    "LongName": "BONI paté groene peper 150g"
+  },
+  {
+    "gtin": "08001665123464",
+    "productId": "59001",
+    "name": "Tortell. ric-spinazie",
+    "description": "*Verse pasta,\n44 % vulling:\nricotta, spinazie\n*In de kookpot",
+    "technicalArticleNumber": "2322266",
+    "commercialArticleNumber": "5526",
+    "LongName": "GIOVANNI RANA Tortell. ric-spinazie 400g"
+  },
+  {
+    "gtin": "07613287100139",
+    "productId": "575421",
+    "name": "Gegrilde stukje",
+    "description": "*Gegrilde stukjes\nop basis van\nsoja, tarwe,\neiwitten\n*Veggie",
+    "technicalArticleNumber": "4223713",
+    "commercialArticleNumber": "18062",
+    "LongName": "GARDEN GOURMET Gegrilde stukje 175g"
+  },
+  {
+    "gtin": "15400141094630",
+    "productId": "88125",
+    "name": "taboulé 5 groenten",
+    "description": "*Met taboulé, maïs,\nwortelen, tomaten,\nerwten, broccoli\n*Koud te serveren",
+    "technicalArticleNumber": "2975261",
+    "commercialArticleNumber": "1021",
+    "LongName": "BONI taboulé 5 groenten 500g"
+  },
+  {
+    "gtin": "18713354132882",
+    "productId": "865409",
+    "name": "Twin Cheeseburger",
+    "technicalArticleNumber": "4717536",
+    "commercialArticleNumber": "3288",
+    "LongName": "DANLERS Twin Cheeseburger 275g"
+  },
+  {
+    "gtin": "05400141311983",
+    "productId": "2244",
+    "name": "rivierkreeftjes gepeld",
+    "description": "*Wild, China\n*Gepeld",
+    "technicalArticleNumber": "27955",
+    "commercialArticleNumber": "27955",
+    "LongName": "BONI rivierkreeftjes gepeld 150g"
+  },
+  {
+    "gtin": "15400141854609",
+    "productId": "90874",
+    "name": "pizza Prosciutto Funghi",
+    "description": "*Ham, emmentaler,\nchampignons\n*In de oven",
+    "technicalArticleNumber": "2953695",
+    "commercialArticleNumber": "38783",
+    "LongName": "EVERYDAY pizza Prosciutto Funghi 450g"
+  },
+  {
+    "gtin": "15400141917748",
+    "productId": "47665",
+    "name": "salamiblokjes zonderlook",
+    "description": "*België\n*65,7 % varkensvlees\n*Zonder look,\ngedroogd\n*Aperitief",
+    "technicalArticleNumber": "2522802",
+    "commercialArticleNumber": "15477",
+    "LongName": "BONI salamiblokjes zonderlook 200g"
+  },
+  {
+    "gtin": "05413848106028",
+    "productId": "54935",
+    "name": "macaroni kaas-ham",
+    "description": "*Macaroni, 12 % ham,\n7 % kaas,\nbechamelsaus\n*In de oven",
+    "technicalArticleNumber": "2474846",
+    "commercialArticleNumber": "37494",
+    "LongName": "COME A CASA macaroni kaas-ham 400g"
+  },
+  {
+    "gtin": "05400141550580",
+    "productId": "752083",
+    "name": "Skreihaasje",
+    "technicalArticleNumber": "4524932",
+    "commercialArticleNumber": "20381",
+    "LongName": "BONI Skreihaasje ±250g"
+  },
+  {
+    "gtin": "07290012521362",
+    "productId": "187507",
+    "name": "groenteburger veg",
+    "description": "*Veggie",
+    "technicalArticleNumber": "3464920",
+    "commercialArticleNumber": "30742",
+    "LongName": "GARDEN GOURMET groenteburger veg 170g"
+  },
+  {
+    "gtin": "07290010739820",
+    "productId": "87085",
+    "name": "groenteballetjes",
+    "description": "*Groentenballetjes\n*Op basis van tarwe-\nen soja-eiwitten\n*Veggie",
+    "technicalArticleNumber": "2947783",
+    "commercialArticleNumber": "3914",
+    "LongName": "GARDEN GOURMET groenteballetjes 200g"
+  },
+  {
+    "gtin": "15400141010890",
+    "productId": "26148",
+    "name": "droge worst",
+    "description": "*Frankrijk\n*Droge varkensworst\n*Aperitief,\ntussendoortje,\npicknick",
+    "technicalArticleNumber": "1958765",
+    "commercialArticleNumber": "27400",
+    "LongName": "EVERYDAY droge worst 200g"
+  },
+  {
+    "gtin": "05411746010393",
+    "productId": "11358",
+    "name": "haringfilet in azijn",
+    "description": "*Wild, noord-\noostelijk deel van\nAtlantische oceaan",
+    "technicalArticleNumber": "1407717",
+    "commercialArticleNumber": "27794",
+    "LongName": "VANDERMAESEN haringfilet in azijn 1kg"
+  },
+  {
+    "gtin": "05400141797022",
+    "productId": "710375",
+    "name": "salami blokjes",
+    "description": "Salami blokjes, ideaal voor bij de ape\nritief",
+    "technicalArticleNumber": "4451535",
+    "commercialArticleNumber": "27361",
+    "LongName": "BONI salami blokjes 150g"
+  },
+  {
+    "gtin": "07613287667328",
+    "productId": "770242",
+    "name": "Falafel Classic",
+    "description": "*Vegan balletjes op\nbasis van\nkikkererwten",
+    "technicalArticleNumber": "4557177",
+    "commercialArticleNumber": "25352",
+    "LongName": "GARDEN GOURMET Falafel Classic 190g"
+  },
+  {
+    "gtin": "05400141561159",
+    "productId": "879500",
+    "name": "Gerookte zalm -25% zout ASC",
+    "technicalArticleNumber": "4735947",
+    "commercialArticleNumber": "24958",
+    "LongName": "BONI Gerookte zalm -25% zout ASC 130g"
+  },
+  {
+    "gtin": "05400141697124",
+    "productId": "794723",
+    "name": "Schotse gerookte zalm sneden",
+    "description": "*Gerookte\natlantische zalm\n*8 - 12 sneden/pak",
+    "technicalArticleNumber": "4603306",
+    "commercialArticleNumber": "13394",
+    "LongName": "BONI Schotse gerookte zalm sneden 260g"
+  },
+  {
+    "gtin": "15400141420194",
+    "productId": "2114",
+    "name": "lasagne verde",
+    "description": "*Met 14 %\nvarkensvlees\n*In de oven,\nmicrogolfoven",
+    "technicalArticleNumber": "27876",
+    "commercialArticleNumber": "27876",
+    "LongName": "BONI lasagne verde 400g"
+  },
+  {
+    "gtin": "05400141726183",
+    "productId": "16218",
+    "name": "lasagne bolognese",
+    "description": "*Met 20 %\nvarkensvlees\n*In de oven,\nmicrogolfoven",
+    "technicalArticleNumber": "1561876",
+    "commercialArticleNumber": "27980",
+    "LongName": "BONI lasagne bolognese 1,6kg"
+  },
+  {
+    "gtin": "15400141330844",
+    "productId": "109576",
+    "name": "Singapore noodles",
+    "description": "*Noedels, groenten,\nei\n*In de wok, oven,\nmicrogolfoven",
+    "technicalArticleNumber": "3109785",
+    "commercialArticleNumber": "41338",
+    "LongName": "BONI Singapore noodles 450g"
+  },
+  {
+    "gtin": "05411153010139",
+    "productId": "707893",
+    "name": "kipsalade",
+    "technicalArticleNumber": "4445544",
+    "commercialArticleNumber": "20419",
+    "LongName": "DÉLIO kipsalade 200g"
+  },
+  {
+    "gtin": "05400141766400",
+    "productId": "470603",
+    "name": "gv vleessalade",
+    "technicalArticleNumber": "4067771",
+    "commercialArticleNumber": "27554",
+    "LongName": "BONI gv vleessalade 500g"
+  },
+  {
+    "gtin": "05400141070491",
+    "productId": "238797",
+    "name": "Serranoham",
+    "description": "gedroogde serranoham voor gebruik als\napéritief, bij koude schotel, in salad\nes of tapas.",
+    "technicalArticleNumber": "3539106",
+    "commercialArticleNumber": "27057",
+    "LongName": "EVERYDAY Serranoham 500g"
+  },
+  {
+    "gtin": "05413848123285",
+    "productId": "41918",
+    "name": "lasagne bolognese",
+    "description": "*Met 18 %\nvarkensvlees\n*In de oven",
+    "technicalArticleNumber": "2532132",
+    "commercialArticleNumber": "13888",
+    "LongName": "COME A CASA lasagne bolognese 1,6kg"
+  },
+  {
+    "gtin": "05400141407914",
+    "productId": "106657",
+    "name": "kleine Rosette",
+    "description": "*Frankrijk",
+    "technicalArticleNumber": "3125654",
+    "commercialArticleNumber": "5247",
+    "LongName": "BONI kleine Rosette 300g"
+  },
+  {
+    "gtin": "15411153007877",
+    "productId": "99238",
+    "name": "salade kip samourai",
+    "description": "Kipsalade met een lekker pikante\nSamourai saus.",
+    "technicalArticleNumber": "2800909",
+    "commercialArticleNumber": "2974",
+    "LongName": "DÉLIO salade kip samourai 200g"
+  },
+  {
+    "gtin": "05400141535723",
+    "productId": "868672",
+    "name": "batoens met zalm",
+    "technicalArticleNumber": "4721946",
+    "commercialArticleNumber": "16417",
+    "LongName": "BONI batoens met zalm 80g"
+  },
+  {
+    "gtin": "05400141324686",
+    "productId": "155003",
+    "name": "salade gerookte zalm",
+    "description": "*36 % gerookte zalm\n*Met mayonaise",
+    "technicalArticleNumber": "3270022",
+    "commercialArticleNumber": "44346",
+    "LongName": "BONI salade gerookte zalm 160g"
+  },
+  {
+    "gtin": "15411153004319",
+    "productId": "35517",
+    "name": "lentesalade",
+    "description": "groenten 64,5%,saus 35,5%,\nwortelen 20%,selder 11,7%,\nerwten 9%,rode paprika 5,8%",
+    "technicalArticleNumber": "1795800",
+    "commercialArticleNumber": "34109",
+    "LongName": "DÉLIO lentesalade 200g"
+  },
+  {
+    "gtin": "05400141626247",
+    "productId": "871466",
+    "name": "Lasagnebladen",
+    "technicalArticleNumber": "4725398",
+    "commercialArticleNumber": "9693",
+    "LongName": "BONI Lasagnebladen 250g"
+  },
+  {
+    "gtin": "05400141470727",
+    "productId": "152571",
+    "name": "krabsalade",
+    "description": "*25 % krab\n*Met mayonaise",
+    "technicalArticleNumber": "3266276",
+    "commercialArticleNumber": "3231",
+    "LongName": "BONI krabsalade 160g"
+  },
+  {
+    "gtin": "05400141094800",
+    "productId": "12992",
+    "name": "moussaka",
+    "description": "*16 % varkensvlees,\naardappel, tomaat,\naubergine, ui,\nbechamelsaus\n*In de oven",
+    "technicalArticleNumber": "1330310",
+    "commercialArticleNumber": "27825",
+    "LongName": "BONI moussaka 1kg"
+  },
+  {
+    "gtin": "95400141630292",
+    "productId": "760706",
+    "name": "Noorse zalmfilet huid",
+    "description": "*Aquacultuur uit\nNoorwegen\n*Graatarm",
+    "technicalArticleNumber": "4539097",
+    "commercialArticleNumber": "28337",
+    "LongName": "BONI BIO Noorse zalmfilet huid ±2x150g"
+  },
+  {
+    "gtin": "05400141323207",
+    "productId": "274162",
+    "name": "Finocchiona venkel",
+    "description": "salami met venkel",
+    "technicalArticleNumber": "3640585",
+    "commercialArticleNumber": "27004",
+    "LongName": "BONI Finocchiona venkel 70g"
+  },
+  {
+    "gtin": "05400141407921",
+    "productId": "137558",
+    "name": "bâton walnoten",
+    "description": "*Frankrijk\n*Met walnoten",
+    "technicalArticleNumber": "3147776",
+    "commercialArticleNumber": "44118",
+    "LongName": "BONI bâton walnoten 250g"
+  },
+  {
+    "gtin": "05400141420401",
+    "productId": "11859",
+    "name": "vol-au-vent",
+    "description": "*Met 31.50% kip,\n10% champignons,\nvol-au-ventsaus\n*In de kookpot,\nmicrogolfoven",
+    "technicalArticleNumber": "1360539",
+    "commercialArticleNumber": "27807",
+    "LongName": "EVERYDAY vol-au-vent 1kg"
+  },
+  {
+    "gtin": "05400141386899",
+    "productId": "63417",
+    "name": "Ardense filet",
+    "description": "*België\n*Gerookt, gedroogd",
+    "technicalArticleNumber": "2738638",
+    "commercialArticleNumber": "41379",
+    "LongName": "BONI Ardense filet 200g"
+  },
+  {
+    "gtin": "08001665126762",
+    "productId": "58998",
+    "name": "pasta Cap.Prosc.Crudo",
+    "description": "*Verse pasta,\n40 % vulling:\nItaliaanse ham\n*In de kookpot",
+    "technicalArticleNumber": "2322263",
+    "commercialArticleNumber": "3640",
+    "LongName": "GIOVANNI RANA pasta Cap.Prosc.Crudo 400g"
+  },
+  {
+    "gtin": "05400141091397",
+    "productId": "11860",
+    "name": "Tortilla",
+    "description": "*Spaanse\naardappelomelet\n*In de microgolfoven",
+    "technicalArticleNumber": "1360542",
+    "commercialArticleNumber": "27802",
+    "LongName": "BONI Tortilla 500g"
+  },
+  {
+    "gtin": "05400141915198",
+    "productId": "584836",
+    "name": "broodje ei met bacon",
+    "description": "*Brood met ei,\npepersaus en\nuitgebakken\nontbijtspek",
+    "technicalArticleNumber": "4240186",
+    "commercialArticleNumber": "19355",
+    "LongName": "BONI broodje ei met bacon 155g"
+  },
+  {
+    "gtin": "05400141340136",
+    "productId": "270076",
+    "name": "mosselen gekookt MSC",
+    "description": "*Gekookt mosselvlees\n*met label MSC",
+    "technicalArticleNumber": "3628079",
+    "commercialArticleNumber": "19296",
+    "LongName": "BONI mosselen gekookt MSC 200g"
+  },
+  {
+    "gtin": "05400141686593",
+    "productId": "848586",
+    "name": "grill",
+    "technicalArticleNumber": "4695811",
+    "commercialArticleNumber": "29254",
+    "LongName": "BONI grill 150g"
+  },
+  {
+    "gtin": "15400141933861",
+    "productId": "778469",
+    "name": "Wrap kip sweet chili",
+    "description": "*Wrap gevuld met\ngeroosterd, gekruid\nkippenborstfilet\nblokjes, zoete\nchilisaus",
+    "technicalArticleNumber": "4572008",
+    "commercialArticleNumber": "28516",
+    "LongName": "BONI Wrap kip sweet chili 170g"
+  },
+  {
+    "gtin": "05400141888928",
+    "productId": "450427",
+    "name": "schotel kip taboulé",
+    "description": "*Koude schotel",
+    "technicalArticleNumber": "4018274",
+    "commercialArticleNumber": "5087",
+    "LongName": "BONI schotel kip taboulé 400g"
+  },
+  {
+    "gtin": "05400141512472",
+    "productId": "877435",
+    "name": "Burger Vegetarisch",
+    "technicalArticleNumber": "4733320",
+    "commercialArticleNumber": "9431",
+    "LongName": "BONI Burger Vegetarisch 200g"
+  },
+  {
+    "gtin": "07290013997685",
+    "productId": "770251",
+    "name": "kaas schnitzel",
+    "description": "*Vegetarische\nkaasschnitzel op\nbasis van soja- en\ntarwe-eiwitten",
+    "technicalArticleNumber": "4557186",
+    "commercialArticleNumber": "25475",
+    "LongName": "GARDEN GOURMET kaas schnitzel 180g"
+  },
+  {
+    "gtin": "05400141910285",
+    "productId": "871738",
+    "name": "pasta meatballs",
+    "technicalArticleNumber": "4725711",
+    "commercialArticleNumber": "10990",
+    "LongName": "BONI pasta meatballs 450g"
+  },
+  {
+    "gtin": "03154230808824",
+    "productId": "868806",
+    "name": "beenham",
+    "technicalArticleNumber": "4721456",
+    "commercialArticleNumber": "15798",
+    "LongName": "HERTA beenham 4st"
+  },
+  {
+    "gtin": "08718692788251",
+    "productId": "595509",
+    "name": "Poulettekes",
+    "description": "*Veggie kip\n*Klaar voor gebruik\n*Veggie proteïne\n*Vegan friendly\n*Vleesvervangers",
+    "technicalArticleNumber": "4257142",
+    "commercialArticleNumber": "22401",
+    "LongName": "DE VEGETARISCHE SLAGER Poulettekes 160g"
+  },
+  {
+    "gtin": "05400141241129",
+    "productId": "56033",
+    "name": "Tortellini met kaas",
+    "description": "*Verse pasta,\n40 % vulling:\nricotta, kaaspoeder,\ngorgonzola\n*In de kookpot",
+    "technicalArticleNumber": "2398703",
+    "commercialArticleNumber": "25705",
+    "LongName": "BONI Tortellini met kaas 500g"
+  },
+  {
+    "gtin": "05413617002483",
+    "productId": "133717",
+    "name": "Ganda natuurl.gedroogde ham gv sn.",
+    "description": "*België\n*Boterham, koude\nschotel\n*Glutenvrij",
+    "technicalArticleNumber": "3159795",
+    "commercialArticleNumber": "41217",
+    "LongName": "Ganda natuurl.gedroogde ham gv sn. 120g"
+  },
+  {
+    "gtin": "08445290286970",
+    "productId": "255538",
+    "name": "minipizzadeeg 8 stuks",
+    "description": "*Kant- en klaar deeg",
+    "technicalArticleNumber": "3589114",
+    "commercialArticleNumber": "18564",
+    "LongName": "HERTA minipizzadeeg 8 stuks 265g"
+  },
+  {
+    "gtin": "05400141367423",
+    "productId": "2237",
+    "name": "scampi Party ASC",
+    "description": "*Aquacultuur uit\nIndonesië, Vietnam,\nEcuador\n*met label ASC\n*Met staart, gepeld",
+    "technicalArticleNumber": "27928",
+    "commercialArticleNumber": "27928",
+    "LongName": "BONI scampi Party ASC 150g"
+  },
+  {
+    "gtin": "05400141561708",
+    "productId": "879570",
+    "name": "Girasoli ricotta spinazie",
+    "technicalArticleNumber": "4736021",
+    "commercialArticleNumber": "27396",
+    "LongName": "BONI Girasoli ricotta spinazie 250g"
+  },
+  {
+    "gtin": "05400141454802",
+    "productId": "710509",
+    "name": "SERRANO",
+    "description": "Chiffonade van serrano. Ideaal als ape\nritiefhapje",
+    "technicalArticleNumber": "4451401",
+    "commercialArticleNumber": "27072",
+    "LongName": "BONI SERRANO 100g"
+  },
+  {
+    "gtin": "05400141208320",
+    "productId": "15977",
+    "name": "Nems varkensvlees",
+    "description": "*Met varkensvlees en\ngroenten\n*In de frituurpan,\npan, oven",
+    "technicalArticleNumber": "1563718",
+    "commercialArticleNumber": "27925",
+    "LongName": "BONI Nems varkensvlees 280g"
+  },
+  {
+    "gtin": "15413848306876",
+    "productId": "12850",
+    "name": "lasagne zalm",
+    "description": "*Met 14,5 % zalm,\ngetomateerde\nbechamelsaus,\nspinazie\n*In de oven",
+    "technicalArticleNumber": "1236627",
+    "commercialArticleNumber": "27838",
+    "LongName": "COME A CASA lasagne zalm 400g"
+  },
+  {
+    "gtin": "05400141091649",
+    "productId": "109573",
+    "name": "Mihoen Goreng",
+    "description": "* In wok gebakken mihoen, groenten,\n7,3 % varkensblokjes en 7,3 % ham\n* Microgolfoven",
+    "technicalArticleNumber": "3109776",
+    "commercialArticleNumber": "43567",
+    "LongName": "BONI Mihoen Goreng 450g"
+  },
+  {
+    "gtin": "15400141623717",
+    "productId": "442779",
+    "name": "bami goreng royal",
+    "technicalArticleNumber": "3979646",
+    "commercialArticleNumber": "3705",
+    "LongName": "BONI bami goreng royal 450g"
+  },
+  {
+    "gtin": "15400141978756",
+    "productId": "696184",
+    "name": "pizza margherita deluxe",
+    "description": "*Pizza mozzarella,\ntomaat, basilicum",
+    "technicalArticleNumber": "4425873",
+    "commercialArticleNumber": "26009",
+    "LongName": "BONI pizza margherita deluxe 420g"
+  },
+  {
+    "gtin": "15413848192011",
+    "productId": "86977",
+    "name": "gevogelteworst sneetjes",
+    "description": "*Duitsland",
+    "technicalArticleNumber": "3014248",
+    "commercialArticleNumber": "4365",
+    "LongName": "PLOP gevogelteworst sneetjes 100g"
+  },
+  {
+    "gtin": "05400141453416",
+    "productId": "881131",
+    "name": "Sprotfilet",
+    "technicalArticleNumber": "4738490",
+    "commercialArticleNumber": "32389",
+    "LongName": "BONI Sprotfilet 80g"
+  },
+  {
+    "gtin": "08717545693803",
+    "productId": "52118",
+    "name": "cocktailworstjes Halal",
+    "description": "*Cocktailworstjes",
+    "technicalArticleNumber": "2402084",
+    "commercialArticleNumber": "19239",
+    "LongName": "MARHABA cocktailworstjes Halal 400g"
+  },
+  {
+    "gtin": "05425010830150",
+    "productId": "826421",
+    "name": "tomatenroomsoep balletj.",
+    "technicalArticleNumber": "4663931",
+    "commercialArticleNumber": "30104",
+    "LongName": "BUTTERFLY tomatenroomsoep balletj. 950ml"
+  },
+  {
+    "gtin": "15400141504979",
+    "productId": "611474",
+    "name": "Lasagne Ricotta Spinazie",
+    "technicalArticleNumber": "4285078",
+    "commercialArticleNumber": "7595",
+    "LongName": "BONI Lasagne Ricotta Spinazie 400g"
+  },
+  {
+    "gtin": "15400141722243",
+    "productId": "885604",
+    "name": "Surimi MSC",
+    "technicalArticleNumber": "4744616",
+    "commercialArticleNumber": "32623",
+    "LongName": "BONI Surimi MSC 200g"
+  },
+  {
+    "gtin": "15400141913740",
+    "productId": "2245",
+    "name": "Zeeuwse mossel op azijn MSC",
+    "description": "*Wild, Nederland\n*met label MSC",
+    "technicalArticleNumber": "27967",
+    "commercialArticleNumber": "27967",
+    "LongName": "BONI Zeeuwse mossel op azijn MSC 350g"
+  },
+  {
+    "gtin": "05400141654523",
+    "productId": "692264",
+    "name": "roze diepzeegarnalen MSC",
+    "description": "*Gepelde pandalus\nborealis garnalen\n*MSC",
+    "technicalArticleNumber": "4419759",
+    "commercialArticleNumber": "25635",
+    "LongName": "BONI roze diepzeegarnalen MSC 100g"
+  },
+  {
+    "gtin": "05400141339659",
+    "productId": "316814",
+    "name": "grijze gepelde garnalen",
+    "description": "*Wild, Noordzee\nFAO 27",
+    "technicalArticleNumber": "3677781",
+    "commercialArticleNumber": "40156",
+    "LongName": "BONI grijze gepelde garnalen 125g"
+  },
+  {
+    "gtin": "05400141697100",
+    "productId": "796560",
+    "name": "Gravad Lax",
+    "description": "*Verwerkte vis",
+    "technicalArticleNumber": "4607149",
+    "commercialArticleNumber": "29494",
+    "LongName": "BONI Gravad Lax 140g"
+  },
+  {
+    "gtin": "08718692788428",
+    "productId": "595481",
+    "name": "Le Burger",
+    "description": "*Veggie burger\n*Klaar voor gebruik\n*Veggie proteïne\n*Vleesvervangers",
+    "technicalArticleNumber": "4257114",
+    "commercialArticleNumber": "22399",
+    "LongName": "DE VEGETARISCHE SLAGER Le Burger 160g"
+  },
+  {
+    "gtin": "05400141539950",
+    "productId": "264362",
+    "name": "varkensgebraad sneetjes",
+    "description": "Uitgebeend varkensribstuk van eigen\nlastenboek. Gebraad is gekruid met\neigen mengeling en daarna gekookt",
+    "technicalArticleNumber": "3587942",
+    "commercialArticleNumber": "27401",
+    "LongName": "BONI varkensgebraad sneetjes 200g"
+  },
+  {
+    "gtin": "07613036955362",
+    "productId": "802670",
+    "name": "spekblokjes natuur",
+    "description": "*Varken",
+    "technicalArticleNumber": "4618689",
+    "commercialArticleNumber": "11455",
+    "LongName": "HERTA spekblokjes natuur 200g"
+  },
+  {
+    "gtin": "15400141602873",
+    "productId": "333952",
+    "name": "Tonijn Perzik",
+    "description": "*Perzik, bonen,\ntonijnsalade, ei,\naardappelsalade,\nwortelen, kerstomaat\n*Koud",
+    "technicalArticleNumber": "3813608",
+    "commercialArticleNumber": "18343",
+    "LongName": "BONI Tonijn Perzik 450g"
+  },
+  {
+    "gtin": "03154230600602",
+    "productId": "788718",
+    "name": "pizzadeeg rechthoekig",
+    "description": "*Pizzadeeg dun\nen rechthoekig",
+    "technicalArticleNumber": "4592848",
+    "commercialArticleNumber": "29168",
+    "LongName": "HERTA pizzadeeg rechthoekig 390g"
+  },
+  {
+    "gtin": "05411153005050",
+    "productId": "285034",
+    "name": "Noordzeesalade",
+    "description": "*Salade met witte\nvis",
+    "technicalArticleNumber": "3659427",
+    "commercialArticleNumber": "30196",
+    "LongName": "DÉLIO Noordzeesalade 200g"
+  },
+  {
+    "gtin": "15400141844839",
+    "productId": "48667",
+    "name": "witloof ham&kaassaus",
+    "description": "*Witloof, ham, saus\nmet emmentaler\n*In de microgolfoven",
+    "technicalArticleNumber": "2563331",
+    "commercialArticleNumber": "1490",
+    "LongName": "BONI witloof ham&kaassaus 400g"
+  },
+  {
+    "gtin": "15400141158806",
+    "productId": "178213",
+    "name": "Girasoli gegril.groente&ricot.",
+    "description": "*Met gegrilde\ngroenten",
+    "technicalArticleNumber": "3352111",
+    "commercialArticleNumber": "22162",
+    "LongName": "BONI Girasoli gegril.groente&ricot. 250g"
+  },
+  {
+    "gtin": "07290012806940",
+    "productId": "86597",
+    "name": "burger Deluxe veg",
+    "description": "*Burger\n*Gekruid met peper,\npeterselie\n*Veggie",
+    "technicalArticleNumber": "2947780",
+    "commercialArticleNumber": "3255",
+    "LongName": "GARDEN GOURMET burger Deluxe veg 180g"
+  },
+  {
+    "gtin": "15400141853107",
+    "productId": "189768",
+    "name": "penne groen pesto en tomaten",
+    "description": "*Penne met groene\npesto en tomaten.",
+    "technicalArticleNumber": "3451217",
+    "commercialArticleNumber": "30603",
+    "LongName": "BONI penne groen pesto en tomaten 400g"
+  },
+  {
+    "gtin": "05411328095534",
+    "productId": "355220",
+    "name": "Authentiek kalkoengebraad",
+    "technicalArticleNumber": "3857544",
+    "commercialArticleNumber": "27578",
+    "LongName": "AOSTE Authentiek kalkoengebraad 120g"
+  },
+  {
+    "gtin": "05400141477573",
+    "productId": "12509",
+    "name": "gehakt Parmentier",
+    "description": "*3,7% emmentaler, ui\n22,5% varkensgehakt,\ntomaten, knoflook\n*In de microgolfoven\noven",
+    "technicalArticleNumber": "1333806",
+    "commercialArticleNumber": "27308",
+    "LongName": "BONI gehakt Parmentier 1kg"
+  },
+  {
+    "gtin": "07613287936356",
+    "productId": "701306",
+    "name": "schnitzel",
+    "description": "*Veggie",
+    "technicalArticleNumber": "4433945",
+    "commercialArticleNumber": "16238",
+    "LongName": "GARDEN GOURMET schnitzel 180g"
+  },
+  {
+    "gtin": "15420027317325",
+    "productId": "824244",
+    "name": "rookworst",
+    "technicalArticleNumber": "4660304",
+    "commercialArticleNumber": "29820",
+    "LongName": "LA VIEILLE ABBAYE rookworst 225g"
+  },
+  {
+    "gtin": "05411328045027",
+    "productId": "84768",
+    "name": "Saucisson de Table sn.",
+    "description": "*België",
+    "technicalArticleNumber": "2936775",
+    "commercialArticleNumber": "38611",
+    "LongName": "MARCASSOU Saucisson de Table sn. 100g"
+  },
+  {
+    "gtin": "05400141407907",
+    "productId": "124042",
+    "name": "Franse charcuterie",
+    "description": "*Frankrijk\n*Assortiment: droge\nworst,droge worst\nmet Provençaalse\nkruiden,Pyrenese ham",
+    "technicalArticleNumber": "3234036",
+    "commercialArticleNumber": "19229",
+    "LongName": "BONI Franse charcuterie 160g"
+  },
+  {
+    "gtin": "15400141839521",
+    "productId": "199956",
+    "name": "pizza Rondo di Roma",
+    "description": "*Ham, mozzarella,\ntomaat, olijven\n*In de oven",
+    "technicalArticleNumber": "3426389",
+    "commercialArticleNumber": "30389",
+    "LongName": "BONI pizza Rondo di Roma 450g"
+  },
+  {
+    "gtin": "05400141977783",
+    "productId": "185784",
+    "name": "pizza 4 kazen",
+    "description": "*Mozzarella,\nEmmental,Gorgonzola,\nblauwe kaas",
+    "technicalArticleNumber": "3435947",
+    "commercialArticleNumber": "30438",
+    "LongName": "BONI pizza 4 kazen 415g"
+  },
+  {
+    "gtin": "15400141958697",
+    "productId": "541688",
+    "name": "yakitori teryaki",
+    "description": "*Kippenbrochet\nmet teriyaki saus",
+    "technicalArticleNumber": "4165558",
+    "commercialArticleNumber": "9780",
+    "LongName": "BONI yakitori teryaki 5st"
+  },
+  {
+    "gtin": "05400141358360",
+    "productId": "119424",
+    "name": "Tagliatelle zalm-spinazie",
+    "description": "*Met 7 % zalm\n*In de microgolfoven",
+    "technicalArticleNumber": "3072990",
+    "commercialArticleNumber": "31410",
+    "LongName": "BONI Tagliatelle zalm-spinazie 450g"
+  },
+  {
+    "gtin": "05400141915204",
+    "productId": "584829",
+    "name": "Wrap Spicy Tuna",
+    "description": "*Wrap met\ntonijn salade,\nspitskool en paprika",
+    "technicalArticleNumber": "4240179",
+    "commercialArticleNumber": "19352",
+    "LongName": "BONI Wrap Spicy Tuna 190g"
+  },
+  {
+    "gtin": "05400141640960",
+    "productId": "87891",
+    "name": "Noorse gerookte zalmreepjes",
+    "description": "*Aquacultuur uit\nNoorwegen\n*Subtiele rooksmaak\n*Traditioneel\ngerookt",
+    "technicalArticleNumber": "2932100",
+    "commercialArticleNumber": "38570",
+    "LongName": "BONI Noorse gerookte zalmreepjes 150g"
+  },
+  {
+    "gtin": "05400141701166",
+    "productId": "848081",
+    "name": "gekookte zalm Bellevue",
+    "description": "*Gepekeld\n*Oorsprong:Noorwegen\n*ASC",
+    "technicalArticleNumber": "4695031",
+    "commercialArticleNumber": "27089",
+    "LongName": "BONI gekookte zalm Bellevue 200g"
+  },
+  {
+    "gtin": "05400141916287",
+    "productId": "167341",
+    "name": "bladerdeeg",
+    "description": "*geschikt voor zoete\nen hartige gerechten",
+    "technicalArticleNumber": "3384584",
+    "commercialArticleNumber": "21836",
+    "LongName": "BONI BIO bladerdeeg 230g"
+  },
+  {
+    "gtin": "08713788118363",
+    "productId": "613974",
+    "name": "Croissant Classic 6st",
+    "technicalArticleNumber": "4288535",
+    "commercialArticleNumber": "23277",
+    "LongName": "DANEROLLES Croissant Classic 6st 240g"
+  },
+  {
+    "gtin": "05400141610796",
+    "productId": "584209",
+    "name": "kip curry",
+    "technicalArticleNumber": "4238917",
+    "commercialArticleNumber": "27423",
+    "LongName": "BONI kip curry 500g"
+  },
+  {
+    "gtin": "05400141801071",
+    "productId": "153934",
+    "name": "Noordzeesalade",
+    "description": "*50 % kabeljauw,\n2 % grijze\ngarnalen\n*Met mayonaise",
+    "technicalArticleNumber": "3266814",
+    "commercialArticleNumber": "36547",
+    "LongName": "BONI Noordzeesalade 160g"
+  },
+  {
+    "gtin": "15400141856061",
+    "productId": "226059",
+    "name": "salami met truffel",
+    "description": "salami geproduceerd met geselecteerd i\ntaliaans varkensvlees, verrijkt met zw\narte truffel en smaakvolle parmezaanka\nas.",
+    "technicalArticleNumber": "3550509",
+    "commercialArticleNumber": "27260",
+    "LongName": "BONI salami met truffel 70g"
+  },
+  {
+    "gtin": "05413848639014",
+    "productId": "727846",
+    "name": "Lasagne Vegetariana",
+    "description": "*Bereide gerechten",
+    "technicalArticleNumber": "4483632",
+    "commercialArticleNumber": "19653",
+    "LongName": "COME A CASA Lasagne Vegetariana 400g"
+  },
+  {
+    "gtin": "15400141451488",
+    "productId": "834703",
+    "name": "Nasi Goreng",
+    "description": "*Gewokte rijst met\ngroenten,hamblokjes,\nei en varkensblokjes",
+    "technicalArticleNumber": "4676481",
+    "commercialArticleNumber": "10165",
+    "LongName": "BONI Nasi Goreng 1kg"
+  },
+  {
+    "gtin": "05400141321500",
+    "productId": "212465",
+    "name": "Pavé groene peper",
+    "description": "*Frankrijk\n*Droge worst\n*Met groene peper",
+    "technicalArticleNumber": "3520590",
+    "commercialArticleNumber": "27392",
+    "LongName": "BONI Pavé groene peper 200g"
+  },
+  {
+    "gtin": "08713354020205",
+    "productId": "865474",
+    "name": "Twin Chickenburger",
+    "description": "*Oorsprong: België\n*Klasse 2",
+    "technicalArticleNumber": "4717617",
+    "commercialArticleNumber": "3825",
+    "LongName": "DANLERS Twin Chickenburger 250g"
+  },
+  {
+    "gtin": "15400141315384",
+    "productId": "67643",
+    "name": "salami hazelnoten",
+    "description": "*België\n*Met stukjes\nhazelnoot\n*66 % vlees",
+    "technicalArticleNumber": "2774103",
+    "commercialArticleNumber": "43979",
+    "LongName": "BONI salami hazelnoten 150g"
+  },
+  {
+    "gtin": "05400141535730",
+    "productId": "868829",
+    "name": "Coppa met roomkaas",
+    "technicalArticleNumber": "4721811",
+    "commercialArticleNumber": "16076",
+    "LongName": "BONI Coppa met roomkaas 80g"
+  },
+  {
+    "gtin": "05411153009102",
+    "productId": "101635",
+    "name": "tonijnsalade pikant",
+    "description": "Tonijn in een pikante tomatensaus",
+    "technicalArticleNumber": "3112141",
+    "commercialArticleNumber": "43819",
+    "LongName": "DÉLIO tonijnsalade pikant 180g"
+  },
+  {
+    "gtin": "05400141454826",
+    "productId": "697936",
+    "name": "MINI BALLETJES",
+    "description": "* Kleine balletjes voor het aperitief",
+    "technicalArticleNumber": "4428542",
+    "commercialArticleNumber": "27069",
+    "LongName": "BONI MINI BALLETJES 150g"
+  },
+  {
+    "gtin": "15400141625810",
+    "productId": "605901",
+    "name": "CHIFFONADE COPPA",
+    "technicalArticleNumber": "4275956",
+    "commercialArticleNumber": "27028",
+    "LongName": "BONI CHIFFONADE COPPA 110g"
+  },
+  {
+    "gtin": "05400141196597",
+    "productId": "124417",
+    "name": "Prosciutto Cotto alle Erbe sn.",
+    "description": "* Italië\n* Ham\n* 80 % varkensvlees, met kruiden",
+    "technicalArticleNumber": "3208431",
+    "commercialArticleNumber": "31612",
+    "LongName": "BONI Prosciutto Cotto alle Erbe sn. 150g"
+  },
+  {
+    "gtin": "00000080564850",
+    "productId": "56333",
+    "name": "pastavellen lasagne",
+    "description": "*Lasagnebladeren\n*In de kookpot, oven",
+    "technicalArticleNumber": "2328043",
+    "commercialArticleNumber": "18481",
+    "LongName": "GIOVANNI RANA pastavellen lasagne 250g"
+  },
+  {
+    "gtin": "05400141694598",
+    "productId": "848619",
+    "name": "salade geitenkaas",
+    "technicalArticleNumber": "4695857",
+    "commercialArticleNumber": "30146",
+    "LongName": "BONI salade geitenkaas 400g"
+  },
+  {
+    "gtin": "05400141416329",
+    "productId": "175778",
+    "name": "zalmburger graatloos",
+    "description": "*Gekweekt in\nNoorwegen\n*ASC-certificaat\n*Graatloos",
+    "technicalArticleNumber": "3375730",
+    "commercialArticleNumber": "23644",
+    "LongName": "BONI zalmburger graatloos 360g"
+  },
+  {
+    "gtin": "15400141511045",
+    "productId": "57379",
+    "name": "pannenkoeken",
+    "technicalArticleNumber": "2347499",
+    "commercialArticleNumber": "6730",
+    "LongName": "BONI BIO pannenkoeken 350g"
+  },
+  {
+    "gtin": "05400141750812",
+    "productId": "236875",
+    "name": "bladerdeegpasteitjes",
+    "description": "*opwarmen in de\noven",
+    "technicalArticleNumber": "3532352",
+    "commercialArticleNumber": "33339",
+    "LongName": "BONI bladerdeegpasteitjes 20st"
+  },
+  {
+    "gtin": "05411328120984",
+    "productId": "56768",
+    "name": "saucis.d'Arden.IGP look",
+    "description": "*België\n*Salami met look",
+    "technicalArticleNumber": "2339150",
+    "commercialArticleNumber": "18521",
+    "LongName": "MARCASSOU saucis.d'Arden.IGP look 270g"
+  },
+  {
+    "gtin": "05400141562859",
+    "productId": "185933",
+    "name": "kip curry rijst",
+    "description": "*20% kip, rijst,\ngroente, curry\n*Microgolfoven",
+    "technicalArticleNumber": "3456682",
+    "commercialArticleNumber": "30661",
+    "LongName": "BONI kip curry rijst 400g"
+  },
+  {
+    "gtin": "08718300877582",
+    "productId": "574314",
+    "name": "gyros",
+    "description": "*Voorgegaarde\nplantaardige\nreepjes\nop basis\nvan soja-eiwit",
+    "technicalArticleNumber": "4221794",
+    "commercialArticleNumber": "17713",
+    "LongName": "VIVERA gyros 175g"
+  },
+  {
+    "gtin": "05400141467123",
+    "productId": "722779",
+    "name": "ardense salami",
+    "technicalArticleNumber": "4474416",
+    "commercialArticleNumber": "27625",
+    "LongName": "COLRUYT ardense salami 150g"
+  },
+  {
+    "gtin": "05410916046132",
+    "productId": "2170",
+    "name": "Marcachouffe zonder look",
+    "description": "*België\n*Ardense, droge\nworst\n*Gerookt",
+    "technicalArticleNumber": "27092",
+    "commercialArticleNumber": "27092",
+    "LongName": "MARCASSOU Marcachouffe zonder look 8st"
+  },
+  {
+    "gtin": "18428204015085",
+    "productId": "540802",
+    "name": "Espana",
+    "technicalArticleNumber": "4164077",
+    "commercialArticleNumber": "9733",
+    "LongName": "SERRANO Espana 100g"
+  },
+  {
+    "gtin": "15400141179221",
+    "productId": "267196",
+    "name": "spirelli Hawaï",
+    "description": "*Spirelli met mais,\ncocktaildressing,\nananas, paprika,\nwortelen, pijpajuin\n*Verse koude salade",
+    "technicalArticleNumber": "3642319",
+    "commercialArticleNumber": "40702",
+    "LongName": "BONI spirelli Hawaï 400g"
+  },
+  {
+    "gtin": "05400141401301",
+    "productId": "601926",
+    "name": "farfalle sweet veggie",
+    "description": "*Farfalle met zoete\ndressing, tomaten,\npaprika en ei.",
+    "technicalArticleNumber": "4268615",
+    "commercialArticleNumber": "22846",
+    "LongName": "BONI farfalle sweet veggie 400g"
+  },
+  {
+    "gtin": "05425009600009",
+    "productId": "538426",
+    "name": "Spinazieb.",
+    "description": "*Biologisch\n*Vegetarisch",
+    "technicalArticleNumber": "4135690",
+    "commercialArticleNumber": "9568",
+    "LongName": "THE BIO VEGGIE COMPANY Spinazieb. 2x80g"
+  },
+  {
+    "gtin": "05400141443738",
+    "productId": "860444",
+    "name": "Lasagne Groenten",
+    "technicalArticleNumber": "4711255",
+    "commercialArticleNumber": "9913",
+    "LongName": "BONI Lasagne Groenten 400g"
+  },
+  {
+    "gtin": "03154230802839",
+    "productId": "704629",
+    "name": "ham -25% zout 5sn.",
+    "description": "*Gekookte ham\n*Ontzwoerd en ontvet",
+    "technicalArticleNumber": "4439521",
+    "commercialArticleNumber": "26190",
+    "LongName": "HERTA SUPERIEUR ham -25% zout 5sn. 167g"
+  },
+  {
+    "gtin": "05400141556452",
+    "productId": "452673",
+    "name": "Pesto verde",
+    "description": "*Pesto van spinazie\nen basilicum",
+    "technicalArticleNumber": "4014172",
+    "commercialArticleNumber": "2762",
+    "LongName": "BONI Pesto verde 140g"
+  },
+  {
+    "gtin": "15400141562917",
+    "productId": "561364",
+    "name": "Aziatisch assortiment",
+    "technicalArticleNumber": "4199260",
+    "commercialArticleNumber": "6522",
+    "LongName": "BONI Aziatisch assortiment 310g"
+  },
+  {
+    "gtin": "08718300585562",
+    "productId": "574334",
+    "name": "Veg.Spekreepjes",
+    "description": "*Voorgegaarde\nplantaardige reepjes\nop basis van soja-\neiwit met een\ntypische rooksmaak.",
+    "technicalArticleNumber": "4221814",
+    "commercialArticleNumber": "17724",
+    "LongName": "VIVERA Veg.Spekreepjes 175g"
+  },
+  {
+    "gtin": "05410916247249",
+    "productId": "35815",
+    "name": "Bistro Time snacks 8st",
+    "description": "3 hapklare droge worstjes",
+    "technicalArticleNumber": "1908635",
+    "commercialArticleNumber": "35235",
+    "LongName": "AOSTE Bistro Time snacks 8st 150g"
+  },
+  {
+    "gtin": "05400141071719",
+    "productId": "461346",
+    "name": "quiche zalm spinazie",
+    "description": "*15 minuten\nin de oven: 180°C",
+    "technicalArticleNumber": "3964770",
+    "commercialArticleNumber": "2747",
+    "LongName": "BONI quiche zalm spinazie 300g"
+  },
+  {
+    "gtin": "05400141601329",
+    "productId": "164926",
+    "name": "worst natuur vegetarisch",
+    "description": "*Veggie",
+    "technicalArticleNumber": "3401494",
+    "commercialArticleNumber": "50032",
+    "LongName": "BONI worst natuur vegetarisch 100g"
+  },
+  {
+    "gtin": "15400141905219",
+    "productId": "689011",
+    "name": "fiocco di prosciutto",
+    "description": "* 96% varkenvlees\n* Aperitief\n* Italiaans product\n* Gedroogde ham",
+    "technicalArticleNumber": "4414434",
+    "commercialArticleNumber": "27247",
+    "LongName": "BONI fiocco di prosciutto 50g"
+  },
+  {
+    "gtin": "15400141151227",
+    "productId": "165526",
+    "name": "worst tom-basil vegetarisch",
+    "description": "*Veggie",
+    "technicalArticleNumber": "3401521",
+    "commercialArticleNumber": "50033",
+    "LongName": "BONI worst tom-basil vegetarisch 100g"
+  },
+  {
+    "gtin": "03154230812494",
+    "productId": "868789",
+    "name": "baconblokjes",
+    "technicalArticleNumber": "4721429",
+    "commercialArticleNumber": "15789",
+    "LongName": "HERTA baconblokjes 2x100g"
+  },
+  {
+    "gtin": "15400141360643",
+    "productId": "225608",
+    "name": "Vegan martino",
+    "description": "*Op basis van\nwortelpulp\n*Vegan",
+    "technicalArticleNumber": "3567930",
+    "commercialArticleNumber": "31019",
+    "LongName": "BONI Vegan martino 200g"
+  },
+  {
+    "gtin": "05400141454352",
+    "productId": "696770",
+    "name": "Maaltijdsalade Griekse Salade",
+    "technicalArticleNumber": "4426899",
+    "commercialArticleNumber": "26058",
+    "LongName": "BONI Maaltijdsalade Griekse Salade 400g"
+  },
+  {
+    "gtin": "05425010839887",
+    "productId": "826411",
+    "name": "groenteweelde balletjes",
+    "technicalArticleNumber": "4663921",
+    "commercialArticleNumber": "30100",
+    "LongName": "BUTTERFLY groenteweelde balletjes 950ml"
+  },
+  {
+    "gtin": "05413345008504",
+    "productId": "597386",
+    "name": "Veggie Sea Salad",
+    "description": "*Visvrije\nvegetarische salade\n*Veggie",
+    "technicalArticleNumber": "4260094",
+    "commercialArticleNumber": "2355",
+    "LongName": "BONMUSH Veggie Sea Salad 135g"
+  },
+  {
+    "gtin": "15400141893059",
+    "productId": "779453",
+    "name": "tonijn salade mexicaans MSC",
+    "description": "*Salade van rode bonen,\n*tonijn, groenten\n*en maïs",
+    "technicalArticleNumber": "4573643",
+    "commercialArticleNumber": "28635",
+    "LongName": "BONI tonijn salade mexicaans MSC 250g"
+  },
+  {
+    "gtin": "05400141036909",
+    "productId": "127648",
+    "name": "kabeljauw royal graatloos MSC",
+    "description": "*Wild, noord-\noostelijk deel van\nAtlantische oceaan\n*met label MSC",
+    "technicalArticleNumber": "3209946",
+    "commercialArticleNumber": "15544",
+    "LongName": "BONI kabeljauw royal graatloos MSC ±600g"
+  },
+  {
+    "gtin": "05400141461268",
+    "productId": "776981",
+    "name": "plantaardige kipstukjes",
+    "description": "*Voorgegaarde\nplantaardige\nkipstukjes op basis\nvan soja- en tarwe\n-eiwit.",
+    "technicalArticleNumber": "4569141",
+    "commercialArticleNumber": "14753",
+    "LongName": "BONI plantaardige kipstukjes 180g"
+  },
+  {
+    "gtin": "08718300878510",
+    "productId": "619136",
+    "name": "Vegetarische Kaasschnitzel",
+    "technicalArticleNumber": "4297147",
+    "commercialArticleNumber": "22147",
+    "LongName": "VIVERA Vegetarische Kaasschnitzel 150g"
+  },
+  {
+    "gtin": "15400141905202",
+    "productId": "688557",
+    "name": "salame strolghino",
+    "technicalArticleNumber": "4413767",
+    "commercialArticleNumber": "27201",
+    "LongName": "BONI salame strolghino 50g"
+  },
+  {
+    "gtin": "05411761390852",
+    "productId": "881684",
+    "name": "Cornby Gevogelte Kookworst",
+    "technicalArticleNumber": "4739140",
+    "commercialArticleNumber": "2438",
+    "LongName": "Cornby Gevogelte Kookworst 400g"
+  },
+  {
+    "gtin": "15400141637417",
+    "productId": "840103",
+    "name": "Tempehblokjes ketjap",
+    "description": "*Veggie\n*Blokjes tempeh\n*Ketjap saus",
+    "technicalArticleNumber": "4683954",
+    "commercialArticleNumber": "9731",
+    "LongName": "BONI Tempehblokjes ketjap 180g"
+  },
+  {
+    "gtin": "95400141413932",
+    "productId": "325386",
+    "name": "schar meunière MSC",
+    "description": "*Wildvangst in de\nNoordoostelijke\nStille Oceaan\n*met label MSC",
+    "technicalArticleNumber": "3776159",
+    "commercialArticleNumber": "20215",
+    "LongName": "BONI schar meunière MSC ±300g"
+  },
+  {
+    "gtin": "05411761363177",
+    "productId": "788657",
+    "name": "kipfilet",
+    "description": "*Gebakken\nkippenvlees",
+    "technicalArticleNumber": "4592769",
+    "commercialArticleNumber": "28994",
+    "LongName": "AOSTE PLUS kipfilet 120g"
+  },
+  {
+    "gtin": "15413848290021",
+    "productId": "19028",
+    "name": "lasagne verde",
+    "description": "*Met 13,5 %\nvarkensvlees\n*In de oven",
+    "technicalArticleNumber": "1773181",
+    "commercialArticleNumber": "33841",
+    "LongName": "COME A CASA lasagne verde 400g"
+  },
+  {
+    "gtin": "05411123903140",
+    "productId": "20523",
+    "name": "worst gekookt",
+    "description": "*België",
+    "technicalArticleNumber": "1913558",
+    "commercialArticleNumber": "27626",
+    "LongName": "CHATAR worst gekookt 3x250g"
+  },
+  {
+    "gtin": "03449862080213",
+    "productId": "582997",
+    "name": "bâton de berger",
+    "description": "*Frankrijk\n*Droge worst\n*Met natuurlijke\nkruiden",
+    "technicalArticleNumber": "4236526",
+    "commercialArticleNumber": "18635",
+    "LongName": "JUSTIN BRIDOU bâton de berger 250g"
+  },
+  {
+    "gtin": "05400141761740",
+    "productId": "2169",
+    "name": "rolmops mayonaise MSC",
+    "description": "*Wild, noord-\noostelijk deel van\nAtlantische oceaan\n*met label MSC",
+    "technicalArticleNumber": "27077",
+    "commercialArticleNumber": "27077",
+    "LongName": "BONI rolmops mayonaise MSC 350g"
+  },
+  {
+    "gtin": "08717545694077",
+    "productId": "457918",
+    "name": "kipballetjes Halal",
+    "description": "*Duitsland",
+    "technicalArticleNumber": "3952076",
+    "commercialArticleNumber": "1893",
+    "LongName": "MARHABA kipballetjes Halal 250g"
+  },
+  {
+    "gtin": "07613036942898",
+    "productId": "776076",
+    "name": "KNACKI kip 6st",
+    "technicalArticleNumber": "4567377",
+    "commercialArticleNumber": "7208",
+    "LongName": "HERTA KNACKI kip 6st 210g"
+  },
+  {
+    "gtin": "03154230600510",
+    "productId": "640182",
+    "name": "kruimeldeeg",
+    "technicalArticleNumber": "4332663",
+    "commercialArticleNumber": "13043",
+    "LongName": "HERTA kruimeldeeg 230g"
+  },
+  {
+    "gtin": "05411319500863",
+    "productId": "86081",
+    "name": "l'Authentique salami kip",
+    "description": "*België\n*100 % kippenvlees",
+    "technicalArticleNumber": "2931781",
+    "commercialArticleNumber": "1337",
+    "LongName": "AOSTE l'Authentique salami kip 100g"
+  },
+  {
+    "gtin": "05400141561715",
+    "productId": "881372",
+    "name": "linguine nestjes",
+    "technicalArticleNumber": "4738760",
+    "commercialArticleNumber": "1370",
+    "LongName": "BONI linguine nestjes 500g"
+  },
+  {
+    "gtin": "05413950158625",
+    "productId": "867094",
+    "name": "kip bearnaise",
+    "technicalArticleNumber": "4719864",
+    "commercialArticleNumber": "1705",
+    "LongName": "CHARLES kip bearnaise 150g"
+  },
+  {
+    "gtin": "05400141188066",
+    "productId": "123102",
+    "name": "chorizo sneetjes",
+    "description": "*Spanje\n*Pikant\n*Aperitief",
+    "technicalArticleNumber": "3213379",
+    "commercialArticleNumber": "14848",
+    "LongName": "BONI chorizo sneetjes 150g"
+  },
+  {
+    "gtin": "15400141616214",
+    "productId": "861244",
+    "name": "Bresaola",
+    "description": "*droog gezouten\nrundvlees",
+    "technicalArticleNumber": "4712369",
+    "commercialArticleNumber": "21654",
+    "LongName": "BONI Bresaola 70g"
+  },
+  {
+    "gtin": "05400141398311",
+    "productId": "115862",
+    "name": "Noors gerookt zalmhaasje",
+    "description": "*Aquacultuur uit\nNoorwegen\n*Subtiele rooksmaak\n*Traditioneel\ngerookt",
+    "technicalArticleNumber": "3007756",
+    "commercialArticleNumber": "14044",
+    "LongName": "BONI Noors gerookt zalmhaasje 160g"
+  },
+  {
+    "gtin": "95400141208859",
+    "productId": "90393",
+    "name": "kabeljauwfil.gepan.graatl.MSC",
+    "description": "*Wild, noord-\noostelijk deel van\nAtlantische oceaan\n*met label MSC",
+    "technicalArticleNumber": "2933913",
+    "commercialArticleNumber": "33893",
+    "LongName": "BONI kabeljauwfil.gepan.graatl.MSC ±300g"
+  },
+  {
+    "gtin": "05400141207897",
+    "productId": "356180",
+    "name": "salami blokjes",
+    "description": "*Salami blokjes",
+    "technicalArticleNumber": "3846026",
+    "commercialArticleNumber": "33118",
+    "LongName": "ECONOM salami blokjes 1kg"
+  },
+  {
+    "gtin": "05411328191830",
+    "productId": "53631",
+    "name": "boerenpaté",
+    "description": "*België",
+    "technicalArticleNumber": "2359960",
+    "commercialArticleNumber": "26240",
+    "LongName": "AOSTE boerenpaté 150g"
+  },
+  {
+    "gtin": "05400141875195",
+    "productId": "449236",
+    "name": "Koude schotel zalm",
+    "description": "*koude schotel",
+    "technicalArticleNumber": "4018208",
+    "commercialArticleNumber": "5076",
+    "LongName": "BONI Koude schotel zalm 450g"
+  },
+  {
+    "gtin": "05400141320091",
+    "productId": "142865",
+    "name": "kip-kap sneetjes",
+    "description": "*België\n*Boterham, koude\nschotels",
+    "technicalArticleNumber": "3280853",
+    "commercialArticleNumber": "31919",
+    "LongName": "BONI kip-kap sneetjes 200g"
+  },
+  {
+    "gtin": "05202390023163",
+    "productId": "812990",
+    "name": "gouda plakken",
+    "description": "*Vegetarisch",
+    "technicalArticleNumber": "4639119",
+    "commercialArticleNumber": "15808",
+    "LongName": "VIOLIFE gouda plakken 140g"
+  },
+  {
+    "gtin": "05400141728705",
+    "productId": "709936",
+    "name": "gevulde pasta zomer truffel",
+    "technicalArticleNumber": "4450481",
+    "commercialArticleNumber": "26425",
+    "LongName": "BONI gevulde pasta zomer truffel 250g"
+  },
+  {
+    "gtin": "05411761334689",
+    "productId": "599752",
+    "name": "kalkoensalami",
+    "technicalArticleNumber": "4264596",
+    "commercialArticleNumber": "14811",
+    "LongName": "AOSTE kalkoensalami 90g"
+  },
+  {
+    "gtin": "05400141874679",
+    "productId": "887400",
+    "name": "Chiffonade Ham",
+    "technicalArticleNumber": "4746805",
+    "commercialArticleNumber": "32762",
+    "LongName": "BONI Chiffonade Ham 110g"
+  },
+  {
+    "gtin": "05400141538632",
+    "productId": "726051",
+    "name": "farfalle met kip",
+    "technicalArticleNumber": "4480045",
+    "commercialArticleNumber": "15147",
+    "LongName": "BONI farfalle met kip 400g"
+  },
+  {
+    "gtin": "05411328194503",
+    "productId": "51714",
+    "name": "pipes d'Ardenne IGP",
+    "description": "*België\n*Ardense worst\n*Aperitief",
+    "technicalArticleNumber": "2368436",
+    "commercialArticleNumber": "32042",
+    "LongName": "MARCASSOU pipes d'Ardenne IGP 250g"
+  },
+  {
+    "gtin": "05413848106042",
+    "productId": "84926",
+    "name": "moussaka aubergine",
+    "technicalArticleNumber": "2983886",
+    "commercialArticleNumber": "4761",
+    "LongName": "COME A CASA moussaka aubergine 400g"
+  },
+  {
+    "gtin": "05413848271795",
+    "productId": "890520",
+    "name": "lasagne kip mascarpone",
+    "technicalArticleNumber": "4751247",
+    "commercialArticleNumber": "11518",
+    "LongName": "COME A CASA lasagne kip mascarpone 400g"
+  },
+  {
+    "gtin": "15400141991601",
+    "productId": "469843",
+    "name": "groentenburger vegetari",
+    "description": "*Vegetarische burger",
+    "technicalArticleNumber": "4073978",
+    "commercialArticleNumber": "7294",
+    "LongName": "BONI groentenburger vegetari 200g"
+  },
+  {
+    "gtin": "05400141756371",
+    "productId": "870016",
+    "name": "Kipfilet peperroomsaus gratin",
+    "description": "*Kipfilet\npeperroomsaus\ngratin",
+    "technicalArticleNumber": "4723517",
+    "commercialArticleNumber": "21259",
+    "LongName": "BONI Kipfilet peperroomsaus gratin 450g"
+  },
+  {
+    "gtin": "15400141615514",
+    "productId": "758638",
+    "name": "braadworst vegetarisch",
+    "description": "*Vegetarisch",
+    "technicalArticleNumber": "4535875",
+    "commercialArticleNumber": "28229",
+    "LongName": "BONI braadworst vegetarisch 180g"
+  },
+  {
+    "gtin": "15400141602187",
+    "productId": "703329",
+    "name": "Grantortelli Basil-Parmigiano",
+    "technicalArticleNumber": "4437529",
+    "commercialArticleNumber": "20985",
+    "LongName": "BONI Grantortelli Basil-Parmigiano 250g"
+  },
+  {
+    "gtin": "05400141428742",
+    "productId": "709707",
+    "name": "quinoa salade",
+    "technicalArticleNumber": "4449647",
+    "commercialArticleNumber": "26391",
+    "LongName": "BONI quinoa salade 300g"
+  },
+  {
+    "gtin": "15400141925439",
+    "productId": "873632",
+    "name": "Rolmops op azijn",
+    "technicalArticleNumber": "4728150",
+    "commercialArticleNumber": "30031",
+    "LongName": "BONI Rolmops op azijn 270g"
+  },
+  {
+    "gtin": "95400141992994",
+    "productId": "486592",
+    "name": "Pangasiusfilet gemarineerd",
+    "description": "*ASC gecertificeerd\n*Gekweekt in Vietnam",
+    "technicalArticleNumber": "4093624",
+    "commercialArticleNumber": "8187",
+    "LongName": "BONI Pangasiusfilet gemarineerd ±280g"
+  },
+  {
+    "gtin": "05015612200750",
+    "productId": "166659",
+    "name": "zeewierbl.Sushi Nori",
+    "technicalArticleNumber": "3380710",
+    "commercialArticleNumber": "6420",
+    "LongName": "BLUE DRAGON zeewierbl.Sushi Nori 11g"
+  },
+  {
+    "gtin": "08717545694633",
+    "productId": "52116",
+    "name": "pepersalami Halal",
+    "description": "*Duitsland\n*Boterham",
+    "technicalArticleNumber": "2402072",
+    "commercialArticleNumber": "19164",
+    "LongName": "MARHABA pepersalami Halal 100g"
+  },
+  {
+    "gtin": "05400141568479",
+    "productId": "180209",
+    "name": "Grantortelli eekhoorntjesbrood",
+    "technicalArticleNumber": "3352571",
+    "commercialArticleNumber": "19977",
+    "LongName": "BONI Grantortelli eekhoorntjesbrood 250g"
+  },
+  {
+    "gtin": "15411153011843",
+    "productId": "143907",
+    "name": "Breydelhamsalade",
+    "description": "Traditionele salade met Breydelham in\neen verfijnde saus van stukjes augurk\nen zilverui.",
+    "technicalArticleNumber": "3317626",
+    "commercialArticleNumber": "12256",
+    "LongName": "DÉLIO Breydelhamsalade 180g"
+  },
+  {
+    "gtin": "05400141368055",
+    "productId": "97077",
+    "name": "salami zonder look",
+    "description": "*België\n*Salami zonder look\n*66 % vlees\n*Aperitief,pizza,\npicknick",
+    "technicalArticleNumber": "2897060",
+    "commercialArticleNumber": "32972",
+    "LongName": "BONI salami zonder look 450g"
+  },
+  {
+    "gtin": "07613037044867",
+    "productId": "520255",
+    "name": "veggie sensat. greek",
+    "technicalArticleNumber": "4103625",
+    "commercialArticleNumber": "8519",
+    "LongName": "GARDEN GOURMET veggie sensat. greek 200g"
+  },
+  {
+    "gtin": "05400141686586",
+    "productId": "844025",
+    "name": "apero witte pens",
+    "technicalArticleNumber": "4689641",
+    "commercialArticleNumber": "30689",
+    "LongName": "BONI apero witte pens 150g"
+  },
+  {
+    "gtin": "05400141947168",
+    "productId": "18900",
+    "name": "kipfilet",
+    "description": "*België\n*80 % kippenvlees\n*Boterham, koude\nschotel",
+    "technicalArticleNumber": "1771947",
+    "commercialArticleNumber": "33808",
+    "LongName": "BONI BIO kipfilet 100g"
+  },
+  {
+    "gtin": "05400141705843",
+    "productId": "513331",
+    "name": "filets gemarineerd vegetarisch",
+    "description": "voorgegaarde\nvegetarische filet\nop basis van\nplantaardige eiwitten\nmet 11% marinade",
+    "technicalArticleNumber": "4081477",
+    "commercialArticleNumber": "6082",
+    "LongName": "BONI filets gemarineerd vegetarisch 180g"
+  },
+  {
+    "gtin": "03154230802051",
+    "productId": "779427",
+    "name": "ham aan t spit 4sn",
+    "description": "*Gekookte ham,\nontzwoerd en ontvet\naan spit.",
+    "technicalArticleNumber": "4573373",
+    "commercialArticleNumber": "28628",
+    "LongName": "HERTA SUPERIEUR ham aan t spit 4sn 133g"
+  },
+  {
+    "gtin": "15400141151371",
+    "productId": "242370",
+    "name": "tofu reepjes vegetarisch",
+    "description": "*91% tofu\n*In de pan of wok\n*Vegan",
+    "technicalArticleNumber": "3544461",
+    "commercialArticleNumber": "33137",
+    "LongName": "BONI tofu reepjes vegetarisch 170g"
+  },
+  {
+    "gtin": "05413950152609",
+    "productId": "824065",
+    "name": "ei-spek salade",
+    "technicalArticleNumber": "4660319",
+    "commercialArticleNumber": "29825",
+    "LongName": "CHARLES ei-spek salade 150g"
+  },
+  {
+    "gtin": "08716142003961",
+    "productId": "813555",
+    "name": "Kibbeling",
+    "technicalArticleNumber": "4640226",
+    "commercialArticleNumber": "18027",
+    "LongName": "FISH & FOOD Kibbeling ±300g"
+  },
+  {
+    "gtin": "15400141716099",
+    "productId": "822941",
+    "name": "Pompoen hazelnootburger",
+    "description": "*Oorsprong: België, Nederland\n*Klasse 1",
+    "technicalArticleNumber": "4658294",
+    "commercialArticleNumber": "29752",
+    "LongName": "BONI BIO Pompoen hazelnootburger 180g"
+  },
+  {
+    "gtin": "05425009600085",
+    "productId": "538402",
+    "name": "kaasburger",
+    "technicalArticleNumber": "4135666",
+    "commercialArticleNumber": "9558",
+    "LongName": "THE BIO VEGGIE COMPANY kaasburger 2x85g"
+  },
+  {
+    "gtin": "08445290714725",
+    "productId": "952174",
+    "name": "Cauliflow.Schnitzel",
+    "technicalArticleNumber": "4770424",
+    "commercialArticleNumber": "30318",
+    "LongName": "GARDEN GOURMET Cauliflow.Schnitzel 186g"
+  },
+  {
+    "gtin": "05400141322125",
+    "productId": "154357",
+    "name": "aardappelsalade",
+    "description": "*76 % aardappel\n*Met mayonaise",
+    "technicalArticleNumber": "3276663",
+    "commercialArticleNumber": "2852",
+    "LongName": "BONI aardappelsalade 500g"
+  },
+  {
+    "gtin": "15400141604099",
+    "productId": "115848",
+    "name": "gerookte zalm snippers",
+    "description": "*Aquacult.Noorwegen,\nSchotland, Ierland\n*Milde rooksmaak,\nom te garneren\n*Tradit. gerookt",
+    "technicalArticleNumber": "3007680",
+    "commercialArticleNumber": "1314",
+    "LongName": "BONI gerookte zalm snippers 150g"
+  },
+  {
+    "gtin": "35400141512954",
+    "productId": "512205",
+    "name": "linzenburgers vegetarisch",
+    "description": "*Veganistische\nburger\nop basis van\nlinzen,\nvoorgegaard.",
+    "technicalArticleNumber": "4081463",
+    "commercialArticleNumber": "5018",
+    "LongName": "BONI linzenburgers vegetarisch 200g"
+  },
+  {
+    "gtin": "05400141838848",
+    "productId": "588252",
+    "name": "Pizza Hawaï",
+    "technicalArticleNumber": "4245489",
+    "commercialArticleNumber": "20142",
+    "LongName": "BONI Pizza Hawaï 460g"
+  },
+  {
+    "gtin": "05400141800951",
+    "productId": "114940",
+    "name": "notenburger vegetarisch",
+    "description": "*Burger\n*Met notenmix",
+    "technicalArticleNumber": "3068990",
+    "commercialArticleNumber": "15694",
+    "LongName": "BONI notenburger vegetarisch 120g"
+  },
+  {
+    "gtin": "05400141512250",
+    "productId": "849086",
+    "name": "salade niçoise",
+    "description": "*Slamix, tonijn, ei,\nrode ui, zwarte\nolijven, sperzie-\nbonen en\nvinaigrettedressing",
+    "technicalArticleNumber": "4696491",
+    "commercialArticleNumber": "30763",
+    "LongName": "BONI salade niçoise 400g"
+  },
+  {
+    "gtin": "08001665704953",
+    "productId": "303993",
+    "name": "Ravioli 4 Formaggi",
+    "description": "*Italië\n*Kooktijd: 2 minuten",
+    "technicalArticleNumber": "3707287",
+    "commercialArticleNumber": "40251",
+    "LongName": "GIOVANNI RANA Ravioli 4 Formaggi 400g"
+  },
+  {
+    "gtin": "05400141756388",
+    "productId": "868809",
+    "name": "Scampi pittige tomatenroomsaus",
+    "technicalArticleNumber": "4721485",
+    "commercialArticleNumber": "15998",
+    "LongName": "BONI Scampi pittige tomatenroomsaus 450g"
+  },
+  {
+    "gtin": "95400141454881",
+    "productId": "859381",
+    "name": "Roodbaarsfilet",
+    "description": "*Oorsprong: Ijsland\n*Zonder huid\n*MSC",
+    "technicalArticleNumber": "4709958",
+    "commercialArticleNumber": "2532",
+    "LongName": "BONI Roodbaarsfilet ±250g"
+  },
+  {
+    "gtin": "05400141756395",
+    "productId": "868962",
+    "name": "varkenshaasje mosterds. rösti",
+    "technicalArticleNumber": "4722230",
+    "commercialArticleNumber": "17177",
+    "LongName": "BONI varkenshaasje mosterds. rösti 450g"
+  },
+  {
+    "gtin": "15400141915188",
+    "productId": "584817",
+    "name": "broodje ham kaas tomaat",
+    "description": "*Brood met achterham,\ntomaat, gouda en\nmosterdsaus",
+    "technicalArticleNumber": "4240167",
+    "commercialArticleNumber": "19351",
+    "LongName": "BONI broodje ham kaas tomaat 150g"
+  },
+  {
+    "gtin": "15400141195672",
+    "productId": "188336",
+    "name": "miniloempia kip",
+    "description": "*Met kip en groenten\n*In de oven",
+    "technicalArticleNumber": "3456743",
+    "commercialArticleNumber": "30662",
+    "LongName": "BONI miniloempia kip 170g"
+  },
+  {
+    "gtin": "08717545693896",
+    "productId": "63914",
+    "name": "bacon kalkoen Halal",
+    "description": "*Duitsland",
+    "technicalArticleNumber": "2778631",
+    "commercialArticleNumber": "32271",
+    "LongName": "MARHABA bacon kalkoen Halal 80g"
+  },
+  {
+    "gtin": "05400141615005",
+    "productId": "743053",
+    "name": "ongepelde garnalen",
+    "description": "*Nederland",
+    "technicalArticleNumber": "4509535",
+    "commercialArticleNumber": "28173",
+    "LongName": "BONI ongepelde garnalen 250g"
+  },
+  {
+    "gtin": "05400141364132",
+    "productId": "211175",
+    "name": "paté ovengebakken",
+    "technicalArticleNumber": "3519653",
+    "commercialArticleNumber": "27268",
+    "LongName": "BONI paté ovengebakken 200g"
+  },
+  {
+    "gtin": "05411319273248",
+    "productId": "288578",
+    "name": "kipfilet aan't spit sneetjes",
+    "technicalArticleNumber": "3676192",
+    "commercialArticleNumber": "27420",
+    "LongName": "AOSTE kipfilet aan't spit sneetjes 120g"
+  },
+  {
+    "gtin": "05400141365931",
+    "productId": "27188",
+    "name": "roze garnalen wild MSC",
+    "description": "*Wild, midden-\nwestelijk deel van\nAtlantische, Stille\nen Indische Oceaan\n*met label MSC",
+    "technicalArticleNumber": "2191674",
+    "commercialArticleNumber": "27430",
+    "LongName": "BONI roze garnalen wild MSC 125g"
+  },
+  {
+    "gtin": "08720182685544",
+    "productId": "893373",
+    "name": "Boul.Very Chouettes",
+    "technicalArticleNumber": "4755256",
+    "commercialArticleNumber": "7915",
+    "LongName": "DE VEGETARISCHE SLAGER Boul.Very Chouettes 180g"
+  },
+  {
+    "gtin": "05400141462227",
+    "productId": "630043",
+    "name": "spek met roomkaas",
+    "description": "*rolletje katenspek\ngevulde met\nroomkaas naturel",
+    "technicalArticleNumber": "4315346",
+    "commercialArticleNumber": "4594",
+    "LongName": "BONI spek met roomkaas 100g"
+  },
+  {
+    "gtin": "07613287418975",
+    "productId": "703011",
+    "name": "gemar. filet stukjes",
+    "technicalArticleNumber": "4436844",
+    "commercialArticleNumber": "20435",
+    "LongName": "GARDEN GOURMET gemar. filet stukjes 160g"
+  },
+  {
+    "gtin": "05400141805123",
+    "productId": "505641",
+    "name": "paella garnalen,mossels,kip",
+    "description": "*Rijstgerecht met\ngarnalen,\nmossels,\nstukjes kip",
+    "technicalArticleNumber": "4059311",
+    "commercialArticleNumber": "6775",
+    "LongName": "BONI paella garnalen,mossels,kip 1kg"
+  },
+  {
+    "gtin": "05411319278106",
+    "productId": "464906",
+    "name": "Vegetarische Sneetjes Curry",
+    "description": "*Veggie",
+    "technicalArticleNumber": "4020239",
+    "commercialArticleNumber": "5101",
+    "LongName": "AOSTE Vegetarische Sneetjes Curry 100g"
+  },
+  {
+    "gtin": "05410459006211",
+    "productId": "583118",
+    "name": "Poolse worst",
+    "description": "*Gekookte varkens\nen rundvlees\nbereiding",
+    "technicalArticleNumber": "4236648",
+    "commercialArticleNumber": "18695",
+    "LongName": "AUBEL Poolse worst 2x150g"
+  },
+  {
+    "gtin": "08713582207416",
+    "productId": "600898",
+    "name": "gehakt",
+    "description": "*Vegan gehakt op\nbasis van\nplantaardige\neiwitten\n(tarwe, soja)",
+    "technicalArticleNumber": "4266979",
+    "commercialArticleNumber": "18983",
+    "LongName": "THE BLUE BUTCHER gehakt 300g"
+  },
+  {
+    "gtin": "08718300584305",
+    "productId": "774523",
+    "name": "Vegan Krokante Schnitzel",
+    "technicalArticleNumber": "4563918",
+    "commercialArticleNumber": "1596",
+    "LongName": "VIVERA Vegan Krokante Schnitzel 2x100g"
+  },
+  {
+    "gtin": "05400141453072",
+    "productId": "878323",
+    "name": "gemarineerde scampi ASC",
+    "description": "*Gepelde garnalen\n*Gemarineerd\n*Vietnam\n*met label ASC",
+    "technicalArticleNumber": "4734335",
+    "commercialArticleNumber": "15910",
+    "LongName": "BONI gemarineerde scampi ASC 200g"
+  },
+  {
+    "gtin": "05410659999733",
+    "productId": "551930",
+    "name": "haringhapjes in dillesaus",
+    "description": "*Stukjes vaste filet\n*Yogh.vinaigrette\n*Wildvangst (MSC)",
+    "technicalArticleNumber": "4183532",
+    "commercialArticleNumber": "10619",
+    "LongName": "GILCO haringhapjes in dillesaus 400g"
+  },
+  {
+    "gtin": "15400141504757",
+    "productId": "752397",
+    "name": "Seitan gehakt",
+    "technicalArticleNumber": "4525388",
+    "commercialArticleNumber": "21716",
+    "LongName": "BONI BIO Seitan gehakt 180g"
+  },
+  {
+    "gtin": "05400141531664",
+    "productId": "97111",
+    "name": "currysalade",
+    "description": "*Smeersalade\n*Met currysaus en\nvegan worst\n*Vegan",
+    "technicalArticleNumber": "2881520",
+    "commercialArticleNumber": "33662",
+    "LongName": "BONI currysalade 200g"
+  },
+  {
+    "gtin": "15400141888949",
+    "productId": "779484",
+    "name": "tonijn salade niçoise MSC",
+    "description": "*Salade van groenten,\n*tonijn en aardappelen",
+    "technicalArticleNumber": "4573676",
+    "commercialArticleNumber": "28640",
+    "LongName": "BONI tonijn salade niçoise MSC 250g"
+  },
+  {
+    "gtin": "05202390024511",
+    "productId": "687417",
+    "name": "original geraspt",
+    "description": "*Vegetarisch",
+    "technicalArticleNumber": "4411744",
+    "commercialArticleNumber": "25549",
+    "LongName": "VIOLIFE original geraspt 200g"
+  },
+  {
+    "gtin": "13336374301608",
+    "productId": "835181",
+    "name": "garnalenkrans cocktails.",
+    "technicalArticleNumber": "4677017",
+    "commercialArticleNumber": "11835",
+    "LongName": "DELPIERRE garnalenkrans cocktails. 130g"
+  },
+  {
+    "gtin": "08720182095183",
+    "productId": "890944",
+    "name": "Crispy Chick Burger",
+    "technicalArticleNumber": "4751860",
+    "commercialArticleNumber": "14942",
+    "LongName": "VEGET. SLAGER Crispy Chick Burger 180g"
+  },
+  {
+    "gtin": "95400141740571",
+    "productId": "687295",
+    "name": "heekfilet gemarineerd zd.huid",
+    "description": "*MSC\n*Verse vis\n*Zonder huid",
+    "technicalArticleNumber": "4411268",
+    "commercialArticleNumber": "25419",
+    "LongName": "BONI heekfilet gemarineerd zd.huid ±250g"
+  },
+  {
+    "gtin": "05411761363221",
+    "productId": "788663",
+    "name": "kip.stukj.gegrild natuur",
+    "description": "*Gebakken stukjes\nkipfilet",
+    "technicalArticleNumber": "4592780",
+    "commercialArticleNumber": "28996",
+    "LongName": "AOSTE PLUS kip.stukj.gegrild natuur 120g"
+  },
+  {
+    "gtin": "05411761278440",
+    "productId": "860266",
+    "name": "Veggie Sneetjes Tuinkruiden",
+    "technicalArticleNumber": "4711007",
+    "commercialArticleNumber": "6930",
+    "LongName": "AOSTE Veggie Sneetjes Tuinkruiden 100g"
+  },
+  {
+    "gtin": "05412344946053",
+    "productId": "691164",
+    "name": "kip rode curry rijst",
+    "description": "*Kip in een pittige\nrode currysaus met\nrijst",
+    "technicalArticleNumber": "4418201",
+    "commercialArticleNumber": "22193",
+    "LongName": "PURE kip rode curry rijst 400g"
+  },
+  {
+    "gtin": "08717545694657",
+    "productId": "52111",
+    "name": "boterhamworst gevogelte",
+    "description": "*Duitsland\n*Boterham",
+    "technicalArticleNumber": "2402037",
+    "commercialArticleNumber": "19087",
+    "LongName": "MARHABA boterhamworst gevogelte 200g"
+  },
+  {
+    "gtin": "15400141376071",
+    "productId": "590849",
+    "name": "samourai salade",
+    "description": "*Vegan\nsamourai\nsalade\n*Vegan",
+    "technicalArticleNumber": "4249321",
+    "commercialArticleNumber": "7532",
+    "LongName": "BONI samourai salade 200g"
+  },
+  {
+    "gtin": "05412344940013",
+    "productId": "855565",
+    "name": "kip satay met rijst",
+    "description": "*Kip in een sausje\nvan pindapasta en\nkokosmelk met\naromatische rijst",
+    "technicalArticleNumber": "4704712",
+    "commercialArticleNumber": "31337",
+    "LongName": "PURE kip satay met rijst 400g"
+  },
+  {
+    "gtin": "08717545699546",
+    "productId": "620967",
+    "name": "Rundvlees salami en kalkoen",
+    "description": "*Halal Rundvlees\nmet kalkoen salami\ngedroogd en gerookt.",
+    "technicalArticleNumber": "4300182",
+    "commercialArticleNumber": "23559",
+    "LongName": "MARHABA Rundvlees salami en kalkoen 100g"
+  },
+  {
+    "gtin": "05413345008306",
+    "productId": "658913",
+    "name": "Veggie slagersalade",
+    "description": "*Vegetarisch\nalternatief voor\nvleessalade, op\nbasis van oesterzwam",
+    "technicalArticleNumber": "4361997",
+    "commercialArticleNumber": "24055",
+    "LongName": "BONMUSH Veggie slagersalade 135g"
+  },
+  {
+    "gtin": "08718692788824",
+    "productId": "788388",
+    "name": "Le gehackt",
+    "description": "*Veggie gehackt\n*Klaar voor gebruik\n*Veggie proteïne\n*Vegan friendly\n*Vleesvervangers",
+    "technicalArticleNumber": "4591807",
+    "commercialArticleNumber": "28829",
+    "LongName": "DE VEGETARISCHE SLAGER Le gehackt 200g"
+  },
+  {
+    "gtin": "05413345011177",
+    "productId": "864731",
+    "name": "curry salade",
+    "technicalArticleNumber": "4716607",
+    "commercialArticleNumber": "1248",
+    "LongName": "BONMUSH curry salade 135g"
+  },
+  {
+    "gtin": "08717545699256",
+    "productId": "152336",
+    "name": "kipfilet sneetjes Halal",
+    "description": "*Duitsland\n*Boterham",
+    "technicalArticleNumber": "3287086",
+    "commercialArticleNumber": "40453",
+    "LongName": "MARHABA kipfilet sneetjes Halal 100g"
+  },
+  {
+    "gtin": "05411761345418",
+    "productId": "742328",
+    "name": "bistro time",
+    "description": "*Gedroogde worst van\nvarkensvlees met\nboterbonen",
+    "technicalArticleNumber": "4508345",
+    "commercialArticleNumber": "28125",
+    "LongName": "AOSTE PLUS bistro time 120g"
+  },
+  {
+    "gtin": "05413345008917",
+    "productId": "688905",
+    "name": "Veggie Tune-in salad",
+    "description": "*Veggie\n*Alternatief voor\ntonijnsalade",
+    "technicalArticleNumber": "4414326",
+    "commercialArticleNumber": "10882",
+    "LongName": "BONMUSH Veggie Tune-in salad 135g"
+  },
+  {
+    "gtin": "08001665723558",
+    "productId": "907531",
+    "name": "Gnocci Spinazie | mozzarella",
+    "technicalArticleNumber": "4753442",
+    "commercialArticleNumber": "22609",
+    "LongName": "RANA Gnocci Spinazie | mozzarella 280g"
+  },
+  {
+    "gtin": "05411761258817",
+    "productId": "223064",
+    "name": "kipfilet sneetjes",
+    "technicalArticleNumber": "3488955",
+    "commercialArticleNumber": "26076",
+    "LongName": "AOSTE kipfilet sneetjes 120g"
+  },
+  {
+    "gtin": "05400141756364",
+    "productId": "868965",
+    "name": "Br.worst br.saus pastinaakpur.",
+    "technicalArticleNumber": "4722233",
+    "commercialArticleNumber": "17259",
+    "LongName": "BONI Br.worst br.saus pastinaakpur. 450g"
+  },
+  {
+    "gtin": "15400141605706",
+    "productId": "682786",
+    "name": "spiesjes gem vegetarisch",
+    "description": "*Voorgegaarde\nvegetarische\nspiesjes met\nmarinade",
+    "technicalArticleNumber": "4403536",
+    "commercialArticleNumber": "24704",
+    "LongName": "BONI spiesjes gem vegetarisch 140g"
+  },
+  {
+    "gtin": "08001665133425",
+    "productId": "100718",
+    "name": "Ravioli Funghi",
+    "description": "*Verse pasta,\n47 % vulling: kaas,\neekhoorntjesbrood,\nricotta, champignons\n*In de kookpot",
+    "technicalArticleNumber": "2842945",
+    "commercialArticleNumber": "45772",
+    "LongName": "GIOVANNI RANA Ravioli Funghi 400g"
+  },
+  {
+    "gtin": "15400141655473",
+    "productId": "51609",
+    "name": "garnalen gepeld",
+    "description": "*Aquacultuur uit\nEcuador, Costa Rica,\nIndonesië of\nHonduras.\n*Gepeld",
+    "technicalArticleNumber": "2377757",
+    "commercialArticleNumber": "25652",
+    "LongName": "BONI BIO garnalen gepeld 100g"
+  },
+  {
+    "gtin": "05400141814422",
+    "productId": "1024187",
+    "name": "Kippenvleesbrood Sweet Chili",
+    "technicalArticleNumber": "4791240",
+    "commercialArticleNumber": "33474",
+    "LongName": "BONI Kippenvleesbrood Sweet Chili 150g"
+  },
+  {
+    "gtin": "08718300876196",
+    "productId": "861508",
+    "name": "Kebabreepjes",
+    "description": "*Voorgegaarde\nplantaardige gekruid\nreepjes op basis\nvan soja-eiwit.",
+    "technicalArticleNumber": "4712790",
+    "commercialArticleNumber": "27784",
+    "LongName": "VIVERA Kebabreepjes 175g"
+  },
+  {
+    "gtin": "05400141539738",
+    "productId": "715228",
+    "name": "zeesticks vegetarisch",
+    "description": "*Sticks op basis van\nsoja",
+    "technicalArticleNumber": "4460194",
+    "commercialArticleNumber": "21264",
+    "LongName": "BONI zeesticks vegetarisch 210g"
+  },
+  {
+    "gtin": "15400141513087",
+    "productId": "840300",
+    "name": "Tapas klassiek",
+    "description": "*Tapas mixed\n*Halfdroge tomaten\n*Olijven basilicum\n*Zoete pepers met\nroomkaas",
+    "technicalArticleNumber": "4684262",
+    "commercialArticleNumber": "11263",
+    "LongName": "BONI Tapas klassiek 170g"
+  },
+  {
+    "gtin": "08001665723541",
+    "productId": "907664",
+    "name": "gnocci ham mozzarella",
+    "technicalArticleNumber": "4758894",
+    "commercialArticleNumber": "2941",
+    "LongName": "RANA gnocci ham mozzarella 280g"
+  },
+  {
+    "gtin": "05412344947043",
+    "productId": "691162",
+    "name": "kip groen curry noedels",
+    "description": "*Kip in een pittige\ngroene currysaus\nop basis van kokos-\nmelk met noedels",
+    "technicalArticleNumber": "4418199",
+    "commercialArticleNumber": "22150",
+    "LongName": "PURE kip groen curry noedels 400g"
+  },
+  {
+    "gtin": "05400141156966",
+    "productId": "85749",
+    "name": "spinaziepuree",
+    "description": "Verse ambachtelijke spinaziepuree met\nboter.",
+    "technicalArticleNumber": "3015221",
+    "commercialArticleNumber": "8959",
+    "LongName": "BONI spinaziepuree 500g"
+  },
+  {
+    "gtin": "05410459000011",
+    "productId": "144094",
+    "name": "beenham gv sneetjes",
+    "description": "*België\n*Boterham\n*Glutenvrij",
+    "technicalArticleNumber": "3278457",
+    "commercialArticleNumber": "44344",
+    "LongName": "AUBEL beenham gv sneetjes 150g"
+  },
+  {
+    "gtin": "05411761372438",
+    "productId": "830411",
+    "name": "filettekes",
+    "description": "*Vegetarische\nkookworst\nop basis van soja-\nstructuur, kippen\n-eiwit",
+    "technicalArticleNumber": "4669828",
+    "commercialArticleNumber": "30155",
+    "LongName": "DE VEGETARISCHE SLAGER filettekes 100g"
+  },
+  {
+    "gtin": "05400141443721",
+    "productId": "858312",
+    "name": "Gambas ASC",
+    "description": "*Gekookt,\nongepeld, ontdooid.",
+    "technicalArticleNumber": "4708694",
+    "commercialArticleNumber": "31648",
+    "LongName": "BONI Gambas ASC 300g"
+  },
+  {
+    "gtin": "15400141973768",
+    "productId": "2242",
+    "name": "lompviseieren zwart",
+    "description": "*90 % lompviseieren\n(zwart)",
+    "technicalArticleNumber": "27946",
+    "commercialArticleNumber": "27946",
+    "LongName": "KESTELOOT lompviseieren zwart 100g"
+  },
+  {
+    "gtin": "05425031150664",
+    "productId": "886192",
+    "name": "Louis Davignac Duo Eendenlever",
+    "technicalArticleNumber": "4745302",
+    "commercialArticleNumber": "32644",
+    "LongName": "Louis Davignac Duo Eendenlever 2x40g"
+  },
+  {
+    "gtin": "15413848270542",
+    "productId": "784443",
+    "name": "Macaroni Gratin Cr Tom",
+    "description": "*Macaroni met\ntomaten en ham",
+    "technicalArticleNumber": "4583559",
+    "commercialArticleNumber": "9834",
+    "LongName": "COME A CASA Macaroni Gratin Cr Tom 400g"
+  },
+  {
+    "gtin": "05411153015141",
+    "productId": "1045580",
+    "name": "Salade plant.chicky curry",
+    "technicalArticleNumber": "4798441",
+    "commercialArticleNumber": "7606",
+    "LongName": "DELIO Salade plant.chicky curry 180g"
+  },
+  {
+    "gtin": "05414880002590",
+    "productId": "880300",
+    "name": "Chicken Chipolata",
+    "technicalArticleNumber": "4737337",
+    "commercialArticleNumber": "32318",
+    "LongName": "GREENWAY Chicken Chipolata 160g"
+  },
+  {
+    "gtin": "04770190130738",
+    "productId": "858585",
+    "name": "premium surimi sticks",
+    "technicalArticleNumber": "4708845",
+    "commercialArticleNumber": "31661",
+    "LongName": "VICI premium surimi sticks 150g"
+  },
+  {
+    "gtin": "05425007934038",
+    "productId": "20021",
+    "name": "verse tartare saus",
+    "description": "Extra verse saus vol augurkjes en\nsjalot. Een perfecte match bij\ngepaneerde, gegrilde vis.",
+    "technicalArticleNumber": "2236878",
+    "commercialArticleNumber": "4358",
+    "LongName": "KADE verse tartare saus 150ml"
+  },
+  {
+    "gtin": "07290111562914",
+    "productId": "788857",
+    "name": "filetstukjes",
+    "description": "*Vegan",
+    "technicalArticleNumber": "4593036",
+    "commercialArticleNumber": "29235",
+    "LongName": "GARDEN GOURMET filetstukjes 160g"
+  },
+  {
+    "gtin": "05400141443868",
+    "productId": "857615",
+    "name": "Salade gemarineerde Scampi",
+    "description": "*Obv taboule,\nsuikerbrood salade,\ngemarineerde scampi,\nkerstomaat, gekookt\nei & curry dressing",
+    "technicalArticleNumber": "4707663",
+    "commercialArticleNumber": "31558",
+    "LongName": "BONI Salade gemarineerde Scampi 300g"
+  },
+  {
+    "gtin": "08718692789883",
+    "productId": "692525",
+    "name": "Burger chick",
+    "description": "*Veggie burger\n*Klaar voor gebruik\n*Veggie proteïne\n*Vegan friendly\n*Vleesvervangers",
+    "technicalArticleNumber": "4420182",
+    "commercialArticleNumber": "25691",
+    "LongName": "DE VEGETARISCHE SLAGER Burger chick 160g"
+  },
+  {
+    "gtin": "03449851140553",
+    "productId": "355884",
+    "name": "bâton berg.hazelnoten",
+    "technicalArticleNumber": "3857579",
+    "commercialArticleNumber": "27587",
+    "LongName": "JUSTIN BRIDOU bâton berg.hazelnoten 250g"
+  },
+  {
+    "gtin": "05400141797015",
+    "productId": "710389",
+    "name": "SNACK WORSTJES",
+    "description": "kleine snackworstjes, ideaal\nals aperitief",
+    "technicalArticleNumber": "4451549",
+    "commercialArticleNumber": "27073",
+    "LongName": "BONI SNACK WORSTJES 150g"
+  },
+  {
+    "gtin": "05410459112073",
+    "productId": "28811",
+    "name": "ham gegrild gv sneetjes",
+    "description": "*België\n*Gegrild\n*Glutenvrij",
+    "technicalArticleNumber": "1982615",
+    "commercialArticleNumber": "35741",
+    "LongName": "AUBEL ham gegrild gv sneetjes 120g"
+  },
+  {
+    "gtin": "07613287210746",
+    "productId": "519863",
+    "name": "Sensational Burger",
+    "description": "*burger 2st\nperfect voor BBQ !\n*Vegan",
+    "technicalArticleNumber": "4103636",
+    "commercialArticleNumber": "8521",
+    "LongName": "GARDEN GOURMET Sensational Burger 226g"
+  },
+  {
+    "gtin": "05400141449303",
+    "productId": "629636",
+    "name": "Kaas-Groenteburger",
+    "description": "*Vegetrische\nbiologische burger\nop basis van\ngroenten, rijst\nen kaas.",
+    "technicalArticleNumber": "4314849",
+    "commercialArticleNumber": "23827",
+    "LongName": "BONI BIO Kaas-Groenteburger 200g"
+  },
+  {
+    "gtin": "05400141722284",
+    "productId": "887820",
+    "name": "Bladerdeeghapjes",
+    "technicalArticleNumber": "4747388",
+    "commercialArticleNumber": "32788",
+    "LongName": "BONI Bladerdeeghapjes 12st"
+  },
+  {
+    "gtin": "05400141681819",
+    "productId": "869986",
+    "name": "Croque Monsieur 2st",
+    "technicalArticleNumber": "4723481",
+    "commercialArticleNumber": "20798",
+    "LongName": "BONI Croque Monsieur 2st 240g"
+  },
+  {
+    "gtin": "05400141777710",
+    "productId": "822503",
+    "name": "Gyoza Garnalen",
+    "description": "*Tarwe- en tapioca\n-deeg gevuld met\ngarnalen en\ngroenten,\n*Ontdooid",
+    "technicalArticleNumber": "4657163",
+    "commercialArticleNumber": "29733",
+    "LongName": "BONI Gyoza Garnalen 5x25g"
+  },
+  {
+    "gtin": "05400141463316",
+    "productId": "879064",
+    "name": "Pasta gevuld pompoen",
+    "technicalArticleNumber": "4735289",
+    "commercialArticleNumber": "20562",
+    "LongName": "BONI Pasta gevuld pompoen 250g"
+  },
+  {
+    "gtin": "05400141705812",
+    "productId": "848535",
+    "name": "Zalm war.gero.4pepp.ASC",
+    "description": "*Atlantische\nzalmportie gepekeld\nbestrooid met\neen topping\ngerookt",
+    "technicalArticleNumber": "4695726",
+    "commercialArticleNumber": "27773",
+    "LongName": "BONI Zalm war.gero.4pepp.ASC 125g"
+  },
+  {
+    "gtin": "08717545694671",
+    "productId": "52115",
+    "name": "salami gevogelte Halal",
+    "description": "*Duitsland\n*Boterham",
+    "technicalArticleNumber": "2402064",
+    "commercialArticleNumber": "19294",
+    "LongName": "MARHABA salami gevogelte Halal 200g"
+  },
+  {
+    "gtin": "05411153015165",
+    "productId": "1045600",
+    "name": "Salade plant.vegan préparé",
+    "technicalArticleNumber": "4798461",
+    "commercialArticleNumber": "7691",
+    "LongName": "DELIO Salade plant.vegan préparé 180g"
+  },
+  {
+    "gtin": "05202390029349",
+    "productId": "813586",
+    "name": "creamy Original",
+    "technicalArticleNumber": "4640433",
+    "commercialArticleNumber": "18038",
+    "LongName": "VIOLIFE creamy Original 150g"
+  },
+  {
+    "gtin": "08720182461551",
+    "productId": "857776",
+    "name": "Spaghetteria formaggio 4kazen",
+    "description": "*Kant-en-klare maaltijd\n*Pasta met 4 kazen\n*Aantal porties: 1-2",
+    "technicalArticleNumber": "4707932",
+    "commercialArticleNumber": "31589",
+    "LongName": "KNORR Spaghetteria formaggio 4kazen 163g"
+  },
+  {
+    "gtin": "05202390027871",
+    "productId": "877801",
+    "name": "Prosociano Gemalen",
+    "technicalArticleNumber": "4733890",
+    "commercialArticleNumber": "13855",
+    "LongName": "VIOLIFE Prosociano Gemalen 100g"
+  },
+  {
+    "gtin": "05410916344900",
+    "productId": "788119",
+    "name": "Kippenworstjes courg.",
+    "description": "* kippenworstjes\n+25% groenten",
+    "technicalArticleNumber": "4590963",
+    "commercialArticleNumber": "27001",
+    "LongName": "AOSTE PLUS Kippenworstjes courg. 5x30g"
+  },
+  {
+    "gtin": "05400141491944",
+    "productId": "859832",
+    "name": "grijze gepelde garnalen",
+    "technicalArticleNumber": "4710392",
+    "commercialArticleNumber": "3184",
+    "LongName": "BONI grijze gepelde garnalen 75g"
+  },
+  {
+    "gtin": "08717545693629",
+    "productId": "40458",
+    "name": "kalkoenrollade Halal",
+    "description": "*Duitsland",
+    "technicalArticleNumber": "2471198",
+    "commercialArticleNumber": "37400",
+    "LongName": "MARHABA kalkoenrollade Halal 100g"
+  },
+  {
+    "gtin": "05400141375978",
+    "productId": "93025",
+    "name": "salami zonder look",
+    "description": "*België\n*Salami zonder look\n*66 % vlees\n*Aperitief,boterham,\npicknick",
+    "technicalArticleNumber": "2841314",
+    "commercialArticleNumber": "32736",
+    "LongName": "BONI salami zonder look 1kg"
+  },
+  {
+    "gtin": "05400141906592",
+    "productId": "689210",
+    "name": "aperitief bord",
+    "description": "* Aperitief, 3-vaks snackschotel\n* Varkenvlees\n* Schijfjes fuet, schijfjes droge wors\nt met hazelnoot, mini boerenworstjes",
+    "technicalArticleNumber": "4414827",
+    "commercialArticleNumber": "27253",
+    "LongName": "BONI aperitief bord 150g"
+  },
+  {
+    "gtin": "05425009677339",
+    "productId": "857508",
+    "name": "wortelburg",
+    "technicalArticleNumber": "4707524",
+    "commercialArticleNumber": "31536",
+    "LongName": "TBVC wortelburg 180g"
+  },
+  {
+    "gtin": "05411328024282",
+    "productId": "25299",
+    "name": "Snacks Pur Porc XLarge",
+    "description": "*België",
+    "technicalArticleNumber": "1889966",
+    "commercialArticleNumber": "35801",
+    "LongName": "AOSTE Snacks Pur Porc XLarge 40st"
+  },
+  {
+    "gtin": "05411761377884",
+    "productId": "858118",
+    "name": "kipfilet authentique",
+    "technicalArticleNumber": "4708333",
+    "commercialArticleNumber": "31624",
+    "LongName": "AOSTE kipfilet authentique 100g"
+  },
+  {
+    "gtin": "05400141450965",
+    "productId": "629653",
+    "name": "haringhapjes in dillesaus",
+    "description": "*MSC",
+    "technicalArticleNumber": "4314866",
+    "commercialArticleNumber": "23830",
+    "LongName": "BONI haringhapjes in dillesaus 125g"
+  },
+  {
+    "gtin": "35400141472074",
+    "productId": "857362",
+    "name": "Spaghetteria al pesto",
+    "description": "*Kant-en-klare maaltijd\n*Pasta met pesto\n*Kaas & basilicum\n*Aantal porties: 1-2",
+    "technicalArticleNumber": "4707328",
+    "commercialArticleNumber": "31496",
+    "LongName": "KNORR Spaghetteria al pesto 155g"
+  },
+  {
+    "gtin": "08718300561504",
+    "productId": "866588",
+    "name": "Plantaardige chicken tenders",
+    "technicalArticleNumber": "4719234",
+    "commercialArticleNumber": "9308",
+    "LongName": "VIVERA Plantaardige chicken tenders 200g"
+  },
+  {
+    "gtin": "08720182387196",
+    "productId": "866082",
+    "name": "Italiaanse schotel met pasta",
+    "description": "*Macaroni en\nvleesballetjes in\ntomatensaus\n*Aantal porties: 2\n*Pan, microgolfoven",
+    "technicalArticleNumber": "4718576",
+    "commercialArticleNumber": "6808",
+    "LongName": "ZWAN Italiaanse schotel met pasta 425g"
+  },
+  {
+    "gtin": "05400141347180",
+    "productId": "338671",
+    "name": "mild pepper roomkaas",
+    "description": "*Paprika gevuld met\nverse roomkaas\n*Met honing/mosterd\nsausje",
+    "technicalArticleNumber": "3733786",
+    "commercialArticleNumber": "40944",
+    "LongName": "BONI mild pepper roomkaas 150g"
+  },
+  {
+    "gtin": "08001665722322",
+    "productId": "835526",
+    "name": "Tortellini Bolognese",
+    "technicalArticleNumber": "4677746",
+    "commercialArticleNumber": "14544",
+    "LongName": "GIOVANNI RANA Tortellini Bolognese 400g"
+  },
+  {
+    "gtin": "05414880002569",
+    "productId": "880277",
+    "name": "Chicken Balletjes",
+    "technicalArticleNumber": "4737312",
+    "commercialArticleNumber": "32314",
+    "LongName": "GREENWAY Chicken Balletjes 160g"
+  },
+  {
+    "gtin": "05400141368970",
+    "productId": "79932",
+    "name": "salami vegetarisch sneden",
+    "description": "*Sneden\n*Op basis van tarwe\n*Veggie",
+    "technicalArticleNumber": "2566229",
+    "commercialArticleNumber": "23012",
+    "LongName": "BONI BIO salami vegetarisch sneden 100g"
+  },
+  {
+    "gtin": "07290112966957",
+    "productId": "619043",
+    "name": "Vegan burgers",
+    "description": "*Vegetarische burger\nop basis van soja-\nen tarwe-eiwitten",
+    "technicalArticleNumber": "4296638",
+    "commercialArticleNumber": "19530",
+    "LongName": "GARDEN GOURMET Vegan burgers 750g"
+  },
+  {
+    "gtin": "05400141362145",
+    "productId": "580528",
+    "name": "salami",
+    "technicalArticleNumber": "4232650",
+    "commercialArticleNumber": "27170",
+    "LongName": "BONI BIO salami 100g"
+  },
+  {
+    "gtin": "08717545699706",
+    "productId": "745248",
+    "name": "kalkoen Chorizo",
+    "technicalArticleNumber": "4512942",
+    "commercialArticleNumber": "6532",
+    "LongName": "MARHABA kalkoen Chorizo 80g"
+  },
+  {
+    "gtin": "05411761372445",
+    "productId": "830591",
+    "name": "El Sauccison",
+    "description": "*Vegetarische\nkookworst\nop basis van soja-\nstructuur en\nkippenei-eiwit",
+    "technicalArticleNumber": "4670224",
+    "commercialArticleNumber": "2756",
+    "LongName": "DE VEGETARISCHE SLAGER El Sauccison 100g"
+  },
+  {
+    "gtin": "08713582214261",
+    "productId": "600940",
+    "name": "Blue Burger",
+    "description": "*Vegan burger op\nbasis van\nplantaardige\neiwitten\n(tarwe, soja)",
+    "technicalArticleNumber": "4267022",
+    "commercialArticleNumber": "19431",
+    "LongName": "THE BLUE BUTCHER Blue Burger 220g"
+  },
+  {
+    "gtin": "08718300562655",
+    "productId": "932768",
+    "name": "Plantaardige nuggets",
+    "technicalArticleNumber": "4765895",
+    "commercialArticleNumber": "29130",
+    "LongName": "VIVERA Plantaardige nuggets 200g"
+  },
+  {
+    "gtin": "05412446950200",
+    "productId": "834147",
+    "name": "foreleieren ASC",
+    "technicalArticleNumber": "4675718",
+    "commercialArticleNumber": "6121",
+    "LongName": "GABRIEL foreleieren ASC 50g"
+  },
+  {
+    "gtin": "05411761363207",
+    "productId": "788666",
+    "name": "ontvette kookham",
+    "technicalArticleNumber": "4592783",
+    "commercialArticleNumber": "28999",
+    "LongName": "AOSTE PLUS ontvette kookham 120g"
+  },
+  {
+    "gtin": "03443705041423",
+    "productId": "26828",
+    "name": "eend.borstfil.ger.",
+    "description": "*Frankrijk, IGP\n*Gerookt",
+    "technicalArticleNumber": "1979428",
+    "commercialArticleNumber": "35663",
+    "LongName": "MAISTRES OCCITANS eend.borstfil.ger. 80g"
+  },
+  {
+    "gtin": "05413617308165",
+    "productId": "14884",
+    "name": "gedr.ham bio gv",
+    "description": "*België\n*Gerijpt en gedroogd\n*Glutenvrij",
+    "technicalArticleNumber": "1547469",
+    "commercialArticleNumber": "7824",
+    "LongName": "GANDA gedr.ham bio gv 80g"
+  },
+  {
+    "gtin": "05414152005939",
+    "productId": "879833",
+    "name": "Mixed nuggets",
+    "technicalArticleNumber": "4736560",
+    "commercialArticleNumber": "32275",
+    "LongName": "TBVC Mixed nuggets 180g"
+  },
+  {
+    "gtin": "05411761363498",
+    "productId": "788682",
+    "name": "salami",
+    "description": "*Gerookte salami",
+    "technicalArticleNumber": "4592811",
+    "commercialArticleNumber": "29147",
+    "LongName": "AOSTE PLUS salami 120g"
+  },
+  {
+    "gtin": "05410459010041",
+    "productId": "19382",
+    "name": "achterham gekookt",
+    "description": "*België\n*Gekookt, gezouten\n*Boterham, bij\ncouscous, met\ndeegwaren",
+    "technicalArticleNumber": "1760485",
+    "commercialArticleNumber": "33777",
+    "LongName": "AUBEL achterham gekookt ±650g"
+  },
+  {
+    "gtin": "05413345009594",
+    "productId": "866886",
+    "name": "Veggie Witte Worst",
+    "technicalArticleNumber": "4719555",
+    "commercialArticleNumber": "10125",
+    "LongName": "BONMUSH Veggie Witte Worst 2x90g"
+  },
+  {
+    "gtin": "04770190131957",
+    "productId": "858687",
+    "name": "surimi snippers",
+    "technicalArticleNumber": "4708966",
+    "commercialArticleNumber": "31690",
+    "LongName": "VICI surimi snippers 200g"
+  },
+  {
+    "gtin": "07290115208436",
+    "productId": "622322",
+    "name": "Vegan nuggets",
+    "description": "*Vegetarische nugget\nop basis van\nsoja- en tarwe-\neiwitten",
+    "technicalArticleNumber": "4302566",
+    "commercialArticleNumber": "23651",
+    "LongName": "GARDEN GOURMET Vegan nuggets 700g"
+  },
+  {
+    "gtin": "05400141806571",
+    "productId": "850024",
+    "name": "pasta tomaat basilicum pouch",
+    "technicalArticleNumber": "4697397",
+    "commercialArticleNumber": "30832",
+    "LongName": "BONI pasta tomaat basilicum pouch 265g"
+  },
+  {
+    "gtin": "05400141819212",
+    "productId": "850012",
+    "name": "pasta arrabiata pouch",
+    "technicalArticleNumber": "4697384",
+    "commercialArticleNumber": "30830",
+    "LongName": "BONI pasta arrabiata pouch 265g"
+  },
+  {
+    "gtin": "05413345011214",
+    "productId": "866880",
+    "name": "Veggie Boerenworst",
+    "technicalArticleNumber": "4719548",
+    "commercialArticleNumber": "9942",
+    "LongName": "BONMUSH Veggie Boerenworst 2x90g"
+  },
+  {
+    "gtin": "15400141774440",
+    "productId": "716748",
+    "name": "gerookte makreel peper",
+    "description": "*Niet MSC",
+    "technicalArticleNumber": "4462753",
+    "commercialArticleNumber": "26697",
+    "LongName": "BONI gerookte makreel peper 90g"
+  },
+  {
+    "gtin": "07630294500646",
+    "productId": "862254",
+    "name": "Pulled pork BBQ",
+    "technicalArticleNumber": "4713608",
+    "commercialArticleNumber": "31849",
+    "LongName": "PLANTED Pulled pork BBQ 160g"
+  },
+  {
+    "gtin": "05414880002620",
+    "productId": "880283",
+    "name": "Falafel spinazie",
+    "technicalArticleNumber": "4737319",
+    "commercialArticleNumber": "32316",
+    "LongName": "GREENWAY Falafel spinazie 170g"
+  },
+  {
+    "gtin": "15400141561729",
+    "productId": "881377",
+    "name": "Verse penne",
+    "technicalArticleNumber": "4738765",
+    "commercialArticleNumber": "1395",
+    "LongName": "BONI Verse penne 500g"
+  },
+  {
+    "gtin": "05400141715996",
+    "productId": "844509",
+    "name": "Antipasti",
+    "technicalArticleNumber": "4690162",
+    "commercialArticleNumber": "1658",
+    "LongName": "BONI Antipasti 150g"
+  },
+  {
+    "gtin": "15411896041220",
+    "productId": "850007",
+    "name": "kip curry",
+    "description": "*Smaak: kip curry\n*Bokaal",
+    "technicalArticleNumber": "4697376",
+    "commercialArticleNumber": "30829",
+    "LongName": "EQUINOX kip curry 680g"
+  },
+  {
+    "gtin": "15400141237600",
+    "productId": "486060",
+    "name": "ansjovisfilets olijfolie MSC",
+    "description": "*Ansjovisfilets in\nolijfolie\n*met label MSC",
+    "technicalArticleNumber": "4017958",
+    "commercialArticleNumber": "5069",
+    "LongName": "BONI ansjovisfilets olijfolie MSC 50g"
+  },
+  {
+    "gtin": "15400141233985",
+    "productId": "2236",
+    "name": "garnalen Noordzee MSC",
+    "description": "*Wild, MSC, noord-\noostelijk deel van\nAtlantische oceaan\n*Gepeld, ontdooid,\nnt.opnieuw invriezen",
+    "technicalArticleNumber": "27924",
+    "commercialArticleNumber": "27924",
+    "LongName": "EVERYDAY garnalen Noordzee MSC 200g"
+  },
+  {
+    "gtin": "05400141350791",
+    "productId": "162453",
+    "name": "Gazpacho",
+    "description": "*Verse groenten-\ngazpacho met olijf-\nolie",
+    "technicalArticleNumber": "3258788",
+    "commercialArticleNumber": "40138",
+    "LongName": "BONI Gazpacho 1L"
+  },
+  {
+    "gtin": "05414880002651",
+    "productId": "880304",
+    "name": "spinazie/kaas",
+    "technicalArticleNumber": "4737342",
+    "commercialArticleNumber": "32320",
+    "LongName": "GREENWAY spinazie/kaas 170g"
+  },
+  {
+    "gtin": "05400141791860",
+    "productId": "769911",
+    "name": "Zalmsalade Belle Vue",
+    "technicalArticleNumber": "4556718",
+    "commercialArticleNumber": "21796",
+    "LongName": "BONI Zalmsalade Belle Vue 160g"
+  },
+  {
+    "gtin": "07630294501575",
+    "productId": "971112",
+    "name": "Pulled spicy herbs",
+    "technicalArticleNumber": "4775383",
+    "commercialArticleNumber": "1146",
+    "LongName": "PLANTED Pulled spicy herbs 160g"
+  },
+  {
+    "gtin": "15400141449539",
+    "productId": "629643",
+    "name": "Mosselen tartaar",
+    "technicalArticleNumber": "4314856",
+    "commercialArticleNumber": "23828",
+    "LongName": "BONI Mosselen tartaar 100g"
+  },
+  {
+    "gtin": "03443705059763",
+    "productId": "69836",
+    "name": "eendenlever blok",
+    "description": "*Frankrijk",
+    "technicalArticleNumber": "2836840",
+    "commercialArticleNumber": "9278",
+    "LongName": "MAISTRES OCCITANS eendenlever blok 230g"
+  },
+  {
+    "gtin": "13443705022689",
+    "productId": "55306",
+    "name": "eendenlever blok",
+    "description": "*Frankrijk\n*Voorgerecht,\naperitief",
+    "technicalArticleNumber": "2266778",
+    "commercialArticleNumber": "5489",
+    "LongName": "MAISTRES OCCITANS eendenlever blok 2x40g"
+  },
+  {
+    "gtin": "05400141654516",
+    "productId": "739645",
+    "name": "mini pizza 8st",
+    "technicalArticleNumber": "4503570",
+    "commercialArticleNumber": "18628",
+    "LongName": "BONI mini pizza 8st 200g"
+  },
+  {
+    "gtin": "05410438042810",
+    "productId": "1024167",
+    "name": "Gouda Schnitzel",
+    "technicalArticleNumber": "4791215",
+    "commercialArticleNumber": "33464",
+    "LongName": "VALESS Gouda Schnitzel 2x90g"
+  },
+  {
+    "gtin": "08712169202424",
+    "productId": "703333",
+    "name": "hangcultuur royal",
+    "description": "*Hangcultuur uit\nDenemarken",
+    "technicalArticleNumber": "4437534",
+    "commercialArticleNumber": "20988",
+    "LongName": "DELTA hangcultuur royal 2kg"
+  },
+  {
+    "gtin": "05400141701241",
+    "productId": "687353",
+    "name": "zeewolf haasje MSC",
+    "description": "*MSC\n*Verse vis",
+    "technicalArticleNumber": "4411427",
+    "commercialArticleNumber": "25445",
+    "LongName": "BONI zeewolf haasje MSC ±250g"
+  },
+  {
+    "gtin": "15400141740650",
+    "productId": "762316",
+    "name": "Ovenkaasballetjes",
+    "technicalArticleNumber": "4541746",
+    "commercialArticleNumber": "3426",
+    "LongName": "BONI Ovenkaasballetjes 8st"
+  },
+  {
+    "gtin": "05400141705164",
+    "productId": "634494",
+    "name": "Bruchetta mix",
+    "description": "*In de oven",
+    "technicalArticleNumber": "4323076",
+    "commercialArticleNumber": "16104",
+    "LongName": "BONI Bruchetta mix 250g"
+  },
+  {
+    "gtin": "05400141372359",
+    "productId": "263479",
+    "name": "Gevogelte balletjes groenten",
+    "description": "mini kippeballetjes met groenten",
+    "technicalArticleNumber": "3592667",
+    "commercialArticleNumber": "27443",
+    "LongName": "BONI Gevogelte balletjes groenten 150g"
+  }
+]

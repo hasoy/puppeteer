@@ -1,0 +1,3991 @@
+[
+  {
+    "gtin": "15400141958291",
+    "productId": "10926",
+    "name": "sandwiches met boter",
+    "description": "*Met 3 % boter",
+    "technicalArticleNumber": "1367291",
+    "commercialArticleNumber": "29916",
+    "LongName": "EVERYDAY sandwiches met boter 10st"
+  },
+  {
+    "gtin": "15400141939313",
+    "productId": "198179",
+    "name": "wraps 6st",
+    "technicalArticleNumber": "3437436",
+    "commercialArticleNumber": "50128",
+    "LongName": "BONI wraps 6st 370g"
+  },
+  {
+    "gtin": "15400141605362",
+    "productId": "31439",
+    "name": "toastbrood",
+    "description": "*Gesneden toastbrood",
+    "technicalArticleNumber": "1663306",
+    "commercialArticleNumber": "32239",
+    "LongName": "BONI toastbrood 500g"
+  },
+  {
+    "gtin": "15400141938002",
+    "productId": "659114",
+    "name": "1/2 wit stokbrood",
+    "description": "*10-12 minuten in\nde oven",
+    "technicalArticleNumber": "4361782",
+    "commercialArticleNumber": "24046",
+    "LongName": "EVERYDAY 1/2 wit stokbrood 4x150g"
+  },
+  {
+    "gtin": "05400141234572",
+    "productId": "151633",
+    "name": "sandwiches met boter 8st",
+    "technicalArticleNumber": "3321704",
+    "commercialArticleNumber": "7657",
+    "LongName": "BONI sandwiches met boter 8st 360g"
+  },
+  {
+    "gtin": "05400141380255",
+    "productId": "121563",
+    "name": "bruin brood vierkant dagver",
+    "description": "*Klassiek vierkant\nbruin brood, met\nzacht broodkruim en\ngoudbruine korst.",
+    "technicalArticleNumber": "3029840",
+    "commercialArticleNumber": "7383",
+    "LongName": "bruin brood vierkant dagver 800g"
+  },
+  {
+    "gtin": "05400141213393",
+    "productId": "147714",
+    "name": "havermout",
+    "description": "*Havervlokken",
+    "technicalArticleNumber": "3327296",
+    "commercialArticleNumber": "42740",
+    "LongName": "EVERYDAY havermout 500g"
+  },
+  {
+    "gtin": "05400141094329",
+    "productId": "88306",
+    "name": "tijgerbrood wit dagvers",
+    "description": "*Wit brood met zacht\nbroodkruim en een\ngevlekte, krokante\nkorst.",
+    "technicalArticleNumber": "3029207",
+    "commercialArticleNumber": "7004",
+    "LongName": "tijgerbrood wit dagvers 800g"
+  },
+  {
+    "gtin": "05400141163995",
+    "productId": "1053",
+    "name": "wit brood gesneden",
+    "description": "*Gesneden",
+    "technicalArticleNumber": "29921",
+    "commercialArticleNumber": "29921",
+    "LongName": "EVERYDAY wit brood gesneden 800g"
+  },
+  {
+    "gtin": "05400141357820",
+    "productId": "188136",
+    "name": "paashaaskoek",
+    "description": "*Paasassortiment",
+    "technicalArticleNumber": "3461760",
+    "commercialArticleNumber": "50331",
+    "LongName": "BONI paashaaskoek 2x150g"
+  },
+  {
+    "gtin": "05400141210859",
+    "productId": "156371",
+    "name": "rijstwafel chocolade",
+    "description": "*Rijstwafels, rond,\nmet melkchocolade",
+    "technicalArticleNumber": "3270432",
+    "commercialArticleNumber": "21385",
+    "LongName": "BONI rijstwafel chocolade 150g"
+  },
+  {
+    "gtin": "05400141094336",
+    "productId": "121446",
+    "name": "meergranenbrood licht dagve",
+    "description": "*Ovaal wit brood\nmet verschillende\ngranen. Korst met\nlijn-, sesam- en\nmaanzaad.",
+    "technicalArticleNumber": "3029802",
+    "commercialArticleNumber": "7113",
+    "LongName": "meergranenbrood licht dagve 600g"
+  },
+  {
+    "gtin": "05400141164015",
+    "productId": "1054",
+    "name": "bruin brood gesneden",
+    "description": "*Gesneden",
+    "technicalArticleNumber": "29922",
+    "commercialArticleNumber": "29922",
+    "LongName": "EVERYDAY bruin brood gesneden 800g"
+  },
+  {
+    "gtin": "05411904411222",
+    "productId": "507163",
+    "name": "botersandwiches",
+    "technicalArticleNumber": "4078703",
+    "commercialArticleNumber": "7470",
+    "LongName": "LA LORRAINE botersandwiches 10x45g"
+  },
+  {
+    "gtin": "05400141380309",
+    "productId": "121557",
+    "name": "boerenbrood wit rond dagvers",
+    "description": "*Rond wit brood\nmet een licht\nbebloemde korst.",
+    "technicalArticleNumber": "3029814",
+    "commercialArticleNumber": "7203",
+    "LongName": "boerenbrood wit rond dagvers 800g"
+  },
+  {
+    "gtin": "05400141164725",
+    "productId": "121559",
+    "name": "bruin brood zweeds dagvers",
+    "description": "*Traditioneel\ngebakken, rond bruin\nbrood, met een licht\nbebloemde korst.",
+    "technicalArticleNumber": "3029818",
+    "commercialArticleNumber": "7244",
+    "LongName": "bruin brood zweeds dagvers 800g"
+  },
+  {
+    "gtin": "05400141380408",
+    "productId": "121571",
+    "name": "kramiek dagvers",
+    "description": "*Speciaal brood met\nsmeuïg broodkruim,\nverrijkt met\nrozijnen.",
+    "technicalArticleNumber": "3029855",
+    "commercialArticleNumber": "7644",
+    "LongName": "kramiek dagvers 400g"
+  },
+  {
+    "gtin": "15400141956426",
+    "productId": "55465",
+    "name": "maïswafel",
+    "description": "*Maïswafel, rond,\nmet zeezout\n*Individueel verpakt\n6x4 stuks",
+    "technicalArticleNumber": "2405821",
+    "commercialArticleNumber": "4437",
+    "LongName": "BONI BIO maïswafel 159g"
+  },
+  {
+    "gtin": "05400141262551",
+    "productId": "147017",
+    "name": "melkbroodjes 10st",
+    "description": "Boni melkbroodjes 10 stuks",
+    "technicalArticleNumber": "3331342",
+    "commercialArticleNumber": "24841",
+    "LongName": "BONI melkbroodjes 10st 350g"
+  },
+  {
+    "gtin": "05400141380354",
+    "productId": "121554",
+    "name": "wit brood zweeds dagvers",
+    "description": "*Traditioneel\ngebakken, rond wit\nbrood, met een licht\nbebloemde korst.",
+    "technicalArticleNumber": "3029807",
+    "commercialArticleNumber": "7118",
+    "LongName": "wit brood zweeds dagvers 800g"
+  },
+  {
+    "gtin": "05400141164657",
+    "productId": "121568",
+    "name": "bruin brood vierkant dagver",
+    "description": "*Klassiek vierkant\nbruin brood, met\nzacht broodkruim en\ngoudbruine korst.",
+    "technicalArticleNumber": "3029852",
+    "commercialArticleNumber": "7560",
+    "LongName": "bruin brood vierkant dagver 400g"
+  },
+  {
+    "gtin": "05400141055962",
+    "productId": "12021",
+    "name": "stokbrood wit voorgebakken 4st",
+    "description": "*10-12 minuten in de\noven",
+    "technicalArticleNumber": "1392810",
+    "commercialArticleNumber": "31391",
+    "LongName": "BONI stokbrood wit voorgebakken 4st 300g"
+  },
+  {
+    "gtin": "05400141094459",
+    "productId": "121566",
+    "name": "wit brood vierkant dagvers",
+    "description": "*Klassiek vierkant\nwit brood, met zacht\nbroodkruim en een\ngoudbruine korst.",
+    "technicalArticleNumber": "3029846",
+    "commercialArticleNumber": "7403",
+    "LongName": "wit brood vierkant dagvers 400g"
+  },
+  {
+    "gtin": "05400141222500",
+    "productId": "344960",
+    "name": "Chocoladebroodjes 8st",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3830392",
+    "commercialArticleNumber": "14178",
+    "LongName": "EVERYDAY Chocoladebroodjes 8st 360g"
+  },
+  {
+    "gtin": "15400141477754",
+    "productId": "599280",
+    "name": "hamburger broodjes 6st",
+    "technicalArticleNumber": "4263881",
+    "commercialArticleNumber": "13242",
+    "LongName": "BONI hamburger broodjes 6st 300g"
+  },
+  {
+    "gtin": "15400141367864",
+    "productId": "8695",
+    "name": "havermout",
+    "description": "*Biologische\nhavermout",
+    "technicalArticleNumber": "1136189",
+    "commercialArticleNumber": "15067",
+    "LongName": "BONI BIO havermout 500g"
+  },
+  {
+    "gtin": "15400141512585",
+    "productId": "704852",
+    "name": "eclairs",
+    "technicalArticleNumber": "4440055",
+    "commercialArticleNumber": "26232",
+    "LongName": "BONI eclairs 2st"
+  },
+  {
+    "gtin": "15400141025078",
+    "productId": "1523",
+    "name": "speculoos",
+    "technicalArticleNumber": "21506",
+    "commercialArticleNumber": "21506",
+    "LongName": "EVERYDAY speculoos 4x250g"
+  },
+  {
+    "gtin": "05400141605679",
+    "productId": "200538",
+    "name": "brood keizer",
+    "description": "*6 minuten in de\noven",
+    "technicalArticleNumber": "3429105",
+    "commercialArticleNumber": "15573",
+    "LongName": "BONI brood keizer 6x50g"
+  },
+  {
+    "gtin": "15400141944904",
+    "productId": "34035",
+    "name": "pitabroodjes voorgebakken 6st",
+    "description": "*3-5 minuten in de\noven",
+    "technicalArticleNumber": "1653135",
+    "commercialArticleNumber": "32028",
+    "LongName": "BONI pitabroodjes voorgebakken 6st 480g"
+  },
+  {
+    "gtin": "05400141288315",
+    "productId": "180598",
+    "name": "speculoos XL",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3340200",
+    "commercialArticleNumber": "7426",
+    "LongName": "LOTUS speculoos XL 12x25g"
+  },
+  {
+    "gtin": "05400141477740",
+    "productId": "884519",
+    "name": "Hamburgerbrood MAXI",
+    "technicalArticleNumber": "4743501",
+    "commercialArticleNumber": "32482",
+    "LongName": "BONI Hamburgerbrood MAXI 330g"
+  },
+  {
+    "gtin": "15400141322481",
+    "productId": "219383",
+    "name": "confituur aardbei 61%",
+    "description": "*61% vruchten",
+    "technicalArticleNumber": "3505847",
+    "commercialArticleNumber": "50569",
+    "LongName": "BONI confituur aardbei 61% 450g"
+  },
+  {
+    "gtin": "05400141422764",
+    "productId": "150465",
+    "name": "brioche gesneden",
+    "technicalArticleNumber": "3318690",
+    "commercialArticleNumber": "19234",
+    "LongName": "BONI brioche gesneden 500g"
+  },
+  {
+    "gtin": "05412514350000",
+    "productId": "9811",
+    "name": "wraps Mexicaans 6st",
+    "description": "*6 Mexicaanse wraps",
+    "technicalArticleNumber": "1383236",
+    "commercialArticleNumber": "12251",
+    "LongName": "POCO LOCO wraps Mexicaans 6st 370g"
+  },
+  {
+    "gtin": "05400141164527",
+    "productId": "34034",
+    "name": "pitabroodjes voorgebakken 10st",
+    "description": "*3-5 minuten in de\noven",
+    "technicalArticleNumber": "1653131",
+    "commercialArticleNumber": "32027",
+    "LongName": "BONI pitabroodjes voorgebakken 10st 500g"
+  },
+  {
+    "gtin": "15400141711827",
+    "productId": "866206",
+    "name": "Cereal Flakes pure chocolade",
+    "description": "*Volkoren tarwe-,\nen rijstvlokken met\npure\nchocoladeschilfers",
+    "technicalArticleNumber": "4718487",
+    "commercialArticleNumber": "6069",
+    "LongName": "BONI Cereal Flakes pure chocolade 475g"
+  },
+  {
+    "gtin": "05400141258455",
+    "productId": "13858",
+    "name": "ciabatta voorgebakken",
+    "description": "*10 minuten in de\noven",
+    "technicalArticleNumber": "1334324",
+    "commercialArticleNumber": "31236",
+    "LongName": "BONI ciabatta voorgebakken 300g"
+  },
+  {
+    "gtin": "05400141036848",
+    "productId": "1081",
+    "name": "hazelnootpasta",
+    "description": "*7.5 % magere\ncacaopoeder\n*9% hazelnoten",
+    "technicalArticleNumber": "16012",
+    "commercialArticleNumber": "16012",
+    "LongName": "EVERYDAY hazelnootpasta 750g"
+  },
+  {
+    "gtin": "01540014100185",
+    "productId": "99248",
+    "name": "panini voorgebakken",
+    "description": "*5 minuten in de\noven",
+    "technicalArticleNumber": "2806931",
+    "commercialArticleNumber": "32771",
+    "LongName": "BONI panini voorgebakken 240g"
+  },
+  {
+    "gtin": "05400141022377",
+    "productId": "168",
+    "name": "rijstwafel volle rijst",
+    "description": "*Rijstwafel, rond,\nvolle rijst,\nmet zeezout",
+    "technicalArticleNumber": "15414",
+    "commercialArticleNumber": "15414",
+    "LongName": "EVERYDAY rijstwafel volle rijst 100g"
+  },
+  {
+    "gtin": "05400141456462",
+    "productId": "859470",
+    "name": "paaskoek",
+    "technicalArticleNumber": "4709796",
+    "commercialArticleNumber": "1099",
+    "LongName": "BONI paaskoek 2x150g"
+  },
+  {
+    "gtin": "05410126006025",
+    "productId": "113720",
+    "name": "speculoos",
+    "technicalArticleNumber": "3084549",
+    "commercialArticleNumber": "40244",
+    "LongName": "LOTUS speculoos 2x125g"
+  },
+  {
+    "gtin": "00000080135463",
+    "productId": "11922",
+    "name": "chocopasta met hazelnoten",
+    "description": "*7,4 % magere\ncacaopoeder\n*13 % hazelnoten",
+    "technicalArticleNumber": "1391420",
+    "commercialArticleNumber": "16027",
+    "LongName": "NUTELLA chocopasta met hazelnoten 200g"
+  },
+  {
+    "gtin": "05400141937756",
+    "productId": "57052",
+    "name": "Choco Clams",
+    "description": "*Tarwevlokken met\nchocoladepoeder",
+    "technicalArticleNumber": "2319804",
+    "commercialArticleNumber": "16959",
+    "LongName": "BONI Choco Clams 750g"
+  },
+  {
+    "gtin": "15400141322009",
+    "productId": "72211",
+    "name": "chocopasta hazelnoot duo",
+    "description": "*2,5% magere cacaopoeder\n*6.5% hazelnoten",
+    "technicalArticleNumber": "2568062",
+    "commercialArticleNumber": "1741",
+    "LongName": "BONI chocopasta hazelnoot duo 400g"
+  },
+  {
+    "gtin": "15400141332428",
+    "productId": "313080",
+    "name": "witte stokbroodjes",
+    "description": "*10-12 minuten in de\noven",
+    "technicalArticleNumber": "3735252",
+    "commercialArticleNumber": "41643",
+    "LongName": "BONI witte stokbroodjes 250g"
+  },
+  {
+    "gtin": "05410126006100",
+    "productId": "1525",
+    "name": "speculoos",
+    "technicalArticleNumber": "21520",
+    "commercialArticleNumber": "21520",
+    "LongName": "LOTUS speculoos 4x250g"
+  },
+  {
+    "gtin": "15400141332435",
+    "productId": "313090",
+    "name": "meergranen stokbrood",
+    "technicalArticleNumber": "3735263",
+    "commercialArticleNumber": "41724",
+    "LongName": "BONI meergranen stokbrood 250g"
+  },
+  {
+    "gtin": "15400141437482",
+    "productId": "118869",
+    "name": "bloemenhoning vloeibaar",
+    "description": "*Vloeibaar",
+    "technicalArticleNumber": "3062842",
+    "commercialArticleNumber": "16902",
+    "LongName": "BONI bloemenhoning vloeibaar 350g"
+  },
+  {
+    "gtin": "15400141680468",
+    "productId": "156",
+    "name": "crunchy muesli met chocolade",
+    "description": "*Krokante muesli\nmet chocolade",
+    "technicalArticleNumber": "15048",
+    "commercialArticleNumber": "15048",
+    "LongName": "BONI crunchy muesli met chocolade 750g"
+  },
+  {
+    "gtin": "05410683618129",
+    "productId": "742406",
+    "name": "sandwich meergranen",
+    "technicalArticleNumber": "4508423",
+    "commercialArticleNumber": "28130",
+    "LongName": "LA LORRAINE sandwich meergranen 6x50g"
+  },
+  {
+    "gtin": "15400141905639",
+    "productId": "150473",
+    "name": "panichocs chocolade 10st",
+    "technicalArticleNumber": "3318702",
+    "commercialArticleNumber": "12943",
+    "LongName": "BONI panichocs chocolade 10st 350g"
+  },
+  {
+    "gtin": "07622210475183",
+    "productId": "170",
+    "name": "cracker mini olijfolie&oregano",
+    "description": "*Mini crackers, met\noregano en olijfolie\nvierkant\n*Individueel verpakt\n8x5 stuks",
+    "technicalArticleNumber": "15426",
+    "commercialArticleNumber": "15426",
+    "LongName": "LU cracker mini olijfolie&oregano 250g"
+  },
+  {
+    "gtin": "05059319024837",
+    "productId": "878604",
+    "name": "Chocos",
+    "technicalArticleNumber": "4734849",
+    "commercialArticleNumber": "18557",
+    "LongName": "KELLOGG'S COCO POPS Chocos 580g"
+  },
+  {
+    "gtin": "15412514935556",
+    "productId": "270542",
+    "name": "wraps volkoren",
+    "technicalArticleNumber": "3634882",
+    "commercialArticleNumber": "19936",
+    "LongName": "POCO LOCO wraps volkoren 370g"
+  },
+  {
+    "gtin": "35400141283410",
+    "productId": "506333",
+    "name": "mini sandwiches",
+    "technicalArticleNumber": "4088957",
+    "commercialArticleNumber": "8011",
+    "LongName": "BONI mini sandwiches 12x27g"
+  },
+  {
+    "gtin": "15400141331780",
+    "productId": "59599",
+    "name": "pindakaas 90%",
+    "technicalArticleNumber": "2313342",
+    "commercialArticleNumber": "17764",
+    "LongName": "BONI pindakaas 90% 350g"
+  },
+  {
+    "gtin": "15400141046479",
+    "productId": "144062",
+    "name": "tarwe toasts volkoren",
+    "description": "*Volkoren tarwe-\ncrackers,\nrechthoekig",
+    "technicalArticleNumber": "3287579",
+    "commercialArticleNumber": "2755",
+    "LongName": "BONI tarwe toasts volkoren 250g"
+  },
+  {
+    "gtin": "03256549999542",
+    "productId": "786467",
+    "name": "Pitch chocolade stukjes",
+    "description": "*Brioche met\nstukjes chocolade",
+    "technicalArticleNumber": "4588050",
+    "commercialArticleNumber": "19505",
+    "LongName": "PASQUIER Pitch chocolade stukjes 6st"
+  },
+  {
+    "gtin": "05035204245877",
+    "productId": "387320",
+    "name": "havermout",
+    "description": "*Ideaal bij ontbijt\n*Ontbijtgranen\n*Havermout",
+    "technicalArticleNumber": "3838361",
+    "commercialArticleNumber": "51271",
+    "LongName": "QUAKER havermout 800g"
+  },
+  {
+    "gtin": "25400141272127",
+    "productId": "35952",
+    "name": "beschuit natuur rond 13st",
+    "description": "*Beschuiten, rond",
+    "technicalArticleNumber": "1863260",
+    "commercialArticleNumber": "15204",
+    "LongName": "EVERYDAY beschuit natuur rond 13st 125g"
+  },
+  {
+    "gtin": "05400141213416",
+    "productId": "145776",
+    "name": "Picos met olijfolie",
+    "description": "*Mini soepstengels",
+    "technicalArticleNumber": "3330905",
+    "commercialArticleNumber": "6962",
+    "LongName": "BONI Picos met olijfolie 150g"
+  },
+  {
+    "gtin": "05400141996067",
+    "productId": "668208",
+    "name": "granola noten honing",
+    "technicalArticleNumber": "4378547",
+    "commercialArticleNumber": "24301",
+    "LongName": "BONI granola noten honing 750g"
+  },
+  {
+    "gtin": "05400141052985",
+    "productId": "45010",
+    "name": "hagelslag melkchocolade",
+    "description": "*Minstens 20 %\ncacaobestanddelen",
+    "technicalArticleNumber": "2439751",
+    "commercialArticleNumber": "5298",
+    "LongName": "BONI hagelslag melkchocolade 600g"
+  },
+  {
+    "gtin": "15400141322177",
+    "productId": "193133",
+    "name": "speculoospasta creamy",
+    "technicalArticleNumber": "3471622",
+    "commercialArticleNumber": "50422",
+    "LongName": "BONI speculoospasta creamy 400g"
+  },
+  {
+    "gtin": "05400141504521",
+    "productId": "868854",
+    "name": "Berlijnse bol",
+    "technicalArticleNumber": "4721838",
+    "commercialArticleNumber": "16322",
+    "LongName": "BONI Berlijnse bol 230g"
+  },
+  {
+    "gtin": "15400141443568",
+    "productId": "169",
+    "name": "rijstwafel",
+    "description": "*Rijstwafel, rond,\nmet zeezout en sesam",
+    "technicalArticleNumber": "15417",
+    "commercialArticleNumber": "15417",
+    "LongName": "BONI BIO rijstwafel 100g"
+  },
+  {
+    "gtin": "08710899100096",
+    "productId": "614222",
+    "name": "Waldkorn",
+    "description": "*Traditioneel\ngebakken\ntarwe-roggebrood\nmet zonnebloempitten\nen lijnzaad.",
+    "technicalArticleNumber": "4289152",
+    "commercialArticleNumber": "23299",
+    "LongName": "BROOD VAN SOMA Waldkorn 375g"
+  },
+  {
+    "gtin": "15400141757825",
+    "productId": "591856",
+    "name": "hazelnootpasta z.palmolie UTZ",
+    "description": "*Zonder palmolie\n*Suiker, zonnebloemolie,\nhazelnoot (13%),\ncacaopoeder (7.4%),\nmelkpoeder, cacaoboter,",
+    "technicalArticleNumber": "4250782",
+    "commercialArticleNumber": "15370",
+    "LongName": "BONI hazelnootpasta z.palmolie UTZ 750g"
+  },
+  {
+    "gtin": "04008169304560",
+    "productId": "807765",
+    "description": "*Bereid met 400g\nvruchten per 100g\n*Siroop van peren,\nappelen en dadels\n*Met suiker",
+    "technicalArticleNumber": "4629500",
+    "commercialArticleNumber": "8141",
+    "LongName": "ECHTE LUIKSE SIROOP 450g"
+  },
+  {
+    "gtin": "15400141444398",
+    "productId": "658893",
+    "name": "1/2 bruine stokbrood",
+    "description": "*10-12 minuten in\nde oven",
+    "technicalArticleNumber": "4361977",
+    "commercialArticleNumber": "24054",
+    "LongName": "EVERYDAY 1/2 bruine stokbrood 4x150g"
+  },
+  {
+    "gtin": "05400141731903",
+    "productId": "139315",
+    "name": "Choco Krisps",
+    "description": "*Gepofte rijst met\nchocolade",
+    "technicalArticleNumber": "3183496",
+    "commercialArticleNumber": "43965",
+    "LongName": "BONI Choco Krisps 500g"
+  },
+  {
+    "gtin": "05410126006957",
+    "productId": "20457",
+    "name": "pasta speculoos",
+    "technicalArticleNumber": "1902879",
+    "commercialArticleNumber": "16050",
+    "LongName": "LOTUS pasta speculoos 400g"
+  },
+  {
+    "gtin": "05400141047646",
+    "productId": "63234",
+    "name": "mattentaarten",
+    "technicalArticleNumber": "2794489",
+    "commercialArticleNumber": "45720",
+    "LongName": "BONI mattentaarten 2st"
+  },
+  {
+    "gtin": "15410126016946",
+    "productId": "154058",
+    "name": "pasta speculoos crunchy",
+    "technicalArticleNumber": "3297618",
+    "commercialArticleNumber": "44746",
+    "LongName": "LOTUS pasta speculoos crunchy 400g"
+  },
+  {
+    "gtin": "15400141322085",
+    "productId": "116952",
+    "name": "speculoospasta crunchy",
+    "technicalArticleNumber": "3062738",
+    "commercialArticleNumber": "25743",
+    "LongName": "BONI speculoospasta crunchy 400g"
+  },
+  {
+    "gtin": "15400141690160",
+    "productId": "335566",
+    "name": "mueslireep hazelnoot",
+    "description": "*Rijk aan vezels\n*Geen zout toegevoegd",
+    "technicalArticleNumber": "3799695",
+    "commercialArticleNumber": "51187",
+    "LongName": "BONI mueslireep hazelnoot 150g"
+  },
+  {
+    "gtin": "15400141893226",
+    "productId": "862756",
+    "name": "beschuiten",
+    "description": "*Beschuiten,\nvierkant, natuur",
+    "technicalArticleNumber": "4714134",
+    "commercialArticleNumber": "31886",
+    "LongName": "EVERYDAY beschuiten 500g"
+  },
+  {
+    "gtin": "05400141159783",
+    "productId": "1085",
+    "name": "honing vast",
+    "description": "*Vast",
+    "technicalArticleNumber": "16151",
+    "commercialArticleNumber": "16151",
+    "LongName": "EVERYDAY honing vast 500g"
+  },
+  {
+    "gtin": "05400141528404",
+    "productId": "158",
+    "name": "bladerdeeg pasteitjes 6st",
+    "description": "*Bladerdeeghapje,\nom op te vullen\n*Vershoudzakjes\n2x3 stuks",
+    "technicalArticleNumber": "15062",
+    "commercialArticleNumber": "15062",
+    "LongName": "BONI bladerdeeg pasteitjes 6st 150g"
+  },
+  {
+    "gtin": "15400141470137",
+    "productId": "57822",
+    "name": "toast melba rond 44st",
+    "description": "*Toast, rond\n*vershoudzakje\n44 stuks",
+    "technicalArticleNumber": "2261190",
+    "commercialArticleNumber": "7807",
+    "LongName": "BONI toast melba rond 44st 110g"
+  },
+  {
+    "gtin": "05410041145502",
+    "productId": "26832",
+    "name": "beschuit Naturel",
+    "description": "*Beschuiten,\nvierkant, natuur\n*Met 97 % granen",
+    "technicalArticleNumber": "1979517",
+    "commercialArticleNumber": "15324",
+    "LongName": "LU HEUDEBERT beschuit Naturel 300g"
+  },
+  {
+    "gtin": "08720726197557",
+    "productId": "951442",
+    "name": "Turks brood",
+    "technicalArticleNumber": "4769565",
+    "commercialArticleNumber": "16413",
+    "LongName": "IKRA BAKERIES Turks brood 500g"
+  },
+  {
+    "gtin": "08719200174092",
+    "productId": "613670",
+    "name": "confituur aardbei",
+    "technicalArticleNumber": "4288226",
+    "commercialArticleNumber": "23255",
+    "LongName": "EFFI confituur aardbei 350g"
+  },
+  {
+    "gtin": "15400141502333",
+    "productId": "859179",
+    "name": "donut mix",
+    "technicalArticleNumber": "4709576",
+    "commercialArticleNumber": "31797",
+    "LongName": "BONI donut mix 210g"
+  },
+  {
+    "gtin": "05400141995534",
+    "productId": "203601",
+    "name": "Choco Cookies",
+    "description": "*Granen gevuld met\nchocolade",
+    "technicalArticleNumber": "3406544",
+    "commercialArticleNumber": "50042",
+    "LongName": "BONI Choco Cookies 750g"
+  },
+  {
+    "gtin": "05053827111027",
+    "productId": "878631",
+    "name": "Frosties",
+    "technicalArticleNumber": "4734876",
+    "commercialArticleNumber": "18638",
+    "LongName": "KELLOGG'S FROSTIES Frosties 620g"
+  },
+  {
+    "gtin": "05400141506044",
+    "productId": "57599",
+    "name": "muesli reep met chocolade",
+    "description": "*Mueslireep met\nstukjes pure\nchocolade\n*Rainforest gecertificeerd",
+    "technicalArticleNumber": "2296229",
+    "commercialArticleNumber": "16141",
+    "LongName": "BONI muesli reep met chocolade 8x23g"
+  },
+  {
+    "gtin": "15400141330769",
+    "productId": "88693",
+    "name": "ontbijtkoekjes melk",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "2989415",
+    "commercialArticleNumber": "38650",
+    "LongName": "BONI ontbijtkoekjes melk 8x50g"
+  },
+  {
+    "gtin": "05400141279955",
+    "productId": "105976",
+    "name": "Honey Bubbles",
+    "description": "*Maïsknikkers met\nhoning",
+    "technicalArticleNumber": "3131586",
+    "commercialArticleNumber": "8920",
+    "LongName": "BONI Honey Bubbles 500g"
+  },
+  {
+    "gtin": "05400141052695",
+    "productId": "27688",
+    "name": "tarwe toasts",
+    "description": "*Cracotten,\nrechthoekig\n*Vershoudzakjes\n2x18 stuks\n*Met 98 % granen",
+    "technicalArticleNumber": "2240736",
+    "commercialArticleNumber": "4220",
+    "LongName": "BONI tarwe toasts 250g"
+  },
+  {
+    "gtin": "15400141764526",
+    "productId": "111400",
+    "name": "hagelslag puur",
+    "description": "*Minstens 32 %\ncacaobestanddelen",
+    "technicalArticleNumber": "3064928",
+    "commercialArticleNumber": "4576",
+    "LongName": "BONI hagelslag puur 600g"
+  },
+  {
+    "gtin": "05400141385083",
+    "productId": "592471",
+    "name": "confituur aardbei 50%",
+    "technicalArticleNumber": "4251556",
+    "commercialArticleNumber": "20348",
+    "LongName": "EVERYDAY confituur aardbei 50% 700g"
+  },
+  {
+    "gtin": "05400141081480",
+    "productId": "278218",
+    "name": "zonnebloempit brood dagvers",
+    "description": "*Rond bruin brood\nverrijkt met\nzonnebloempitten\nen lijnzaad.",
+    "technicalArticleNumber": "3653331",
+    "commercialArticleNumber": "31167",
+    "LongName": "zonnebloempit brood dagvers 600g"
+  },
+  {
+    "gtin": "05400141056945",
+    "productId": "18404",
+    "name": "ontbijtkoekjes chocoladestuk.",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1653478",
+    "commercialArticleNumber": "19863",
+    "LongName": "BONI ontbijtkoekjes chocoladestuk. 8x50g"
+  },
+  {
+    "gtin": "15400141657873",
+    "productId": "761796",
+    "name": "Zeezout Crackers",
+    "technicalArticleNumber": "4541072",
+    "commercialArticleNumber": "1950",
+    "LongName": "BONI Zeezout Crackers 150g"
+  },
+  {
+    "gtin": "05425026052751",
+    "productId": "625927",
+    "name": "mini speculoos chocolade",
+    "technicalArticleNumber": "4308539",
+    "commercialArticleNumber": "16701",
+    "LongName": "CRUMBEL mini speculoos chocolade 300g"
+  },
+  {
+    "gtin": "05400141049183",
+    "productId": "121603",
+    "name": "chocopasta melk",
+    "description": "*5 % magere\ncacaopoeder",
+    "technicalArticleNumber": "3048849",
+    "commercialArticleNumber": "4445",
+    "LongName": "BONI chocopasta melk 600g"
+  },
+  {
+    "gtin": "08710398524881",
+    "productId": "780345",
+    "name": "Chocolade",
+    "description": "*Krokante muesli met\n-donkere choc. stukjes\n-appel toffee aroma",
+    "technicalArticleNumber": "4574607",
+    "commercialArticleNumber": "28685",
+    "LongName": "QUAKER CRUESLI Chocolade 850g"
+  },
+  {
+    "gtin": "15400141977902",
+    "productId": "558104",
+    "name": "hazelnootpasta",
+    "technicalArticleNumber": "4193527",
+    "commercialArticleNumber": "15260",
+    "LongName": "BONI hazelnootpasta 750g"
+  },
+  {
+    "gtin": "05410724600342",
+    "productId": "18540",
+    "name": "integraal brood gesneden",
+    "description": "*Gesneden",
+    "technicalArticleNumber": "1654930",
+    "commercialArticleNumber": "32054",
+    "LongName": "FITAFORM integraal brood gesneden 600g"
+  },
+  {
+    "gtin": "05400141661569",
+    "productId": "105975",
+    "name": "crunchy muesli fruit",
+    "description": "*Muesli met fruit,\nnoten, zaden",
+    "technicalArticleNumber": "3131580",
+    "commercialArticleNumber": "43973",
+    "LongName": "BONI crunchy muesli fruit 500g"
+  },
+  {
+    "gtin": "03029330070450",
+    "productId": "650328",
+    "name": "natuur z.tgv.suik",
+    "description": "*Natuur brood\nzonder toegevoegd\nsuikers",
+    "technicalArticleNumber": "4349306",
+    "commercialArticleNumber": "22792",
+    "LongName": "JACQUET MAXI JAC' natuur z.tgv.suik 550g"
+  },
+  {
+    "gtin": "15400141471684",
+    "productId": "746205",
+    "name": "Goudbruine broodjes",
+    "description": "*Voorgebakken",
+    "technicalArticleNumber": "4514522",
+    "commercialArticleNumber": "7167",
+    "LongName": "BONI Goudbruine broodjes 4x60g"
+  },
+  {
+    "gtin": "03228857000913",
+    "productId": "571212",
+    "name": "mie natuur",
+    "technicalArticleNumber": "4216389",
+    "commercialArticleNumber": "7600",
+    "LongName": "HARRYS mie natuur 650g"
+  },
+  {
+    "gtin": "05410126006377",
+    "productId": "595617",
+    "name": "speculoos gevuld vanillesm.",
+    "technicalArticleNumber": "4257250",
+    "commercialArticleNumber": "22487",
+    "LongName": "LOTUS speculoos gevuld vanillesm. 15x10g"
+  },
+  {
+    "gtin": "05053827199568",
+    "productId": "787292",
+    "name": "chocolad.hazelnoot",
+    "technicalArticleNumber": "4589504",
+    "commercialArticleNumber": "21842",
+    "LongName": "KELLOGG'S TRÉSOR chocolad.hazelnoot 410g"
+  },
+  {
+    "gtin": "03017760568890",
+    "productId": "155",
+    "name": "koeken woudvruchten",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "15042",
+    "commercialArticleNumber": "15042",
+    "LongName": "LU GRANY koeken woudvruchten 6x32,5g"
+  },
+  {
+    "gtin": "05410724600847",
+    "productId": "1055",
+    "name": "volkorenbrood",
+    "technicalArticleNumber": "29970",
+    "commercialArticleNumber": "29970",
+    "LongName": "BOERKENS' volkorenbrood 600g"
+  },
+  {
+    "gtin": "05410724400300",
+    "productId": "1056",
+    "name": "volkorenbrood gesneden",
+    "technicalArticleNumber": "29971",
+    "commercialArticleNumber": "29971",
+    "LongName": "BIAFORM volkorenbrood gesneden 600g"
+  },
+  {
+    "gtin": "25400141323348",
+    "productId": "160019",
+    "name": "Bruine broodjes 4st",
+    "description": "*8-10 minuten in de\noven",
+    "technicalArticleNumber": "3247383",
+    "commercialArticleNumber": "15249",
+    "LongName": "BONI Bruine broodjes 4st 300g"
+  },
+  {
+    "gtin": "15400141660132",
+    "productId": "2606",
+    "name": "muesli fruit en zaden",
+    "description": "*Muesli met fruit en\nzaden",
+    "technicalArticleNumber": "1100720",
+    "commercialArticleNumber": "15011",
+    "LongName": "EVERYDAY muesli fruit en zaden 1kg"
+  },
+  {
+    "gtin": "15400141350477",
+    "productId": "16151",
+    "name": "Cereal Flakes",
+    "description": "*Volkoren tarwe-, en\nrijstvlokken",
+    "technicalArticleNumber": "1446911",
+    "commercialArticleNumber": "15047",
+    "LongName": "BONI Cereal Flakes 500g"
+  },
+  {
+    "gtin": "05400141043303",
+    "productId": "1111",
+    "name": "peperkoek gesneden",
+    "technicalArticleNumber": "16610",
+    "commercialArticleNumber": "16610",
+    "LongName": "EVERYDAY peperkoek gesneden 500g"
+  },
+  {
+    "gtin": "15400141910251",
+    "productId": "877678",
+    "name": "pancakes",
+    "technicalArticleNumber": "4733635",
+    "commercialArticleNumber": "11701",
+    "LongName": "BONI pancakes 6st"
+  },
+  {
+    "gtin": "15400141364092",
+    "productId": "486983",
+    "name": "grissini",
+    "technicalArticleNumber": "4045797",
+    "commercialArticleNumber": "6313",
+    "LongName": "BONI grissini 100g"
+  },
+  {
+    "gtin": "03029330071686",
+    "productId": "650344",
+    "name": "nat.z.to.sui",
+    "description": "*Natuur brood\nzonder toegevoegde\nsuiker",
+    "technicalArticleNumber": "4349322",
+    "commercialArticleNumber": "22864",
+    "LongName": "JACQUET PLAISIR DE MIE nat.z.to.sui 450g"
+  },
+  {
+    "gtin": "15400141279938",
+    "productId": "93942",
+    "name": "muesli 45% fruit, noten, zaden",
+    "description": "*Granenmengeling met\nvruchten, noten,\nzaden",
+    "technicalArticleNumber": "2802433",
+    "commercialArticleNumber": "12645",
+    "LongName": "BONI muesli 45% fruit, noten, zaden 750g"
+  },
+  {
+    "gtin": "15400141127611",
+    "productId": "2356",
+    "name": "honing vast",
+    "description": "*Vast",
+    "technicalArticleNumber": "1098243",
+    "commercialArticleNumber": "16161",
+    "LongName": "BONI BIO honing vast 500g"
+  },
+  {
+    "gtin": "15400141419808",
+    "productId": "525709",
+    "name": "crackers meerzaden",
+    "technicalArticleNumber": "4113277",
+    "commercialArticleNumber": "8872",
+    "LongName": "BONI crackers meerzaden 315g"
+  },
+  {
+    "gtin": "05400141218947",
+    "productId": "124289",
+    "name": "stokbrood zuurdes. VGB",
+    "description": "*Op basis van\nzuurdesem\n*10 minuten in oven",
+    "technicalArticleNumber": "3218106",
+    "commercialArticleNumber": "31225",
+    "LongName": "BONI stokbrood zuurdes. VGB 250g"
+  },
+  {
+    "gtin": "15400141322405",
+    "productId": "222596",
+    "name": "confituur kersen 61%",
+    "description": "*61% vruchten",
+    "technicalArticleNumber": "3505771",
+    "commercialArticleNumber": "50568",
+    "LongName": "BONI confituur kersen 61% 450g"
+  },
+  {
+    "gtin": "05400141123111",
+    "productId": "63230",
+    "name": "rijsttaartjes",
+    "technicalArticleNumber": "2794483",
+    "commercialArticleNumber": "45726",
+    "LongName": "BONI rijsttaartjes 2st"
+  },
+  {
+    "gtin": "05412514931865",
+    "productId": "27816",
+    "name": "dürüm 30cm",
+    "description": "*12 wraps gemaakt\nvan harde tarwe",
+    "technicalArticleNumber": "2241845",
+    "commercialArticleNumber": "4364",
+    "LongName": "BOSPHORUS dürüm 30cm 12sst"
+  },
+  {
+    "gtin": "25400141472084",
+    "productId": "854526",
+    "name": "pure choc&hazelnoot",
+    "description": "*Met 11% chocolade",
+    "technicalArticleNumber": "4703532",
+    "commercialArticleNumber": "31255",
+    "LongName": "KELLOGG'S EXTRA pure choc&hazelnoot 375g"
+  },
+  {
+    "gtin": "05400141664911",
+    "productId": "869440",
+    "name": "Picos",
+    "technicalArticleNumber": "4722774",
+    "commercialArticleNumber": "18152",
+    "LongName": "BONI Picos 70g"
+  },
+  {
+    "gtin": "07622210475190",
+    "productId": "98094",
+    "name": "Mini Crackers Naturel",
+    "description": "*Mini cracker, vierkant, natuur\n*Individueel verpakt\n*8x5 stuks",
+    "technicalArticleNumber": "2837637",
+    "commercialArticleNumber": "33294",
+    "LongName": "LU Mini Crackers Naturel 250g"
+  },
+  {
+    "gtin": "05412514555559",
+    "productId": "9810",
+    "name": "tortillas Mexicaans 8st",
+    "description": "*8 Mexicaanse\ntortilla's",
+    "technicalArticleNumber": "1383235",
+    "commercialArticleNumber": "12250",
+    "LongName": "POCO LOCO tortillas Mexicaans 8st 320g"
+  },
+  {
+    "gtin": "00694990083626",
+    "productId": "1528",
+    "name": "speculoos",
+    "technicalArticleNumber": "21536",
+    "commercialArticleNumber": "21536",
+    "LongName": "LU BASTOGNE! speculoos 260g"
+  },
+  {
+    "gtin": "15010477363500",
+    "productId": "857455",
+    "name": "Honey baked",
+    "description": "*Geroosterde volkoren\nhoning- en haverclusters",
+    "technicalArticleNumber": "4707454",
+    "commercialArticleNumber": "31528",
+    "LongName": "JORDANS Honey baked 700g"
+  },
+  {
+    "gtin": "15400141331810",
+    "productId": "86926",
+    "name": "honingkoek parelsuiker",
+    "technicalArticleNumber": "3022296",
+    "commercialArticleNumber": "38723",
+    "LongName": "BONI honingkoek parelsuiker 500g"
+  },
+  {
+    "gtin": "05410126006360",
+    "productId": "595630",
+    "name": "speculoos gev. specul.crème",
+    "technicalArticleNumber": "4257263",
+    "commercialArticleNumber": "22495",
+    "LongName": "LOTUS speculoos gev. specul.crème 15x10g"
+  },
+  {
+    "gtin": "03029330069027",
+    "productId": "650299",
+    "name": "volkor.z.tgv.suik",
+    "description": "*Volkorenbrood\nzonder toegevoegd\nsuikers",
+    "technicalArticleNumber": "4349277",
+    "commercialArticleNumber": "22738",
+    "LongName": "JACQUET MAXI JAC' volkor.z.tgv.suik 550g"
+  },
+  {
+    "gtin": "07622210713797",
+    "productId": "584269",
+    "name": "choco",
+    "technicalArticleNumber": "4238978",
+    "commercialArticleNumber": "19075",
+    "LongName": "LU BELVITA choco 400g"
+  },
+  {
+    "gtin": "05400141322378",
+    "productId": "31435",
+    "name": "brood multigraan voorgeb.",
+    "description": "*Bedekt met een\nmengeling van zaden\nen granen of met\nmaandzaad\n*8-10 min. in oven",
+    "technicalArticleNumber": "1663272",
+    "commercialArticleNumber": "32237",
+    "LongName": "BONI brood multigraan voorgeb. 8st 360g"
+  },
+  {
+    "gtin": "05410724425921",
+    "productId": "134396",
+    "name": "meergranenbrood ProVital",
+    "technicalArticleNumber": "3136086",
+    "commercialArticleNumber": "13554",
+    "LongName": "BIAFORM meergranenbrood ProVital 425g"
+  },
+  {
+    "gtin": "35400141535939",
+    "productId": "167367",
+    "name": "speculoos",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3378806",
+    "commercialArticleNumber": "8420",
+    "LongName": "BONI speculoos 10x25g"
+  },
+  {
+    "gtin": "15400141928409",
+    "productId": "615866",
+    "name": "mini pavés Premium",
+    "technicalArticleNumber": "4291512",
+    "commercialArticleNumber": "23389",
+    "LongName": "BONI mini pavés Premium 4x75g"
+  },
+  {
+    "gtin": "15410126146254",
+    "productId": "1026672",
+    "name": "Biscoff speculoos",
+    "technicalArticleNumber": "4791918",
+    "commercialArticleNumber": "33672",
+    "LongName": "LOTUS Biscoff speculoos 525g"
+  },
+  {
+    "gtin": "15400141058564",
+    "productId": "309871",
+    "name": "carré frangipane",
+    "technicalArticleNumber": "3758090",
+    "commercialArticleNumber": "13928",
+    "LongName": "BONI carré frangipane 2x100g"
+  },
+  {
+    "gtin": "05400141264319",
+    "productId": "129589",
+    "name": "crackers met olijven",
+    "description": "*Crackers,\nmet olijven",
+    "technicalArticleNumber": "3214136",
+    "commercialArticleNumber": "26338",
+    "LongName": "BONI crackers met olijven 150g"
+  },
+  {
+    "gtin": "15400141626510",
+    "productId": "118540",
+    "name": "chocopasta puur",
+    "description": "*15 % magere\ncacaopoeder",
+    "technicalArticleNumber": "3048361",
+    "commercialArticleNumber": "4447",
+    "LongName": "BONI chocopasta puur 600g"
+  },
+  {
+    "gtin": "05400141075489",
+    "productId": "23424",
+    "name": "Cornflakes",
+    "description": "*Maïsvlokken",
+    "technicalArticleNumber": "1886058",
+    "commercialArticleNumber": "15176",
+    "LongName": "EVERYDAY Cornflakes 750g"
+  },
+  {
+    "gtin": "15410126126881",
+    "productId": "44694",
+    "name": "speculoos 6 granen",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "2508071",
+    "commercialArticleNumber": "8306",
+    "LongName": "LOTUS speculoos 6 granen 450g"
+  },
+  {
+    "gtin": "13256549994650",
+    "productId": "783911",
+    "name": "pitch chocovulling",
+    "technicalArticleNumber": "4582935",
+    "commercialArticleNumber": "8592",
+    "LongName": "PASQUIER pitch chocovulling 6st"
+  },
+  {
+    "gtin": "05410126006766",
+    "productId": "7154",
+    "name": "speculoos chocolade",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1160202",
+    "commercialArticleNumber": "21531",
+    "LongName": "LOTUS speculoos chocolade 7x22g"
+  },
+  {
+    "gtin": "05400141023114",
+    "productId": "1092",
+    "name": "confituur abrikozen 50%",
+    "description": "*50 % vruchten",
+    "technicalArticleNumber": "16288",
+    "commercialArticleNumber": "16288",
+    "LongName": "EVERYDAY confituur abrikozen 50% 450g"
+  },
+  {
+    "gtin": "05411146334242",
+    "productId": "10768",
+    "name": "chocopasta puur",
+    "technicalArticleNumber": "1397792",
+    "commercialArticleNumber": "16035",
+    "LongName": "BOERINNEKE chocopasta puur 400g"
+  },
+  {
+    "gtin": "05410724600311",
+    "productId": "39039",
+    "name": "graankorf brood",
+    "technicalArticleNumber": "1701082",
+    "commercialArticleNumber": "32791",
+    "LongName": "BOERKENS' graankorf brood 600g"
+  },
+  {
+    "gtin": "04003994112427",
+    "productId": "38",
+    "description": "*Maïsvlokken",
+    "technicalArticleNumber": "15008",
+    "commercialArticleNumber": "15008",
+    "LongName": "KELLOGG'S CORN FLAKES 750g"
+  },
+  {
+    "gtin": "05050083554315",
+    "productId": "49019",
+    "description": "*Gepofte\nrijstkorrels, omhuld\nmet cacao",
+    "technicalArticleNumber": "2487542",
+    "commercialArticleNumber": "31214",
+    "LongName": "KELLOGG'S COCO POPS 600g"
+  },
+  {
+    "gtin": "05400141279924",
+    "productId": "50602",
+    "name": "Choco Bubbles",
+    "description": "*Graanknikkers met\nchocoladepoeder",
+    "technicalArticleNumber": "2335284",
+    "commercialArticleNumber": "19573",
+    "LongName": "BONI Choco Bubbles 750g"
+  },
+  {
+    "gtin": "05400141229226",
+    "productId": "89026",
+    "name": "confituur frambozen 61%",
+    "description": "*61 % vruchten",
+    "technicalArticleNumber": "3014821",
+    "commercialArticleNumber": "42624",
+    "LongName": "BONI confituur frambozen 61% 370g"
+  },
+  {
+    "gtin": "05053827199667",
+    "productId": "787290",
+    "name": "melkchocolade",
+    "technicalArticleNumber": "4589498",
+    "commercialArticleNumber": "21736",
+    "LongName": "KELLOGG'S TRÉSOR melkchocolade 410g"
+  },
+  {
+    "gtin": "15400141796480",
+    "productId": "212161",
+    "name": "confituur rode vruchten 61%",
+    "description": "*61% vruchten",
+    "technicalArticleNumber": "3507545",
+    "commercialArticleNumber": "50571",
+    "LongName": "BONI confituur rode vruchten 61% 450g"
+  },
+  {
+    "gtin": "05410018792333",
+    "productId": "14145",
+    "name": "chocopasta puur",
+    "technicalArticleNumber": "1628853",
+    "commercialArticleNumber": "16240",
+    "LongName": "KWATTA chocopasta puur 600g"
+  },
+  {
+    "gtin": "05400141324969",
+    "productId": "146381",
+    "name": "minitoast 60 stuks",
+    "description": "*Mini toast",
+    "technicalArticleNumber": "3330972",
+    "commercialArticleNumber": "6947",
+    "LongName": "BONI minitoast 60 stuks 120g"
+  },
+  {
+    "gtin": "05410046008710",
+    "productId": "15726",
+    "name": "gelei aardbei",
+    "description": "*50 % vruchten",
+    "technicalArticleNumber": "1583508",
+    "commercialArticleNumber": "16208",
+    "LongName": "MATERNE gelei aardbei 450g"
+  },
+  {
+    "gtin": "05400141944921",
+    "productId": "858916",
+    "name": "pitta volkoren 5st",
+    "description": "*Voorgebakken\nvolkoren\ntarwepitabroodjes",
+    "technicalArticleNumber": "4709194",
+    "commercialArticleNumber": "31745",
+    "LongName": "BONI pitta volkoren 5st 400g"
+  },
+  {
+    "gtin": "05410126006353",
+    "productId": "595636",
+    "name": "speculoos gev.melkchocolade",
+    "technicalArticleNumber": "4257269",
+    "commercialArticleNumber": "22496",
+    "LongName": "LOTUS speculoos gev.melkchocolade 15x10g"
+  },
+  {
+    "gtin": "03159470005347",
+    "productId": "39",
+    "name": "Variety Minipacks 8st",
+    "description": "*Assortiment: Loops,\nFrosties, Coco Pops,\nHoney Pops, Chocos",
+    "technicalArticleNumber": "15013",
+    "commercialArticleNumber": "15013",
+    "LongName": "KELLOGG'S Variety Minipacks 8st 220g"
+  },
+  {
+    "gtin": "05400141256666",
+    "productId": "148920",
+    "name": "Frost Cribbs",
+    "description": "*Gesuikerde maïs-\nvlokken",
+    "technicalArticleNumber": "3327343",
+    "commercialArticleNumber": "7250",
+    "LongName": "BONI Frost Cribbs 750g"
+  },
+  {
+    "gtin": "05425026053031",
+    "productId": "701900",
+    "name": "mini amandelspeculoos",
+    "technicalArticleNumber": "4435000",
+    "commercialArticleNumber": "17266",
+    "LongName": "CRUMBEL mini amandelspeculoos 225g"
+  },
+  {
+    "gtin": "05400141332360",
+    "productId": "127669",
+    "name": "stokbrood meergr.voorgeb.",
+    "description": "*10 minuten in oven",
+    "technicalArticleNumber": "3212515",
+    "commercialArticleNumber": "20815",
+    "LongName": "BONI stokbrood meergr.voorgeb. 250g"
+  },
+  {
+    "gtin": "15400141910961",
+    "productId": "11235",
+    "name": "Honey Cribbs",
+    "description": "*Gepofte\ntarwekorrels met\nhoning",
+    "technicalArticleNumber": "1406034",
+    "commercialArticleNumber": "15183",
+    "LongName": "BONI Honey Cribbs 750g"
+  },
+  {
+    "gtin": "05410046001278",
+    "productId": "12609",
+    "name": "confituur aardbei",
+    "description": "*50 % vruchten",
+    "technicalArticleNumber": "1336876",
+    "commercialArticleNumber": "16282",
+    "LongName": "MATERNE confituur aardbei 720g"
+  },
+  {
+    "gtin": "08718247444526",
+    "productId": "921337",
+    "name": "Grissinet.| Torinesi",
+    "technicalArticleNumber": "4763663",
+    "commercialArticleNumber": "22532",
+    "LongName": "DELI DI PAOLO Grissinet.| Torinesi 150g"
+  },
+  {
+    "gtin": "15400141019749",
+    "productId": "30828",
+    "name": "zachte speculoos",
+    "technicalArticleNumber": "1661938",
+    "commercialArticleNumber": "19740",
+    "LongName": "BONI zachte speculoos 350g"
+  },
+  {
+    "gtin": "05400141251326",
+    "productId": "31626",
+    "name": "acaciahoning vloeibaar",
+    "description": "*Vloeibaar",
+    "technicalArticleNumber": "1856087",
+    "commercialArticleNumber": "16156",
+    "LongName": "BONI acaciahoning vloeibaar 350g"
+  },
+  {
+    "gtin": "15400141363941",
+    "productId": "486995",
+    "name": "grissini sesam",
+    "technicalArticleNumber": "4045809",
+    "commercialArticleNumber": "6316",
+    "LongName": "BONI grissini sesam 125g"
+  },
+  {
+    "gtin": "05400141419795",
+    "productId": "546296",
+    "name": "maïswafel hazelnootpasta",
+    "technicalArticleNumber": "4173607",
+    "commercialArticleNumber": "10282",
+    "LongName": "BONI maïswafel hazelnootpasta 6x22g"
+  },
+  {
+    "gtin": "05400141404210",
+    "productId": "212149",
+    "name": "confituur abrikozen 61%",
+    "description": "*61% vruchten",
+    "technicalArticleNumber": "3507530",
+    "commercialArticleNumber": "50570",
+    "LongName": "BONI confituur abrikozen 61% 450g"
+  },
+  {
+    "gtin": "03228857000166",
+    "productId": "613709",
+    "name": "100% mie volkoren",
+    "technicalArticleNumber": "4288267",
+    "commercialArticleNumber": "23258",
+    "LongName": "HARRYS 100% mie volkoren 500g"
+  },
+  {
+    "gtin": "15400141893158",
+    "productId": "856408",
+    "name": "mueslireep aardbei yoghurt",
+    "technicalArticleNumber": "4705903",
+    "commercialArticleNumber": "31422",
+    "LongName": "BONI mueslireep aardbei yoghurt 138g"
+  },
+  {
+    "gtin": "08719200174061",
+    "productId": "613703",
+    "name": "confituur woudvruchten",
+    "technicalArticleNumber": "4288259",
+    "commercialArticleNumber": "23257",
+    "LongName": "EFFI confituur woudvruchten 350g"
+  },
+  {
+    "gtin": "15400141305484",
+    "productId": "538258",
+    "name": "Rustieke speltbroodjes 4st",
+    "description": "*Voorgebakken\n*Bereid met\nzuurdesem",
+    "technicalArticleNumber": "4135021",
+    "commercialArticleNumber": "9533",
+    "LongName": "BONI Rustieke speltbroodjes 4st 300g"
+  },
+  {
+    "gtin": "05411128412111",
+    "productId": "1526",
+    "name": "speculoos geel",
+    "technicalArticleNumber": "21526",
+    "commercialArticleNumber": "21526",
+    "LongName": "VERMEIREN speculoos geel 2x162,5g"
+  },
+  {
+    "gtin": "05400141866681",
+    "productId": "1093",
+    "name": "confituur vruchten 50%",
+    "description": "*50 % vruchten",
+    "technicalArticleNumber": "16296",
+    "commercialArticleNumber": "16296",
+    "LongName": "EVERYDAY confituur vruchten 50% 450g"
+  },
+  {
+    "gtin": "15400141758389",
+    "productId": "591853",
+    "name": "hazelnootpasta z.palmolie UTZ",
+    "description": "*7,4% cacao\n*Met zonnebloemolie\nen kokosolie",
+    "technicalArticleNumber": "4250779",
+    "commercialArticleNumber": "15354",
+    "LongName": "BONI hazelnootpasta z.palmolie UTZ 400g"
+  },
+  {
+    "gtin": "05050083535079",
+    "productId": "41317",
+    "name": "chocolade hazelnoot",
+    "description": "*Ontbijtgranen\ngevuld met chocolade\nen hazelnoot",
+    "technicalArticleNumber": "2488327",
+    "commercialArticleNumber": "39330",
+    "LongName": "KELLOGG'S TRÉSOR chocolade hazelnoot 1kg"
+  },
+  {
+    "gtin": "15400141385691",
+    "productId": "17792",
+    "name": "brood.meergr.voorgeb.6st",
+    "description": "*4-6 minuten in de\noven",
+    "technicalArticleNumber": "1724876",
+    "commercialArticleNumber": "33295",
+    "LongName": "BONI BIO brood.meergr.voorgeb.6st 300g"
+  },
+  {
+    "gtin": "05059319025711",
+    "productId": "857514",
+    "name": "Pure chocolade",
+    "description": "*Met 13% pure chocolade",
+    "technicalArticleNumber": "4707541",
+    "commercialArticleNumber": "31540",
+    "LongName": "SPECIAL K Pure chocolade 500g"
+  },
+  {
+    "gtin": "05400141043433",
+    "productId": "13467",
+    "name": "siroop peer-appel-dadel",
+    "description": "*Bereid met 400g\nvruchten per 100g\nstroop",
+    "technicalArticleNumber": "1615897",
+    "commercialArticleNumber": "16210",
+    "LongName": "EVERYDAY siroop peer-appel-dadel 450g"
+  },
+  {
+    "gtin": "07622201806293",
+    "productId": "643003",
+    "name": "Cracotte vezels",
+    "technicalArticleNumber": "4337575",
+    "commercialArticleNumber": "23175",
+    "LongName": "LU Cracotte vezels 250g"
+  },
+  {
+    "gtin": "08410076710819",
+    "productId": "346876",
+    "name": "protein pind&choc.GV",
+    "description": "*Rijk aan vezels\n*Eiwitrijk\n*Glutenvrij",
+    "technicalArticleNumber": "3741102",
+    "commercialArticleNumber": "15245",
+    "LongName": "NATURE VALLEY protein pind&choc.GV 160g"
+  },
+  {
+    "gtin": "03029330201335",
+    "productId": "154705",
+    "name": "hamburger brood reuze natuur",
+    "description": "*4 reuze\nhamburgerbroodjes\nmet sesamzaadjes",
+    "technicalArticleNumber": "3289546",
+    "commercialArticleNumber": "5654",
+    "LongName": "JACQUET hamburger brood reuze natuur 4st"
+  },
+  {
+    "gtin": "15412514931886",
+    "productId": "41427",
+    "name": "tacos Gorditas 8st",
+    "description": "*8 zachte taco's",
+    "technicalArticleNumber": "2488449",
+    "commercialArticleNumber": "24896",
+    "LongName": "POCO LOCO tacos Gorditas 8st 272g"
+  },
+  {
+    "gtin": "85400141472079",
+    "productId": "854559",
+    "name": "melkchocolade",
+    "description": "*Met 14% melkchocolade",
+    "technicalArticleNumber": "4703585",
+    "commercialArticleNumber": "31262",
+    "LongName": "KELLOGG'S EXTRA melkchocolade 375g"
+  },
+  {
+    "gtin": "08710445018240",
+    "productId": "167",
+    "name": "toast Krokant rond",
+    "description": "*Toast, rond\nmet paneermeellaag",
+    "technicalArticleNumber": "15411",
+    "commercialArticleNumber": "15411",
+    "LongName": "HAUST toast Krokant rond 100g"
+  },
+  {
+    "gtin": "15400141331797",
+    "productId": "87016",
+    "name": "honingkoek",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3018664",
+    "commercialArticleNumber": "38836",
+    "LongName": "BONI honingkoek 8x40g"
+  },
+  {
+    "gtin": "15410041405306",
+    "productId": "154",
+    "name": "koeken appel-abrikoos",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "15040",
+    "commercialArticleNumber": "15040",
+    "LongName": "LU GRANY koeken appel-abrikoos 6x32,5g"
+  },
+  {
+    "gtin": "08008698038741",
+    "productId": "124004",
+    "name": "brood meergr.Vital glutenvrij",
+    "description": "*Glutenvrij\n*Lactosevrij",
+    "technicalArticleNumber": "3237424",
+    "commercialArticleNumber": "33547",
+    "LongName": "SCHÄR brood meergr.Vital glutenvrij 350g"
+  },
+  {
+    "gtin": "05050083483905",
+    "productId": "54004",
+    "description": "*Gepofte\ntarwekorrels met\nhoning",
+    "technicalArticleNumber": "2255795",
+    "commercialArticleNumber": "4686",
+    "LongName": "KELLOGG'S SMACKS 600g"
+  },
+  {
+    "gtin": "08710445018486",
+    "productId": "2742",
+    "name": "toast Toast 'n Chips knoflook",
+    "description": "*Toast, rond,\nmet look",
+    "technicalArticleNumber": "1014204",
+    "commercialArticleNumber": "15401",
+    "LongName": "HAUST toast Toast 'n Chips knoflook 125g"
+  },
+  {
+    "gtin": "08055186190665",
+    "productId": "780988",
+    "name": "pinsa",
+    "description": "*Ovengebakken\nproduct",
+    "technicalArticleNumber": "4577141",
+    "commercialArticleNumber": "28833",
+    "LongName": "PINSAMI pinsa 230g"
+  },
+  {
+    "gtin": "07622201511777",
+    "productId": "6107",
+    "name": "chocopasta Noir de Noir",
+    "description": "*16 % magere\ncacaopoeder",
+    "technicalArticleNumber": "1161500",
+    "commercialArticleNumber": "16080",
+    "LongName": "CÔTE D'OR chocopasta Noir de Noir 300g"
+  },
+  {
+    "gtin": "08410076710826",
+    "productId": "337960",
+    "name": "prot.gez.kar.noten GV",
+    "description": "*Rijk aan vezels\n*Eiwitrijk\n*Glutenvrij",
+    "technicalArticleNumber": "3741114",
+    "commercialArticleNumber": "15403",
+    "LongName": "NATURE VALLEY prot.gez.kar.noten GV 160g"
+  },
+  {
+    "gtin": "05410383011008",
+    "productId": "1114",
+    "name": "peperkoek met honing",
+    "technicalArticleNumber": "16640",
+    "commercialArticleNumber": "16640",
+    "LongName": "VONDELMOLEN peperkoek met honing 500g"
+  },
+  {
+    "gtin": "05050083565632",
+    "productId": "40539",
+    "name": "Loops",
+    "description": "*Volkoren\ngranenringetjes met\nhoning",
+    "technicalArticleNumber": "2523447",
+    "commercialArticleNumber": "12283",
+    "LongName": "KELLOGG'S MIEL POPS Loops 600g"
+  },
+  {
+    "gtin": "05010477363473",
+    "productId": "857439",
+    "name": "Crunchy naturel granola",
+    "technicalArticleNumber": "4707436",
+    "commercialArticleNumber": "31521",
+    "LongName": "JORDANS Crunchy naturel granola 750g"
+  },
+  {
+    "gtin": "15400141999225",
+    "productId": "665205",
+    "name": "pindakaas crunchy",
+    "technicalArticleNumber": "4373444",
+    "commercialArticleNumber": "22904",
+    "LongName": "BONI pindakaas crunchy 350g"
+  },
+  {
+    "gtin": "08718247442553",
+    "productId": "490216",
+    "name": "grissini picco.tom.ba",
+    "technicalArticleNumber": "4044650",
+    "commercialArticleNumber": "3910",
+    "LongName": "DELI DI PAOLO grissini picco.tom.ba 200g"
+  },
+  {
+    "gtin": "08719200174023",
+    "productId": "613668",
+    "name": "confituur abrikoos",
+    "technicalArticleNumber": "4288224",
+    "commercialArticleNumber": "23253",
+    "LongName": "EFFI confituur abrikoos 350g"
+  },
+  {
+    "gtin": "05400141321753",
+    "productId": "1109",
+    "name": "honingkoek",
+    "technicalArticleNumber": "16600",
+    "commercialArticleNumber": "16600",
+    "LongName": "BONI honingkoek 500g"
+  },
+  {
+    "gtin": "07622201130510",
+    "productId": "607934",
+    "name": "cracotte gourmande 250 g V",
+    "technicalArticleNumber": "4279086",
+    "commercialArticleNumber": "5151",
+    "LongName": "LU cracotte gourmande 250 g V 250g"
+  },
+  {
+    "gtin": "08052575090469",
+    "productId": "856271",
+    "name": "cacao&hazelnootpasta Bio",
+    "description": "*Hazelnootpasta met cacao\n*Met zonnebloemolie",
+    "technicalArticleNumber": "4705685",
+    "commercialArticleNumber": "31405",
+    "LongName": "NOCCIOLATA cacao&hazelnootpasta Bio 650g"
+  },
+  {
+    "gtin": "08710398524898",
+    "productId": "780328",
+    "name": "4 noten",
+    "description": "*Krokante muesli\n*Amandelen\n*Hazelnoten\n*Pecannoten\n*Paranoten",
+    "technicalArticleNumber": "4574589",
+    "commercialArticleNumber": "28680",
+    "LongName": "QUAKER CRUESLI 4 noten 800g"
+  },
+  {
+    "gtin": "05400141150292",
+    "productId": "11417",
+    "name": "koeken granen",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1373364",
+    "commercialArticleNumber": "15029",
+    "LongName": "LU GRANY koeken granen 6x28,5g"
+  },
+  {
+    "gtin": "08719200173750",
+    "productId": "613700",
+    "name": "confituur kersen",
+    "technicalArticleNumber": "4288256",
+    "commercialArticleNumber": "23256",
+    "LongName": "EFFI confituur kersen 350g"
+  },
+  {
+    "gtin": "05400141456950",
+    "productId": "856194",
+    "name": "volkoren knackebrod",
+    "technicalArticleNumber": "4705594",
+    "commercialArticleNumber": "31384",
+    "LongName": "BONI volkoren knackebrod 375g"
+  },
+  {
+    "gtin": "03608589916681",
+    "productId": "378624",
+    "name": "intense abrikoos",
+    "technicalArticleNumber": "3843863",
+    "commercialArticleNumber": "51296",
+    "LongName": "BONNE MAMAN intense abrikoos 335g"
+  },
+  {
+    "gtin": "05400141564488",
+    "productId": "533044",
+    "name": "Baguette wit",
+    "description": "*Biologische\nstokbrood met\nvloeibaar\ndesem op steen\ngebakken",
+    "technicalArticleNumber": "4125517",
+    "commercialArticleNumber": "9330",
+    "LongName": "BONI BIO Baguette wit 2x120g"
+  },
+  {
+    "gtin": "15400141228950",
+    "productId": "85623",
+    "name": "confituur ananas 61%",
+    "description": "*61 % vruchten",
+    "technicalArticleNumber": "3014915",
+    "commercialArticleNumber": "2691",
+    "LongName": "BONI confituur ananas 61% 370g"
+  },
+  {
+    "gtin": "03608580916673",
+    "productId": "377274",
+    "name": "intense aardbei",
+    "technicalArticleNumber": "3843831",
+    "commercialArticleNumber": "51298",
+    "LongName": "BONNE MAMAN intense aardbei 335g"
+  },
+  {
+    "gtin": "05400141608694",
+    "productId": "685541",
+    "name": "vierkante broodjes 7st",
+    "description": "*Tarwebroodjes\nom te bakken",
+    "technicalArticleNumber": "4408110",
+    "commercialArticleNumber": "24852",
+    "LongName": "BONI vierkante broodjes 7st 560g"
+  },
+  {
+    "gtin": "05400141699661",
+    "productId": "85625",
+    "name": "confituur 4 zwarte vrucht.61%",
+    "description": "*61 % vruchten",
+    "technicalArticleNumber": "3014967",
+    "commercialArticleNumber": "39830",
+    "LongName": "BONI confituur 4 zwarte vrucht.61% 370g"
+  },
+  {
+    "gtin": "05013503164396",
+    "productId": "153",
+    "name": "Original",
+    "description": "*Volkoren tarwe-,\nrijst-, gerstvlokken",
+    "technicalArticleNumber": "15032",
+    "commercialArticleNumber": "15032",
+    "LongName": "SPECIAL K Original 750g"
+  },
+  {
+    "gtin": "07622210422224",
+    "productId": "148119",
+    "name": "cracker multigranen",
+    "description": "*Toast, rechthoekig,\nmultigranen\n*Vershoudzakjes",
+    "technicalArticleNumber": "3303639",
+    "commercialArticleNumber": "18117",
+    "LongName": "LU CRACOTTE cracker multigranen 250g"
+  },
+  {
+    "gtin": "05410256051117",
+    "productId": "98656",
+    "name": "kandijsiroop top-down",
+    "technicalArticleNumber": "2845868",
+    "commercialArticleNumber": "33663",
+    "LongName": "CANDICO kandijsiroop top-down 400g"
+  },
+  {
+    "gtin": "08710445018165",
+    "productId": "173274",
+    "name": "snack cups rond",
+    "description": "*Toast, rond,\nmet opstaande rand",
+    "technicalArticleNumber": "3373682",
+    "commercialArticleNumber": "23932",
+    "LongName": "HAUST snack cups rond 130g"
+  },
+  {
+    "gtin": "08710398508003",
+    "productId": "353719",
+    "name": "granola noten&zaden",
+    "description": "*Ideaal bij ontbijt\n*Ontbijtgranen\n*Havermout",
+    "technicalArticleNumber": "3870414",
+    "commercialArticleNumber": "22638",
+    "LongName": "QUAKER CRUESLI granola noten&zaden 450g"
+  },
+  {
+    "gtin": "05412514936921",
+    "productId": "671497",
+    "name": "veggie wrap wortelen 25cm",
+    "technicalArticleNumber": "4384887",
+    "commercialArticleNumber": "24437",
+    "LongName": "POCO LOCO veggie wrap wortelen 25cm 370g"
+  },
+  {
+    "gtin": "08410076601704",
+    "productId": "847782",
+    "name": "Crun.Var.pack Fam.",
+    "description": "*Haverkoek\n*Mix: Oats & Honey,\nCanadian Mapl syrup,\nOats & Dark chocolat",
+    "technicalArticleNumber": "4694536",
+    "commercialArticleNumber": "22216",
+    "LongName": "NATURE VALLEY Crun.Var.pack Fam. 10x42g"
+  },
+  {
+    "gtin": "08719327097663",
+    "productId": "755349",
+    "name": "protein crunch granola",
+    "technicalArticleNumber": "4529970",
+    "commercialArticleNumber": "6740",
+    "LongName": "HOLIE protein crunch granola 350g"
+  },
+  {
+    "gtin": "05053827104890",
+    "productId": "56958",
+    "description": "*Gepofte maïs met\nhoning",
+    "technicalArticleNumber": "2328989",
+    "commercialArticleNumber": "18485",
+    "LongName": "KELLOGG'S MIEL POPS 600g"
+  },
+  {
+    "gtin": "05410724400911",
+    "productId": "1057",
+    "name": "vruchtenbrood volkoren",
+    "description": "*Met zuiderse\nvruchten en nootjes",
+    "technicalArticleNumber": "29972",
+    "commercialArticleNumber": "29972",
+    "LongName": "EXOSUD vruchtenbrood volkoren 400g"
+  },
+  {
+    "gtin": "07613032192570",
+    "productId": "869928",
+    "name": "ontbijtgranen",
+    "description": "*Ontbijtgranen met\nchocolade en karamel",
+    "technicalArticleNumber": "4723375",
+    "commercialArticleNumber": "20288",
+    "LongName": "NESTLÉ LION ontbijtgranen 480g"
+  },
+  {
+    "gtin": "05412612023431",
+    "productId": "16060",
+    "name": "eierkoek",
+    "technicalArticleNumber": "1539721",
+    "commercialArticleNumber": "31045",
+    "LongName": "MESSELY eierkoek 350g"
+  },
+  {
+    "gtin": "05410018970090",
+    "productId": "11926",
+    "name": "chocopasta wit",
+    "technicalArticleNumber": "1391747",
+    "commercialArticleNumber": "16071",
+    "LongName": "KWATTA chocopasta wit 400g"
+  },
+  {
+    "gtin": "15400141615385",
+    "productId": "851124",
+    "name": "Raw Bar framboos",
+    "technicalArticleNumber": "4699057",
+    "commercialArticleNumber": "30925",
+    "LongName": "BONI Raw Bar framboos 4x35g"
+  },
+  {
+    "gtin": "05410041188400",
+    "productId": "1079",
+    "name": "cracker tarwe",
+    "description": "*Cracker, tarwe,\nrechthoekig\n*10 vershoudzakjes",
+    "technicalArticleNumber": "15950",
+    "commercialArticleNumber": "15950",
+    "LongName": "LU PAROVITA cracker tarwe 330g"
+  },
+  {
+    "gtin": "04008169334505",
+    "productId": "807767",
+    "name": "zond.toe.suiker",
+    "description": "*Bereid met 700g\nvruchten per 100g\n*Van nature aanwezige\nsuikers\n*Peren,appelen,dadels",
+    "technicalArticleNumber": "4629502",
+    "commercialArticleNumber": "8302",
+    "LongName": "ECHTE LUIKSE SIROOP zond.toe.suiker 450g"
+  },
+  {
+    "gtin": "05400141615364",
+    "productId": "850261",
+    "name": "Raw Bar bosbessen",
+    "technicalArticleNumber": "4697668",
+    "commercialArticleNumber": "30853",
+    "LongName": "BONI Raw Bar bosbessen 4x35g"
+  },
+  {
+    "gtin": "05059319027463",
+    "productId": "854544",
+    "name": "Melkchocolade",
+    "description": "*Met 14% melkchocolade\n*",
+    "technicalArticleNumber": "4703560",
+    "commercialArticleNumber": "31258",
+    "LongName": "SPECIAL K Melkchocolade 500g"
+  },
+  {
+    "gtin": "07311070330908",
+    "productId": "166",
+    "name": "ger.brood volkoren",
+    "description": "*Zweedse broodjes,\nvolkoren",
+    "technicalArticleNumber": "15405",
+    "commercialArticleNumber": "15405",
+    "LongName": "KRISPROLLS ger.brood volkoren 400g"
+  },
+  {
+    "gtin": "05412514936426",
+    "productId": "492581",
+    "name": "chia wraps 6st",
+    "technicalArticleNumber": "4036368",
+    "commercialArticleNumber": "5814",
+    "LongName": "POCO LOCO chia wraps 6st 370g"
+  },
+  {
+    "gtin": "05400141348552",
+    "productId": "212163",
+    "name": "gelei aalbessen 61%",
+    "description": "*61 vruchten",
+    "technicalArticleNumber": "3507548",
+    "commercialArticleNumber": "50572",
+    "LongName": "BONI gelei aalbessen 61% 370g"
+  },
+  {
+    "gtin": "05410018792029",
+    "productId": "96638",
+    "name": "chocopasta melk",
+    "technicalArticleNumber": "2799214",
+    "commercialArticleNumber": "8922",
+    "LongName": "KWATTA chocopasta melk 600g"
+  },
+  {
+    "gtin": "08719327044384",
+    "productId": "563176",
+    "name": "granola nuts&seeds",
+    "technicalArticleNumber": "4202599",
+    "commercialArticleNumber": "15584",
+    "LongName": "HOLIE granola nuts&seeds 350g"
+  },
+  {
+    "gtin": "05400141677706",
+    "productId": "787936",
+    "name": "freshpack speculoos",
+    "technicalArticleNumber": "4590668",
+    "commercialArticleNumber": "24435",
+    "LongName": "BONI freshpack speculoos 3x250g"
+  },
+  {
+    "gtin": "05400141766165",
+    "productId": "159",
+    "name": "muesli",
+    "description": "*Biologische muesli\nmet fruit en noten",
+    "technicalArticleNumber": "15063",
+    "commercialArticleNumber": "15063",
+    "LongName": "BONI BIO muesli 1kg"
+  },
+  {
+    "gtin": "08008698010853",
+    "productId": "110929",
+    "name": "brood wit Classic glutenvrij",
+    "description": "*Glutenvrij\n*Lactosevrij\n*Gesneden",
+    "technicalArticleNumber": "3095085",
+    "commercialArticleNumber": "42350",
+    "LongName": "SCHÄR brood wit Classic glutenvrij 300g"
+  },
+  {
+    "gtin": "08410076601414",
+    "productId": "346939",
+    "name": "crunchy haver&honing",
+    "description": "*Vegan\n*Volkoren",
+    "technicalArticleNumber": "3740503",
+    "commercialArticleNumber": "14173",
+    "LongName": "NATURE VALLEY crunchy haver&honing 210g"
+  },
+  {
+    "gtin": "17311070331421",
+    "productId": "10124",
+    "name": "volkoren zon.toeg.suiker",
+    "description": "*Zweedse broodjes,\nvolkoren\n*Zonder toegevoegde\nsuiker",
+    "technicalArticleNumber": "1384441",
+    "commercialArticleNumber": "15437",
+    "LongName": "KRISPROLLS volkoren zon.toeg.suiker 225g"
+  },
+  {
+    "gtin": "05050083542428",
+    "productId": "99141",
+    "name": "melkchocolade",
+    "description": "*Graankoekje gevuld met melkchocolade",
+    "technicalArticleNumber": "2806862",
+    "commercialArticleNumber": "13040",
+    "LongName": "KELLOGG'S TRÉSOR melkchocolade 1kg"
+  },
+  {
+    "gtin": "03608580070771",
+    "productId": "777755",
+    "name": "hazelnootpasta",
+    "technicalArticleNumber": "4570666",
+    "commercialArticleNumber": "20687",
+    "LongName": "BONNE MAMAN hazelnootpasta 360g"
+  },
+  {
+    "gtin": "15412514936911",
+    "productId": "671501",
+    "name": "veggie wrap rod.biet 25cm",
+    "technicalArticleNumber": "4384891",
+    "commercialArticleNumber": "24438",
+    "LongName": "POCO LOCO veggie wrap rod.biet 25cm 370g"
+  },
+  {
+    "gtin": "08710398503183",
+    "productId": "506183",
+    "name": "chunky bak.Original",
+    "description": "*Ideaal bij ontbijt\n*Ontbijtgranen\n*Havermout",
+    "technicalArticleNumber": "4080375",
+    "commercialArticleNumber": "7663",
+    "LongName": "QUAKER CRUESLI chunky bak.Original 450g"
+  },
+  {
+    "gtin": "05410038102112",
+    "productId": "1087",
+    "name": "honing vloeibaar squeeze",
+    "description": "*Vloeibaar",
+    "technicalArticleNumber": "16172",
+    "commercialArticleNumber": "16172",
+    "LongName": "MELI honing vloeibaar squeeze 450g"
+  },
+  {
+    "gtin": "05410046800918",
+    "productId": "779112",
+    "name": "confituur aardbei",
+    "technicalArticleNumber": "4573048",
+    "commercialArticleNumber": "28605",
+    "LongName": "NOSTALGIE confituur aardbei 265g"
+  },
+  {
+    "gtin": "05010477363510",
+    "productId": "857478",
+    "name": "Super Berry granola",
+    "technicalArticleNumber": "4707489",
+    "commercialArticleNumber": "31530",
+    "LongName": "JORDANS Super Berry granola 400g"
+  },
+  {
+    "gtin": "08710398164025",
+    "productId": "445206",
+    "name": "Cassonade",
+    "description": "*Ideaal bij ontbijt\n*Ontbijtgranen\n*Havermout\n*Suikersiroop smaak",
+    "technicalArticleNumber": "3980779",
+    "commercialArticleNumber": "3743",
+    "LongName": "QUAKER OATS EXPRESS Cassonade 360g"
+  },
+  {
+    "gtin": "05410383011015",
+    "productId": "1113",
+    "name": "peperkoek honing suiker",
+    "technicalArticleNumber": "16635",
+    "commercialArticleNumber": "16635",
+    "LongName": "VONDELMOLEN peperkoek honing suiker 500g"
+  },
+  {
+    "gtin": "05400141615371",
+    "productId": "851123",
+    "name": "Raw Bar chocolade",
+    "technicalArticleNumber": "4699056",
+    "commercialArticleNumber": "30923",
+    "LongName": "BONI Raw Bar chocolade 4x35g"
+  },
+  {
+    "gtin": "05400141332261",
+    "productId": "240774",
+    "name": "confituur aardbeien Maltitol",
+    "description": "*50 % fruit\n*met zoetstoffen",
+    "technicalArticleNumber": "3530271",
+    "commercialArticleNumber": "50670",
+    "LongName": "BONI confituur aardbeien Maltitol 440g"
+  },
+  {
+    "gtin": "07622202020049",
+    "productId": "250803",
+    "name": "Ontb.koek hon-cho-hazel",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3614285",
+    "commercialArticleNumber": "18962",
+    "LongName": "LU BELVITA Ontb.koek hon-cho-hazel 6x50g"
+  },
+  {
+    "gtin": "15400141806561",
+    "productId": "139308",
+    "name": "rice krisps",
+    "description": "*Gepofte\nrijstkorrels",
+    "technicalArticleNumber": "3183485",
+    "commercialArticleNumber": "43966",
+    "LongName": "BONI rice krisps 500g"
+  },
+  {
+    "gtin": "05400141929119",
+    "productId": "568247",
+    "name": "meerzaden beschuit",
+    "technicalArticleNumber": "4211779",
+    "commercialArticleNumber": "16447",
+    "LongName": "BONI meerzaden beschuit 230g"
+  },
+  {
+    "gtin": "05410038403004",
+    "productId": "12413",
+    "name": "honingkoek 10x2st",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1225451",
+    "commercialArticleNumber": "16650",
+    "LongName": "MELI honingkoek 10x2st 400g"
+  },
+  {
+    "gtin": "05400141148459",
+    "productId": "162",
+    "name": "Tartinettes fondantchocolade",
+    "description": "*Rijstwafel,\nvierkant, met pure\nchocolade",
+    "technicalArticleNumber": "15109",
+    "commercialArticleNumber": "15109",
+    "LongName": "BOSTO Tartinettes fondantchocolade 90g"
+  },
+  {
+    "gtin": "05010029000023",
+    "productId": "11147",
+    "name": "Original volkoren tarwe",
+    "description": "*Volkoren\ntarwekoeken",
+    "technicalArticleNumber": "1405150",
+    "commercialArticleNumber": "15014",
+    "LongName": "WEETABIX Original volkoren tarwe 430g"
+  },
+  {
+    "gtin": "00000025150940",
+    "productId": "161",
+    "name": "koeken amandel-abrikoos",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "15094",
+    "commercialArticleNumber": "15094",
+    "LongName": "LU GRANY koeken amandel-abrikoos 6x32,5g"
+  },
+  {
+    "gtin": "05013803991982",
+    "productId": "348926",
+    "name": "eiwit packed 3x45g GV",
+    "description": "*Rijk aan vezels\n*Bron van eiwitten\n*Glutenvrij",
+    "technicalArticleNumber": "3869906",
+    "commercialArticleNumber": "16181",
+    "LongName": "EAT NATURAL eiwit packed 3x45g GV 135g"
+  },
+  {
+    "gtin": "07622210444141",
+    "productId": "206939",
+    "name": "Soft Baked choc.stukjes",
+    "technicalArticleNumber": "3515556",
+    "commercialArticleNumber": "50609",
+    "LongName": "LU BELVITA Soft Baked choc.stukjes 5x50g"
+  },
+  {
+    "gtin": "15400141929109",
+    "productId": "9622",
+    "name": "toast melba sesam",
+    "description": "*Toast, rechthoekig,\n7% sesamzaadjes\n*Vershoudzakjes\n5x6 stuks",
+    "technicalArticleNumber": "1123570",
+    "commercialArticleNumber": "15431",
+    "LongName": "BONI BIO toast melba sesam 5x6st"
+  },
+  {
+    "gtin": "25410041430503",
+    "productId": "1080",
+    "name": "cracker sesam",
+    "description": "*Cracker, sesam,\nrechthoekig\n*10 vershoudzakjes",
+    "technicalArticleNumber": "15951",
+    "commercialArticleNumber": "15951",
+    "LongName": "LU PAROVITA cracker sesam 330g"
+  },
+  {
+    "gtin": "05059319022352",
+    "productId": "854566",
+    "name": "Original",
+    "technicalArticleNumber": "4703592",
+    "commercialArticleNumber": "31266",
+    "LongName": "KELLOGG'S EXTRA Original 375g"
+  },
+  {
+    "gtin": "05410041145700",
+    "productId": "26833",
+    "name": "beschuit 6granen",
+    "description": "*Beschuiten,\nvierkant, meergranen\n*Met 93 % granen",
+    "technicalArticleNumber": "1979522",
+    "commercialArticleNumber": "15325",
+    "LongName": "LU HEUDEBERT beschuit 6granen 300g"
+  },
+  {
+    "gtin": "05400141154351",
+    "productId": "10660",
+    "name": "reep pure choc.",
+    "description": "*Graanreep met 15%\nchocoladekorrels\n*Rijk aan vezels",
+    "technicalArticleNumber": "1396255",
+    "commercialArticleNumber": "15435",
+    "LongName": "SPECIAL K reep pure choc. 6st"
+  },
+  {
+    "gtin": "08718247442676",
+    "productId": "811035",
+    "name": "m.griss.wave par.kaas",
+    "description": "*Grissini met\nparmezaanse kaas\n& zout\n*Eindejaars-\nassortiment",
+    "technicalArticleNumber": "4635760",
+    "commercialArticleNumber": "4611",
+    "LongName": "DELI DI PAOLO m.griss.wave par.kaas 150g"
+  },
+  {
+    "gtin": "05410041371000",
+    "productId": "38989",
+    "name": "Ontbijtkoek mul.granen",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1675044",
+    "commercialArticleNumber": "21101",
+    "LongName": "LU BELVITA Ontbijtkoek mul.granen 15st"
+  },
+  {
+    "gtin": "05900020016195",
+    "productId": "869929",
+    "name": "cereal",
+    "technicalArticleNumber": "4723376",
+    "commercialArticleNumber": "20466",
+    "LongName": "NESTLÉ NESQUIK cereal 450g"
+  },
+  {
+    "gtin": "05410003000658",
+    "productId": "1083",
+    "name": "chocopasta hazelnoot",
+    "description": "*13 % hazelnoten",
+    "technicalArticleNumber": "16060",
+    "commercialArticleNumber": "16060",
+    "LongName": "BECEL chocopasta hazelnoot 350g"
+  },
+  {
+    "gtin": "07622210100580",
+    "productId": "99493",
+    "name": "geroosterd brood",
+    "description": "*Sneetjes geroosterd tarwebrood\n*Met 97 % granen",
+    "technicalArticleNumber": "2916152",
+    "commercialArticleNumber": "34012",
+    "LongName": "LU HEUDEBERT geroosterd brood 500g"
+  },
+  {
+    "gtin": "05410059033143",
+    "productId": "51264",
+    "name": "hagelslag puur",
+    "description": "*Minstens 44 %\ncacaobestanddelen",
+    "technicalArticleNumber": "2304015",
+    "commercialArticleNumber": "2515",
+    "LongName": "JACQUES hagelslag puur 350g"
+  },
+  {
+    "gtin": "05400141698411",
+    "productId": "1020475",
+    "name": "Tompaas",
+    "technicalArticleNumber": "4789340",
+    "commercialArticleNumber": "12566",
+    "LongName": "BONI Tompaas 2st"
+  },
+  {
+    "gtin": "05411146223195",
+    "productId": "106980",
+    "name": "chocopasta puur sv",
+    "description": "*Met zoetstoffen:\nmaltitol",
+    "technicalArticleNumber": "3109025",
+    "commercialArticleNumber": "40247",
+    "LongName": "BOERINNEKE chocopasta puur sv 400g"
+  },
+  {
+    "gtin": "05410724600137",
+    "productId": "640415",
+    "name": "witgrof",
+    "description": "*Een zachtwitte\nkruim en een vleugje\ngeplette volkoren",
+    "technicalArticleNumber": "4333329",
+    "commercialArticleNumber": "15256",
+    "LongName": "BOERKENS' witgrof 600g"
+  },
+  {
+    "gtin": "05410046000189",
+    "productId": "1089",
+    "name": "confituur aardbei-rabarber",
+    "description": "*50 % vruchten",
+    "technicalArticleNumber": "16279",
+    "commercialArticleNumber": "16279",
+    "LongName": "MATERNE confituur aardbei-rabarber 450g"
+  },
+  {
+    "gtin": "15400141756521",
+    "productId": "885794",
+    "name": "Soirees",
+    "technicalArticleNumber": "4744839",
+    "commercialArticleNumber": "32630",
+    "LongName": "BONI Soirees 4x2st"
+  },
+  {
+    "gtin": "15412514931114",
+    "productId": "112697",
+    "name": "tortillas maïs 8st",
+    "description": "*8 tortilla's o.b.v.\ntarwe en maïs",
+    "technicalArticleNumber": "3049083",
+    "commercialArticleNumber": "22869",
+    "LongName": "POCO LOCO tortillas maïs 8st 320g"
+  },
+  {
+    "gtin": "15400141846574",
+    "productId": "831020",
+    "name": "vloeibare honing",
+    "description": "*Vloeibaar",
+    "technicalArticleNumber": "4670835",
+    "commercialArticleNumber": "7014",
+    "LongName": "BONI BIO vloeibare honing 250g"
+  },
+  {
+    "gtin": "15410126301530",
+    "productId": "887215",
+    "name": "peperkoek minder suiker",
+    "technicalArticleNumber": "4746527",
+    "commercialArticleNumber": "32753",
+    "LongName": "LOTUS peperkoek minder suiker 455g"
+  },
+  {
+    "gtin": "05059319024349",
+    "productId": "854535",
+    "name": "rode vruchten",
+    "description": "*Met 4,5% rode vruchten\n*Rijk aan vezels",
+    "technicalArticleNumber": "4703547",
+    "commercialArticleNumber": "31256",
+    "LongName": "SPECIAL K rode vruchten 450g"
+  },
+  {
+    "gtin": "03017760472890",
+    "productId": "13570",
+    "name": "Ontbijt choc.stukjes",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1616696",
+    "commercialArticleNumber": "22951",
+    "LongName": "LU BELVITA Ontbijt choc.stukjes 6x50g"
+  },
+  {
+    "gtin": "05400141477887",
+    "productId": "630494",
+    "name": "naanbrood mini 4st",
+    "technicalArticleNumber": "4316021",
+    "commercialArticleNumber": "8495",
+    "LongName": "BONI naanbrood mini 4st 280g"
+  },
+  {
+    "gtin": "03608589916698",
+    "productId": "378635",
+    "name": "intense framboos",
+    "technicalArticleNumber": "3843874",
+    "commercialArticleNumber": "51295",
+    "LongName": "BONNE MAMAN intense framboos 335g"
+  },
+  {
+    "gtin": "15010477363425",
+    "productId": "857411",
+    "name": "chocolate&hazelnut granola",
+    "description": "*Met 16% pure chocolade\n*Met 6% hazelnoten",
+    "technicalArticleNumber": "4707393",
+    "commercialArticleNumber": "31502",
+    "LongName": "JORDANS chocolate&hazelnut granola 400g"
+  },
+  {
+    "gtin": "05411146536721",
+    "productId": "15268",
+    "name": "chocopasta puur",
+    "technicalArticleNumber": "1597101",
+    "commercialArticleNumber": "16021",
+    "LongName": "BOERINNEKE chocopasta puur 1kg"
+  },
+  {
+    "gtin": "05410461450200",
+    "productId": "1097",
+    "name": "siroop luik met fruit",
+    "description": "*Bereid met 726g\nvruchten per 100g\nstroop",
+    "technicalArticleNumber": "16457",
+    "commercialArticleNumber": "16457",
+    "LongName": "LAMBERT siroop luik met fruit 450g"
+  },
+  {
+    "gtin": "07622201748241",
+    "productId": "851512",
+    "name": "bake rolls tomaat&olijf",
+    "technicalArticleNumber": "4699577",
+    "commercialArticleNumber": "30955",
+    "LongName": "TUC bake rolls tomaat&olijf 150g"
+  },
+  {
+    "gtin": "15400141793168",
+    "productId": "833548",
+    "name": "speltcracker lijnza.-zonneblo.",
+    "description": "*Speltcracker\n*Met lijnzaad en\n*Zonnebloempitten\n*Vershoudzakjes 3x4stuks",
+    "technicalArticleNumber": "4674924",
+    "commercialArticleNumber": "3685",
+    "LongName": "BONI speltcracker lijnza.-zonneblo. 175g"
+  },
+  {
+    "gtin": "05400141154429",
+    "productId": "26830",
+    "name": "graanr.melkchoc.",
+    "description": "*Graanreep met\nmelkchocolade\n*Rijk aan vezels",
+    "technicalArticleNumber": "1979438",
+    "commercialArticleNumber": "15442",
+    "LongName": "SPECIAL K graanr.melkchoc. 6st"
+  },
+  {
+    "gtin": "05010477363435",
+    "productId": "857422",
+    "name": "fruit&nut granola",
+    "description": "*Met 17% gedroogd fruit",
+    "technicalArticleNumber": "4707409",
+    "commercialArticleNumber": "31506",
+    "LongName": "JORDANS fruit&nut granola 700g"
+  },
+  {
+    "gtin": "07622200253760",
+    "productId": "6108",
+    "name": "chocopasta melk",
+    "description": "*6 % magere\ncacaopoeder",
+    "technicalArticleNumber": "1161512",
+    "commercialArticleNumber": "16081",
+    "LongName": "CÔTE D'OR chocopasta melk 300g"
+  },
+  {
+    "gtin": "15400141342984",
+    "productId": "35217",
+    "name": "hazelnootpasta UTZ",
+    "description": "*7 % magere\ncacaopoeder\n*13 % hazelnoten",
+    "technicalArticleNumber": "1861490",
+    "commercialArticleNumber": "16003",
+    "LongName": "BONI hazelnootpasta UTZ 200g"
+  },
+  {
+    "gtin": "08720256082378",
+    "productId": "864943",
+    "name": "Crunchy Muesli Chocolate",
+    "technicalArticleNumber": "4716982",
+    "commercialArticleNumber": "1849",
+    "LongName": "HOLIE Crunchy Muesli Chocolate 400g"
+  },
+  {
+    "gtin": "65400141472075",
+    "productId": "854574",
+    "name": "rode vruchten",
+    "description": "*Met 3% rode vruchten",
+    "technicalArticleNumber": "4703605",
+    "commercialArticleNumber": "31270",
+    "LongName": "KELLOGG'S EXTRA rode vruchten 375g"
+  },
+  {
+    "gtin": "08715700119182",
+    "productId": "698059",
+    "name": "hagelslag puur",
+    "technicalArticleNumber": "4428948",
+    "commercialArticleNumber": "3138",
+    "LongName": "KWATTA hagelslag puur 390g"
+  },
+  {
+    "gtin": "03256540002944",
+    "productId": "869700",
+    "name": "melkbroodje",
+    "technicalArticleNumber": "4723073",
+    "commercialArticleNumber": "19595",
+    "LongName": "PASQUIER melkbroodje 8x35g"
+  },
+  {
+    "gtin": "05400141604528",
+    "productId": "51498",
+    "name": "pitabroodjes 2x4st",
+    "description": "*2 minuten in de\noven",
+    "technicalArticleNumber": "2401730",
+    "commercialArticleNumber": "9484",
+    "LongName": "BONI BIO pitabroodjes 2x4st 500g"
+  },
+  {
+    "gtin": "15410059068159",
+    "productId": "51262",
+    "name": "hagelslag melkchocolade",
+    "description": "*Minstens 27 %\ncacaobestanddelen",
+    "technicalArticleNumber": "2304013",
+    "commercialArticleNumber": "1979",
+    "LongName": "JACQUES hagelslag melkchocolade 350g"
+  },
+  {
+    "gtin": "08715700119175",
+    "productId": "698051",
+    "name": "hagelslag melkchocolade",
+    "technicalArticleNumber": "4428940",
+    "commercialArticleNumber": "3088",
+    "LongName": "KWATTA hagelslag melkchocolade 390g"
+  },
+  {
+    "gtin": "05010029229691",
+    "productId": "882551",
+    "name": "Crispy Minis Choco",
+    "technicalArticleNumber": "4740525",
+    "commercialArticleNumber": "12818",
+    "LongName": "WEETABIX Crispy Minis Choco 500g"
+  },
+  {
+    "gtin": "05400141037333",
+    "productId": "458334",
+    "name": "confituur aardbei-rabarber",
+    "technicalArticleNumber": "3953503",
+    "commercialArticleNumber": "1972",
+    "LongName": "BONI confituur aardbei-rabarber 370g"
+  },
+  {
+    "gtin": "03608580047735",
+    "productId": "699151",
+    "name": "intense rabarber",
+    "technicalArticleNumber": "4430815",
+    "commercialArticleNumber": "11239",
+    "LongName": "BONNE MAMAN intense rabarber 335g"
+  },
+  {
+    "gtin": "07311070361742",
+    "productId": "21872",
+    "name": "ger.brood goudgeel",
+    "description": "*Zweedse broodjes,\ngoudgeel",
+    "technicalArticleNumber": "2238478",
+    "commercialArticleNumber": "15054",
+    "LongName": "KRISPROLLS ger.brood goudgeel 400g"
+  },
+  {
+    "gtin": "05400141383782",
+    "productId": "182258",
+    "name": "Soft Baked rode vrucht",
+    "technicalArticleNumber": "3347632",
+    "commercialArticleNumber": "33157",
+    "LongName": "LU BELVITA Soft Baked rode vrucht 5x50g"
+  },
+  {
+    "gtin": "05410038101252",
+    "productId": "1086",
+    "name": "honing vast",
+    "description": "*Vast",
+    "technicalArticleNumber": "16171",
+    "commercialArticleNumber": "16171",
+    "LongName": "MELI honing vast 700g"
+  },
+  {
+    "gtin": "05410986132032",
+    "productId": "83266",
+    "name": "confituur sinaasappel Bio",
+    "description": "*50 % vruchten",
+    "technicalArticleNumber": "2946074",
+    "commercialArticleNumber": "38725",
+    "LongName": "PUR NATUR confituur sinaasappel Bio 450g"
+  },
+  {
+    "gtin": "03608589916704",
+    "productId": "377292",
+    "name": "intense kersen",
+    "technicalArticleNumber": "3843849",
+    "commercialArticleNumber": "51297",
+    "LongName": "BONNE MAMAN intense kersen 335g"
+  },
+  {
+    "gtin": "05400141043365",
+    "productId": "1110",
+    "name": "honingkoek",
+    "technicalArticleNumber": "16601",
+    "commercialArticleNumber": "16601",
+    "LongName": "BONI BIO honingkoek 300g"
+  },
+  {
+    "gtin": "05053827110686",
+    "productId": "413572",
+    "name": "froot loops unicorn",
+    "technicalArticleNumber": "3931246",
+    "commercialArticleNumber": "15722",
+    "LongName": "KELLOGG'S froot loops unicorn 375g"
+  },
+  {
+    "gtin": "65410028623407",
+    "productId": "33444",
+    "name": "beschuit rond volkoren",
+    "description": "*Krokant en luchtig\n*Bron van vezels\n*Gemakkelijk uit\nte nemen\n*Zonder bewaarmiddel",
+    "technicalArticleNumber": "1777379",
+    "commercialArticleNumber": "15228",
+    "LongName": "ANCO beschuit rond volkoren 150g"
+  },
+  {
+    "gtin": "07622201748227",
+    "productId": "851518",
+    "name": "bake rolls zeezout",
+    "technicalArticleNumber": "4699584",
+    "commercialArticleNumber": "30957",
+    "LongName": "TUC bake rolls zeezout 150g"
+  },
+  {
+    "gtin": "05410046800987",
+    "productId": "779029",
+    "name": "confituur zwarte kersen",
+    "technicalArticleNumber": "4572911",
+    "commercialArticleNumber": "28594",
+    "LongName": "NOSTALGIE confituur zwarte kersen 265g"
+  },
+  {
+    "gtin": "05410986073175",
+    "productId": "47677",
+    "name": "confituur aardbei Bio",
+    "description": "*50 % vruchten",
+    "technicalArticleNumber": "2485318",
+    "commercialArticleNumber": "38397",
+    "LongName": "PUR NATUR confituur aardbei Bio 450g"
+  },
+  {
+    "gtin": "05411128200015",
+    "productId": "1527",
+    "name": "speculoos voltarwe",
+    "technicalArticleNumber": "21527",
+    "commercialArticleNumber": "21527",
+    "LongName": "VERMEIREN speculoos voltarwe 2x162,5g"
+  },
+  {
+    "gtin": "08052575090377",
+    "productId": "859250",
+    "name": "cacao&hazelnootpasta Bio",
+    "description": "*Hazelnootpasta met cacao\n*Met zonnebloemolie",
+    "technicalArticleNumber": "4709654",
+    "commercialArticleNumber": "31814",
+    "LongName": "NOCCIOLATA cacao&hazelnootpasta Bio 325g"
+  },
+  {
+    "gtin": "03159470204429",
+    "productId": "10659",
+    "name": "graanr. r.vrucht",
+    "description": "*Graanreep met rode\nvruchten\n*Rijk aan vezels",
+    "technicalArticleNumber": "1396247",
+    "commercialArticleNumber": "15434",
+    "LongName": "SPECIAL K graanr. r.vrucht 6st"
+  },
+  {
+    "gtin": "05400141462982",
+    "productId": "168849",
+    "name": "rijstwafel provence",
+    "description": "*Rijstwafel, rond,\nmet provencaalse\nkruiden",
+    "technicalArticleNumber": "3399276",
+    "commercialArticleNumber": "13513",
+    "LongName": "BOSTO rijstwafel provence 130g"
+  },
+  {
+    "gtin": "15400141710158",
+    "productId": "869705",
+    "name": "Cheesecake 2p",
+    "description": "*Cheesecake naturel\n*Bodem van zanddeeg",
+    "technicalArticleNumber": "4723080",
+    "commercialArticleNumber": "19687",
+    "LongName": "BONI Cheesecake 2p 350g"
+  },
+  {
+    "gtin": "04033634300549",
+    "productId": "851144",
+    "name": "Crackers Classic 3-zaden",
+    "description": "*Volkoren crackers\n*Spelt, haver, bloem\n*Pompoenzaden,\nsesamzaad en lijnzaad",
+    "technicalArticleNumber": "4699086",
+    "commercialArticleNumber": "30927",
+    "LongName": "DR. KARG'S Crackers Classic 3-zaden 200g"
+  },
+  {
+    "gtin": "05410986073427",
+    "productId": "182761",
+    "name": "confituur bosbessen Bio",
+    "technicalArticleNumber": "3373426",
+    "commercialArticleNumber": "4689",
+    "LongName": "PUR NATUR confituur bosbessen Bio 450g"
+  },
+  {
+    "gtin": "08720256082323",
+    "productId": "855586",
+    "name": "granola low carb",
+    "description": "*Geroosterde granen\n*Amandelen, soja,\npinda en zaden",
+    "technicalArticleNumber": "4704735",
+    "commercialArticleNumber": "31342",
+    "LongName": "HOLIE granola low carb 350g"
+  },
+  {
+    "gtin": "05010029227062",
+    "productId": "773712",
+    "name": "Oreo O's",
+    "description": "*mix krokante ringetjes en\n*knapperige vanilleschijfjes\n*typische smaak van oreo\n*verrijkt met vitaminen en ijzer",
+    "technicalArticleNumber": "4562427",
+    "commercialArticleNumber": "28496",
+    "LongName": "WEETABIX Oreo O's 350g"
+  },
+  {
+    "gtin": "03029330500056",
+    "productId": "1028913",
+    "name": "Boter croissant 4st",
+    "technicalArticleNumber": "4793659",
+    "commercialArticleNumber": "35834",
+    "LongName": "JACQUET Boter croissant 4st 180g"
+  },
+  {
+    "gtin": "15400141445487",
+    "productId": "735817",
+    "name": "confituur aardbei 50%",
+    "technicalArticleNumber": "4497266",
+    "commercialArticleNumber": "22286",
+    "LongName": "BONI BIO confituur aardbei 50% 330g"
+  },
+  {
+    "gtin": "05390691017919",
+    "productId": "578660",
+    "name": "pean.caram.vitami&protein bar",
+    "technicalArticleNumber": "4229134",
+    "commercialArticleNumber": "10281",
+    "LongName": "FULFIL pean.caram.vitami&protein bar 55g"
+  },
+  {
+    "gtin": "08445290728791",
+    "productId": "869437",
+    "name": "Kit Kat",
+    "description": "*Melkchocolade\n*Volkorengranen",
+    "technicalArticleNumber": "4722771",
+    "commercialArticleNumber": "18148",
+    "LongName": "NESTLÉ Kit Kat 330g"
+  },
+  {
+    "gtin": "03608580047773",
+    "productId": "710197",
+    "name": "intense rode vruchten",
+    "technicalArticleNumber": "4450803",
+    "commercialArticleNumber": "26458",
+    "LongName": "BONNE MAMAN intense rode vruchten 335g"
+  },
+  {
+    "gtin": "07613033472893",
+    "productId": "55912",
+    "name": "ontbijtgranen",
+    "description": "*Granen met\nkoekjessmaak en\nchocoladestukjes",
+    "technicalArticleNumber": "2267645",
+    "commercialArticleNumber": "8954",
+    "LongName": "NESTLÉ COOKIE CRISP ontbijtgranen 375g"
+  },
+  {
+    "gtin": "08410076611277",
+    "productId": "866660",
+    "name": "Granenb.ch.en cranb.",
+    "description": "*Met chocolade en\n*Cranberries",
+    "technicalArticleNumber": "4719045",
+    "commercialArticleNumber": "8489",
+    "LongName": "NATURE VALLEY Granenb.ch.en cranb. 4x40g"
+  },
+  {
+    "gtin": "03387390414660",
+    "productId": "14536",
+    "name": "graanreep chocolade",
+    "description": "*Graanreep met volle\ntarwe en chocolade\n*Rijk aan vezels\n*Volkoren",
+    "technicalArticleNumber": "1610649",
+    "commercialArticleNumber": "15463",
+    "LongName": "NESTLÉ FITNESS graanreep chocolade 6st"
+  },
+  {
+    "gtin": "05400141331820",
+    "productId": "240157",
+    "name": "confituur abrikozen Maltitol",
+    "description": "*50 % fruit\n*Met zoetstoffen",
+    "technicalArticleNumber": "3530227",
+    "commercialArticleNumber": "50668",
+    "LongName": "BONI confituur abrikozen Maltitol 440g"
+  },
+  {
+    "gtin": "05410046000165",
+    "productId": "3712",
+    "name": "confituur pruimen",
+    "description": "*50 % vruchten",
+    "technicalArticleNumber": "1003556",
+    "commercialArticleNumber": "16278",
+    "LongName": "MATERNE confituur pruimen 450g"
+  },
+  {
+    "gtin": "05391532121710",
+    "productId": "578604",
+    "name": "Salt.caram.vitami&protein bar",
+    "technicalArticleNumber": "4229078",
+    "commercialArticleNumber": "9437",
+    "LongName": "FULFIL Salt.caram.vitami&protein bar 55g"
+  },
+  {
+    "gtin": "05410046000059",
+    "productId": "1088",
+    "name": "gelei aalbessen",
+    "description": "*50 % vruchten",
+    "technicalArticleNumber": "16276",
+    "commercialArticleNumber": "16276",
+    "LongName": "MATERNE gelei aalbessen 450g"
+  },
+  {
+    "gtin": "05059319027210",
+    "productId": "878593",
+    "name": "Rice Krispies",
+    "technicalArticleNumber": "4734838",
+    "commercialArticleNumber": "18480",
+    "LongName": "KELLOGG'S Rice Krispies 660g"
+  },
+  {
+    "gtin": "05410046805104",
+    "productId": "13605",
+    "name": "confituur abrikozen",
+    "description": "*50 % vruchten",
+    "technicalArticleNumber": "1336877",
+    "commercialArticleNumber": "16283",
+    "LongName": "MATERNE confituur abrikozen 720g"
+  },
+  {
+    "gtin": "03387390406719",
+    "productId": "12385",
+    "name": "graanreep",
+    "description": "*Graanreep met\nchocoladepoeder en\nmelk",
+    "technicalArticleNumber": "1329016",
+    "commercialArticleNumber": "15428",
+    "LongName": "NESTLÉ NESQUIK graanreep 6x25g"
+  },
+  {
+    "gtin": "15400141366652",
+    "productId": "586269",
+    "name": "hazelnootpasta zonder suiker",
+    "description": "*8.5%mag.cacaopoeder\n*minimaal 7%\ncacaobestanddelen\n*12.5% hazelnoten\n*bevat palmolie",
+    "technicalArticleNumber": "4242367",
+    "commercialArticleNumber": "19684",
+    "LongName": "BONI hazelnootpasta zonder suiker 300g"
+  },
+  {
+    "gtin": "05400141211962",
+    "productId": "14600",
+    "name": "koeken appel en granen",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1576595",
+    "commercialArticleNumber": "21196",
+    "LongName": "LU GRANY koeken appel en granen 6x28,5g"
+  },
+  {
+    "gtin": "05425036871151",
+    "productId": "861128",
+    "name": "notenreep deluxe Bio",
+    "technicalArticleNumber": "4712143",
+    "commercialArticleNumber": "19586",
+    "LongName": "NUTS&BERRIES notenreep deluxe Bio 3x30g"
+  },
+  {
+    "gtin": "05411146260398",
+    "productId": "53247",
+    "name": "chocopasta hazelnoot",
+    "description": "*13 % hazelnoten",
+    "technicalArticleNumber": "2254114",
+    "commercialArticleNumber": "4709",
+    "LongName": "BOERINNEKE chocopasta hazelnoot 400g"
+  },
+  {
+    "gtin": "08710742112009",
+    "productId": "16286",
+    "name": "siroop peer-appel-dadel",
+    "description": "*Bereid met 400g\nvruchten per 100g\nstroop",
+    "technicalArticleNumber": "1449343",
+    "commercialArticleNumber": "16062",
+    "LongName": "LAMBERT siroop peer-appel-dadel 450g"
+  },
+  {
+    "gtin": "07613287514325",
+    "productId": "869924",
+    "name": "Original",
+    "description": "*Volle tarwevlokken",
+    "technicalArticleNumber": "4723371",
+    "commercialArticleNumber": "20230",
+    "LongName": "NESTLÉ FITNESS Original 475g"
+  },
+  {
+    "gtin": "07622210547170",
+    "productId": "665650",
+    "name": "chocolade reep hazelnoot",
+    "technicalArticleNumber": "4374299",
+    "commercialArticleNumber": "24198",
+    "LongName": "BELVITA chocolade reep hazelnoot 160g"
+  },
+  {
+    "gtin": "05410106095766",
+    "productId": "347993",
+    "name": "rice&corn paprika chips",
+    "description": "Lekker en knapperig. 70% minder vet da\naardappelchips, gepoft ipv gebakken of\ngefrituurd. Ideaal voor de bewuste le\nvensgenieter.\n*Arm aan verzadigde vetten",
+    "technicalArticleNumber": "3868173",
+    "commercialArticleNumber": "14117",
+    "LongName": "BOSTO rice&corn paprika chips 50g"
+  },
+  {
+    "gtin": "05400141237542",
+    "productId": "477139",
+    "name": "ontbijtgranen chocolade GV",
+    "description": "*Glutenvrij",
+    "technicalArticleNumber": "4017895",
+    "commercialArticleNumber": "5065",
+    "LongName": "BONI ontbijtgranen chocolade GV 450g"
+  },
+  {
+    "gtin": "05010477363633",
+    "productId": "858203",
+    "name": "de Luxe",
+    "description": "*Granenmengeling met\nfruit en noten",
+    "technicalArticleNumber": "4708561",
+    "commercialArticleNumber": "31642",
+    "LongName": "JORDANS de Luxe 800g"
+  },
+  {
+    "gtin": "05410046000141",
+    "productId": "56953",
+    "name": "confituur rabarber",
+    "description": "*50 % vruchten",
+    "technicalArticleNumber": "2328981",
+    "commercialArticleNumber": "18589",
+    "LongName": "MATERNE confituur rabarber 450g"
+  },
+  {
+    "gtin": "05059319031286",
+    "productId": "1020479",
+    "name": "Tresor Roulette",
+    "technicalArticleNumber": "4789344",
+    "commercialArticleNumber": "13065",
+    "LongName": "KELLOGG'S TRÉSOR Tresor Roulette 375g"
+  },
+  {
+    "gtin": "05059319030401",
+    "productId": "1018045",
+    "name": "Coco Pops Loops",
+    "description": "*Ontbijtgranen",
+    "technicalArticleNumber": "4788856",
+    "commercialArticleNumber": "9664",
+    "LongName": "KELLOGG'S Coco Pops Loops 285g"
+  },
+  {
+    "gtin": "05410046000516",
+    "productId": "779116",
+    "name": "confituur abrikoos",
+    "technicalArticleNumber": "4573052",
+    "commercialArticleNumber": "28609",
+    "LongName": "NOSTALGIE confituur abrikoos 265g"
+  },
+  {
+    "gtin": "25410046995557",
+    "productId": "13606",
+    "name": "confituur 4 vruchten",
+    "description": "*50 % vruchten",
+    "technicalArticleNumber": "1336878",
+    "commercialArticleNumber": "16285",
+    "LongName": "MATERNE confituur 4 vruchten 720g"
+  },
+  {
+    "gtin": "08720256082408",
+    "productId": "864960",
+    "name": "Crunchy Muesli Protein",
+    "technicalArticleNumber": "4716999",
+    "commercialArticleNumber": "1884",
+    "LongName": "HOLIE Crunchy Muesli Protein 400g"
+  },
+  {
+    "gtin": "05425026054373",
+    "productId": "783517",
+    "name": "speculoos",
+    "technicalArticleNumber": "4581903",
+    "commercialArticleNumber": "6219",
+    "LongName": "CRUMBEL speculoos 260g"
+  },
+  {
+    "gtin": "05410986073212",
+    "productId": "47670",
+    "name": "confituur 4 vruchten Bio",
+    "description": "*50 % vruchten",
+    "technicalArticleNumber": "2485278",
+    "commercialArticleNumber": "38398",
+    "LongName": "PUR NATUR confituur 4 vruchten Bio 450g"
+  },
+  {
+    "gtin": "05410046070199",
+    "productId": "9937",
+    "name": "confituur aardbei-framboos",
+    "description": "*50 % vruchten",
+    "technicalArticleNumber": "1402399",
+    "commercialArticleNumber": "16372",
+    "LongName": "MATERNE confituur aardbei-framboos 450g"
+  },
+  {
+    "gtin": "05410986073366",
+    "productId": "82674",
+    "name": "confituur frambozen Bio",
+    "description": "*50 % vruchten",
+    "technicalArticleNumber": "2946037",
+    "commercialArticleNumber": "38722",
+    "LongName": "PUR NATUR confituur frambozen Bio 450g"
+  },
+  {
+    "gtin": "07622210771049",
+    "productId": "848894",
+    "name": "Moelleux Aardbei",
+    "technicalArticleNumber": "4696236",
+    "commercialArticleNumber": "30731",
+    "LongName": "BELVITA Moelleux Aardbei 5x50g"
+  },
+  {
+    "gtin": "08001505005103",
+    "productId": "725535",
+    "name": "wild.blauwe bessen Bio",
+    "technicalArticleNumber": "4479271",
+    "commercialArticleNumber": "12910",
+    "LongName": "FIORDIFRUTTA wild.blauwe bessen Bio 250g"
+  },
+  {
+    "gtin": "15010477363548",
+    "productId": "857484",
+    "name": "Super Nutty granola",
+    "technicalArticleNumber": "4707495",
+    "commercialArticleNumber": "31535",
+    "LongName": "JORDANS Super Nutty granola 400g"
+  },
+  {
+    "gtin": "05013803000509",
+    "productId": "709286",
+    "name": "prot.salted caramel",
+    "technicalArticleNumber": "4448942",
+    "commercialArticleNumber": "26346",
+    "LongName": "EAT NATURAL prot.salted caramel 3x45g"
+  },
+  {
+    "gtin": "06111184001104",
+    "productId": "686204",
+    "name": "vijgen confituur",
+    "technicalArticleNumber": "4409295",
+    "commercialArticleNumber": "24907",
+    "LongName": "EL BARAKA vijgen confituur 430g"
+  },
+  {
+    "gtin": "07613033577512",
+    "productId": "35961",
+    "name": "Duo",
+    "description": "*Graanknikkers met\nchocoladesmaak,\ngraanknikkers met\nwitte chocolade",
+    "technicalArticleNumber": "1863752",
+    "commercialArticleNumber": "15161",
+    "LongName": "NESTLÉ NESQUIK Duo 325g"
+  },
+  {
+    "gtin": "03609200011013",
+    "productId": "816321",
+    "name": "rice cracker paprika",
+    "description": "*Glutenvrij",
+    "technicalArticleNumber": "4645296",
+    "commercialArticleNumber": "24271",
+    "LongName": "N.A! rice cracker paprika 85g"
+  },
+  {
+    "gtin": "08001505005042",
+    "productId": "872315",
+    "name": "aardbei-wilde aard.bio",
+    "technicalArticleNumber": "4726552",
+    "commercialArticleNumber": "18341",
+    "LongName": "FIORDIFRUTTA aardbei-wilde aard.bio 250g"
+  },
+  {
+    "gtin": "65419980021856",
+    "productId": "308844",
+    "name": "granola Caramel Almond&Pecan",
+    "technicalArticleNumber": "3749381",
+    "commercialArticleNumber": "14813",
+    "LongName": "BAMBOO granola Caramel Almond&Pecan 350g"
+  },
+  {
+    "gtin": "08710649121180",
+    "productId": "759672",
+    "name": "melba toast xl natu.",
+    "technicalArticleNumber": "4537375",
+    "commercialArticleNumber": "28269",
+    "LongName": "VAN DER MEULEN melba toast xl natu. 200g"
+  },
+  {
+    "gtin": "15400141797418",
+    "productId": "240781",
+    "name": "confituur 4-vruchten Maltitol",
+    "description": "*50 % fruit\n*Met zoetstoffen",
+    "technicalArticleNumber": "3530278",
+    "commercialArticleNumber": "50671",
+    "LongName": "BONI confituur 4-vruchten Maltitol 440g"
+  },
+  {
+    "gtin": "15400141963561",
+    "productId": "726545",
+    "name": "confituur abrikoos 50%",
+    "technicalArticleNumber": "4481247",
+    "commercialArticleNumber": "16589",
+    "LongName": "BONI BIO confituur abrikoos 50% 330g"
+  },
+  {
+    "gtin": "03609200010054",
+    "productId": "815883",
+    "name": "rice cracker sea salt",
+    "technicalArticleNumber": "4644722",
+    "commercialArticleNumber": "22267",
+    "LongName": "N.A! rice cracker sea salt 85g"
+  },
+  {
+    "gtin": "05000127077225",
+    "productId": "37",
+    "name": "Fruit'n Fibre",
+    "description": "*Volkoren\ntarwevlokken met\nfruit",
+    "technicalArticleNumber": "15003",
+    "commercialArticleNumber": "15003",
+    "LongName": "KELLOGG'S ALL-BRAN Fruit'n Fibre 500g"
+  },
+  {
+    "gtin": "05000159532969",
+    "productId": "684971",
+    "name": "dark chocolat nuts & salt",
+    "technicalArticleNumber": "4407494",
+    "commercialArticleNumber": "24805",
+    "LongName": "BE-KIND dark chocolat nuts & salt 3x30g"
+  },
+  {
+    "gtin": "03608580125419",
+    "productId": "910057",
+    "name": "pindakaas",
+    "technicalArticleNumber": "4759456",
+    "commercialArticleNumber": "6805",
+    "LongName": "BONNE MAMAN pindakaas 325g"
+  },
+  {
+    "gtin": "55430000992270",
+    "productId": "805746",
+    "name": "crunchy chocolade",
+    "description": "*Geroosterde havervlok.\nmet pure chocolade\nen hazelnoten\n*100% belgisch",
+    "technicalArticleNumber": "4623720",
+    "commercialArticleNumber": "3505",
+    "LongName": "BAMBOO crunchy chocolade 500g"
+  },
+  {
+    "gtin": "05400141862324",
+    "productId": "847106",
+    "name": "gevulde vanillewafels",
+    "technicalArticleNumber": "4693424",
+    "commercialArticleNumber": "15955",
+    "LongName": "BONI gevulde vanillewafels 6st"
+  },
+  {
+    "gtin": "05410986132407",
+    "productId": "83264",
+    "name": "confituur krieken Bio",
+    "description": "*50 % vruchten",
+    "technicalArticleNumber": "2946065",
+    "commercialArticleNumber": "38724",
+    "LongName": "PUR NATUR confituur krieken Bio 450g"
+  },
+  {
+    "gtin": "05400141756531",
+    "productId": "886792",
+    "name": "Petits Fours 12st",
+    "technicalArticleNumber": "4746115",
+    "commercialArticleNumber": "32690",
+    "LongName": "BONI Petits Fours 12st 180g"
+  },
+  {
+    "gtin": "07613287514271",
+    "productId": "719554",
+    "name": "Dark Chocolate",
+    "technicalArticleNumber": "4468548",
+    "commercialArticleNumber": "26956",
+    "LongName": "NESTLÉ FITNESS Dark Chocolate 450g"
+  },
+  {
+    "gtin": "08052575090407",
+    "productId": "859254",
+    "name": "cac&haz.pasta z.melk Bio",
+    "description": "*Hazelnootpasta met cacao\n*Zonder melk\n*Met zonnebloemolie",
+    "technicalArticleNumber": "4709658",
+    "commercialArticleNumber": "31818",
+    "LongName": "NOCCIOLATA cac&haz.pasta z.melk Bio 325g"
+  },
+  {
+    "gtin": "05410046000196",
+    "productId": "11923",
+    "name": "conf. nectarine-frambozen",
+    "description": "*50 % vruchten",
+    "technicalArticleNumber": "1391463",
+    "commercialArticleNumber": "16336",
+    "LongName": "MATERNE conf. nectarine-frambozen 450g"
+  },
+  {
+    "gtin": "05035660249273",
+    "productId": "113414",
+    "name": "marmelade sinaasappel",
+    "description": "*30 % vruchten",
+    "technicalArticleNumber": "3046431",
+    "commercialArticleNumber": "17596",
+    "LongName": "ROBERTSON'S marmelade sinaasappel 340g"
+  },
+  {
+    "gtin": "03770002327685",
+    "productId": "243796",
+    "name": "bio mini rijstw.blauwe bes",
+    "description": "*Koekjes\n*Vanaf 10 maanden",
+    "technicalArticleNumber": "3519723",
+    "commercialArticleNumber": "12313",
+    "LongName": "GOOD GOUT bio mini rijstw.blauwe bes 40g"
+  },
+  {
+    "gtin": "15411536721369",
+    "productId": "343917",
+    "name": "romig bloemenhoning",
+    "technicalArticleNumber": "3817807",
+    "commercialArticleNumber": "16614",
+    "LongName": "CHANFLOR romig bloemenhoning 500g"
+  },
+  {
+    "gtin": "05410126006193",
+    "productId": "186203",
+    "name": "speculoos",
+    "technicalArticleNumber": "3459991",
+    "commercialArticleNumber": "50300",
+    "LongName": "LOTUS speculoos 2,5kg"
+  },
+  {
+    "gtin": "05410038205325",
+    "productId": "329243",
+    "name": "bio honing Squeeze",
+    "description": "*Vloeibaar",
+    "technicalArticleNumber": "3808191",
+    "commercialArticleNumber": "51195",
+    "LongName": "MELI bio honing Squeeze 250g"
+  },
+  {
+    "gtin": "05059319021621",
+    "productId": "853780",
+    "name": "Honey & Peanuts",
+    "description": "*Ontbijtgranen\n*Ovengeroosterde\n*Maisvlokken met\npindanoten en honing",
+    "technicalArticleNumber": "4702404",
+    "commercialArticleNumber": "31205",
+    "LongName": "KELLOGG'S FROSTIES Honey & Peanuts 375g"
+  },
+  {
+    "gtin": "08008698007303",
+    "productId": "15037",
+    "name": "Fette Croccanti lv glutenvrij",
+    "description": "*Lactosevrij\n*Glutenvrij\n*Knäckerbrood",
+    "technicalArticleNumber": "1426198",
+    "commercialArticleNumber": "10717",
+    "LongName": "SCHÄR Fette Croccanti lv glutenvrij 150g"
+  },
+  {
+    "gtin": "08008698003503",
+    "productId": "508685",
+    "name": "crackers gv lv",
+    "description": "*Glutenvrij\n*Lactosevrij",
+    "technicalArticleNumber": "4090140",
+    "commercialArticleNumber": "8052",
+    "LongName": "SCHÄR crackers gv lv 210g"
+  },
+  {
+    "gtin": "05410046000028",
+    "productId": "191121",
+    "name": "confituur vijgen",
+    "technicalArticleNumber": "3449975",
+    "commercialArticleNumber": "50210",
+    "LongName": "MATERNE confituur vijgen 450g"
+  },
+  {
+    "gtin": "05410046804138",
+    "productId": "3729",
+    "name": "confituur 4 gele vruchten",
+    "description": "*50 % vruchten",
+    "technicalArticleNumber": "1102937",
+    "commercialArticleNumber": "16280",
+    "LongName": "MATERNE confituur 4 gele vruchten 450g"
+  },
+  {
+    "gtin": "05410018797345",
+    "productId": "156048",
+    "name": "confituur ass. cups",
+    "description": "*50 % vruchten\n*Assortiment: kriek,\n4 vruchten, aardbei,\nabrikoos",
+    "technicalArticleNumber": "3290139",
+    "commercialArticleNumber": "2318",
+    "LongName": "GOURMET confituur ass. cups 20x25g"
+  },
+  {
+    "gtin": "05411146224055",
+    "productId": "520252",
+    "name": "melk pasta suiker arm",
+    "technicalArticleNumber": "4103622",
+    "commercialArticleNumber": "8517",
+    "LongName": "BOERINNEKE melk pasta suiker arm 400g"
+  },
+  {
+    "gtin": "03175681019331",
+    "productId": "874306",
+    "name": "reep High Energy banaan",
+    "technicalArticleNumber": "4729312",
+    "commercialArticleNumber": "32108",
+    "LongName": "ISOSTAR reep High Energy banaan 3x40g"
+  },
+  {
+    "gtin": "05400141690859",
+    "productId": "884167",
+    "name": "Bokkenpootjes mix",
+    "description": "4x bokkenpootjes\n4x ganache",
+    "technicalArticleNumber": "4742757",
+    "commercialArticleNumber": "32457",
+    "LongName": "BONI Bokkenpootjes mix 165g"
+  },
+  {
+    "gtin": "05400141331851",
+    "productId": "240769",
+    "name": "confituur kersen Maltitol",
+    "description": "*50 % fruit\n*Met zoetstoffen",
+    "technicalArticleNumber": "3530262",
+    "commercialArticleNumber": "50669",
+    "LongName": "BONI confituur kersen Maltitol 440g"
+  },
+  {
+    "gtin": "05410986132193",
+    "productId": "83265",
+    "name": "confituur vijgen Bio",
+    "description": "*50 % vruchten",
+    "technicalArticleNumber": "2946072",
+    "commercialArticleNumber": "38726",
+    "LongName": "PUR NATUR confituur vijgen Bio 450g"
+  },
+  {
+    "gtin": "35419980021824",
+    "productId": "689237",
+    "name": "dark chocolate&fleur de sel",
+    "technicalArticleNumber": "4414855",
+    "commercialArticleNumber": "12931",
+    "LongName": "BAMBOO dark chocolate&fleur de sel 350g"
+  },
+  {
+    "gtin": "03609209004290",
+    "productId": "868705",
+    "name": "cookie dough protein bar",
+    "technicalArticleNumber": "4721980",
+    "commercialArticleNumber": "16762",
+    "LongName": "JOYFUEL cookie dough protein bar 55g"
+  },
+  {
+    "gtin": "08711753001061",
+    "productId": "14830",
+    "name": "volk.mueslikoeken bio",
+    "technicalArticleNumber": "1443133",
+    "commercialArticleNumber": "8341",
+    "LongName": "BILLY'S FARM volk.mueslikoeken bio 250g"
+  },
+  {
+    "gtin": "05900020030597",
+    "productId": "428551",
+    "name": "assortiment",
+    "technicalArticleNumber": "3970043",
+    "commercialArticleNumber": "3062",
+    "LongName": "NESTLÉ FITNESS assortiment 6x23,5g"
+  },
+  {
+    "gtin": "07613035449671",
+    "productId": "214840",
+    "description": "*Voltarwewafels",
+    "technicalArticleNumber": "3484335",
+    "commercialArticleNumber": "20388",
+    "LongName": "NESTLÉ GOLDEN GRAHAMS 570g"
+  },
+  {
+    "gtin": "05400141024487",
+    "productId": "1084",
+    "name": "vlokken melkchocolade",
+    "technicalArticleNumber": "16112",
+    "commercialArticleNumber": "16112",
+    "LongName": "KWATTA vlokken melkchocolade 200g"
+  },
+  {
+    "gtin": "05390691017995",
+    "productId": "765642",
+    "name": "w.chocol.vitamin&protein bar",
+    "technicalArticleNumber": "4548478",
+    "commercialArticleNumber": "10291",
+    "LongName": "FULFIL w.chocol.vitamin&protein bar 55g"
+  },
+  {
+    "gtin": "05400141249255",
+    "productId": "493177",
+    "name": "granola kokosnoot glutenvrij",
+    "description": "*Glutenvrij",
+    "technicalArticleNumber": "4040645",
+    "commercialArticleNumber": "5972",
+    "LongName": "BONI granola kokosnoot glutenvrij 340g"
+  },
+  {
+    "gtin": "05410046000080",
+    "productId": "114323",
+    "name": "confituur ananas",
+    "description": "*50 % vruchten",
+    "technicalArticleNumber": "3080961",
+    "commercialArticleNumber": "7823",
+    "LongName": "MATERNE confituur ananas 450g"
+  },
+  {
+    "gtin": "07622210547491",
+    "productId": "665666",
+    "name": "reep cranberry-hazelnoot",
+    "technicalArticleNumber": "4374315",
+    "commercialArticleNumber": "24202",
+    "LongName": "BELVITA reep cranberry-hazelnoot 160g"
+  },
+  {
+    "gtin": "05410046805081",
+    "productId": "12354",
+    "name": "confituur kersen",
+    "description": "*50 % vruchten",
+    "technicalArticleNumber": "1310559",
+    "commercialArticleNumber": "16281",
+    "LongName": "MATERNE confituur kersen 720g"
+  },
+  {
+    "gtin": "07622201754358",
+    "productId": "889483",
+    "name": "Repen amandelen pindanoten",
+    "technicalArticleNumber": "4750007",
+    "commercialArticleNumber": "5129",
+    "LongName": "GRANY Repen amandelen pindanoten 3x35g"
+  },
+  {
+    "gtin": "05410383410665",
+    "productId": "877437",
+    "name": "Artisa.peperkoek honing",
+    "description": "*Artisanale peperkoek met honing\nen parelsuiker",
+    "technicalArticleNumber": "4733322",
+    "commercialArticleNumber": "9708",
+    "LongName": "VONDELMOLEN Artisa.peperkoek honing 400g"
+  },
+  {
+    "gtin": "03608580125440",
+    "productId": "916467",
+    "name": "Pindakaas crunchy",
+    "description": "*crunchy",
+    "technicalArticleNumber": "4760771",
+    "commercialArticleNumber": "10547",
+    "LongName": "BONNE MAMAN Pindakaas crunchy 325g"
+  },
+  {
+    "gtin": "05013803001582",
+    "productId": "857304",
+    "name": "donkere choco.-zout GV",
+    "technicalArticleNumber": "4707216",
+    "commercialArticleNumber": "31491",
+    "LongName": "EAT NATURAL donkere choco.-zout GV 3x45g"
+  },
+  {
+    "gtin": "05053827189934",
+    "productId": "361975",
+    "name": "proteïner. koko/cacao",
+    "description": "*Rijk aan vezels\n*Bron van eiwitten",
+    "technicalArticleNumber": "3862820",
+    "commercialArticleNumber": "22597",
+    "LongName": "SPECIAL K proteïner. koko/cacao 4x28g"
+  },
+  {
+    "gtin": "05410046016333",
+    "productId": "113091",
+    "name": "confituur aardbei-aalbessen",
+    "description": "*50 % vruchten",
+    "technicalArticleNumber": "3080434",
+    "commercialArticleNumber": "8266",
+    "LongName": "MATERNE confituur aardbei-aalbessen 450g"
+  },
+  {
+    "gtin": "05410986040177",
+    "productId": "552105",
+    "name": "aardbeien sublieme bio70%",
+    "technicalArticleNumber": "4183890",
+    "commercialArticleNumber": "12877",
+    "LongName": "PUR NATUR aardbeien sublieme bio70% 350g"
+  },
+  {
+    "gtin": "05400141690842",
+    "productId": "883919",
+    "name": "verse dessertkoekjes",
+    "technicalArticleNumber": "4742465",
+    "commercialArticleNumber": "32433",
+    "LongName": "BONI verse dessertkoekjes 125g"
+  },
+  {
+    "gtin": "03609200011204",
+    "productId": "868708",
+    "name": "cookie & cream protein bar",
+    "technicalArticleNumber": "4721983",
+    "commercialArticleNumber": "16770",
+    "LongName": "JOYFUEL cookie & cream protein bar 55g"
+  },
+  {
+    "gtin": "05400141236712",
+    "productId": "208677",
+    "name": "reep amandel-choc",
+    "description": "*Reep met\ngeroosterde\namandelen, chocolade\n*Rijk aan vezels",
+    "technicalArticleNumber": "3523773",
+    "commercialArticleNumber": "50633",
+    "LongName": "KELLOGG'S EXTRA reep amandel-choc 4st"
+  },
+  {
+    "gtin": "15410038204967",
+    "productId": "99959",
+    "name": "honing koninginnengelei",
+    "description": "*Vast",
+    "technicalArticleNumber": "2839040",
+    "commercialArticleNumber": "21283",
+    "LongName": "MELI honing koninginnengelei 375g"
+  },
+  {
+    "gtin": "03175681141070",
+    "productId": "803509",
+    "name": "reep energy spor.gran&cho.",
+    "description": "*Bevat enkelvoudige en\ncomplexe koolhydraten\n(29g/reep)\n*Voor/tijdens/na inspanning\n*Bron van vitB1,B2,B6,C,E en PP",
+    "technicalArticleNumber": "4619843",
+    "commercialArticleNumber": "13991",
+    "LongName": "ISOSTAR reep energy spor.gran&cho. 3x35g"
+  },
+  {
+    "gtin": "15400141690863",
+    "productId": "884128",
+    "name": "verse dessertkoekjes mix",
+    "technicalArticleNumber": "4742701",
+    "commercialArticleNumber": "32450",
+    "LongName": "BONI verse dessertkoekjes mix 300g"
+  },
+  {
+    "gtin": "05425005030381",
+    "productId": "694138",
+    "name": "Baklava",
+    "description": "*Grieks gebak",
+    "technicalArticleNumber": "4422610",
+    "commercialArticleNumber": "25834",
+    "LongName": "SWEET HELLAS Baklava 2st"
+  },
+  {
+    "gtin": "05410033902007",
+    "productId": "205782",
+    "name": "pindakaas",
+    "description": "*Smeerpasta\n*Pindakaas\n*Voor ontbijt\n*Vegan friendly\n*Ideaal voor lunch",
+    "technicalArticleNumber": "3511468",
+    "commercialArticleNumber": "15997",
+    "LongName": "CALVÉ pindakaas 350g"
+  },
+  {
+    "gtin": "04260287181274",
+    "productId": "884148",
+    "name": "Soft Salted Peanut Caramel",
+    "description": "*salted peanut caramel\n*Ontbijtreep",
+    "technicalArticleNumber": "4742731",
+    "commercialArticleNumber": "32456",
+    "LongName": "BAREBELLS Soft Salted Peanut Caramel 55g"
+  },
+  {
+    "gtin": "00000024151115",
+    "productId": "163",
+    "name": "sesamcrunch",
+    "description": "*Reep op basis van\nsesamzaad\n*Rijk aan vezels\n*Geen zout toegevoegd\n*Vegan",
+    "technicalArticleNumber": "15111",
+    "commercialArticleNumber": "15111",
+    "LongName": "ZONNATURA sesamcrunch 50g"
+  },
+  {
+    "gtin": "05411146223577",
+    "productId": "179291",
+    "name": "choco ov rijst lv-gv Bio",
+    "description": "Boerinneke chocopasta op basis van rij\nstmelk 350gr.\n*Lactosevrij\n*Glutenvrij",
+    "technicalArticleNumber": "3335217",
+    "commercialArticleNumber": "33959",
+    "LongName": "BOERINNEKE choco ov rijst lv-gv Bio 350g"
+  },
+  {
+    "gtin": "05414972105536",
+    "productId": "1108",
+    "name": "geleermiddel Pec Plus",
+    "technicalArticleNumber": "16592",
+    "commercialArticleNumber": "16592",
+    "LongName": "IMPERIAL geleermiddel Pec Plus 4x20g"
+  },
+  {
+    "gtin": "15400141387657",
+    "productId": "222570",
+    "name": "confituur bosbessen 61%",
+    "description": "*61% vruchten",
+    "technicalArticleNumber": "3505732",
+    "commercialArticleNumber": "50567",
+    "LongName": "BONI confituur bosbessen 61% 370g"
+  },
+  {
+    "gtin": "08712423007260",
+    "productId": "384550",
+    "name": "pindakaas Crunchy",
+    "description": "*Smeerpasta\n*Pindakaas\n*Voor ontbijt\n*Vegan friendly\n*Ideaal voor lunch",
+    "technicalArticleNumber": "3846313",
+    "commercialArticleNumber": "51301",
+    "LongName": "CALVÉ pindakaas Crunchy 350g"
+  },
+  {
+    "gtin": "06111184009087",
+    "productId": "686668",
+    "name": "sinaas confituur",
+    "technicalArticleNumber": "4410166",
+    "commercialArticleNumber": "24982",
+    "LongName": "EL BARAKA sinaas confituur 430g"
+  },
+  {
+    "gtin": "15410038508331",
+    "productId": "763849",
+    "name": "honing met gember",
+    "technicalArticleNumber": "4544177",
+    "commercialArticleNumber": "6595",
+    "LongName": "MELI honing met gember 250g"
+  },
+  {
+    "gtin": "03175681161542",
+    "productId": "877755",
+    "name": "Druiven en cranberry",
+    "technicalArticleNumber": "4733766",
+    "commercialArticleNumber": "13105",
+    "LongName": "ISOSTAR Druiven en cranberry 3x40g"
+  },
+  {
+    "gtin": "04260287188587",
+    "productId": "885285",
+    "name": "Soft Marshmallow RockyRoad",
+    "description": "*Marshmallow Rocky Road\n*Ontbijtreep",
+    "technicalArticleNumber": "4744220",
+    "commercialArticleNumber": "32531",
+    "LongName": "BAREBELLS Soft Marshmallow RockyRoad 55g"
+  },
+  {
+    "gtin": "05053827176125",
+    "productId": "284320",
+    "name": "reep aman-honing",
+    "description": "*Rijk aan vezels",
+    "technicalArticleNumber": "3666528",
+    "commercialArticleNumber": "21873",
+    "LongName": "KELLOGG'S EXTRA reep aman-honing 4st"
+  },
+  {
+    "gtin": "06111184001074",
+    "productId": "780760",
+    "name": "aardbeien confituur",
+    "technicalArticleNumber": "4575764",
+    "commercialArticleNumber": "28777",
+    "LongName": "EL BARAKA aardbeien confituur 430g"
+  },
+  {
+    "gtin": "05410038205400",
+    "productId": "681861",
+    "name": "honing geoogst regio champagne",
+    "technicalArticleNumber": "4401556",
+    "commercialArticleNumber": "24645",
+    "LongName": "MELI honing geoogst regio champagne 340g"
+  },
+  {
+    "gtin": "08710496979507",
+    "productId": "804646",
+    "name": "vlokfeest puur&wit.choc.",
+    "technicalArticleNumber": "4622131",
+    "commercialArticleNumber": "16493",
+    "LongName": "DE RUIJTER vlokfeest puur&wit.choc. 300g"
+  },
+  {
+    "gtin": "07340001804843",
+    "productId": "884455",
+    "name": "Soft Caramel Choco",
+    "description": "*Caramel Choco\n*Ontbijtreep",
+    "technicalArticleNumber": "4743437",
+    "commercialArticleNumber": "32475",
+    "LongName": "BAREBELLS Soft Caramel Choco 55g"
+  },
+  {
+    "gtin": "08008698040805",
+    "productId": "863432",
+    "name": "Crunchy Bread Vit. Glutenvrij",
+    "description": "Glutenvrij",
+    "technicalArticleNumber": "4714833",
+    "commercialArticleNumber": "31914",
+    "LongName": "SCHAR Crunchy Bread Vit. Glutenvrij 150g"
+  },
+  {
+    "gtin": "08710496979569",
+    "productId": "801958",
+    "name": "hagelslag melkchocolade",
+    "technicalArticleNumber": "4617268",
+    "commercialArticleNumber": "10899",
+    "LongName": "DE RUIJTER hagelslag melkchocolade 390g"
+  },
+  {
+    "gtin": "05000159532914",
+    "productId": "619332",
+    "name": "caram-alm-sea salt",
+    "technicalArticleNumber": "4297389",
+    "commercialArticleNumber": "22159",
+    "LongName": "BE-KIND caram-alm-sea salt 3x30g"
+  },
+  {
+    "gtin": "05411788038195",
+    "productId": "8268",
+    "name": "muesli original bio",
+    "description": "*Muesli",
+    "technicalArticleNumber": "1165847",
+    "commercialArticleNumber": "1864",
+    "LongName": "LIMA muesli original bio 1kg"
+  },
+  {
+    "gtin": "05400141698398",
+    "productId": "1015817",
+    "name": "Truffelgebak Pasen",
+    "technicalArticleNumber": "4788568",
+    "commercialArticleNumber": "4503",
+    "LongName": "BONI Truffelgebak Pasen 2st"
+  },
+  {
+    "gtin": "15410038205223",
+    "productId": "245734",
+    "name": "honing tijm vloeibaar",
+    "description": "*Vloeibaar",
+    "technicalArticleNumber": "3659554",
+    "commercialArticleNumber": "17532",
+    "LongName": "MELI honing tijm vloeibaar 375g"
+  },
+  {
+    "gtin": "08719189067576",
+    "productId": "856414",
+    "name": "granola hazelnoot & banaan",
+    "description": "*Granola\n*Smaak: hazelnoten &\nbanaan",
+    "technicalArticleNumber": "4705914",
+    "commercialArticleNumber": "31426",
+    "LongName": "YESPERS granola hazelnoot & banaan 400g"
+  },
+  {
+    "gtin": "05000159532624",
+    "productId": "620802",
+    "name": "honey roast.nuts&sea salt",
+    "technicalArticleNumber": "4300008",
+    "commercialArticleNumber": "23552",
+    "LongName": "BE-KIND honey roast.nuts&sea salt 3x30g"
+  },
+  {
+    "gtin": "05411146223874",
+    "productId": "366999",
+    "name": "bio hazelnootp.zo.palmo",
+    "technicalArticleNumber": "3788433",
+    "commercialArticleNumber": "51179",
+    "LongName": "BOERINNEKE bio hazelnootp.zo.palmo 370g"
+  },
+  {
+    "gtin": "05400141013535",
+    "productId": "95812",
+    "name": "meergranen beschuiten",
+    "description": "*Beschuiten,\nvierkant, met 7\ngranen",
+    "technicalArticleNumber": "2888293",
+    "commercialArticleNumber": "17993",
+    "LongName": "BONI BIO meergranen beschuiten 200g"
+  },
+  {
+    "gtin": "08008698007709",
+    "productId": "869991",
+    "name": "Choco balls glutenvrij",
+    "description": "*Glutenvrij",
+    "technicalArticleNumber": "4723488",
+    "commercialArticleNumber": "21035",
+    "LongName": "SCHAR Choco balls glutenvrij 250g"
+  },
+  {
+    "gtin": "05430001238631",
+    "productId": "858680",
+    "name": "proteïnereep kokos-pure choc.",
+    "description": "*Eiwitreep\nmet krekelpoeder\n*Rijk aan vezels\n*Glutenvrij\n*Niet biologisch",
+    "technicalArticleNumber": "4708959",
+    "commercialArticleNumber": "31682",
+    "LongName": "KRIKET proteïnereep kokos-pure choc. 50g"
+  },
+  {
+    "gtin": "08719189067194",
+    "productId": "856405",
+    "name": "granola kokos & kers",
+    "description": "*Granola\n*Smaak: kokos & kers",
+    "technicalArticleNumber": "4705898",
+    "commercialArticleNumber": "31419",
+    "LongName": "YESPERS granola kokos & kers 400g"
+  },
+  {
+    "gtin": "05410231097246",
+    "productId": "1107",
+    "name": "geleermiddel Pec",
+    "technicalArticleNumber": "16590",
+    "commercialArticleNumber": "16590",
+    "LongName": "IMPERIAL geleermiddel Pec 4x30g"
+  },
+  {
+    "gtin": "08720256082460",
+    "productId": "1045316",
+    "name": "Crunchy Muesli Rood fruit",
+    "description": "*Crunchy Rood Fruit",
+    "technicalArticleNumber": "4798161",
+    "commercialArticleNumber": "6994",
+    "LongName": "HOLIE Crunchy Muesli Rood fruit 400g"
+  },
+  {
+    "gtin": "05410028620558",
+    "productId": "769910",
+    "name": "beschuit",
+    "description": "*Krokant en luchtig\n*Per 2 verpakt\n*Vierkant",
+    "technicalArticleNumber": "4556717",
+    "commercialArticleNumber": "21779",
+    "LongName": "SOUBRY beschuit 156x2st"
+  },
+  {
+    "gtin": "05010477364739",
+    "productId": "1021289",
+    "name": "Ultimate Berry",
+    "description": "*Ultimate berry",
+    "technicalArticleNumber": "4790148",
+    "commercialArticleNumber": "26228",
+    "LongName": "JORDANS Ultimate Berry 325g"
+  },
+  {
+    "gtin": "05400141190939",
+    "productId": "8577",
+    "name": "hazelnootpasta FT",
+    "description": "*Minimum 7.5%\ncacaobestanddelen\n*13 % hazelnoten\n*Fairtrade",
+    "technicalArticleNumber": "1126786",
+    "commercialArticleNumber": "16017",
+    "LongName": "BONI BIO hazelnootpasta FT 400g"
+  },
+  {
+    "gtin": "08000500106877",
+    "productId": "53986",
+    "name": "chocopasta hazeln. cups",
+    "description": "*7,4 % magere\ncacaopoeder\n*13 % hazelnoten\n*Altijd met factuur",
+    "technicalArticleNumber": "2288160",
+    "commercialArticleNumber": "16572",
+    "LongName": "NUTELLA chocopasta hazeln. cups 120x15g"
+  },
+  {
+    "gtin": "05413226330168",
+    "productId": "18575",
+    "name": "confituur ass. cups",
+    "description": "*50 % vruchten\n*Assortiment: kers,\nrode bes, abrikoos,\naardbei\n*Altijd met factuur",
+    "technicalArticleNumber": "1716132",
+    "commercialArticleNumber": "16394",
+    "LongName": "GOURMET confituur ass. cups 100x25g"
+  },
+  {
+    "gtin": "05010477364715",
+    "productId": "1021290",
+    "name": "Ultimate Honey",
+    "description": "*Ultimate honey",
+    "technicalArticleNumber": "4790149",
+    "commercialArticleNumber": "26513",
+    "LongName": "JORDANS Ultimate Honey 325g"
+  },
+  {
+    "gtin": "05059319029160",
+    "productId": "1021066",
+    "name": "Brownie",
+    "technicalArticleNumber": "4789827",
+    "commercialArticleNumber": "21386",
+    "LongName": "KELLOGG'S TRÉSOR Brownie 375g"
+  }
+]

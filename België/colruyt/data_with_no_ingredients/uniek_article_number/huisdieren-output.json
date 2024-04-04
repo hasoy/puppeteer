@@ -1,0 +1,2528 @@
+[
+  {
+    "gtin": "05400141625257",
+    "productId": "435965",
+    "name": "kattenbakvulling",
+    "technicalArticleNumber": "3988731",
+    "commercialArticleNumber": "4111",
+    "LongName": "EVERYDAY kattenbakvulling ±7L"
+  },
+  {
+    "gtin": "00000025093759",
+    "productId": "525",
+    "name": "kat terrine rund vlootje",
+    "description": "*Voor volwassen\nkatten\n*Paté\n*4% rund",
+    "technicalArticleNumber": "9376",
+    "commercialArticleNumber": "9376",
+    "LongName": "EVERYDAY kat terrine rund vlootje 100g"
+  },
+  {
+    "gtin": "05400141980295",
+    "productId": "559",
+    "name": "hond terrine rund vlootje",
+    "description": "*Voor volwassen\nhonden\n*Terrine\n*4% rund",
+    "technicalArticleNumber": "9544",
+    "commercialArticleNumber": "9544",
+    "LongName": "EVERYDAY hond terrine rund vlootje 300g"
+  },
+  {
+    "gtin": "05400141611151",
+    "productId": "87973",
+    "name": "katbakvulling lavendel doos",
+    "description": "*Klontervormend\n*Bentonite\n*Lavendelgeur,\nabsorberend",
+    "technicalArticleNumber": "2993791",
+    "commercialArticleNumber": "7025",
+    "LongName": "BONI katbakvulling lavendel doos 6L"
+  },
+  {
+    "gtin": "00000024095457",
+    "productId": "560",
+    "name": "hond terrine kip vlootje",
+    "description": "*Voor volwassen\nhonden\n*Terrine\n*4% kip",
+    "technicalArticleNumber": "9545",
+    "commercialArticleNumber": "9545",
+    "LongName": "EVERYDAY hond terrine kip vlootje 300g"
+  },
+  {
+    "gtin": "05400141012255",
+    "productId": "65731",
+    "name": "sticks gev.-lam",
+    "description": "*Voor kat",
+    "technicalArticleNumber": "2739336",
+    "commercialArticleNumber": "819200",
+    "LongName": "BONI sticks gev.-lam 50g"
+  },
+  {
+    "gtin": "15400141995432",
+    "productId": "119103",
+    "name": "kat sticks zalm/forel 10x5g",
+    "description": "*Voor kat",
+    "technicalArticleNumber": "3009298",
+    "commercialArticleNumber": "133036",
+    "LongName": "BONI kat sticks zalm/forel 10x5g 50g"
+  },
+  {
+    "gtin": "15400141340850",
+    "productId": "488275",
+    "name": "kat terrine zalm-kabeljauw",
+    "description": "*Voor volwassen\nkatten\n*Terrine\n*Met zalm-kabeljauw",
+    "technicalArticleNumber": "4041871",
+    "commercialArticleNumber": "6094",
+    "LongName": "BONI kat terrine zalm-kabeljauw 100g"
+  },
+  {
+    "gtin": "00000025094473",
+    "productId": "535",
+    "name": "kat stukjes met rund",
+    "description": "*Voor volwassen\nkatten\n*Balletjes\n*4% rundsvlees",
+    "technicalArticleNumber": "9447",
+    "commercialArticleNumber": "9447",
+    "LongName": "EVERYDAY kat stukjes met rund 415g"
+  },
+  {
+    "gtin": "00000025094480",
+    "productId": "536",
+    "name": "kat stukjes gevogelte",
+    "description": "*Voor volwassen\nkatten\n*Balletjes\n*4% gevogelte",
+    "technicalArticleNumber": "9448",
+    "commercialArticleNumber": "9448",
+    "LongName": "EVERYDAY kat stukjes gevogelte 415g"
+  },
+  {
+    "gtin": "05010394004176",
+    "productId": "43405",
+    "name": "Biscrok",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "2490515",
+    "commercialArticleNumber": "819164",
+    "LongName": "PEDIGREE Biscrok 500g"
+  },
+  {
+    "gtin": "55400141777906",
+    "productId": "144092",
+    "name": "mini filets kip-kal vlootje",
+    "description": "*Vlees in saus\n*Kip, kalkoen",
+    "technicalArticleNumber": "3278452",
+    "commercialArticleNumber": "3961",
+    "LongName": "SHEBA mini filets kip-kal vlootje 85g"
+  },
+  {
+    "gtin": "05400141055153",
+    "productId": "33343",
+    "name": "kattenbakvulling hygiëne+",
+    "description": "*Niet-klontervormend\n*Calciumsilicaat\n*Sterk absorberend",
+    "technicalArticleNumber": "1668967",
+    "commercialArticleNumber": "9656",
+    "LongName": "BONI kattenbakvulling hygiëne+ 10L"
+  },
+  {
+    "gtin": "05412401005266",
+    "productId": "558",
+    "name": "kattenbakv. plantaardig",
+    "description": "*Niet-klontervormend\n*Plantaardige\nkorrels\n*Biologisch\nafbreekbaar",
+    "technicalArticleNumber": "9540",
+    "commercialArticleNumber": "9540",
+    "LongName": "LOVE CAT kattenbakv. plantaardig 20L"
+  },
+  {
+    "gtin": "04008429070921",
+    "productId": "158000",
+    "name": "Classics paté met zalm vlootje",
+    "description": "*Paté\n*Zalm",
+    "technicalArticleNumber": "3278524",
+    "commercialArticleNumber": "3967",
+    "LongName": "SHEBA Classics paté met zalm vlootje 85g"
+  },
+  {
+    "gtin": "05400141287509",
+    "productId": "144090",
+    "name": "Classics terrine kalf & kip",
+    "description": "*Paté\n*Kalfsvlees & kip",
+    "technicalArticleNumber": "3278446",
+    "commercialArticleNumber": "3859",
+    "LongName": "SHEBA Classics terrine kalf & kip 85g"
+  },
+  {
+    "gtin": "00000025094534",
+    "productId": "537",
+    "name": "hond stukjes rund",
+    "description": "*Voor volwassen\nhonden\n*Stukjes in saus\n*4% rund",
+    "technicalArticleNumber": "9453",
+    "commercialArticleNumber": "9453",
+    "LongName": "EVERYDAY hond stukjes rund 1,24kg"
+  },
+  {
+    "gtin": "04008429081231",
+    "productId": "628993",
+    "name": "hygiene",
+    "technicalArticleNumber": "4313504",
+    "commercialArticleNumber": "23798",
+    "LongName": "CATSAN hygiene 11,5L"
+  },
+  {
+    "gtin": "05400141572322",
+    "productId": "780884",
+    "name": "kat terrine duo rund&lever",
+    "description": "*Terrine",
+    "technicalArticleNumber": "4576950",
+    "commercialArticleNumber": "28784",
+    "LongName": "BONI kat terrine duo rund&lever 400g"
+  },
+  {
+    "gtin": "15400141606000",
+    "productId": "836016",
+    "name": "Adult brokjes in saus vlees",
+    "description": "*Voor volwassen\nkatten\n*Brokjes in saus",
+    "technicalArticleNumber": "4678290",
+    "commercialArticleNumber": "21821",
+    "LongName": "BONI Adult brokjes in saus vlees 12x100g"
+  },
+  {
+    "gtin": "03010470581081",
+    "productId": "4214",
+    "name": "kat Adult rund-kip-groenten",
+    "description": "*Voor volwassen\nkatten\n*Droge voeding\n*Rundsvlees, kip",
+    "technicalArticleNumber": "1008753",
+    "commercialArticleNumber": "9579",
+    "LongName": "FRISKIES kat Adult rund-kip-groenten 4kg"
+  },
+  {
+    "gtin": "04008429096808",
+    "productId": "622391",
+    "name": "delicatesse gevogelte",
+    "technicalArticleNumber": "4302880",
+    "commercialArticleNumber": "23657",
+    "LongName": "SHEBA delicatesse gevogelte 85g"
+  },
+  {
+    "gtin": "05400141023909",
+    "productId": "116366",
+    "name": "Snack met kip & kaas",
+    "description": "*Voor kat",
+    "technicalArticleNumber": "3011787",
+    "commercialArticleNumber": "133039",
+    "LongName": "BONI Snack met kip & kaas 60g"
+  },
+  {
+    "gtin": "05400141533965",
+    "productId": "858996",
+    "name": "kat krokantjes rundvlees",
+    "description": "*Droge voeding\n*Rundvlees",
+    "technicalArticleNumber": "4709296",
+    "commercialArticleNumber": "31757",
+    "LongName": "EVERYDAY kat krokantjes rundvlees 4kg"
+  },
+  {
+    "gtin": "05400141021004",
+    "productId": "543",
+    "name": "hond stukjes gevogelte",
+    "description": "*Voor volwassen\nhonden\n*Stukjes in saus\n*4% gevogelte",
+    "technicalArticleNumber": "9468",
+    "commercialArticleNumber": "9468",
+    "LongName": "EVERYDAY hond stukjes gevogelte 1,24kg"
+  },
+  {
+    "gtin": "05400141337617",
+    "productId": "488695",
+    "name": "kat terrine kalkoen-eend",
+    "technicalArticleNumber": "4042172",
+    "commercialArticleNumber": "6170",
+    "LongName": "BONI kat terrine kalkoen-eend 100g"
+  },
+  {
+    "gtin": "15400141605379",
+    "productId": "782541",
+    "name": "kat jelly duo kip-eend-wortel",
+    "description": "*Terrine voor kat\nmet kip, eend\nen wortelen",
+    "technicalArticleNumber": "4579960",
+    "commercialArticleNumber": "3325",
+    "LongName": "BONI kat jelly duo kip-eend-wortel 400g"
+  },
+  {
+    "gtin": "05400141583298",
+    "productId": "781237",
+    "name": "kat terrine duo zalm&forel",
+    "description": "*Voor volwassen\nkatten\n*Terrine",
+    "technicalArticleNumber": "4577824",
+    "commercialArticleNumber": "28900",
+    "LongName": "BONI kat terrine duo zalm&forel 400g"
+  },
+  {
+    "gtin": "05400141470949",
+    "productId": "55390",
+    "name": "Slices rund-kalf",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "2388305",
+    "commercialArticleNumber": "819113",
+    "LongName": "BONI Slices rund-kalf 20x10g"
+  },
+  {
+    "gtin": "03222270493901",
+    "productId": "28888",
+    "name": "Gold luxe mix",
+    "description": "*Brokjes en\nminifilets\n*Rundsvlees,kip/\nkonijn,lever/\nzeevis/eend,kalkoen",
+    "technicalArticleNumber": "1951239",
+    "commercialArticleNumber": "9001",
+    "LongName": "GOURMET Gold luxe mix 12x85g"
+  },
+  {
+    "gtin": "05400141357868",
+    "productId": "147724",
+    "name": "hond Sensitive lam-rijst",
+    "description": "*Voor volwassen\nhonden\n*Droge voeding\n*4% rijst, 4% lam",
+    "technicalArticleNumber": "3328971",
+    "commercialArticleNumber": "8098",
+    "LongName": "BONI hond Sensitive lam-rijst 10kg"
+  },
+  {
+    "gtin": "15400141610069",
+    "productId": "836256",
+    "name": "Adult vlees&vis brokjes",
+    "technicalArticleNumber": "4678633",
+    "commercialArticleNumber": "23387",
+    "LongName": "BONI Adult vlees&vis brokjes 12x100g"
+  },
+  {
+    "gtin": "35400141254250",
+    "productId": "65742",
+    "name": "denta snacks M",
+    "description": "*Aanvullende\ndiervoeding voor\nvolwassen hond",
+    "technicalArticleNumber": "2739400",
+    "commercialArticleNumber": "819202",
+    "LongName": "BONI denta snacks M 28st"
+  },
+  {
+    "gtin": "15400141583240",
+    "productId": "780889",
+    "name": "kat terrine duo eend&konijn",
+    "description": "*Terrine",
+    "technicalArticleNumber": "4576974",
+    "commercialArticleNumber": "28787",
+    "LongName": "BONI kat terrine duo eend&konijn 400g"
+  },
+  {
+    "gtin": "07613039916254",
+    "productId": "758039",
+    "name": "mix selectie gelei",
+    "description": "*Kattenvoeding\n*Natte voeding",
+    "technicalArticleNumber": "4534792",
+    "commercialArticleNumber": "19572",
+    "LongName": "FELIX mix selectie gelei 44x85g"
+  },
+  {
+    "gtin": "05400141610048",
+    "productId": "836252",
+    "name": "gravy&jelly pouch",
+    "technicalArticleNumber": "4678629",
+    "commercialArticleNumber": "22705",
+    "LongName": "EVERYDAY gravy&jelly pouch 12x100g"
+  },
+  {
+    "gtin": "15400141895787",
+    "productId": "116154",
+    "name": "chicken slices",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "3041299",
+    "commercialArticleNumber": "133063",
+    "LongName": "BONI chicken slices 170g"
+  },
+  {
+    "gtin": "15400141180937",
+    "productId": "47736",
+    "name": "melkdrank katten",
+    "description": "*Voor kat",
+    "technicalArticleNumber": "2510453",
+    "commercialArticleNumber": "819174",
+    "LongName": "BONI melkdrank katten 6x200ml"
+  },
+  {
+    "gtin": "15400141583257",
+    "productId": "780931",
+    "name": "kat gelei duo kabelja&sard.MSC",
+    "technicalArticleNumber": "4577035",
+    "commercialArticleNumber": "28807",
+    "LongName": "BONI kat gelei duo kabelja&sard.MSC 400g"
+  },
+  {
+    "gtin": "05400141918557",
+    "productId": "649608",
+    "name": "kat pouch mix",
+    "technicalArticleNumber": "4347928",
+    "commercialArticleNumber": "21167",
+    "LongName": "BONI kat pouch mix 24x100g"
+  },
+  {
+    "gtin": "00000025095180",
+    "productId": "553",
+    "name": "Classics kip vlootje",
+    "description": "*Voor honden tot\n10 kg\n*Terrine\n*Kip",
+    "technicalArticleNumber": "9518",
+    "commercialArticleNumber": "9518",
+    "LongName": "CESAR Classics kip vlootje 150g"
+  },
+  {
+    "gtin": "07613035939899",
+    "productId": "254216",
+    "name": "party mix original",
+    "description": "*Voor kat\n*Met\nkip/kalkoen/lever",
+    "technicalArticleNumber": "3663527",
+    "commercialArticleNumber": "133255",
+    "LongName": "FELIX party mix original 200g"
+  },
+  {
+    "gtin": "07613287328625",
+    "productId": "757570",
+    "name": "vlees saus",
+    "description": "*Kattenvoeding\n*Natte voeding",
+    "technicalArticleNumber": "4534005",
+    "commercialArticleNumber": "17730",
+    "LongName": "FELIX vlees saus 12x85g"
+  },
+  {
+    "gtin": "00000025095036",
+    "productId": "550",
+    "name": "Classics rund vlootje",
+    "description": "*Voor honden tot\n10 kg\n*Terrine\n*Rundsvlees",
+    "technicalArticleNumber": "9503",
+    "commercialArticleNumber": "9503",
+    "LongName": "CESAR Classics rund vlootje 150g"
+  },
+  {
+    "gtin": "03033710208593",
+    "productId": "4350",
+    "name": "kat Adult kip-groenten",
+    "description": "*Voor volwassen\nkatten\n*Droge voeding\n*Kip",
+    "technicalArticleNumber": "1010570",
+    "commercialArticleNumber": "9597",
+    "LongName": "FRISKIES kat Adult kip-groenten 400g"
+  },
+  {
+    "gtin": "15400141477211",
+    "productId": "859001",
+    "name": "hond Mini kip-groenten",
+    "description": "*Voor kleine honden\n*Kip met groenten",
+    "technicalArticleNumber": "4709304",
+    "commercialArticleNumber": "31759",
+    "LongName": "BONI hond Mini kip-groenten 1,5kg"
+  },
+  {
+    "gtin": "15400141995630",
+    "productId": "116361",
+    "name": "snack anti-haarbal",
+    "description": "*Voor kat",
+    "technicalArticleNumber": "3011748",
+    "commercialArticleNumber": "133037",
+    "LongName": "BONI snack anti-haarbal 60g"
+  },
+  {
+    "gtin": "15400141477198",
+    "productId": "859024",
+    "name": "kat krokantjes kip",
+    "description": "*Voor volwassen\nkatten\n*Droge voeding\n*Kip met groenten",
+    "technicalArticleNumber": "4709331",
+    "commercialArticleNumber": "31773",
+    "LongName": "BONI kat krokantjes kip 2kg"
+  },
+  {
+    "gtin": "07613033746567",
+    "productId": "106078",
+    "name": "Sterilcat rund",
+    "description": "*Voor\ngesteriliseerde\nkatten\n*Droge voeding\n*Rundsvlees",
+    "technicalArticleNumber": "3128883",
+    "commercialArticleNumber": "13586",
+    "LongName": "PURINA ONE Sterilcat rund 3kg"
+  },
+  {
+    "gtin": "07613287333162",
+    "productId": "757573",
+    "name": "countryside select. gelei",
+    "technicalArticleNumber": "4534008",
+    "commercialArticleNumber": "18173",
+    "LongName": "FELIX countryside select. gelei 12x85g"
+  },
+  {
+    "gtin": "05010394004183",
+    "productId": "47173",
+    "name": "markies",
+    "description": "*Voor hond\n*Met mergvulling",
+    "technicalArticleNumber": "2510065",
+    "commercialArticleNumber": "819171",
+    "LongName": "PEDIGREE markies 500g"
+  },
+  {
+    "gtin": "05400141479720",
+    "productId": "858988",
+    "name": "droge korrels hond",
+    "description": "* Voor honden",
+    "technicalArticleNumber": "4709288",
+    "commercialArticleNumber": "31754",
+    "LongName": "EVERYDAY droge korrels hond 15kg"
+  },
+  {
+    "gtin": "15400141338369",
+    "productId": "136290",
+    "name": "hond terrine gevogel.-groenten",
+    "description": "*Voor honden\n*Terrine\n*4% gevogelte,\n4% groenten",
+    "technicalArticleNumber": "3142342",
+    "commercialArticleNumber": "44007",
+    "LongName": "BONI hond terrine gevogel.-groenten 400g"
+  },
+  {
+    "gtin": "15400141995661",
+    "productId": "55389",
+    "name": "Slices gevogelte",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "2388302",
+    "commercialArticleNumber": "819112",
+    "LongName": "BONI Slices gevogelte 20x10g"
+  },
+  {
+    "gtin": "05400141218961",
+    "productId": "12347",
+    "name": "krokantjes voor honden",
+    "description": "*Voor volwassen\nhonden\n*Droge voeding\n*Varkensvlees,\ngevogelte, rund",
+    "technicalArticleNumber": "1310092",
+    "commercialArticleNumber": "9534",
+    "LongName": "EVERYDAY krokantjes voor honden 5kg"
+  },
+  {
+    "gtin": "05900951267758",
+    "productId": "307104",
+    "name": "Dry tonijn 1+",
+    "description": "*1+ jaar\n*Droge voeding\n*Tonijn",
+    "technicalArticleNumber": "3743695",
+    "commercialArticleNumber": "13716",
+    "LongName": "WHISKAS Dry tonijn 1+ 1,9kg"
+  },
+  {
+    "gtin": "07613287333377",
+    "productId": "757577",
+    "name": "senior",
+    "technicalArticleNumber": "4534012",
+    "commercialArticleNumber": "18553",
+    "LongName": "FELIX senior 12x85g"
+  },
+  {
+    "gtin": "07613287328557",
+    "productId": "757645",
+    "name": "reepjes mals Campagne gelei",
+    "description": "*Kattenvoeding\n*Natte voeding\n*Rundsvlees",
+    "technicalArticleNumber": "4534346",
+    "commercialArticleNumber": "19007",
+    "LongName": "FELIX reepjes mals Campagne gelei 12x85g"
+  },
+  {
+    "gtin": "07613035940833",
+    "productId": "284275",
+    "name": "Party Mix Seaside Mix",
+    "description": "*Voor kat\n*Met zalm-, koolvis\nen forelsmaak",
+    "technicalArticleNumber": "3665460",
+    "commercialArticleNumber": "133271",
+    "LongName": "FELIX Party Mix Seaside Mix 200g"
+  },
+  {
+    "gtin": "15400141477204",
+    "productId": "859020",
+    "name": "kat krokantjes rund",
+    "description": "*Voor volwassen\nkatten\n*Droge voeding\n*Rund met wortels",
+    "technicalArticleNumber": "4709327",
+    "commercialArticleNumber": "31772",
+    "LongName": "BONI kat krokantjes rund 2kg"
+  },
+  {
+    "gtin": "15400141618454",
+    "productId": "552",
+    "name": "Classics kip vlootje",
+    "description": "*Voor honden tot\n10 kg\n*Terrine\n*Kip",
+    "technicalArticleNumber": "9516",
+    "commercialArticleNumber": "9516",
+    "LongName": "CESAR Classics kip vlootje 300g"
+  },
+  {
+    "gtin": "05400141718157",
+    "productId": "782418",
+    "name": "kat vlees&vis in jelly ASC",
+    "description": "*Vlees & vis in\njelly\n*48x100g\n*Voor volwassen\nkatten",
+    "technicalArticleNumber": "4579519",
+    "commercialArticleNumber": "1507",
+    "LongName": "BONI kat vlees&vis in jelly ASC 48x100g"
+  },
+  {
+    "gtin": "05411468113594",
+    "productId": "119036",
+    "name": "Strooivoer voor vogels",
+    "description": "*Voor vogels",
+    "technicalArticleNumber": "3001386",
+    "commercialArticleNumber": "133024",
+    "LongName": "YANA Strooivoer voor vogels 900+100g"
+  },
+  {
+    "gtin": "05425007381054",
+    "productId": "116779",
+    "name": "snacks vr honden Soft Mix",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "3085166",
+    "commercialArticleNumber": "133078",
+    "LongName": "SOFTIEZZ snacks vr honden Soft Mix 500g"
+  },
+  {
+    "gtin": "07613035614550",
+    "productId": "91168",
+    "name": "Sterilcat zalm",
+    "description": "*Voor gesteriliseerde katten\n*Droge voeding\n*Zalm",
+    "technicalArticleNumber": "2903918",
+    "commercialArticleNumber": "17869",
+    "LongName": "PURINA ONE Sterilcat zalm 800g"
+  },
+  {
+    "gtin": "07613034209955",
+    "productId": "87749",
+    "name": "Sterilcat kip",
+    "description": "*Voor\ngesteriliseerde\nkatten\n*Droge voeding\n*Kip en tarwe",
+    "technicalArticleNumber": "2953575",
+    "commercialArticleNumber": "1929",
+    "LongName": "PURINA ONE Sterilcat kip 800g"
+  },
+  {
+    "gtin": "15400141290612",
+    "productId": "136283",
+    "name": "hond terrine rund-groenten",
+    "description": "*Voor volwassen\nhonden\n*Terrine\n*4% rund,\n4% groenten",
+    "technicalArticleNumber": "3142325",
+    "commercialArticleNumber": "44006",
+    "LongName": "BONI hond terrine rund-groenten 400g"
+  },
+  {
+    "gtin": "04008429160172",
+    "productId": "885354",
+    "name": "Senior 11+",
+    "description": "*Voor volwasssen\nkatten 11+\n*Natte voeding",
+    "technicalArticleNumber": "4744290",
+    "commercialArticleNumber": "32549",
+    "LongName": "PERFECT FIT Senior 11+ 750g"
+  },
+  {
+    "gtin": "03222270550673",
+    "productId": "845260",
+    "name": "Mousse",
+    "description": "*Voor volwassen\nkatten\n*Natte voeding\n*Mousse",
+    "technicalArticleNumber": "4691047",
+    "commercialArticleNumber": "6092",
+    "LongName": "GOURMET Mousse 12x85g"
+  },
+  {
+    "gtin": "25400141618451",
+    "productId": "554",
+    "name": "Primeur rund-groenten vlootje",
+    "description": "*Voor honden tot\n10 kg\n*Terrine\n*Rundsvlees",
+    "technicalArticleNumber": "9522",
+    "commercialArticleNumber": "9522",
+    "LongName": "CESAR Primeur rund-groenten vlootje 300g"
+  },
+  {
+    "gtin": "07613033273421",
+    "productId": "23918",
+    "name": "kat Junior kip-melk-gr",
+    "description": "*Voor kittens\n*Droge voeding\n*Kip",
+    "technicalArticleNumber": "2221566",
+    "commercialArticleNumber": "1460",
+    "LongName": "FRISKIES kat Junior kip-melk-gr 2kg"
+  },
+  {
+    "gtin": "15400141608295",
+    "productId": "782897",
+    "name": "hond vlees pouch",
+    "technicalArticleNumber": "4580597",
+    "commercialArticleNumber": "4557",
+    "LongName": "BONI hond vlees pouch 12x100g"
+  },
+  {
+    "gtin": "07610376164232",
+    "productId": "100314",
+    "name": "liq.snack omega 3 zalm",
+    "description": "*Voor kat",
+    "technicalArticleNumber": "2825715",
+    "commercialArticleNumber": "819234",
+    "LongName": "VITAKRAFT liq.snack omega 3 zalm 6x15g"
+  },
+  {
+    "gtin": "07613287079763",
+    "productId": "705953",
+    "name": "revelation kip",
+    "technicalArticleNumber": "4442363",
+    "commercialArticleNumber": "11227",
+    "LongName": "GOURMET revelation kip 4x57g"
+  },
+  {
+    "gtin": "07613035614482",
+    "productId": "189654",
+    "name": "Junior kip",
+    "description": "*Droge voeding\n*Kip en volkoren\ngranen",
+    "technicalArticleNumber": "3453920",
+    "commercialArticleNumber": "12987",
+    "LongName": "PURINA ONE Junior kip 800g"
+  },
+  {
+    "gtin": "05900951258558",
+    "productId": "307094",
+    "name": "Dry rund 1+",
+    "description": "*1+ jaar\n*Droge voeding\n*Rund",
+    "technicalArticleNumber": "3743685",
+    "commercialArticleNumber": "13341",
+    "LongName": "WHISKAS Dry rund 1+ 1,9kg"
+  },
+  {
+    "gtin": "04008429159565",
+    "productId": "884583",
+    "name": "Zalm 1+",
+    "description": "*Voor volwassen\nkatten 1+\n*Droge voeding\n*Zalm",
+    "technicalArticleNumber": "4743567",
+    "commercialArticleNumber": "32497",
+    "LongName": "PERFECT FIT Zalm 1+ 1,4kg"
+  },
+  {
+    "gtin": "05900951258619",
+    "productId": "342522",
+    "name": "Dry kip 7+",
+    "description": "*7+ jaar\n*Droge voeding\n*Kip",
+    "technicalArticleNumber": "3742582",
+    "commercialArticleNumber": "51153",
+    "LongName": "WHISKAS Dry kip 7+ 1,9kg"
+  },
+  {
+    "gtin": "07613287328519",
+    "productId": "757826",
+    "name": "duos vis gelei",
+    "description": "*Kattenvoeding\n*Natte voeding",
+    "technicalArticleNumber": "4534184",
+    "commercialArticleNumber": "18732",
+    "LongName": "FELIX duos vis gelei 12x85g"
+  },
+  {
+    "gtin": "07613034291073",
+    "productId": "113955",
+    "name": "Crispies met zalm en forel",
+    "description": "*Voor kat",
+    "technicalArticleNumber": "3052620",
+    "commercialArticleNumber": "133074",
+    "LongName": "FELIX Crispies met zalm en forel 45g"
+  },
+  {
+    "gtin": "07613035618817",
+    "productId": "175565",
+    "name": "Senior 7+ kip",
+    "description": "*Voor katten van 7\njaar en ouder\n*Droog\n*Kip",
+    "technicalArticleNumber": "3356421",
+    "commercialArticleNumber": "3402",
+    "LongName": "PURINA ONE Senior 7+ kip 1,5kg"
+  },
+  {
+    "gtin": "07613287328533",
+    "productId": "757833",
+    "name": "heerlijke duo's in gelei",
+    "description": "*Kattenvoeding\n*Natte voeding",
+    "technicalArticleNumber": "4534191",
+    "commercialArticleNumber": "18740",
+    "LongName": "FELIX heerlijke duo's in gelei 12x85g"
+  },
+  {
+    "gtin": "07613035522039",
+    "productId": "189582",
+    "name": "Gold sel.fijne mousse",
+    "description": "*Voor volwassen\nkatten\n*Mousse\n*Kalkoen/zalm/\nniertjes/rund",
+    "technicalArticleNumber": "3456824",
+    "commercialArticleNumber": "50262",
+    "LongName": "GOURMET Gold sel.fijne mousse 12x85g"
+  },
+  {
+    "gtin": "07613034291103",
+    "productId": "113360",
+    "name": "Crispies met rund en kip",
+    "description": "*Voor kat",
+    "technicalArticleNumber": "3052606",
+    "commercialArticleNumber": "133073",
+    "LongName": "FELIX Crispies met rund en kip 45g"
+  },
+  {
+    "gtin": "07613035613690",
+    "productId": "39642",
+    "name": "Indoor kalkoen",
+    "description": "*Voor katten die\nbinnenshuis blijven\n*Droge voeding\n*Kalkoen",
+    "technicalArticleNumber": "1704302",
+    "commercialArticleNumber": "9701",
+    "LongName": "PURINA ONE Indoor kalkoen 800g"
+  },
+  {
+    "gtin": "05411468122541",
+    "productId": "282402",
+    "name": "gepofte rijst met groenten",
+    "technicalArticleNumber": "3657514",
+    "commercialArticleNumber": "14242",
+    "LongName": "YANA gepofte rijst met groenten 1kg"
+  },
+  {
+    "gtin": "05400141477238",
+    "productId": "859004",
+    "name": "hond rund-groenten adult",
+    "description": "*Voor volwassen\nhonden\n*Droge voeding",
+    "technicalArticleNumber": "4709308",
+    "commercialArticleNumber": "31762",
+    "LongName": "BONI hond rund-groenten adult 4kg"
+  },
+  {
+    "gtin": "08445290505330",
+    "productId": "873053",
+    "name": "Gold Delight Kip",
+    "technicalArticleNumber": "4727528",
+    "commercialArticleNumber": "24313",
+    "LongName": "GOURMET Gold Delight Kip 12x85g"
+  },
+  {
+    "gtin": "05010394985161",
+    "productId": "47180",
+    "name": "Catmilk",
+    "description": "*Voor kat\n*Laag lactosegehalte",
+    "technicalArticleNumber": "2510074",
+    "commercialArticleNumber": "819173",
+    "LongName": "WHISKAS Catmilk 3x200ml"
+  },
+  {
+    "gtin": "07613035379114",
+    "productId": "275999",
+    "name": "Dentalife Medium",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "3665500",
+    "commercialArticleNumber": "133274",
+    "LongName": "PURINA Dentalife Medium 345g"
+  },
+  {
+    "gtin": "07613035608054",
+    "productId": "840206",
+    "name": "sensitive kalkoen",
+    "description": "*Droge voeding\n*Kalkoen",
+    "technicalArticleNumber": "4684162",
+    "commercialArticleNumber": "11148",
+    "LongName": "PURINA ONE sensitive kalkoen 1,5kg"
+  },
+  {
+    "gtin": "07613039164068",
+    "productId": "612201",
+    "name": "Pouch Sensitive",
+    "description": "*Kattenvoeding\n*Nat",
+    "technicalArticleNumber": "4286037",
+    "commercialArticleNumber": "20157",
+    "LongName": "PURINA ONE Pouch Sensitive 8x85g"
+  },
+  {
+    "gtin": "07613030946021",
+    "productId": "64094",
+    "name": "Perle vis delic.",
+    "description": "*Vis in saus\n*Zeevis, garnalen/\nschol, garnalen/\nzalm, garnalen/\ntonijn, garnalen",
+    "technicalArticleNumber": "2736338",
+    "commercialArticleNumber": "40860",
+    "LongName": "GOURMET Perle vis delic. 4x85g"
+  },
+  {
+    "gtin": "04008429121975",
+    "productId": "541386",
+    "name": "sterile rund 1+",
+    "description": "*Voor volwassen\nkatten 1+\n*Natte voeding\n*Rund",
+    "technicalArticleNumber": "4165366",
+    "commercialArticleNumber": "9761",
+    "LongName": "PERFECT FIT sterile rund 1+ 750g"
+  },
+  {
+    "gtin": "05900951258572",
+    "productId": "314857",
+    "name": "Dry kip 1+",
+    "description": "*1+ jaar\n*Droge voeding\n*Kip",
+    "technicalArticleNumber": "3743660",
+    "commercialArticleNumber": "13250",
+    "LongName": "WHISKAS Dry kip 1+ 1,9kg"
+  },
+  {
+    "gtin": "04770608254254",
+    "productId": "239981",
+    "name": "mini filets saus gev. pouch",
+    "description": "*Natte voeding\n*In saus\n*Gevogelte",
+    "technicalArticleNumber": "3538198",
+    "commercialArticleNumber": "11055",
+    "LongName": "SHEBA mini filets saus gev. pouch 4x85g"
+  },
+  {
+    "gtin": "15411468101734",
+    "productId": "273925",
+    "name": "navulling poepzakjes bl-gr",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "3627931",
+    "commercialArticleNumber": "133225",
+    "LongName": "YANA navulling poepzakjes bl-gr 4x15st"
+  },
+  {
+    "gtin": "07613035692374",
+    "productId": "284286",
+    "name": "Dentalife Large",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "3665472",
+    "commercialArticleNumber": "133272",
+    "LongName": "PURINA Dentalife Large 12st"
+  },
+  {
+    "gtin": "07613287328472",
+    "productId": "757575",
+    "name": "Junior malse reepjes",
+    "description": "*Voeding voor kittens\n*Natte voeding",
+    "technicalArticleNumber": "4534010",
+    "commercialArticleNumber": "18200",
+    "LongName": "FELIX Junior malse reepjes 12x85g"
+  },
+  {
+    "gtin": "07613039167175",
+    "productId": "612191",
+    "name": "Pouch sterilcat",
+    "description": "*Voor steriele\nkatten\n*Nat",
+    "technicalArticleNumber": "4286027",
+    "commercialArticleNumber": "19862",
+    "LongName": "PURINA ONE Pouch sterilcat 8x85g"
+  },
+  {
+    "gtin": "04008239120809",
+    "productId": "53471",
+    "name": "Beefstick salami rund",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "2403943",
+    "commercialArticleNumber": "819144",
+    "LongName": "VITAKRAFT Beefstick salami rund 4st"
+  },
+  {
+    "gtin": "07613033737107",
+    "productId": "83524",
+    "name": "party mix mixed grill",
+    "description": "*Voor kat\n*Met rund/kip/zalm",
+    "technicalArticleNumber": "2995382",
+    "commercialArticleNumber": "133020",
+    "LongName": "FELIX party mix mixed grill 60g"
+  },
+  {
+    "gtin": "07613287080646",
+    "productId": "845246",
+    "name": "Revelations mousse tonijn",
+    "description": "*Kattenvoeding\n*Natte voeding",
+    "technicalArticleNumber": "4691027",
+    "commercialArticleNumber": "5858",
+    "LongName": "GOURMET Revelations mousse tonijn 4x57g"
+  },
+  {
+    "gtin": "15400141893974",
+    "productId": "124395",
+    "name": "kattenbakvulling Silica",
+    "description": "*Niet klontervormend\n*Silica gel\n*Sterk absorberend,\nlangdurige werking",
+    "technicalArticleNumber": "3206093",
+    "commercialArticleNumber": "1650",
+    "LongName": "BONI kattenbakvulling Silica 5L"
+  },
+  {
+    "gtin": "07613035379053",
+    "productId": "275984",
+    "name": "Dentalife Mini",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "3665484",
+    "commercialArticleNumber": "133273",
+    "LongName": "PURINA Dentalife Mini 345g"
+  },
+  {
+    "gtin": "07613035461703",
+    "productId": "276700",
+    "name": "Gold torentjes",
+    "description": "*Stukjes in saus",
+    "technicalArticleNumber": "3660356",
+    "commercialArticleNumber": "13659",
+    "LongName": "GOURMET Gold torentjes 12x85g"
+  },
+  {
+    "gtin": "07613039280010",
+    "productId": "620840",
+    "name": "perle gevogelte",
+    "technicalArticleNumber": "4300053",
+    "commercialArticleNumber": "23553",
+    "LongName": "GOURMET perle gevogelte 4x85g"
+  },
+  {
+    "gtin": "05400141443806",
+    "productId": "796174",
+    "name": "chicken stew",
+    "description": "*Voor volwassen\nhonden",
+    "technicalArticleNumber": "4606590",
+    "commercialArticleNumber": "29454",
+    "LongName": "BONI chicken stew 1,22kg"
+  },
+  {
+    "gtin": "03065890155336",
+    "productId": "861124",
+    "name": "vlees in saus 7+",
+    "description": "*Brokjes in saus\n*Vlees in saus\n*7+",
+    "technicalArticleNumber": "4712139",
+    "commercialArticleNumber": "18978",
+    "LongName": "WHISKAS vlees in saus 7+ 12x85g"
+  },
+  {
+    "gtin": "05998749121375",
+    "productId": "84825",
+    "name": "Snacks met rundvlees",
+    "description": "*Voor kat",
+    "technicalArticleNumber": "2987617",
+    "commercialArticleNumber": "133008",
+    "LongName": "CATISFACTIONS Snacks met rundvlees 60g"
+  },
+  {
+    "gtin": "07613287080066",
+    "productId": "705957",
+    "name": "revelation zalm",
+    "technicalArticleNumber": "4442367",
+    "commercialArticleNumber": "11713",
+    "LongName": "GOURMET revelation zalm 4x57g"
+  },
+  {
+    "gtin": "04008429104466",
+    "productId": "469688",
+    "name": "Senior Chicken",
+    "description": "*Droge voeding\n*Kip",
+    "technicalArticleNumber": "4058738",
+    "commercialArticleNumber": "6755",
+    "LongName": "PERFECT FIT Senior Chicken 1,4kg"
+  },
+  {
+    "gtin": "15400141470878",
+    "productId": "489020",
+    "name": "dental sticks maxi",
+    "technicalArticleNumber": "4039284",
+    "commercialArticleNumber": "133131",
+    "LongName": "BONI dental sticks maxi 28st"
+  },
+  {
+    "gtin": "05900951303012",
+    "productId": "861269",
+    "name": "1+ jaar Gevogelte Saus",
+    "description": "*1+ jaar\n*Natte voeding\n*In saus\n*Gevogelte",
+    "technicalArticleNumber": "4712399",
+    "commercialArticleNumber": "22046",
+    "LongName": "WHISKAS 1+ jaar Gevogelte Saus 12x85g"
+  },
+  {
+    "gtin": "07613033444845",
+    "productId": "156694",
+    "name": "snack hond Bon Bacon",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "3279093",
+    "commercialArticleNumber": "133148",
+    "LongName": "FRISKIES snack hond Bon Bacon 120g"
+  },
+  {
+    "gtin": "05998749108260",
+    "productId": "32162",
+    "name": "Dentastix M 10-25 kg",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "1666132",
+    "commercialArticleNumber": "445827",
+    "LongName": "PEDIGREE Dentastix M 10-25 kg 28st"
+  },
+  {
+    "gtin": "05411468112269",
+    "productId": "114448",
+    "name": "Pindanoten",
+    "description": "*Voor vogel",
+    "technicalArticleNumber": "3002719",
+    "commercialArticleNumber": "133030",
+    "LongName": "YANA Pindanoten 900+100g"
+  },
+  {
+    "gtin": "05400141024111",
+    "productId": "116160",
+    "name": "chicken rolls",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "3041308",
+    "commercialArticleNumber": "133064",
+    "LongName": "BONI chicken rolls 100g"
+  },
+  {
+    "gtin": "07613287328458",
+    "productId": "757889",
+    "name": "reepjes groent.gelei",
+    "description": "*Kattenvoeding\n*Natte voeding\n*Met groenten",
+    "technicalArticleNumber": "4534270",
+    "commercialArticleNumber": "18830",
+    "LongName": "FELIX reepjes groent.gelei 12x85g"
+  },
+  {
+    "gtin": "05400141819021",
+    "productId": "23122",
+    "name": "Snacks Temptations kip-kaas",
+    "description": "*Voor kat",
+    "technicalArticleNumber": "2187370",
+    "commercialArticleNumber": "819022",
+    "LongName": "WHISKAS Snacks Temptations kip-kaas"
+  },
+  {
+    "gtin": "15400141133063",
+    "productId": "115543",
+    "name": "Chicken Twists",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "3041260",
+    "commercialArticleNumber": "133060",
+    "LongName": "BONI Chicken Twists 170g"
+  },
+  {
+    "gtin": "05400141423198",
+    "productId": "2951",
+    "name": "kauwbeen 8,5 cm",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "445235",
+    "commercialArticleNumber": "445235",
+    "LongName": "BONI kauwbeen 8,5 cm 10st"
+  },
+  {
+    "gtin": "04008429035906",
+    "productId": "108286",
+    "name": "Sterile 1+ kip",
+    "description": "*Voor\ngesteriliseerde\nkatten 1+\n*Droge voeding\n*Kip",
+    "technicalArticleNumber": "3106532",
+    "commercialArticleNumber": "26749",
+    "LongName": "PERFECT FIT Sterile 1+ kip 1,4kg"
+  },
+  {
+    "gtin": "03065890133440",
+    "productId": "679943",
+    "name": "pouch",
+    "technicalArticleNumber": "4398152",
+    "commercialArticleNumber": "24549",
+    "LongName": "PEDIGREE pouch 12x100g"
+  },
+  {
+    "gtin": "05400141606034",
+    "productId": "836021",
+    "name": "mini fillets pouch",
+    "technicalArticleNumber": "4678296",
+    "commercialArticleNumber": "2188",
+    "LongName": "BONI mini fillets pouch 12x85g"
+  },
+  {
+    "gtin": "15400141895664",
+    "productId": "51086",
+    "name": "kauwvarkensoren",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "2182024",
+    "commercialArticleNumber": "819017",
+    "LongName": "BONI kauwvarkensoren 5st"
+  },
+  {
+    "gtin": "05010394984577",
+    "productId": "30245",
+    "name": "Dentastix honden 5-10 kg",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "1661096",
+    "commercialArticleNumber": "445815",
+    "LongName": "PEDIGREE Dentastix honden 5-10 kg 7st"
+  },
+  {
+    "gtin": "04008239734532",
+    "productId": "142899",
+    "name": "Liquid snacks kip",
+    "description": "*Voor kat\n*Met kip/taurine",
+    "technicalArticleNumber": "3302592",
+    "commercialArticleNumber": "133171",
+    "LongName": "VITAKRAFT Liquid snacks kip 6x15g"
+  },
+  {
+    "gtin": "05998749105306",
+    "productId": "32161",
+    "name": "Dentastix 5-10kg",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "1666081",
+    "commercialArticleNumber": "445826",
+    "LongName": "PEDIGREE Dentastix 5-10kg 28st"
+  },
+  {
+    "gtin": "07613035715639",
+    "productId": "55385",
+    "name": "snack hond Picnic Variety",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "2388291",
+    "commercialArticleNumber": "819111",
+    "LongName": "FRISKIES snack hond Picnic Variety 15st"
+  },
+  {
+    "gtin": "05400141819151",
+    "productId": "54866",
+    "name": "Premium knaagdieren",
+    "description": "*Voor knaagdier",
+    "technicalArticleNumber": "2457841",
+    "commercialArticleNumber": "819156",
+    "LongName": "YANA Premium knaagdieren 1,5kg"
+  },
+  {
+    "gtin": "07613036703277",
+    "productId": "23919",
+    "name": "hond Active rund",
+    "description": "*Voor actieve honden\n*Droge voeding\n*Vlees, chicorei\n*Bevordert de\nspijsvertering",
+    "technicalArticleNumber": "2221570",
+    "commercialArticleNumber": "1483",
+    "LongName": "FRISKIES hond Active rund 4kg"
+  },
+  {
+    "gtin": "15400141870821",
+    "productId": "2952",
+    "name": "kauwsticks",
+    "description": "*Aanvullende voeding\nvolwassen hond\n*Van buffelhuid",
+    "technicalArticleNumber": "445237",
+    "commercialArticleNumber": "445237",
+    "LongName": "BONI kauwsticks 50st"
+  },
+  {
+    "gtin": "18001154122920",
+    "productId": "872830",
+    "name": "HFC Natural Atl. Tonijn",
+    "description": "*Natte voeding\n*Tonijn",
+    "technicalArticleNumber": "4727247",
+    "commercialArticleNumber": "23804",
+    "LongName": "ALMO NATURE HFC Natural Atl. Tonijn 70g"
+  },
+  {
+    "gtin": "05998749108536",
+    "productId": "50517",
+    "name": "Snacks Temptations zalm",
+    "description": "*Voor kat",
+    "technicalArticleNumber": "2203543",
+    "commercialArticleNumber": "819026",
+    "LongName": "WHISKAS Snacks Temptations zalm 60g"
+  },
+  {
+    "gtin": "07613287762962",
+    "productId": "879045",
+    "name": "heerlijke plakjes vlees",
+    "description": "*Natte voeding",
+    "technicalArticleNumber": "4735270",
+    "commercialArticleNumber": "20278",
+    "LongName": "FELIX heerlijke plakjes vlees 12x80g"
+  },
+  {
+    "gtin": "07613287333407",
+    "productId": "836288",
+    "name": "Sélection campagne Duo",
+    "technicalArticleNumber": "4678665",
+    "commercialArticleNumber": "23649",
+    "LongName": "FELIX Sélection campagne Duo 44x85g"
+  },
+  {
+    "gtin": "08853301003506",
+    "productId": "788016",
+    "name": "kat real soup kip pouch",
+    "technicalArticleNumber": "4590844",
+    "commercialArticleNumber": "25117",
+    "LongName": "SHEBA kat real soup kip pouch 4x40g"
+  },
+  {
+    "gtin": "08001154004144",
+    "productId": "872833",
+    "name": "HFC Natural Kip Tonijn",
+    "description": "*Natte voeding\n*Kip",
+    "technicalArticleNumber": "4727250",
+    "commercialArticleNumber": "23843",
+    "LongName": "ALMO NATURE HFC Natural Kip Tonijn 70g"
+  },
+  {
+    "gtin": "04008429156564",
+    "productId": "861272",
+    "name": "mix gelei 1+",
+    "description": "*1+ jaar\n*Natte voeding\n*Gelei\n*Mix",
+    "technicalArticleNumber": "4712402",
+    "commercialArticleNumber": "22063",
+    "LongName": "WHISKAS mix gelei 1+ 40x85g"
+  },
+  {
+    "gtin": "05998749110003",
+    "productId": "18989",
+    "name": "Dentastix +25kg",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "1756589",
+    "commercialArticleNumber": "445876",
+    "LongName": "PEDIGREE Dentastix +25kg 28st"
+  },
+  {
+    "gtin": "07613037203240",
+    "productId": "840379",
+    "name": "volwas.hond gelei pouch",
+    "description": "*Volwassen honden\n*Natte voeding\n*4x rundsvlees-wortel\n*4x kip-erwten\n*4x lam-sperziebonen",
+    "technicalArticleNumber": "4684429",
+    "commercialArticleNumber": "12721",
+    "LongName": "FRISKIES volwas.hond gelei pouch 12x100g"
+  },
+  {
+    "gtin": "04008239609984",
+    "productId": "53472",
+    "name": "Beefstick kalkoen",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "2403944",
+    "commercialArticleNumber": "819145",
+    "LongName": "VITAKRAFT Beefstick kalkoen 4st"
+  },
+  {
+    "gtin": "05900951254710",
+    "productId": "463446",
+    "name": "dry adult rund & groenten",
+    "technicalArticleNumber": "3957437",
+    "commercialArticleNumber": "2256",
+    "LongName": "PEDIGREE dry adult rund & groenten 1,4kg"
+  },
+  {
+    "gtin": "07613034146663",
+    "productId": "389465",
+    "name": "mini adult",
+    "technicalArticleNumber": "3939126",
+    "commercialArticleNumber": "1336",
+    "LongName": "PURINA ONE mini adult 1,5kg"
+  },
+  {
+    "gtin": "05400141477245",
+    "productId": "859009",
+    "name": "Droge korrels gevogelt&groenten",
+    "description": "*Droge voeding\n*Kip met groenten",
+    "technicalArticleNumber": "4709313",
+    "commercialArticleNumber": "31764",
+    "LongName": "BONI Droge korrels gevogelt&groenten 4kg"
+  },
+  {
+    "gtin": "15400141193715",
+    "productId": "116034",
+    "name": "Chicken Bars",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "3041269",
+    "commercialArticleNumber": "133061",
+    "LongName": "BONI Chicken Bars 100g"
+  },
+  {
+    "gtin": "35400141610575",
+    "productId": "835305",
+    "name": "rund pasta wortel",
+    "technicalArticleNumber": "4677368",
+    "commercialArticleNumber": "12130",
+    "LongName": "PEDIGREE rund pasta wortel 800g"
+  },
+  {
+    "gtin": "07613287427823",
+    "productId": "829628",
+    "name": "Mini filets Saus Mix",
+    "technicalArticleNumber": "4668724",
+    "commercialArticleNumber": "20785",
+    "LongName": "GOURMET Mini filets Saus Mix 40x85g"
+  },
+  {
+    "gtin": "07613035066830",
+    "productId": "156698",
+    "name": "snack honden funtastix",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "3279127",
+    "commercialArticleNumber": "133149",
+    "LongName": "FRISKIES snack honden funtastix 175g"
+  },
+  {
+    "gtin": "04008429156700",
+    "productId": "861267",
+    "name": "Vlees in saus 1+",
+    "description": "*1+ jaar\n*Natte voeding\n*In saus\n*Vlees",
+    "technicalArticleNumber": "4712396",
+    "commercialArticleNumber": "22009",
+    "LongName": "WHISKAS Vlees in saus 1+ 40x85g"
+  },
+  {
+    "gtin": "04008239703163",
+    "productId": "242838",
+    "name": "Treaties bits kip/bacon",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "3545281",
+    "commercialArticleNumber": "133216",
+    "LongName": "VITAKRAFT Treaties bits kip/bacon 120g"
+  },
+  {
+    "gtin": "08001154120844",
+    "productId": "872832",
+    "name": "HFC Natural Kip Filet",
+    "description": "*Natte voeding\n*Kip",
+    "technicalArticleNumber": "4727249",
+    "commercialArticleNumber": "23840",
+    "LongName": "ALMO NATURE HFC Natural Kip Filet 70g"
+  },
+  {
+    "gtin": "05400141217896",
+    "productId": "28138",
+    "name": "Kauwbenen 13cm",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "1961458",
+    "commercialArticleNumber": "445942",
+    "LongName": "BONI Kauwbenen 13cm 10st"
+  },
+  {
+    "gtin": "05400141217933",
+    "productId": "10218",
+    "name": "Kauwbeen 11,5cm",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "1148037",
+    "commercialArticleNumber": "445409",
+    "LongName": "BONI Kauwbeen 11,5cm 5st"
+  },
+  {
+    "gtin": "07613036342896",
+    "productId": "418189",
+    "name": "Dentalife Extra mini",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "3939659",
+    "commercialArticleNumber": "133043",
+    "LongName": "PURINA Dentalife Extra mini 207g"
+  },
+  {
+    "gtin": "05400141594942",
+    "productId": "781873",
+    "name": "kat vis brokjes gelei pouch",
+    "description": "*Voor volwassen katten\n*Natte voeding\n*Vis in gelei\n*MSC & ASC\n*Pouch",
+    "technicalArticleNumber": "4578227",
+    "commercialArticleNumber": "28943",
+    "LongName": "BONI kat vis brokjes gelei pouch 12x100g"
+  },
+  {
+    "gtin": "05400141217858",
+    "productId": "28135",
+    "name": "Munchy Mix",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "1961444",
+    "commercialArticleNumber": "445937",
+    "LongName": "BONI Munchy Mix 100st"
+  },
+  {
+    "gtin": "08002205351408",
+    "productId": "159254",
+    "name": "Adult zalm",
+    "description": "*Droog\n*Zalm en volkoren\ngranen",
+    "technicalArticleNumber": "3284702",
+    "commercialArticleNumber": "26307",
+    "LongName": "PURINA ONE Adult zalm 3kg"
+  },
+  {
+    "gtin": "07610376619527",
+    "productId": "87965",
+    "name": "Catstick mini gev.-lever",
+    "description": "*Voor kat\n*Met gevogelte/lever",
+    "technicalArticleNumber": "2993738",
+    "commercialArticleNumber": "133016",
+    "LongName": "VITAKRAFT Catstick mini gev.-lever 6st"
+  },
+  {
+    "gtin": "08445290647979",
+    "productId": "892391",
+    "name": "Cat Pouch Senior",
+    "description": "*Pouch",
+    "technicalArticleNumber": "4754077",
+    "commercialArticleNumber": "1032",
+    "LongName": "PURINA ONE Cat Pouch Senior 680g"
+  },
+  {
+    "gtin": "07610376619510",
+    "productId": "87967",
+    "name": "Catstick mini kalk-lam",
+    "description": "*Voor kat",
+    "technicalArticleNumber": "2993750",
+    "commercialArticleNumber": "133018",
+    "LongName": "VITAKRAFT Catstick mini kalk-lam 6st"
+  },
+  {
+    "gtin": "04008429137679",
+    "productId": "481331",
+    "name": "Dog adult kip",
+    "technicalArticleNumber": "3993712",
+    "commercialArticleNumber": "4252",
+    "LongName": "PERFECT FIT Dog adult kip 1,4kg"
+  },
+  {
+    "gtin": "07613033937941",
+    "productId": "486289",
+    "name": "senior kip en groenten",
+    "description": "*Droge voeding\n*Kip",
+    "technicalArticleNumber": "4006677",
+    "commercialArticleNumber": "4698",
+    "LongName": "FRISKIES senior kip en groenten 3kg"
+  },
+  {
+    "gtin": "05000163042621",
+    "productId": "14551",
+    "name": "Perle minif.saus",
+    "description": "*Minifilets in saus\n*Kalkoen/konijn/\neend/lamsvlees",
+    "technicalArticleNumber": "1610986",
+    "commercialArticleNumber": "11499",
+    "LongName": "GOURMET Perle minif.saus 12x85g"
+  },
+  {
+    "gtin": "15400141610571",
+    "productId": "835605",
+    "name": "rundvlees en wortels",
+    "technicalArticleNumber": "4677872",
+    "commercialArticleNumber": "16604",
+    "LongName": "PEDIGREE rundvlees en wortels 400g"
+  },
+  {
+    "gtin": "03065890154988",
+    "productId": "861126",
+    "name": "Pouch Vis Gelei 7+",
+    "description": "*Brokjes in gelei\n*Vis",
+    "technicalArticleNumber": "4712141",
+    "commercialArticleNumber": "19322",
+    "LongName": "WHISKAS Pouch Vis Gelei 7+ 40x85g"
+  },
+  {
+    "gtin": "07613034146717",
+    "productId": "389486",
+    "name": "dog mini weight ctrl.",
+    "technicalArticleNumber": "3939150",
+    "commercialArticleNumber": "1352",
+    "LongName": "PURINA ONE dog mini weight ctrl. 1,5kg"
+  },
+  {
+    "gtin": "08710558002433",
+    "productId": "873071",
+    "name": "Kip Lever",
+    "description": "*Een premium, graanvrije natvoeding,\nmet 95% dierlijke eiwitten en met pre-\nbiotische vezels, voor een goede\nspijsvertering. De paté met kip en\nlever is compleet en uitgebalanceerd.",
+    "technicalArticleNumber": "4727554",
+    "commercialArticleNumber": "24568",
+    "LongName": "SHELMA Kip Lever 100g"
+  },
+  {
+    "gtin": "08710558002419",
+    "productId": "873070",
+    "name": "Zalm Forel",
+    "description": "*Een premium, graanvrije natvoeding,\nmet 95% dierlijke eiwitten, met pre-\nbiotische vezels, voor een goede\nspijsvertering. De paté met zalm en\nforel is compleet en uitgebalanceerd.",
+    "technicalArticleNumber": "4727551",
+    "commercialArticleNumber": "24425",
+    "LongName": "SHELMA Zalm Forel 100g"
+  },
+  {
+    "gtin": "04008239609977",
+    "productId": "55382",
+    "name": "Beefstick met wild",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "2388286",
+    "commercialArticleNumber": "819109",
+    "LongName": "VITAKRAFT Beefstick met wild 4st"
+  },
+  {
+    "gtin": "07613036142922",
+    "productId": "418981",
+    "name": "perle saus delight",
+    "description": "*Natte voeding\n*Rund, kip\n*tonijn, zalm",
+    "technicalArticleNumber": "3939879",
+    "commercialArticleNumber": "1420",
+    "LongName": "GOURMET perle saus delight 12x85g"
+  },
+  {
+    "gtin": "07610376238421",
+    "productId": "87968",
+    "name": "Catstick mini eend-konijn",
+    "description": "*Voor kat",
+    "technicalArticleNumber": "2993754",
+    "commercialArticleNumber": "133019",
+    "LongName": "VITAKRAFT Catstick mini eend-konijn 6st"
+  },
+  {
+    "gtin": "05400141434965",
+    "productId": "863088",
+    "name": "kat mousse premium",
+    "technicalArticleNumber": "4714527",
+    "commercialArticleNumber": "31899",
+    "LongName": "BONI kat mousse premium 12x85g"
+  },
+  {
+    "gtin": "03065890154957",
+    "productId": "861121",
+    "name": "gevogelte gelei 11+ pouch",
+    "description": "*Natte voeding\n*Gevogelte\n*Pouch\n*11+",
+    "technicalArticleNumber": "4712136",
+    "commercialArticleNumber": "18958",
+    "LongName": "WHISKAS gevogelte gelei 11+ pouch 12x85g"
+  },
+  {
+    "gtin": "08710558002457",
+    "productId": "873078",
+    "name": "Kip Eend",
+    "description": "*Een premium, graanvrije natvoeding,\nmet 95% dierlijke eiwitten en met pre-\nbiotische vezels, voor een goede\nspijsvertering. De paté met kip en\neend is compleet en uitgebalanceerd.",
+    "technicalArticleNumber": "4727566",
+    "commercialArticleNumber": "25043",
+    "LongName": "SHELMA Kip Eend 100g"
+  },
+  {
+    "gtin": "05400141479713",
+    "productId": "859018",
+    "name": "Droge korrels gevogel&groenten",
+    "description": "*Droge voeding\n*Kip met groenten",
+    "technicalArticleNumber": "4709325",
+    "commercialArticleNumber": "31768",
+    "LongName": "BONI Droge korrels gevogel&groenten 10kg"
+  },
+  {
+    "gtin": "18001154123088",
+    "productId": "872837",
+    "name": "HFC Natural Kip-To. Kaas",
+    "description": "*Natte voeding\n*Tonijn, Kip, Kaas",
+    "technicalArticleNumber": "4727254",
+    "commercialArticleNumber": "23946",
+    "LongName": "ALMO NATURE HFC Natural Kip-To. Kaas 70g"
+  },
+  {
+    "gtin": "05410216046061",
+    "productId": "30246",
+    "name": "Dentastix honden 10-25 kg",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "1661098",
+    "commercialArticleNumber": "445816",
+    "LongName": "PEDIGREE Dentastix honden 10-25 kg 7st"
+  },
+  {
+    "gtin": "15400141477228",
+    "productId": "859013",
+    "name": "zachte brokjes gevogelte",
+    "description": "*Droge voeding\n*Gevogelte\n*Zachte brokken",
+    "technicalArticleNumber": "4709318",
+    "commercialArticleNumber": "31767",
+    "LongName": "BONI zachte brokjes gevogelte 4kg"
+  },
+  {
+    "gtin": "07613036711999",
+    "productId": "611785",
+    "name": "Play Tubes Kalkoen Ham",
+    "description": "*Voor kat\n*Met kalkoen-ham",
+    "technicalArticleNumber": "4285498",
+    "commercialArticleNumber": "133127",
+    "LongName": "FELIX Play Tubes Kalkoen Ham 180g"
+  },
+  {
+    "gtin": "04770608261290",
+    "productId": "679940",
+    "name": "pouch assorti",
+    "technicalArticleNumber": "4398149",
+    "commercialArticleNumber": "24548",
+    "LongName": "SHEBA pouch assorti 6x50g"
+  },
+  {
+    "gtin": "03065890097049",
+    "productId": "45889",
+    "name": "mini filets traiteur pouch",
+    "description": "*Voor volwassen\nkatten\n*Vlees in gelei\n*Rund/konijn/kip/\nkalkoen",
+    "technicalArticleNumber": "2492200",
+    "commercialArticleNumber": "39485",
+    "LongName": "SHEBA mini filets traiteur pouch 12x85g"
+  },
+  {
+    "gtin": "05998749109113",
+    "productId": "32164",
+    "name": "Dentastix honden +25 kg",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "1666175",
+    "commercialArticleNumber": "445828",
+    "LongName": "PEDIGREE Dentastix honden +25 kg 7st"
+  },
+  {
+    "gtin": "05400141218435",
+    "productId": "28136",
+    "name": "kauwbenen 21 cm",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "1961449",
+    "commercialArticleNumber": "445939",
+    "LongName": "BONI kauwbenen 21 cm 3st"
+  },
+  {
+    "gtin": "07613031466009",
+    "productId": "845229",
+    "name": "Mini filets Groenten Saus",
+    "description": "*Kattenvoeding\n*Natte voeding\n*Stukjes in saus\n*Met kalf en groenten\n*Pouch",
+    "technicalArticleNumber": "4691007",
+    "commercialArticleNumber": "5739",
+    "LongName": "GOURMET Mini filets Groenten Saus 12x85g"
+  },
+  {
+    "gtin": "03065890153646",
+    "productId": "861120",
+    "name": "mix gelei 1+ pouch",
+    "description": "*Natte voeding\n*Mix\n*Pouch\n*1+",
+    "technicalArticleNumber": "4712135",
+    "commercialArticleNumber": "18921",
+    "LongName": "WHISKAS mix gelei 1+ pouch 12x85g"
+  },
+  {
+    "gtin": "28595606407026",
+    "productId": "873083",
+    "name": "Adult Sterilized Vers Rund",
+    "description": "*Een premium, graanvrije droogvoeding,\nrijk aan dierlijke eiwitten. De\nvoeding is bereid met verse rund. Ook\ngeschikt voor gecastreerde katten.\nOndersteunt een optimale vitaliteit.",
+    "technicalArticleNumber": "4727572",
+    "commercialArticleNumber": "25078",
+    "LongName": "SHELMA Adult Sterilized Vers Rund 1,4kg"
+  },
+  {
+    "gtin": "03065890039896",
+    "productId": "14217",
+    "name": "Adult rundsvlees",
+    "description": "*Voor volwassen\nhonden\n*Droge voeding\n*Rundsvlees",
+    "technicalArticleNumber": "1606461",
+    "commercialArticleNumber": "11498",
+    "LongName": "PEDIGREE Adult rundsvlees 3kg"
+  },
+  {
+    "gtin": "04008429137624",
+    "productId": "622387",
+    "name": "Dog dry Senior kip",
+    "technicalArticleNumber": "4302876",
+    "commercialArticleNumber": "23655",
+    "LongName": "PERFECT FIT Dog dry Senior kip 1,4kg"
+  },
+  {
+    "gtin": "15400141871330",
+    "productId": "162516",
+    "name": "schelpenzand",
+    "description": "*Voor kooi van vogel",
+    "technicalArticleNumber": "3254382",
+    "commercialArticleNumber": "133146",
+    "LongName": "BONI schelpenzand 5kg"
+  },
+  {
+    "gtin": "08001154002508",
+    "productId": "872794",
+    "name": "HFC Compl. Lam Wortel",
+    "description": "*Natte voeding\n*Lam met wortel",
+    "technicalArticleNumber": "4727209",
+    "commercialArticleNumber": "23473",
+    "LongName": "ALMO NATURE HFC Compl. Lam Wortel 85g"
+  },
+  {
+    "gtin": "15400141710073",
+    "productId": "865265",
+    "name": "Kip+superfoods GF",
+    "technicalArticleNumber": "4717315",
+    "commercialArticleNumber": "2753",
+    "LongName": "BONI Kip+superfoods GF 1kg"
+  },
+  {
+    "gtin": "05400141218428",
+    "productId": "10219",
+    "name": "kauwbenen 18cm",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "1148041",
+    "commercialArticleNumber": "445411",
+    "LongName": "BONI kauwbenen 18cm 3st"
+  },
+  {
+    "gtin": "08711984300254",
+    "productId": "45279",
+    "name": "Weidehooi",
+    "description": "*Voor knaagdier",
+    "technicalArticleNumber": "2498914",
+    "commercialArticleNumber": "819169",
+    "LongName": "PET'S OWN CHOICE Weidehooi 2,5kg"
+  },
+  {
+    "gtin": "18001154002512",
+    "productId": "872802",
+    "name": "HFC Compl. Angus Bonen",
+    "description": "*Natte voeding\n*Rund bonen",
+    "technicalArticleNumber": "4727217",
+    "commercialArticleNumber": "23474",
+    "LongName": "ALMO NATURE HFC Compl. Angus Bonen 85g"
+  },
+  {
+    "gtin": "05060184243445",
+    "productId": "873546",
+    "name": "Catch of the Day",
+    "description": "*Catch of the Day",
+    "technicalArticleNumber": "4728441",
+    "commercialArticleNumber": "31969",
+    "LongName": "LILY'S KITCHEN Catch of the Day 85g"
+  },
+  {
+    "gtin": "05060184243346",
+    "productId": "873876",
+    "name": "Organic Rund",
+    "technicalArticleNumber": "4728624",
+    "commercialArticleNumber": "32032",
+    "LongName": "LILY'S KITCHEN Organic Rund 85g"
+  },
+  {
+    "gtin": "08001154002539",
+    "productId": "872809",
+    "name": "HFC Complete Ham Erwten",
+    "description": "*Natte voeding\n*Ham erwten",
+    "technicalArticleNumber": "4727225",
+    "commercialArticleNumber": "23594",
+    "LongName": "ALMO NATURE HFC Complete Ham Erwten 85g"
+  },
+  {
+    "gtin": "18001154002529",
+    "productId": "872805",
+    "name": "HFC Compl. Kip Courgette",
+    "description": "*Natte voeding\n*Kip courgette",
+    "technicalArticleNumber": "4727221",
+    "commercialArticleNumber": "23522",
+    "LongName": "ALMO NATURE HFC Compl. Kip Courgette 85g"
+  },
+  {
+    "gtin": "15400141459446",
+    "productId": "28139",
+    "name": "kauwbeen 7 cm",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "1961463",
+    "commercialArticleNumber": "445944",
+    "LongName": "BONI kauwbeen 7 cm 8st"
+  },
+  {
+    "gtin": "08595606407039",
+    "productId": "873102",
+    "name": "Adult sterilized vers zalm",
+    "description": "*Een premium, graanvrije droogvoeding,\nrijk aan dierlijke eiwitten. De\nvoeding is bereid met verse zalm. Ook\ngeschikt voor gecastreerde katten.\nOndersteunt een optimale vitaliteit.",
+    "technicalArticleNumber": "4727593",
+    "commercialArticleNumber": "25090",
+    "LongName": "SHELMA Adult sterilized vers zalm 1,4kg"
+  },
+  {
+    "gtin": "04008429163319",
+    "productId": "463453",
+    "name": "dry adult kip & groenten",
+    "technicalArticleNumber": "3957444",
+    "commercialArticleNumber": "2258",
+    "LongName": "PEDIGREE dry adult kip & groenten 1,4kg"
+  },
+  {
+    "gtin": "05060184240109",
+    "productId": "873477",
+    "name": "Kip Kalkoen",
+    "technicalArticleNumber": "4728368",
+    "commercialArticleNumber": "31197",
+    "LongName": "LILY'S KITCHEN Kip Kalkoen 400g"
+  },
+  {
+    "gtin": "25400141605352",
+    "productId": "782439",
+    "name": "kat vis reepjes gelei pouch",
+    "description": "*Volwassen katten\n*Natte voeding\n*Vis in gelei\n*MSC & ASC\n*Pouch",
+    "technicalArticleNumber": "4579552",
+    "commercialArticleNumber": "2096",
+    "LongName": "BONI kat vis reepjes gelei pouch 12x85g"
+  },
+  {
+    "gtin": "05060184243438",
+    "productId": "873917",
+    "name": "Classic Kip",
+    "technicalArticleNumber": "4728667",
+    "commercialArticleNumber": "32037",
+    "LongName": "LILY'S KITCHEN Classic Kip 85g"
+  },
+  {
+    "gtin": "04770608263348",
+    "productId": "890381",
+    "name": "Nature Collection Mix",
+    "description": "*Natte voeding\n*Pouch",
+    "technicalArticleNumber": "4751116",
+    "commercialArticleNumber": "9855",
+    "LongName": "SHEBA Nature Collection Mix 12x85g"
+  },
+  {
+    "gtin": "05400141433258",
+    "productId": "865269",
+    "name": "zalm+superfoods GF",
+    "technicalArticleNumber": "4717321",
+    "commercialArticleNumber": "2915",
+    "LongName": "BONI zalm+superfoods GF 1kg"
+  },
+  {
+    "gtin": "04770608257729",
+    "productId": "519480",
+    "name": "mini gevogelte pouch",
+    "description": "*Natte voeding\n*Gevogelte\n*Pouch",
+    "technicalArticleNumber": "4102701",
+    "commercialArticleNumber": "3937",
+    "LongName": "SHEBA mini gevogelte pouch 15x50g"
+  },
+  {
+    "gtin": "05060184243919",
+    "productId": "873486",
+    "name": "Organic kip",
+    "description": "*organic kip",
+    "technicalArticleNumber": "4728377",
+    "commercialArticleNumber": "31209",
+    "LongName": "LILY'S KITCHEN Organic kip 85g"
+  },
+  {
+    "gtin": "05411468046397",
+    "productId": "265505",
+    "name": "snack chips kip",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "3627954",
+    "commercialArticleNumber": "133226",
+    "LongName": "YANA snack chips kip 110g"
+  },
+  {
+    "gtin": "08410136026393",
+    "productId": "862493",
+    "name": "1+ jaar | Gevogelte",
+    "description": "*Voor volwassen katten\n*Natte voeding",
+    "technicalArticleNumber": "4713847",
+    "commercialArticleNumber": "31867",
+    "LongName": "WHISKAS 1+ jaar | Gevogelte 40x85g"
+  },
+  {
+    "gtin": "08711984100250",
+    "productId": "45281",
+    "name": "Houtvezel",
+    "description": "*Voor knaagdier",
+    "technicalArticleNumber": "2498918",
+    "commercialArticleNumber": "819170",
+    "LongName": "PET'S OWN CHOICE Houtvezel 2,5kg"
+  },
+  {
+    "gtin": "25411468114366",
+    "productId": "54859",
+    "name": "Premium kanarievoer",
+    "description": "*Voor vogel",
+    "technicalArticleNumber": "2457786",
+    "commercialArticleNumber": "819149",
+    "LongName": "YANA Premium kanarievoer 1kg"
+  },
+  {
+    "gtin": "07613036120395",
+    "productId": "422612",
+    "name": "med/maxi adult rund",
+    "description": "*Droge voeding\n*Rund",
+    "technicalArticleNumber": "3940731",
+    "commercialArticleNumber": "1253",
+    "LongName": "PURINA ONE med/maxi adult rund 2,5kg"
+  },
+  {
+    "gtin": "05411468046380",
+    "productId": "358982",
+    "name": "Italiaanse hambeen medium",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "3799223",
+    "commercialArticleNumber": "133117",
+    "LongName": "YANA Italiaanse hambeen medium"
+  },
+  {
+    "gtin": "15400141433231",
+    "productId": "863075",
+    "name": "kat saus premium",
+    "technicalArticleNumber": "4714507",
+    "commercialArticleNumber": "31897",
+    "LongName": "BONI kat saus premium 12x85g"
+  },
+  {
+    "gtin": "08001154002546",
+    "productId": "872840",
+    "name": "HFC Compl. Koolvis",
+    "description": "*Natte voeding\n*Koolvis",
+    "technicalArticleNumber": "4727257",
+    "commercialArticleNumber": "23951",
+    "LongName": "ALMO NATURE HFC Compl. Koolvis 85g"
+  },
+  {
+    "gtin": "05411468190601",
+    "productId": "842867",
+    "name": "kattenbakvulling",
+    "description": "*100% Ecologisch en plantaardig\n*Klontervormend\n*Zéér hoge absorptie van vocht, geuren\n*Composteerbaar\n*110% Co2 compensatie",
+    "technicalArticleNumber": "4687917",
+    "commercialArticleNumber": "30628",
+    "LongName": "YANA kattenbakvulling 8L"
+  },
+  {
+    "gtin": "04770608263454",
+    "productId": "890418",
+    "name": "Nature Collection Gevogelte",
+    "description": "*Natte voeding\n*Pouch",
+    "technicalArticleNumber": "4751155",
+    "commercialArticleNumber": "10092",
+    "LongName": "SHEBA Nature Collection Gevogelte 12x85g"
+  },
+  {
+    "gtin": "18001154123118",
+    "productId": "872858",
+    "name": "HFC Kitten Kip",
+    "description": "*Droge voeding\n*Kip",
+    "technicalArticleNumber": "4727275",
+    "commercialArticleNumber": "24181",
+    "LongName": "ALMO NATURE HFC Kitten Kip 70g"
+  },
+  {
+    "gtin": "05411468125986",
+    "productId": "188615",
+    "name": "kattenbakontgeurder eucalyptus",
+    "description": "*Ontgeurend\n*Met eucalyptus\n*Fresh&Happy",
+    "technicalArticleNumber": "3467137",
+    "commercialArticleNumber": "133202",
+    "LongName": "YANA kattenbakontgeurder eucalyptus 900g"
+  },
+  {
+    "gtin": "05060184240123",
+    "productId": "878086",
+    "name": "Cottage Pie Tin",
+    "technicalArticleNumber": "4734109",
+    "commercialArticleNumber": "15349",
+    "LongName": "LILY'S KITCHEN Cottage Pie Tin 400g"
+  },
+  {
+    "gtin": "05411468114621",
+    "productId": "121235",
+    "name": "Premium konijnenmengeling",
+    "description": "*Voor konijn",
+    "technicalArticleNumber": "3038981",
+    "commercialArticleNumber": "133056",
+    "LongName": "YANA Premium konijnenmengeling 2kg"
+  },
+  {
+    "gtin": "05060184240468",
+    "productId": "873904",
+    "name": "Wild Campfire Stew",
+    "description": "*Wild Campfire Stew",
+    "technicalArticleNumber": "4728654",
+    "commercialArticleNumber": "32035",
+    "LongName": "LILY'S KITCHEN Wild Campfire Stew 400g"
+  },
+  {
+    "gtin": "05400141254334",
+    "productId": "2948",
+    "name": "Kauwbeen 32 cm",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "445228",
+    "commercialArticleNumber": "445228",
+    "LongName": "BONI Kauwbeen 32 cm 0,32m"
+  },
+  {
+    "gtin": "04008239234193",
+    "productId": "83760",
+    "name": "Beefstick XXL kalkoen",
+    "description": "*Voor hond\n*Met kalkoen",
+    "technicalArticleNumber": "2966727",
+    "commercialArticleNumber": "133005",
+    "LongName": "VITAKRAFT Beefstick XXL kalkoen 1st"
+  },
+  {
+    "gtin": "05400141477160",
+    "productId": "860166",
+    "name": "saus lam+superf.gf",
+    "description": "*Voor honden\n*Saus\n*Lam\n*+Superfoods",
+    "technicalArticleNumber": "4710896",
+    "commercialArticleNumber": "5680",
+    "LongName": "BONI saus lam+superf.gf 370g"
+  },
+  {
+    "gtin": "15411468114451",
+    "productId": "54862",
+    "name": "Premium grote parkiet",
+    "description": "*Voor vogel",
+    "technicalArticleNumber": "2457797",
+    "commercialArticleNumber": "819151",
+    "LongName": "YANA Premium grote parkiet 1kg"
+  },
+  {
+    "gtin": "18595606406756",
+    "productId": "873111",
+    "name": "Vlees&Vis in Saus",
+    "description": "*Shelma filets saus\nmet kip, rund, zalm\nen kabeljauw.\nOok geschikt voor\ngecastreerde katten.",
+    "technicalArticleNumber": "4727609",
+    "commercialArticleNumber": "25102",
+    "LongName": "SHELMA Vlees&Vis in Saus 12x85g"
+  },
+  {
+    "gtin": "04008239207005",
+    "productId": "4891",
+    "name": "Krachtvoeder goudvissen",
+    "description": "*Voor vis",
+    "technicalArticleNumber": "264979",
+    "commercialArticleNumber": "264979",
+    "LongName": "VITAKRAFT Krachtvoeder goudvissen 250ml"
+  },
+  {
+    "gtin": "25411468114397",
+    "productId": "54861",
+    "name": "Premium parkiet",
+    "description": "*Voor vogel",
+    "technicalArticleNumber": "2457792",
+    "commercialArticleNumber": "819150",
+    "LongName": "YANA Premium parkiet 1kg"
+  },
+  {
+    "gtin": "05400141254297",
+    "productId": "51084",
+    "name": "kauwvarkensneuzen",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "2182015",
+    "commercialArticleNumber": "819013",
+    "LongName": "BONI kauwvarkensneuzen 4st"
+  },
+  {
+    "gtin": "05400141477184",
+    "productId": "860149",
+    "name": "gelei kip gf",
+    "description": "*Voor honden\n*Gelei\n*Kip\n*+Superfoods",
+    "technicalArticleNumber": "4710874",
+    "commercialArticleNumber": "5103",
+    "LongName": "BONI gelei kip gf 380g"
+  },
+  {
+    "gtin": "04008239252272",
+    "productId": "9646",
+    "name": "crackers konijn groenten",
+    "description": "*Voor konijn\n*Met\nnoot/fruit/groenten",
+    "technicalArticleNumber": "1150628",
+    "commercialArticleNumber": "445467",
+    "LongName": "VITAKRAFT crackers konijn groenten 3st"
+  },
+  {
+    "gtin": "18001154120766",
+    "productId": "872773",
+    "name": "HFC Natural Kip Filet",
+    "description": "*Natte voeding\n*Kip",
+    "technicalArticleNumber": "4727187",
+    "commercialArticleNumber": "23410",
+    "LongName": "ALMO NATURE HFC Natural Kip Filet 95g"
+  },
+  {
+    "gtin": "05060184246187",
+    "productId": "873681",
+    "name": "Classic Dinners",
+    "technicalArticleNumber": "4728216",
+    "commercialArticleNumber": "30186",
+    "LongName": "LILY'S KITCHEN Classic Dinners 6x150g"
+  },
+  {
+    "gtin": "18001154124252",
+    "productId": "872778",
+    "name": "HFC Natural Rund Ham",
+    "description": "*Natte voeding\n*Rund ham",
+    "technicalArticleNumber": "4727193",
+    "commercialArticleNumber": "23432",
+    "LongName": "ALMO NATURE HFC Natural Rund Ham 95g"
+  },
+  {
+    "gtin": "18001154124269",
+    "productId": "872774",
+    "name": "HFC Natural Kalf",
+    "description": "*Natte voeding\n*Kalf",
+    "technicalArticleNumber": "4727189",
+    "commercialArticleNumber": "23369",
+    "LongName": "ALMO NATURE HFC Natural Kalf 95g"
+  },
+  {
+    "gtin": "15400141477174",
+    "productId": "860175",
+    "name": "saus zalm gf",
+    "description": "*Voor honden\n*Zalm\n*+Superfoods",
+    "technicalArticleNumber": "4710905",
+    "commercialArticleNumber": "5718",
+    "LongName": "BONI saus zalm gf 370g"
+  },
+  {
+    "gtin": "18595606406763",
+    "productId": "873114",
+    "name": "Vlees in Saus",
+    "description": "*Shelma filets in saus met kip, rund\nkalkoen en eend is een premium,\ngraanvrije natvoeding. Rijk aan\ndierlijk eiwit. Ook geschikt voor\ngecastreerde katten.",
+    "technicalArticleNumber": "4727617",
+    "commercialArticleNumber": "25126",
+    "LongName": "SHELMA Vlees in Saus 12x85g"
+  },
+  {
+    "gtin": "05060184243971",
+    "productId": "873515",
+    "name": "Everyday Favourites",
+    "description": "*Everyday Favourites\n*8x85g",
+    "technicalArticleNumber": "4728406",
+    "commercialArticleNumber": "31527",
+    "LongName": "LILY'S KITCHEN Everyday Favourites 8x85g"
+  },
+  {
+    "gtin": "28595606405305",
+    "productId": "873080",
+    "name": "Kitten vers gevogelte",
+    "description": "*Een premium, graanvrije droogvoeding,\nrijk aan dierlijke eiwitten. De\nvoeding is bereid met verse kalkoen.\nGeschikt voor kittens. Ondersteunt\nde vitaliteit en het welzijn.",
+    "technicalArticleNumber": "4727569",
+    "commercialArticleNumber": "25045",
+    "LongName": "SHELMA Kitten vers gevogelte 750g"
+  },
+  {
+    "gtin": "08001154124293",
+    "productId": "872782",
+    "name": "HFC Natural Kip Filet",
+    "description": "*Natte voeding\n*Kip",
+    "technicalArticleNumber": "4727197",
+    "commercialArticleNumber": "23454",
+    "LongName": "ALMO NATURE HFC Natural Kip Filet 280g"
+  },
+  {
+    "gtin": "15400141870814",
+    "productId": "2953",
+    "name": "kauwschoentjes",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "445250",
+    "commercialArticleNumber": "445250",
+    "LongName": "BONI kauwschoentjes 5st"
+  },
+  {
+    "gtin": "04008239212290",
+    "productId": "4885",
+    "name": "Crackers voor kanaries",
+    "description": "*Voor vogel\n*Met honing/ei/fruit",
+    "technicalArticleNumber": "264262",
+    "commercialArticleNumber": "264262",
+    "LongName": "VITAKRAFT Crackers voor kanaries 2x3st"
+  },
+  {
+    "gtin": "05400141710083",
+    "productId": "865272",
+    "name": "lam + superfoods GF",
+    "technicalArticleNumber": "4717326",
+    "commercialArticleNumber": "3022",
+    "LongName": "BONI lam + superfoods GF 1,5kg"
+  },
+  {
+    "gtin": "05400141454338",
+    "productId": "10221",
+    "name": "kauwbenen 27cm",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "1148098",
+    "commercialArticleNumber": "445433",
+    "LongName": "BONI kauwbenen 27cm 3st"
+  },
+  {
+    "gtin": "05400141710090",
+    "productId": "865273",
+    "name": "zalm + superfoods GF",
+    "technicalArticleNumber": "4717327",
+    "commercialArticleNumber": "3033",
+    "LongName": "BONI zalm + superfoods GF 1,5kg"
+  },
+  {
+    "gtin": "18001154125266",
+    "productId": "872827",
+    "name": "HFC Jelly Ton. Ass.",
+    "description": "*Natte voeding\n*Tonijn",
+    "technicalArticleNumber": "4727244",
+    "commercialArticleNumber": "23775",
+    "LongName": "ALMO NATURE HFC Jelly Ton. Ass. 6x55g"
+  },
+  {
+    "gtin": "07613036514422",
+    "productId": "506454",
+    "name": "med.maxi Weight Control",
+    "technicalArticleNumber": "4082921",
+    "commercialArticleNumber": "7740",
+    "LongName": "PURINA ONE med.maxi Weight Control 2,5kg"
+  },
+  {
+    "gtin": "18001154125259",
+    "productId": "872823",
+    "name": "HFC Natural Kip Ass.",
+    "description": "*Natte voeding\n*Kip",
+    "technicalArticleNumber": "4727240",
+    "commercialArticleNumber": "23772",
+    "LongName": "ALMO NATURE HFC Natural Kip Ass. 6x55g"
+  },
+  {
+    "gtin": "04008239253385",
+    "productId": "9644",
+    "name": "crackers konijn met honing",
+    "description": "*Voor konijn",
+    "technicalArticleNumber": "1150625",
+    "commercialArticleNumber": "445465",
+    "LongName": "VITAKRAFT crackers konijn met honing 3st"
+  },
+  {
+    "gtin": "04008239212313",
+    "productId": "4884",
+    "name": "Crackers cockt. parkiet",
+    "description": "*Voor vogel\n*Met honing/ei/fruit",
+    "technicalArticleNumber": "264261",
+    "commercialArticleNumber": "264261",
+    "LongName": "VITAKRAFT Crackers cockt. parkiet 2x3st"
+  },
+  {
+    "gtin": "18595606407135",
+    "productId": "1021534",
+    "name": "Kat kip-rund-eend-kalkoen",
+    "description": "*Voor kat\n*Pouch\n*Met kip/rund/eend/kalkoen\n*24x85g",
+    "technicalArticleNumber": "4790438",
+    "commercialArticleNumber": "31913",
+    "LongName": "SHELMA Kat kip-rund-eend-kalkoen 24x85g"
+  },
+  {
+    "gtin": "05060184243384",
+    "productId": "873459",
+    "name": "Adult Kip",
+    "technicalArticleNumber": "4728349",
+    "commercialArticleNumber": "30733",
+    "LongName": "LILY'S KITCHEN Adult Kip 800g"
+  },
+  {
+    "gtin": "08001154124354",
+    "productId": "872787",
+    "name": "HFC Natural Kalf Ham",
+    "description": "*Natte voeding\n*Kalf",
+    "technicalArticleNumber": "4727202",
+    "commercialArticleNumber": "23460",
+    "LongName": "ALMO NATURE HFC Natural Kalf Ham 290g"
+  },
+  {
+    "gtin": "05056273603252",
+    "productId": "873557",
+    "name": "Tasty Cuts in Saus",
+    "description": "*Tasty Cuts in Saus\n*8x85g",
+    "technicalArticleNumber": "4728455",
+    "commercialArticleNumber": "32031",
+    "LongName": "LILY'S KITCHEN Tasty Cuts in Saus 8x85g"
+  },
+  {
+    "gtin": "05411468120493",
+    "productId": "54865",
+    "name": "Premium Cavia mengeling",
+    "description": "*Voor cavia",
+    "technicalArticleNumber": "2457833",
+    "commercialArticleNumber": "819155",
+    "LongName": "YANA Premium Cavia mengeling 500g"
+  },
+  {
+    "gtin": "05411468120479",
+    "productId": "54863",
+    "name": "Premium papegaai",
+    "description": "*Voor vogel",
+    "technicalArticleNumber": "2457807",
+    "commercialArticleNumber": "819152",
+    "LongName": "YANA Premium papegaai 700g"
+  },
+  {
+    "gtin": "05056273605645",
+    "productId": "873651",
+    "name": "Organic Paté",
+    "technicalArticleNumber": "4728170",
+    "commercialArticleNumber": "30053",
+    "LongName": "LILY'S KITCHEN Organic Paté 8x85g"
+  },
+  {
+    "gtin": "04008239250520",
+    "productId": "6573",
+    "name": "schildpadvoer",
+    "description": "*Voor schildpad\n*Met gedroogde\ninsectenresten",
+    "technicalArticleNumber": "139298",
+    "commercialArticleNumber": "139298",
+    "LongName": "VITAKRAFT schildpadvoer 250ml"
+  },
+  {
+    "gtin": "04008239252265",
+    "productId": "9645",
+    "name": "crackers voor cavia's",
+    "description": "*Voor cavia",
+    "technicalArticleNumber": "1150626",
+    "commercialArticleNumber": "445466",
+    "LongName": "VITAKRAFT crackers voor cavia's 3st"
+  },
+  {
+    "gtin": "04008239212658",
+    "productId": "4886",
+    "name": "crackers met ei",
+    "description": "*Voor vogel",
+    "technicalArticleNumber": "264268",
+    "commercialArticleNumber": "264268",
+    "LongName": "VITAKRAFT crackers met ei 2x2st"
+  },
+  {
+    "gtin": "04008239206596",
+    "productId": "4890",
+    "name": "Premium Vita flakes",
+    "description": "*Voor vis",
+    "technicalArticleNumber": "264977",
+    "commercialArticleNumber": "264977",
+    "LongName": "VITAKRAFT Premium Vita flakes 250ml"
+  },
+  {
+    "gtin": "05056273602132",
+    "productId": "873903",
+    "name": "Shredded Fillets",
+    "description": "*Shredded Fillets",
+    "technicalArticleNumber": "4728653",
+    "commercialArticleNumber": "32033",
+    "LongName": "LILY'S KITCHEN Shredded Fillets 8x70g"
+  },
+  {
+    "gtin": "05060184240512",
+    "productId": "873762",
+    "name": "Adult Kip Eend",
+    "technicalArticleNumber": "4728319",
+    "commercialArticleNumber": "30708",
+    "LongName": "LILY'S KITCHEN Adult Kip Eend 1kg"
+  },
+  {
+    "gtin": "18001154002949",
+    "productId": "872821",
+    "name": "HFC Adult Ster. Kip",
+    "description": "*Natte voeding\n*Kip",
+    "technicalArticleNumber": "4727238",
+    "commercialArticleNumber": "23734",
+    "LongName": "ALMO NATURE HFC Adult Ster. Kip 300g"
+  },
+  {
+    "gtin": "05411468114577",
+    "productId": "54864",
+    "name": "Premium hamster",
+    "description": "*Voor hamster",
+    "technicalArticleNumber": "2457823",
+    "commercialArticleNumber": "819154",
+    "LongName": "YANA Premium hamster 800g"
+  },
+  {
+    "gtin": "05060184241144",
+    "productId": "873521",
+    "name": "Adult Lam",
+    "technicalArticleNumber": "4728412",
+    "commercialArticleNumber": "31537",
+    "LongName": "LILY'S KITCHEN Adult Lam 1kg"
+  },
+  {
+    "gtin": "18001154002925",
+    "productId": "872812",
+    "name": "HFC Adult Ster. Zalm",
+    "description": "*Natte voeding\n*Zalm",
+    "technicalArticleNumber": "4727228",
+    "commercialArticleNumber": "23628",
+    "LongName": "ALMO NATURE HFC Adult Ster. Zalm 300g"
+  },
+  {
+    "gtin": "05060184243360",
+    "productId": "873538",
+    "name": "Adult Zalm Witte Vis",
+    "description": "*Zalm Witte Vis",
+    "technicalArticleNumber": "4728432",
+    "commercialArticleNumber": "31795",
+    "LongName": "LILY'S KITCHEN Adult Zalm Witte Vis 800g"
+  },
+  {
+    "gtin": "35411468050029",
+    "productId": "249084",
+    "name": "dispenser poepzakjes",
+    "description": "*Voor hond",
+    "technicalArticleNumber": "3603233",
+    "commercialArticleNumber": "133059",
+    "LongName": "YANA dispenser poepzakjes 2x15st"
+  },
+  {
+    "gtin": "05060184240499",
+    "productId": "873340",
+    "name": "Eend, Zalm & Wild",
+    "description": "*Eend, zalm en wild",
+    "technicalArticleNumber": "4727814",
+    "commercialArticleNumber": "26477",
+    "LongName": "LILY'S KITCHEN Eend, Zalm & Wild 1kg"
+  },
+  {
+    "gtin": "05411468134155",
+    "productId": "297199",
+    "name": "zakjes kattenbak L",
+    "technicalArticleNumber": "3724677",
+    "commercialArticleNumber": "133295",
+    "LongName": "YANA zakjes kattenbak L 40st"
+  },
+  {
+    "gtin": "08001154002751",
+    "productId": "872760",
+    "name": "HFC Adult Kip XS-S",
+    "description": "*Droge voeding\n*Kip",
+    "technicalArticleNumber": "4727173",
+    "commercialArticleNumber": "23316",
+    "LongName": "ALMO NATURE HFC Adult Kip XS-S 1,2kg"
+  },
+  {
+    "gtin": "05400141609349",
+    "productId": "861010",
+    "name": "Kip+ superfoods grainfree",
+    "description": "*Voor honden\n*Kip\n*+Superfoods\n*Grain free",
+    "technicalArticleNumber": "4711986",
+    "commercialArticleNumber": "16445",
+    "LongName": "BONI Kip+ superfoods grainfree 5kg"
+  },
+  {
+    "gtin": "08001154002904",
+    "productId": "872854",
+    "name": "HFC Kitten Kip",
+    "description": "*Droge voeding\n*Kip",
+    "technicalArticleNumber": "4727271",
+    "commercialArticleNumber": "24163",
+    "LongName": "ALMO NATURE HFC Kitten Kip 300g"
+  },
+  {
+    "gtin": "05060184243421",
+    "productId": "873553",
+    "name": "Kitten Kip Vis",
+    "description": "*Kitten Kip Vis",
+    "technicalArticleNumber": "4728450",
+    "commercialArticleNumber": "32029",
+    "LongName": "LILY'S KITCHEN Kitten Kip Vis 800g"
+  },
+  {
+    "gtin": "18001154003069",
+    "productId": "872850",
+    "name": "HFC Puppy Kip M-L",
+    "description": "*Natte voeding\n*Kip",
+    "technicalArticleNumber": "4727267",
+    "commercialArticleNumber": "24126",
+    "LongName": "ALMO NATURE HFC Puppy Kip M-L 1,2kg"
+  },
+  {
+    "gtin": "05060184240895",
+    "productId": "881910",
+    "name": "Puppy Kip Zalm",
+    "description": "*Puppy Kip Zalm",
+    "technicalArticleNumber": "4739393",
+    "commercialArticleNumber": "5460",
+    "LongName": "LILY'S KITCHEN Puppy Kip Zalm 1kg"
+  },
+  {
+    "gtin": "08001154002805",
+    "productId": "872766",
+    "name": "HFC Adult Vark M-L",
+    "description": "*Droge voeding\n*Varken",
+    "technicalArticleNumber": "4727179",
+    "commercialArticleNumber": "23353",
+    "LongName": "ALMO NATURE HFC Adult Vark M-L 1,2kg"
+  },
+  {
+    "gtin": "08001154002737",
+    "productId": "872754",
+    "name": "HFC Adult Zalm XS-S",
+    "description": "*Droge voeding\n*Zalm",
+    "technicalArticleNumber": "4727167",
+    "commercialArticleNumber": "23286",
+    "LongName": "ALMO NATURE HFC Adult Zalm XS-S 1,2kg"
+  },
+  {
+    "gtin": "08595606406773",
+    "productId": "1021522",
+    "name": "Sterile kattenbrokken rund",
+    "description": "*Voor kat\n*Brokken\n*Met rund",
+    "technicalArticleNumber": "4790426",
+    "commercialArticleNumber": "31802",
+    "LongName": "SHELMA Sterile kattenbrokken rund 8kg"
+  },
+  {
+    "gtin": "08001154002720",
+    "productId": "872846",
+    "name": "HFC Puppy Vis XS-S",
+    "description": "*Natte voeding\n*Vis",
+    "technicalArticleNumber": "4727263",
+    "commercialArticleNumber": "23989",
+    "LongName": "ALMO NATURE HFC Puppy Vis XS-S 1,2kg"
+  },
+  {
+    "gtin": "15411468114420",
+    "productId": "121214",
+    "name": "Premium exotisch vogelvoer",
+    "description": "*Voor vogel",
+    "technicalArticleNumber": "3038837",
+    "commercialArticleNumber": "133055",
+    "LongName": "YANA Premium exotisch vogelvoer 1kg"
+  }
+]

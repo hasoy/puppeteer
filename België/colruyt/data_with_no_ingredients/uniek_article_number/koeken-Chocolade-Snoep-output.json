@@ -1,0 +1,6453 @@
+[
+  {
+    "gtin": "05400141051407",
+    "productId": "1541",
+    "name": "Luikse wafels",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "21797",
+    "commercialArticleNumber": "21797",
+    "LongName": "EVERYDAY Luikse wafels 10x55g"
+  },
+  {
+    "gtin": "05400141603774",
+    "productId": "83704",
+    "name": "Cookies chocolade",
+    "technicalArticleNumber": "2974401",
+    "commercialArticleNumber": "1254",
+    "LongName": "BONI Cookies chocolade 225g"
+  },
+  {
+    "gtin": "15400141281900",
+    "productId": "30329",
+    "name": "Luikse wafels cacao",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1853115",
+    "commercialArticleNumber": "21804",
+    "LongName": "EVERYDAY Luikse wafels cacao 10x60g"
+  },
+  {
+    "gtin": "15400141624509",
+    "productId": "29642",
+    "name": "Brownies mini",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1915017",
+    "commercialArticleNumber": "21751",
+    "LongName": "BONI Brownies mini 9x30g"
+  },
+  {
+    "gtin": "15400141051855",
+    "productId": "114766",
+    "name": "chocolade puur",
+    "description": "*Met 49,5% cacao",
+    "technicalArticleNumber": "3037133",
+    "commercialArticleNumber": "1545",
+    "LongName": "EVERYDAY chocolade puur 200g"
+  },
+  {
+    "gtin": "15400141311683",
+    "productId": "319498",
+    "name": "vanille choco wafel",
+    "technicalArticleNumber": "3777618",
+    "commercialArticleNumber": "51173",
+    "LongName": "BONI vanille choco wafel 450g"
+  },
+  {
+    "gtin": "05411901059014",
+    "productId": "1608",
+    "name": "paaseieren melkchoc.",
+    "technicalArticleNumber": "20852",
+    "commercialArticleNumber": "20852",
+    "LongName": "SUPERCHOC paaseieren melkchoc. 250g"
+  },
+  {
+    "gtin": "15400141012719",
+    "productId": "416093",
+    "name": "Frangipane 8st",
+    "technicalArticleNumber": "3936227",
+    "commercialArticleNumber": "1185",
+    "LongName": "LOTUS Frangipane 8st 8x52g"
+  },
+  {
+    "gtin": "05400141056921",
+    "productId": "62637",
+    "name": "vanillewafels cacao",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "2763018",
+    "commercialArticleNumber": "43463",
+    "LongName": "EVERYDAY vanillewafels cacao 355g"
+  },
+  {
+    "gtin": "05400141541434",
+    "productId": "1546",
+    "name": "eierwafels",
+    "technicalArticleNumber": "21854",
+    "commercialArticleNumber": "21854",
+    "LongName": "EVERYDAY eierwafels 12x21g"
+  },
+  {
+    "gtin": "15400141880998",
+    "productId": "109948",
+    "name": "cake Madeleines 10st",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3117904",
+    "commercialArticleNumber": "43813",
+    "LongName": "BONI cake Madeleines 10st 10x25g"
+  },
+  {
+    "gtin": "15410126004707",
+    "productId": "119775",
+    "name": "koeken chocolade 4st",
+    "description": "* Individueel verpakt",
+    "technicalArticleNumber": "3001967",
+    "commercialArticleNumber": "13529",
+    "LongName": "DINOSAURUS koeken chocolade 4st 225g"
+  },
+  {
+    "gtin": "05400141602845",
+    "productId": "31482",
+    "name": "koeken Orangicake",
+    "technicalArticleNumber": "1696667",
+    "commercialArticleNumber": "32742",
+    "LongName": "BONI koeken Orangicake 12x25g"
+  },
+  {
+    "gtin": "05400141051834",
+    "productId": "15060",
+    "name": "Frangipanes 3st",
+    "technicalArticleNumber": "1446174",
+    "commercialArticleNumber": "22163",
+    "LongName": "EVERYDAY Frangipanes 3st 200g"
+  },
+  {
+    "gtin": "05400141307733",
+    "productId": "124845",
+    "name": "Frangipane Mini 12st",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3222643",
+    "commercialArticleNumber": "4645",
+    "LongName": "BONI Frangipane Mini 12st 12x40g"
+  },
+  {
+    "gtin": "05400141193619",
+    "productId": "1637",
+    "name": "Nic-Nac",
+    "technicalArticleNumber": "21199",
+    "commercialArticleNumber": "21199",
+    "LongName": "BONI Nic-Nac 500g"
+  },
+  {
+    "gtin": "05400141082203",
+    "productId": "119776",
+    "name": "koeken melkchocolade 4st",
+    "description": "* Individueel verpakt",
+    "technicalArticleNumber": "3001968",
+    "commercialArticleNumber": "1306",
+    "LongName": "DINOSAURUS koeken melkchocolade 4st 225g"
+  },
+  {
+    "gtin": "15400141025078",
+    "productId": "1523",
+    "name": "speculoos",
+    "technicalArticleNumber": "21506",
+    "commercialArticleNumber": "21506",
+    "LongName": "EVERYDAY speculoos 4x250g"
+  },
+  {
+    "gtin": "05400141051872",
+    "productId": "106329",
+    "name": "chocolade melk",
+    "technicalArticleNumber": "3105991",
+    "commercialArticleNumber": "42883",
+    "LongName": "EVERYDAY chocolade melk 200g"
+  },
+  {
+    "gtin": "05400141288315",
+    "productId": "180598",
+    "name": "speculoos XL",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3340200",
+    "commercialArticleNumber": "7426",
+    "LongName": "LOTUS speculoos XL 12x25g"
+  },
+  {
+    "gtin": "00000040084329",
+    "productId": "18200",
+    "name": "reepjes 24st",
+    "description": "*13 % cacao",
+    "technicalArticleNumber": "1745627",
+    "commercialArticleNumber": "20399",
+    "LongName": "KINDER CHOCOLATE reepjes 24st 300g"
+  },
+  {
+    "gtin": "05400141191950",
+    "productId": "12553",
+    "name": "Madeleines",
+    "technicalArticleNumber": "1246639",
+    "commercialArticleNumber": "21787",
+    "LongName": "EVERYDAY Madeleines 12x25g"
+  },
+  {
+    "gtin": "05413548007434",
+    "productId": "16483",
+    "name": "Bueno",
+    "technicalArticleNumber": "1430879",
+    "commercialArticleNumber": "21093",
+    "LongName": "KINDER Bueno 10x43g"
+  },
+  {
+    "gtin": "05411901059113",
+    "productId": "1607",
+    "name": "paaseieren witte choc.",
+    "technicalArticleNumber": "20851",
+    "commercialArticleNumber": "20851",
+    "LongName": "SUPERCHOC paaseieren witte choc. 250g"
+  },
+  {
+    "gtin": "07622210100313",
+    "productId": "1467",
+    "name": "melk",
+    "description": "*Belgische chocolade",
+    "technicalArticleNumber": "20002",
+    "commercialArticleNumber": "20002",
+    "LongName": "CÔTE D'OR melk 2x200g"
+  },
+  {
+    "gtin": "15410126180036",
+    "productId": "59324",
+    "name": "Madeleine 16st",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "2341628",
+    "commercialArticleNumber": "24036",
+    "LongName": "LOTUS Madeleine 16st 16x25g"
+  },
+  {
+    "gtin": "05400141891690",
+    "productId": "1540",
+    "name": "koeken Marguerites",
+    "technicalArticleNumber": "21689",
+    "commercialArticleNumber": "21689",
+    "LongName": "BONI koeken Marguerites 450g"
+  },
+  {
+    "gtin": "05400141213997",
+    "productId": "53835",
+    "name": "LEO melkchocolade",
+    "technicalArticleNumber": "2210331",
+    "commercialArticleNumber": "21399",
+    "LongName": "MILKA LEO melkchocolade 12x33g"
+  },
+  {
+    "gtin": "05000159458320",
+    "productId": "546332",
+    "name": "Peanut",
+    "technicalArticleNumber": "4173645",
+    "commercialArticleNumber": "10290",
+    "LongName": "M&M'S Peanut 550g"
+  },
+  {
+    "gtin": "15410126032090",
+    "productId": "140028",
+    "name": "Luikse wafels 8st",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3186937",
+    "commercialArticleNumber": "24067",
+    "LongName": "SUZY Luikse wafels 8st 400g"
+  },
+  {
+    "gtin": "05400141603781",
+    "productId": "130787",
+    "name": "Cookies triple chocolate",
+    "technicalArticleNumber": "3219200",
+    "commercialArticleNumber": "19946",
+    "LongName": "BONI Cookies triple chocolate 200g"
+  },
+  {
+    "gtin": "13017760363362",
+    "productId": "15905",
+    "name": "melkchocolade",
+    "technicalArticleNumber": "1461873",
+    "commercialArticleNumber": "21273",
+    "LongName": "LU MIKADO melkchocolade 75g"
+  },
+  {
+    "gtin": "15400141306757",
+    "productId": "69055",
+    "name": "Mergpijpjes",
+    "technicalArticleNumber": "2742498",
+    "commercialArticleNumber": "8091",
+    "LongName": "BONI Mergpijpjes 200g"
+  },
+  {
+    "gtin": "05400141052633",
+    "productId": "11300",
+    "name": "Kempense galetten",
+    "technicalArticleNumber": "1372618",
+    "commercialArticleNumber": "21820",
+    "LongName": "EVERYDAY Kempense galetten 450g"
+  },
+  {
+    "gtin": "05425026052768",
+    "productId": "625920",
+    "name": "mini wafel",
+    "technicalArticleNumber": "4308532",
+    "commercialArticleNumber": "16548",
+    "LongName": "CRUMBEL mini wafel 250g"
+  },
+  {
+    "gtin": "05410126006025",
+    "productId": "113720",
+    "name": "speculoos",
+    "technicalArticleNumber": "3084549",
+    "commercialArticleNumber": "40244",
+    "LongName": "LOTUS speculoos 2x125g"
+  },
+  {
+    "gtin": "05400141333381",
+    "productId": "175110",
+    "name": "paasei melk-praliné",
+    "description": "*Belgische chocolade",
+    "technicalArticleNumber": "3372288",
+    "commercialArticleNumber": "19535",
+    "LongName": "BONI paasei melk-praliné 250g"
+  },
+  {
+    "gtin": "07622210790941",
+    "productId": "304076",
+    "name": "tabl.praliné double lait",
+    "technicalArticleNumber": "3722422",
+    "commercialArticleNumber": "20152",
+    "LongName": "CÔTE D'OR tabl.praliné double lait 200g"
+  },
+  {
+    "gtin": "07622210308276",
+    "productId": "54496",
+    "name": "assortiment eitjes 5 smaken",
+    "technicalArticleNumber": "2316974",
+    "commercialArticleNumber": "18106",
+    "LongName": "MILKA assortiment eitjes 5 smaken 1kg"
+  },
+  {
+    "gtin": "05410126006100",
+    "productId": "1525",
+    "name": "speculoos",
+    "technicalArticleNumber": "21520",
+    "commercialArticleNumber": "21520",
+    "LongName": "LOTUS speculoos 4x250g"
+  },
+  {
+    "gtin": "05400141216202",
+    "productId": "1532",
+    "technicalArticleNumber": "21620",
+    "commercialArticleNumber": "21620",
+    "LongName": "LU CENT WAFERS 10x45g"
+  },
+  {
+    "gtin": "00000025200010",
+    "productId": "1466",
+    "name": "Mignonnette Melk",
+    "description": "*Belgische chocolade",
+    "technicalArticleNumber": "20001",
+    "commercialArticleNumber": "20001",
+    "LongName": "COTE D'OR Mignonnette Melk 240g"
+  },
+  {
+    "gtin": "15400141051893",
+    "productId": "106282",
+    "name": "chocolade wit",
+    "description": "*Belgische chocolade",
+    "technicalArticleNumber": "3102608",
+    "commercialArticleNumber": "40463",
+    "LongName": "EVERYDAY chocolade wit 200g"
+  },
+  {
+    "gtin": "15400141049265",
+    "productId": "130044",
+    "name": "Luikse wafels mini chocolade",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3219047",
+    "commercialArticleNumber": "1141",
+    "LongName": "BONI Luikse wafels mini chocolade 8x42g"
+  },
+  {
+    "gtin": "05400141333404",
+    "productId": "320371",
+    "name": "paaseitjes mix",
+    "technicalArticleNumber": "3775453",
+    "commercialArticleNumber": "17183",
+    "LongName": "BONI paaseitjes mix 500g"
+  },
+  {
+    "gtin": "00000024211215",
+    "productId": "1635",
+    "name": "Sinaasappel",
+    "technicalArticleNumber": "21121",
+    "commercialArticleNumber": "21121",
+    "LongName": "LU PIM'S Sinaasappel 150g"
+  },
+  {
+    "gtin": "15410126050568",
+    "productId": "98502",
+    "name": "Mini-Frangipanes 12 stuks",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "2806193",
+    "commercialArticleNumber": "17215",
+    "LongName": "LOTUS Mini-Frangipanes 12 stuks 12x32,5g"
+  },
+  {
+    "gtin": "05400141021707",
+    "productId": "86845",
+    "name": "Chococrocs koeken",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "2962888",
+    "commercialArticleNumber": "32329",
+    "LongName": "BONI Chococrocs koeken 6x25g"
+  },
+  {
+    "gtin": "15400141998068",
+    "productId": "17556",
+    "name": "abrikozenflappen",
+    "technicalArticleNumber": "1768943",
+    "commercialArticleNumber": "21445",
+    "LongName": "EVERYDAY abrikozenflappen 4x50g"
+  },
+  {
+    "gtin": "04014400471656",
+    "productId": "621767",
+    "name": "nutbar",
+    "technicalArticleNumber": "4301541",
+    "commercialArticleNumber": "23616",
+    "LongName": "KNOPPERS nutbar 5x40g"
+  },
+  {
+    "gtin": "05410081201008",
+    "productId": "1468",
+    "name": "melkchocolade",
+    "description": "*Belgische chocolade",
+    "technicalArticleNumber": "20004",
+    "commercialArticleNumber": "20004",
+    "LongName": "CÔTE D'OR melkchocolade 150g"
+  },
+  {
+    "gtin": "07622210776389",
+    "productId": "29774",
+    "name": "koeken chocolade",
+    "technicalArticleNumber": "1915951",
+    "commercialArticleNumber": "21634",
+    "LongName": "LU PRINCE koeken chocolade 300g"
+  },
+  {
+    "gtin": "15400141912385",
+    "productId": "32404",
+    "name": "Choco As",
+    "technicalArticleNumber": "1881964",
+    "commercialArticleNumber": "21394",
+    "LongName": "EVERYDAY Choco As 250g"
+  },
+  {
+    "gtin": "15400141615354",
+    "productId": "838219",
+    "name": "Luikse wafel mini",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "4681045",
+    "commercialArticleNumber": "30442",
+    "LongName": "BONI Luikse wafel mini 8x35g"
+  },
+  {
+    "gtin": "05400141276800",
+    "productId": "175837",
+    "name": "witte chocolade eitjes",
+    "technicalArticleNumber": "3372399",
+    "commercialArticleNumber": "19271",
+    "LongName": "BONI witte chocolade eitjes 250g"
+  },
+  {
+    "gtin": "15400141470656",
+    "productId": "52596",
+    "name": "Chocotini koeken",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "2282274",
+    "commercialArticleNumber": "8996",
+    "LongName": "BONI Chocotini koeken 6x37,5g"
+  },
+  {
+    "gtin": "15400141760467",
+    "productId": "52821",
+    "name": "gevulde koeken chocolade",
+    "technicalArticleNumber": "2394827",
+    "commercialArticleNumber": "9705",
+    "LongName": "EVERYDAY gevulde koeken chocolade 500g"
+  },
+  {
+    "gtin": "05400141052671",
+    "productId": "13111",
+    "name": "boterwafels",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1220523",
+    "commercialArticleNumber": "21872",
+    "LongName": "BONI boterwafels 8x62,5g"
+  },
+  {
+    "gtin": "05425026052737",
+    "productId": "625895",
+    "name": "mini wafel chocolade",
+    "technicalArticleNumber": "4308501",
+    "commercialArticleNumber": "16516",
+    "LongName": "CRUMBEL mini wafel chocolade 250g"
+  },
+  {
+    "gtin": "05400141206937",
+    "productId": "9962",
+    "name": "Cha-Cha",
+    "technicalArticleNumber": "1348544",
+    "commercialArticleNumber": "20693",
+    "LongName": "LU Cha-Cha 12x27g"
+  },
+  {
+    "gtin": "05400141046267",
+    "productId": "252019",
+    "name": "stroopwafels",
+    "technicalArticleNumber": "3614290",
+    "commercialArticleNumber": "18965",
+    "LongName": "BONI stroopwafels 10x40g"
+  },
+  {
+    "gtin": "05400141073720",
+    "productId": "9106",
+    "name": "Muffins chocoladestukjes",
+    "technicalArticleNumber": "1140073",
+    "commercialArticleNumber": "21750",
+    "LongName": "BONI Muffins chocoladestukjes 4x75g"
+  },
+  {
+    "gtin": "05400141754445",
+    "productId": "829428",
+    "name": "paaseitjes mix",
+    "description": "*Assortiment paaseitjes\n*Puur-melk-wit",
+    "technicalArticleNumber": "4668380",
+    "commercialArticleNumber": "19320",
+    "LongName": "BONI paaseitjes mix 1kg"
+  },
+  {
+    "gtin": "00000025212181",
+    "productId": "1641",
+    "name": "Boudoir",
+    "technicalArticleNumber": "21218",
+    "commercialArticleNumber": "21218",
+    "LongName": "LU Boudoir 165g"
+  },
+  {
+    "gtin": "15410126030263",
+    "productId": "1021536",
+    "name": "Cake Donut Choco Mania",
+    "technicalArticleNumber": "4790440",
+    "commercialArticleNumber": "32375",
+    "LongName": "LOTUS Cake Donut Choco Mania 6x34g"
+  },
+  {
+    "gtin": "05400141143904",
+    "productId": "175217",
+    "name": "eitjes melkchocolade",
+    "technicalArticleNumber": "3372327",
+    "commercialArticleNumber": "19933",
+    "LongName": "BONI eitjes melkchocolade 250g"
+  },
+  {
+    "gtin": "05400141866216",
+    "productId": "319507",
+    "name": "luikse wafel maxi",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3777627",
+    "commercialArticleNumber": "51174",
+    "LongName": "BONI luikse wafel maxi 8x90g"
+  },
+  {
+    "gtin": "15400141763215",
+    "productId": "1599",
+    "name": "snoep zure beertjes",
+    "technicalArticleNumber": "20778",
+    "commercialArticleNumber": "20778",
+    "LongName": "EVERYDAY snoep zure beertjes 500g"
+  },
+  {
+    "gtin": "15400141565567",
+    "productId": "860553",
+    "name": "eierkoeken",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "4711364",
+    "commercialArticleNumber": "11931",
+    "LongName": "BONI eierkoeken 8x35g"
+  },
+  {
+    "gtin": "07613032628154",
+    "productId": "55009",
+    "technicalArticleNumber": "2326736",
+    "commercialArticleNumber": "18475",
+    "LongName": "NESTLÉ LION 10x42g"
+  },
+  {
+    "gtin": "07622201521042",
+    "productId": "778503",
+    "name": "brookie",
+    "description": "*6 cakejes per pak\n*Heerlijke combinatie van:\n*-tedere brownie\n*-crumble van een cookie",
+    "technicalArticleNumber": "4572043",
+    "commercialArticleNumber": "28521",
+    "LongName": "MILKA brookie 6x25,4g"
+  },
+  {
+    "gtin": "03061990044556",
+    "productId": "138030",
+    "name": "aardbeiensmaak 5st",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3189482",
+    "commercialArticleNumber": "6375",
+    "LongName": "BN aardbeiensmaak 5st 175g"
+  },
+  {
+    "gtin": "05425026052744",
+    "productId": "625922",
+    "name": "mini cake",
+    "technicalArticleNumber": "4308534",
+    "commercialArticleNumber": "16652",
+    "LongName": "CRUMBEL mini cake 300g"
+  },
+  {
+    "gtin": "05411901059212",
+    "productId": "1609",
+    "name": "passeieren pure choc.",
+    "technicalArticleNumber": "20872",
+    "commercialArticleNumber": "20872",
+    "LongName": "SUPERCHOC passeieren pure choc. 250g"
+  },
+  {
+    "gtin": "05400141391565",
+    "productId": "101211",
+    "name": "Original",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "2872829",
+    "commercialArticleNumber": "34610",
+    "LongName": "OREO Original 4x44g"
+  },
+  {
+    "gtin": "00000025212013",
+    "productId": "1639",
+    "name": "La Barquette Aardbei",
+    "technicalArticleNumber": "21201",
+    "commercialArticleNumber": "21201",
+    "LongName": "LU LULU La Barquette Aardbei 120g"
+  },
+  {
+    "gtin": "05410126004779",
+    "productId": "119777",
+    "name": "koeken granen 4st",
+    "description": "* Individueel verpakt",
+    "technicalArticleNumber": "3001970",
+    "commercialArticleNumber": "13570",
+    "LongName": "DINOSAURUS koeken granen 4st 175g"
+  },
+  {
+    "gtin": "05410041138504",
+    "productId": "589213",
+    "name": "Beertje Chocolade",
+    "technicalArticleNumber": "4246683",
+    "commercialArticleNumber": "20551",
+    "LongName": "LU LULU Beertje Chocolade 5x30g"
+  },
+  {
+    "gtin": "00000025204612",
+    "productId": "1427",
+    "name": "Bouchée Melk",
+    "description": "*Belgische chocolade",
+    "technicalArticleNumber": "20461",
+    "commercialArticleNumber": "20461",
+    "LongName": "CÔTE D'OR Bouchée Melk 8x25g"
+  },
+  {
+    "gtin": "05400141761672",
+    "productId": "131287",
+    "name": "krokante galetten mini",
+    "technicalArticleNumber": "3234096",
+    "commercialArticleNumber": "36026",
+    "LongName": "BONI krokante galetten mini 350g"
+  },
+  {
+    "gtin": "07622300784751",
+    "productId": "94961",
+    "name": "Cake & Choc 5st",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "2853919",
+    "commercialArticleNumber": "34409",
+    "LongName": "MILKA Cake & Choc 5st 5x35g"
+  },
+  {
+    "gtin": "15400141293484",
+    "productId": "525711",
+    "name": "mini softwafels poedersuiker",
+    "technicalArticleNumber": "4113295",
+    "commercialArticleNumber": "8875",
+    "LongName": "BONI mini softwafels poedersuiker 6x50g"
+  },
+  {
+    "gtin": "05996379309422",
+    "productId": "1590",
+    "name": "snoep kersen",
+    "technicalArticleNumber": "20739",
+    "commercialArticleNumber": "20739",
+    "LongName": "HARIBO snoep kersen 500g"
+  },
+  {
+    "gtin": "07622210100078",
+    "productId": "1469",
+    "name": "puur",
+    "description": "*Min. 46 %\ncacaobestanddelen\n*Belgische chocolade",
+    "technicalArticleNumber": "20008",
+    "commercialArticleNumber": "20008",
+    "LongName": "CÔTE D'OR puur 2x200g"
+  },
+  {
+    "gtin": "05400141427059",
+    "productId": "13784",
+    "name": "zandkoekjes Sprits",
+    "technicalArticleNumber": "1294234",
+    "commercialArticleNumber": "21102",
+    "LongName": "EVERYDAY zandkoekjes Sprits 2x200g"
+  },
+  {
+    "gtin": "15410126010432",
+    "productId": "279929",
+    "name": "Zebra Original",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3657497",
+    "commercialArticleNumber": "14138",
+    "LongName": "LOTUS Zebra Original 6x31g"
+  },
+  {
+    "gtin": "15400141539742",
+    "productId": "1643",
+    "name": "koeken krakelingen",
+    "technicalArticleNumber": "21228",
+    "commercialArticleNumber": "21228",
+    "LongName": "BONI koeken krakelingen 450g"
+  },
+  {
+    "gtin": "05411901059083",
+    "productId": "1606",
+    "name": "zak paaseieren decor",
+    "technicalArticleNumber": "20830",
+    "commercialArticleNumber": "20830",
+    "LongName": "SUPERCHOC zak paaseieren decor 250g"
+  },
+  {
+    "gtin": "05412573101353",
+    "productId": "60212",
+    "name": "galetten suikerparels",
+    "technicalArticleNumber": "2314397",
+    "commercialArticleNumber": "16912",
+    "LongName": "galetten suikerparels 375g"
+  },
+  {
+    "gtin": "13215061072734",
+    "productId": "353836",
+    "name": "gevulde wafel 5x2st",
+    "technicalArticleNumber": "3852978",
+    "commercialArticleNumber": "20944",
+    "LongName": "LOTUS gevulde wafel 5x2st 5x62g"
+  },
+  {
+    "gtin": "04017100270611",
+    "productId": "13031",
+    "name": "chocolade",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1220341",
+    "commercialArticleNumber": "21133",
+    "LongName": "PICK UP! chocolade 10x28g"
+  },
+  {
+    "gtin": "08710412035751",
+    "productId": "13403",
+    "name": "koeken bosvruchten",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1309162",
+    "commercialArticleNumber": "21916",
+    "LongName": "SULTANA koeken bosvruchten 5x43,6g"
+  },
+  {
+    "gtin": "05400141381436",
+    "productId": "210616",
+    "name": "Melkchocol.",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3522992",
+    "commercialArticleNumber": "10749",
+    "LongName": "LU PRINCE MINISTARS Melkchocol. 5x37,4g"
+  },
+  {
+    "gtin": "15400141337041",
+    "productId": "175119",
+    "name": "eitjes pure chocolade",
+    "technicalArticleNumber": "3372305",
+    "commercialArticleNumber": "19731",
+    "LongName": "BONI eitjes pure chocolade 250g"
+  },
+  {
+    "gtin": "08001585001071",
+    "productId": "38975",
+    "name": "gebak Mix Milk",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1657251",
+    "commercialArticleNumber": "19800",
+    "LongName": "BALCONI gebak Mix Milk 10x35g"
+  },
+  {
+    "gtin": "05400141056884",
+    "productId": "8334",
+    "name": "wafel mini met chocolade 15st",
+    "technicalArticleNumber": "1183135",
+    "commercialArticleNumber": "21964",
+    "LongName": "BONI wafel mini met chocolade 15st 250g"
+  },
+  {
+    "gtin": "07622210345950",
+    "productId": "154337",
+    "name": "paaseitjes melkchocolade ass.",
+    "technicalArticleNumber": "3243763",
+    "commercialArticleNumber": "39191",
+    "LongName": "MILKA paaseitjes melkchocolade ass. 1kg"
+  },
+  {
+    "gtin": "05400141345353",
+    "productId": "320372",
+    "name": "paaseitje praline crisp",
+    "technicalArticleNumber": "3775454",
+    "commercialArticleNumber": "17244",
+    "LongName": "BONI paaseitje praline crisp 250g"
+  },
+  {
+    "gtin": "00000025206821",
+    "productId": "1587",
+    "name": "parijse gommen",
+    "technicalArticleNumber": "20682",
+    "commercialArticleNumber": "20682",
+    "LongName": "EVERYDAY parijse gommen 500g"
+  },
+  {
+    "gtin": "07622210655783",
+    "productId": "262574",
+    "name": "melk",
+    "technicalArticleNumber": "3582776",
+    "commercialArticleNumber": "50996",
+    "LongName": "MILKA melk 600g"
+  },
+  {
+    "gtin": "05400141376029",
+    "productId": "16673",
+    "name": "Fizzy mix zuur",
+    "technicalArticleNumber": "1550751",
+    "commercialArticleNumber": "22512",
+    "LongName": "BONI Fizzy mix zuur 600g"
+  },
+  {
+    "gtin": "05400141995534",
+    "productId": "203601",
+    "name": "Choco Cookies",
+    "description": "*Granen gevuld met\nchocolade",
+    "technicalArticleNumber": "3406544",
+    "commercialArticleNumber": "50042",
+    "LongName": "BONI Choco Cookies 750g"
+  },
+  {
+    "gtin": "05425026053000",
+    "productId": "668226",
+    "name": "zandkoekje",
+    "technicalArticleNumber": "4378566",
+    "commercialArticleNumber": "24302",
+    "LongName": "CRUMBEL zandkoekje 300g"
+  },
+  {
+    "gtin": "15410126010265",
+    "productId": "1021531",
+    "name": "Cake Donut Zebra Kiss",
+    "technicalArticleNumber": "4790435",
+    "commercialArticleNumber": "31872",
+    "LongName": "LOTUS Cake Donut Zebra Kiss 6x34g"
+  },
+  {
+    "gtin": "15400141330769",
+    "productId": "88693",
+    "name": "ontbijtkoekjes melk",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "2989415",
+    "commercialArticleNumber": "38650",
+    "LongName": "BONI ontbijtkoekjes melk 8x50g"
+  },
+  {
+    "gtin": "05400141309003",
+    "productId": "32850",
+    "name": "carrés confiture abrikozen",
+    "technicalArticleNumber": "1859699",
+    "commercialArticleNumber": "21724",
+    "LongName": "BONI carrés confiture abrikozen 175g"
+  },
+  {
+    "gtin": "07622300315252",
+    "productId": "104691",
+    "name": "koeken Original",
+    "technicalArticleNumber": "3124990",
+    "commercialArticleNumber": "3868",
+    "LongName": "OREO koeken Original 2x154g"
+  },
+  {
+    "gtin": "15410126032373",
+    "productId": "136773",
+    "name": "Luikse wafels chocolade 8st",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3187072",
+    "commercialArticleNumber": "24130",
+    "LongName": "SUZY Luikse wafels chocolade 8st 8x57,5g"
+  },
+  {
+    "gtin": "04000415358303",
+    "productId": "868364",
+    "name": "Biscuit & Caramel",
+    "technicalArticleNumber": "4721393",
+    "commercialArticleNumber": "15438",
+    "LongName": "CHOCO FUN Biscuit & Caramel 210g"
+  },
+  {
+    "gtin": "05400141051698",
+    "productId": "1545",
+    "name": "vanillewafels",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "21853",
+    "commercialArticleNumber": "21853",
+    "LongName": "EVERYDAY vanillewafels 8x37,5g"
+  },
+  {
+    "gtin": "15400141778134",
+    "productId": "709554",
+    "name": "melkchocol.hele hazelnoten FT",
+    "description": "*Belgische chocolade\n*Fairtrade",
+    "technicalArticleNumber": "4449467",
+    "commercialArticleNumber": "26369",
+    "LongName": "BONI melkchocol.hele hazelnoten FT 200g"
+  },
+  {
+    "gtin": "05400141215557",
+    "productId": "1570",
+    "name": "snoep fruit",
+    "technicalArticleNumber": "20617",
+    "commercialArticleNumber": "20617",
+    "LongName": "EVERYDAY snoep fruit 500g"
+  },
+  {
+    "gtin": "05400141427103",
+    "productId": "13783",
+    "name": "Sprits chocolade",
+    "technicalArticleNumber": "1294233",
+    "commercialArticleNumber": "21103",
+    "LongName": "EVERYDAY Sprits chocolade 250g"
+  },
+  {
+    "gtin": "05400141190779",
+    "productId": "317536",
+    "name": "vanille wafel",
+    "technicalArticleNumber": "3777598",
+    "commercialArticleNumber": "51172",
+    "LongName": "BONI vanille wafel 6x58g"
+  },
+  {
+    "gtin": "07622210776327",
+    "productId": "29775",
+    "name": "koeken vanille",
+    "technicalArticleNumber": "1915958",
+    "commercialArticleNumber": "21637",
+    "LongName": "LU PRINCE koeken vanille 300g"
+  },
+  {
+    "gtin": "00000080050834",
+    "productId": "203257",
+    "name": "With Cereals",
+    "technicalArticleNumber": "3444239",
+    "commercialArticleNumber": "50183",
+    "LongName": "KINDER CHOCOLATE With Cereals 141g"
+  },
+  {
+    "gtin": "05400141139976",
+    "productId": "302873",
+    "name": "Pouch",
+    "technicalArticleNumber": "3729304",
+    "commercialArticleNumber": "16618",
+    "LongName": "MALTESERS Pouch 175g"
+  },
+  {
+    "gtin": "05400141275575",
+    "productId": "297835",
+    "name": "Crac&Choc melkchocalde",
+    "technicalArticleNumber": "3728931",
+    "commercialArticleNumber": "16524",
+    "LongName": "BONI Crac&Choc melkchocalde 10x33g"
+  },
+  {
+    "gtin": "25400141357657",
+    "productId": "1538",
+    "name": "Rozijnensterren met Boter 8st",
+    "technicalArticleNumber": "21678",
+    "commercialArticleNumber": "21678",
+    "LongName": "BONI Rozijnensterren met Boter 8st 250g"
+  },
+  {
+    "gtin": "15400141650317",
+    "productId": "734803",
+    "name": "paashaas melk FT",
+    "description": "*Belgische chocolade\n*Fairtrade\ngecertificeerd",
+    "technicalArticleNumber": "4495323",
+    "commercialArticleNumber": "15480",
+    "LongName": "BONI paashaas melk FT 180g"
+  },
+  {
+    "gtin": "15400141052289",
+    "productId": "123581",
+    "name": "Cookies cranberries",
+    "technicalArticleNumber": "3219506",
+    "commercialArticleNumber": "19949",
+    "LongName": "BONI Cookies cranberries 200g"
+  },
+  {
+    "gtin": "05425026052751",
+    "productId": "625927",
+    "name": "mini speculoos chocolade",
+    "technicalArticleNumber": "4308539",
+    "commercialArticleNumber": "16701",
+    "LongName": "CRUMBEL mini speculoos chocolade 300g"
+  },
+  {
+    "gtin": "05400141056945",
+    "productId": "18404",
+    "name": "ontbijtkoekjes chocoladestuk.",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1653478",
+    "commercialArticleNumber": "19863",
+    "LongName": "BONI ontbijtkoekjes chocoladestuk. 8x50g"
+  },
+  {
+    "gtin": "05410059759913",
+    "productId": "826154",
+    "name": "matinettes melk",
+    "description": "*Belgische chocolade",
+    "technicalArticleNumber": "4663278",
+    "commercialArticleNumber": "29960",
+    "LongName": "JACQUES matinettes melk 224g"
+  },
+  {
+    "gtin": "05400141057980",
+    "productId": "1551",
+    "name": "Cake Tijgerrol",
+    "technicalArticleNumber": "21982",
+    "commercialArticleNumber": "21982",
+    "LongName": "EVERYDAY Cake Tijgerrol 300g"
+  },
+  {
+    "gtin": "00000080052166",
+    "productId": "1620",
+    "name": "Surprise",
+    "technicalArticleNumber": "20964",
+    "commercialArticleNumber": "20964",
+    "LongName": "KINDER Surprise 60g"
+  },
+  {
+    "gtin": "05400141037531",
+    "productId": "461157",
+    "name": "melkchoc.gebr.hazelnoten",
+    "technicalArticleNumber": "3954306",
+    "commercialArticleNumber": "2029",
+    "LongName": "EVERYDAY melkchoc.gebr.hazelnoten 200g"
+  },
+  {
+    "gtin": "05400141306743",
+    "productId": "50624",
+    "name": "botergaletten",
+    "technicalArticleNumber": "2336215",
+    "commercialArticleNumber": "18626",
+    "LongName": "BONI botergaletten 20x12,5g"
+  },
+  {
+    "gtin": "03017621821669",
+    "productId": "1408",
+    "name": "Rocher 16st",
+    "technicalArticleNumber": "20309",
+    "commercialArticleNumber": "20309",
+    "LongName": "FERRERO Rocher 16st 200g"
+  },
+  {
+    "gtin": "07622210052629",
+    "productId": "94444",
+    "name": "LEO GO!",
+    "technicalArticleNumber": "2892072",
+    "commercialArticleNumber": "35026",
+    "LongName": "MILKA LEO GO! 6x48g"
+  },
+  {
+    "gtin": "07622210678645",
+    "productId": "300136",
+    "name": "tablet praliné Dessert 58",
+    "technicalArticleNumber": "3721886",
+    "commercialArticleNumber": "20121",
+    "LongName": "CÔTE D'OR tablet praliné Dessert 58 200g"
+  },
+  {
+    "gtin": "07622210100320",
+    "productId": "1465",
+    "name": "noir de noir",
+    "description": "*Min 54 %\ncacaobestanddelen\n*Belgische chocolade",
+    "technicalArticleNumber": "20000",
+    "commercialArticleNumber": "20000",
+    "LongName": "CÔTE D'OR noir de noir 2x200g"
+  },
+  {
+    "gtin": "07622300748449",
+    "productId": "55008",
+    "name": "Melo-Cakes 30 stuks",
+    "technicalArticleNumber": "2326723",
+    "commercialArticleNumber": "18202",
+    "LongName": "MILKA Melo-Cakes 30 stuks 500g"
+  },
+  {
+    "gtin": "00000024212663",
+    "productId": "1647",
+    "name": "Véritable Petit Beurre",
+    "technicalArticleNumber": "21266",
+    "commercialArticleNumber": "21266",
+    "LongName": "LU Véritable Petit Beurre 200g"
+  },
+  {
+    "gtin": "05410126006377",
+    "productId": "595617",
+    "name": "speculoos gevuld vanillesm.",
+    "technicalArticleNumber": "4257250",
+    "commercialArticleNumber": "22487",
+    "LongName": "LOTUS speculoos gevuld vanillesm. 15x10g"
+  },
+  {
+    "gtin": "03017760568890",
+    "productId": "155",
+    "name": "koeken woudvruchten",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "15042",
+    "commercialArticleNumber": "15042",
+    "LongName": "LU GRANY koeken woudvruchten 6x32,5g"
+  },
+  {
+    "gtin": "05411803060316",
+    "productId": "143052",
+    "name": "gevulde wafels",
+    "description": "gevulde wafels",
+    "technicalArticleNumber": "3285221",
+    "commercialArticleNumber": "22517",
+    "LongName": "SUCCÈS DU JOUR gevulde wafels 6x60g"
+  },
+  {
+    "gtin": "13017760002711",
+    "productId": "1636",
+    "name": "Pure choclade",
+    "technicalArticleNumber": "21132",
+    "commercialArticleNumber": "21132",
+    "LongName": "LU MIKADO Pure choclade 75g"
+  },
+  {
+    "gtin": "05410081200933",
+    "productId": "1470",
+    "name": "puur",
+    "description": "*Min. 48 %\ncacaobestanddelen\n*Belgische chocolade",
+    "technicalArticleNumber": "20010",
+    "commercialArticleNumber": "20010",
+    "LongName": "CÔTE D'OR puur 150g"
+  },
+  {
+    "gtin": "05400141073997",
+    "productId": "461626",
+    "name": "Double Lait",
+    "technicalArticleNumber": "3957426",
+    "commercialArticleNumber": "2247",
+    "LongName": "CÔTE D'OR Double Lait 4x46g"
+  },
+  {
+    "gtin": "05400141043303",
+    "productId": "1111",
+    "name": "peperkoek gesneden",
+    "technicalArticleNumber": "16610",
+    "commercialArticleNumber": "16610",
+    "LongName": "EVERYDAY peperkoek gesneden 500g"
+  },
+  {
+    "gtin": "35400141778121",
+    "productId": "709544",
+    "name": "choc. ivoorkust 72% puur FT",
+    "technicalArticleNumber": "4449457",
+    "commercialArticleNumber": "26367",
+    "LongName": "BONI choc. ivoorkust 72% puur FT 100g"
+  },
+  {
+    "gtin": "05996379380513",
+    "productId": "63406",
+    "name": "snoep geel-roze perziken",
+    "technicalArticleNumber": "2761870",
+    "commercialArticleNumber": "42694",
+    "LongName": "HARIBO snoep geel-roze perziken 500g"
+  },
+  {
+    "gtin": "04000415440701",
+    "productId": "868779",
+    "name": "Peanut & Caramel",
+    "technicalArticleNumber": "4721406",
+    "commercialArticleNumber": "15539",
+    "LongName": "CHOCO FUN Peanut & Caramel 6x36g"
+  },
+  {
+    "gtin": "35400141161534",
+    "productId": "325063",
+    "name": "dragee eitjes",
+    "description": "*Rainforest Alliance\ngecertificeerd",
+    "technicalArticleNumber": "3771022",
+    "commercialArticleNumber": "16631",
+    "LongName": "BONI dragee eitjes 250g"
+  },
+  {
+    "gtin": "05410126012453",
+    "productId": "122249",
+    "name": "Luikse wafels mini chocol. 9st",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3188214",
+    "commercialArticleNumber": "24105",
+    "LongName": "SUZY Luikse wafels mini chocol. 9st 292g"
+  },
+  {
+    "gtin": "08003440991787",
+    "productId": "509911",
+    "name": "fresh mint 55st",
+    "technicalArticleNumber": "4084052",
+    "commercialArticleNumber": "7842",
+    "LongName": "MENTOS PURE FRESH fresh mint 55st 110g"
+  },
+  {
+    "gtin": "05410126052152",
+    "productId": "645522",
+    "name": "wafels",
+    "technicalArticleNumber": "4341592",
+    "commercialArticleNumber": "7346",
+    "LongName": "LOTUS SUZY wafels 12x22g"
+  },
+  {
+    "gtin": "05400141472226",
+    "productId": "1524",
+    "name": "kokosrotsjes",
+    "technicalArticleNumber": "21516",
+    "commercialArticleNumber": "21516",
+    "LongName": "BONI kokosrotsjes 400g"
+  },
+  {
+    "gtin": "05410126060836",
+    "productId": "66521",
+    "name": "Tartélice appel 6st",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "2752579",
+    "commercialArticleNumber": "42563",
+    "LongName": "LOTUS Tartélice appel 6st 6x57,5g"
+  },
+  {
+    "gtin": "00000025219333",
+    "productId": "1549",
+    "name": "koeken Maria",
+    "technicalArticleNumber": "21933",
+    "commercialArticleNumber": "21933",
+    "LongName": "DELACRE koeken Maria 200g"
+  },
+  {
+    "gtin": "15400141763208",
+    "productId": "1586",
+    "name": "snoep winegums",
+    "technicalArticleNumber": "20680",
+    "commercialArticleNumber": "20680",
+    "LongName": "BONI snoep winegums 1kg"
+  },
+  {
+    "gtin": "03061990142139",
+    "productId": "140059",
+    "name": "koeken chocolade",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3189666",
+    "commercialArticleNumber": "2286",
+    "LongName": "BN MINI koeken chocolade 5x35g"
+  },
+  {
+    "gtin": "08000500269183",
+    "productId": "547442",
+    "name": "K Cards",
+    "technicalArticleNumber": "4175584",
+    "commercialArticleNumber": "10998",
+    "LongName": "KINDER K Cards 128g"
+  },
+  {
+    "gtin": "08723400785521",
+    "productId": "533639",
+    "name": "munt",
+    "technicalArticleNumber": "4126720",
+    "commercialArticleNumber": "9351",
+    "LongName": "MENTOS munt 4x37,5g"
+  },
+  {
+    "gtin": "05400141353167",
+    "productId": "102060",
+    "name": "Fizzy Snakes zuur",
+    "description": "*Vegetarisch",
+    "technicalArticleNumber": "3068172",
+    "commercialArticleNumber": "15041",
+    "LongName": "BONI Fizzy Snakes zuur 600g"
+  },
+  {
+    "gtin": "15411423101991",
+    "productId": "386030",
+    "name": "wafels",
+    "technicalArticleNumber": "3839184",
+    "commercialArticleNumber": "51277",
+    "LongName": "MAYA wafels 189g"
+  },
+  {
+    "gtin": "15410038507013",
+    "productId": "32865",
+    "name": "honingwafels gevuld",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1776883",
+    "commercialArticleNumber": "21142",
+    "LongName": "MELI honingwafels gevuld 8x30g"
+  },
+  {
+    "gtin": "07622300784874",
+    "productId": "100655",
+    "name": "koeken Choco Suprême",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "2854663",
+    "commercialArticleNumber": "34402",
+    "LongName": "MILKA koeken Choco Suprême 6x30g"
+  },
+  {
+    "gtin": "07622210463876",
+    "productId": "121669",
+    "name": "eitjes praliné mix",
+    "technicalArticleNumber": "3055226",
+    "commercialArticleNumber": "24897",
+    "LongName": "MILKA eitjes praliné mix 1kg"
+  },
+  {
+    "gtin": "05410041169607",
+    "productId": "8099",
+    "name": "Start Naturel",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1176401",
+    "commercialArticleNumber": "21658",
+    "LongName": "LU PRINCE Start Naturel 6x50g"
+  },
+  {
+    "gtin": "05411901927900",
+    "productId": "68453",
+    "name": "Zakje eieren melk",
+    "technicalArticleNumber": "2742440",
+    "commercialArticleNumber": "40911",
+    "LongName": "LIBEERT Zakje eieren melk 120g"
+  },
+  {
+    "gtin": "45400141999240",
+    "productId": "463459",
+    "name": "bar melk banaan",
+    "technicalArticleNumber": "3957450",
+    "commercialArticleNumber": "2268",
+    "LongName": "CÔTE D'OR bar melk banaan 4x47,5g"
+  },
+  {
+    "gtin": "00694990083626",
+    "productId": "1528",
+    "name": "speculoos",
+    "technicalArticleNumber": "21536",
+    "commercialArticleNumber": "21536",
+    "LongName": "LU BASTOGNE! speculoos 260g"
+  },
+  {
+    "gtin": "07613035366749",
+    "productId": "209364",
+    "technicalArticleNumber": "3497029",
+    "commercialArticleNumber": "10416",
+    "LongName": "NESTLÉ KITKAT 10x41,5g"
+  },
+  {
+    "gtin": "15400141331810",
+    "productId": "86926",
+    "name": "honingkoek parelsuiker",
+    "technicalArticleNumber": "3022296",
+    "commercialArticleNumber": "38723",
+    "LongName": "BONI honingkoek parelsuiker 500g"
+  },
+  {
+    "gtin": "04000415440800",
+    "productId": "868361",
+    "name": "Smooth Caramel",
+    "technicalArticleNumber": "4721387",
+    "commercialArticleNumber": "15399",
+    "LongName": "CHOCO FUN Smooth Caramel 216g"
+  },
+  {
+    "gtin": "04000415360900",
+    "productId": "868367",
+    "name": "Coolchoc Coconut",
+    "technicalArticleNumber": "4721399",
+    "commercialArticleNumber": "15536",
+    "LongName": "CHOCO FUN Coolchoc Coconut 175g"
+  },
+  {
+    "gtin": "05410126006360",
+    "productId": "595630",
+    "name": "speculoos gev. specul.crème",
+    "technicalArticleNumber": "4257263",
+    "commercialArticleNumber": "22495",
+    "LongName": "LOTUS speculoos gev. specul.crème 15x10g"
+  },
+  {
+    "gtin": "07610700947425",
+    "productId": "1569",
+    "name": "pastille citroen munt sv",
+    "technicalArticleNumber": "20613",
+    "commercialArticleNumber": "20613",
+    "LongName": "RICOLA pastille citroen munt sv 50g"
+  },
+  {
+    "gtin": "03116430519405",
+    "productId": "200675",
+    "name": "melkchocolade",
+    "technicalArticleNumber": "3425095",
+    "commercialArticleNumber": "13049",
+    "LongName": "DÉLICHOC melkchocolade 150g"
+  },
+  {
+    "gtin": "15400141282082",
+    "productId": "130298",
+    "name": "snoep hosties zuur",
+    "technicalArticleNumber": "3243372",
+    "commercialArticleNumber": "37469",
+    "LongName": "BONI snoep hosties zuur 125g"
+  },
+  {
+    "gtin": "05400141052312",
+    "productId": "89300",
+    "name": "gebak Safari",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "2989495",
+    "commercialArticleNumber": "3079",
+    "LongName": "BONI gebak Safari 6x32g"
+  },
+  {
+    "gtin": "04001686323953",
+    "productId": "14974",
+    "name": "snoep colaflesjes",
+    "technicalArticleNumber": "1465064",
+    "commercialArticleNumber": "20715",
+    "LongName": "HARIBO snoep colaflesjes 500g"
+  },
+  {
+    "gtin": "15410126012283",
+    "productId": "219555",
+    "name": "vanille wafels 8st",
+    "technicalArticleNumber": "3482706",
+    "commercialArticleNumber": "50490",
+    "LongName": "SUZY vanille wafels 8st 8x28g"
+  },
+  {
+    "gtin": "05400141464207",
+    "productId": "32934",
+    "name": "koeken Penny",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1821391",
+    "commercialArticleNumber": "21622",
+    "LongName": "DE BEUKELAER koeken Penny 10x20g"
+  },
+  {
+    "gtin": "07622210713797",
+    "productId": "584269",
+    "name": "choco",
+    "technicalArticleNumber": "4238978",
+    "commercialArticleNumber": "19075",
+    "LongName": "LU BELVITA choco 400g"
+  },
+  {
+    "gtin": "03116430210593",
+    "productId": "1645",
+    "name": "Gâteau",
+    "technicalArticleNumber": "21248",
+    "commercialArticleNumber": "21248",
+    "LongName": "DELACRE Gâteau 500g"
+  },
+  {
+    "gtin": "05400141140514",
+    "productId": "9629",
+    "name": "Mignonnette Noir de Noir",
+    "description": "*Min. 54 %\ncacaobestanddelen\n*Belgische chocolade",
+    "technicalArticleNumber": "1123845",
+    "commercialArticleNumber": "20012",
+    "LongName": "COTE D'OR Mignonnette Noir de Noir 240g"
+  },
+  {
+    "gtin": "05400141740905",
+    "productId": "638086",
+    "name": "fruitkoekjes",
+    "technicalArticleNumber": "4329284",
+    "commercialArticleNumber": "7022",
+    "LongName": "BONI fruitkoekjes 6x3st 262g"
+  },
+  {
+    "gtin": "07622210478511",
+    "productId": "193299",
+    "name": "Petit Beukelaer",
+    "technicalArticleNumber": "3438711",
+    "commercialArticleNumber": "50138",
+    "LongName": "LU Petit Beukelaer 330g"
+  },
+  {
+    "gtin": "35400141535939",
+    "productId": "167367",
+    "name": "speculoos",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3378806",
+    "commercialArticleNumber": "8420",
+    "LongName": "BONI speculoos 10x25g"
+  },
+  {
+    "gtin": "15400141564904",
+    "productId": "1638",
+    "name": "Nic-Nac suiker",
+    "technicalArticleNumber": "21200",
+    "commercialArticleNumber": "21200",
+    "LongName": "BONI Nic-Nac suiker 500g"
+  },
+  {
+    "gtin": "15410126146254",
+    "productId": "1026672",
+    "name": "Biscoff speculoos",
+    "technicalArticleNumber": "4791918",
+    "commercialArticleNumber": "33672",
+    "LongName": "LOTUS Biscoff speculoos 525g"
+  },
+  {
+    "gtin": "04017100024986",
+    "productId": "10892",
+    "name": "Melkchocolade gevuld",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1345112",
+    "commercialArticleNumber": "21137",
+    "LongName": "PICK UP! Melkchocolade gevuld 10x28g"
+  },
+  {
+    "gtin": "03046920178532",
+    "productId": "226238",
+    "name": "85% cacao",
+    "description": "*85 % cacao",
+    "technicalArticleNumber": "3564949",
+    "commercialArticleNumber": "12843",
+    "LongName": "LINDT EXCELLENCE 85% cacao 100g"
+  },
+  {
+    "gtin": "15400141796770",
+    "productId": "3984",
+    "name": "koeken Bokkenpootjes",
+    "technicalArticleNumber": "1106549",
+    "commercialArticleNumber": "21760",
+    "LongName": "BONI koeken Bokkenpootjes 12x12,5g"
+  },
+  {
+    "gtin": "05400141636628",
+    "productId": "1536",
+    "name": "Cake Sterren met Boter",
+    "technicalArticleNumber": "21676",
+    "commercialArticleNumber": "21676",
+    "LongName": "BONI Cake Sterren met Boter 250g"
+  },
+  {
+    "gtin": "08001585001224",
+    "productId": "1533",
+    "name": "cake Trancetto",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "21645",
+    "commercialArticleNumber": "21645",
+    "LongName": "BALCONI cake Trancetto 10x28g"
+  },
+  {
+    "gtin": "04014400014457",
+    "productId": "340416",
+    "name": "Finest Selection crispy",
+    "technicalArticleNumber": "3822005",
+    "commercialArticleNumber": "19988",
+    "LongName": "MERCI Finest Selection crispy 250g"
+  },
+  {
+    "gtin": "03103221030126",
+    "productId": "32225",
+    "name": "snoep dragibus Soft",
+    "description": "*Zonder dierlijke\ngelatine",
+    "technicalArticleNumber": "1857391",
+    "commercialArticleNumber": "20389",
+    "LongName": "HARIBO snoep dragibus Soft 400g"
+  },
+  {
+    "gtin": "03048289048259",
+    "productId": "1550",
+    "name": "Beertje Aardbei",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "21941",
+    "commercialArticleNumber": "21941",
+    "LongName": "LU LULU Beertje Aardbei 5x30g"
+  },
+  {
+    "gtin": "08723400757252",
+    "productId": "304663",
+    "name": "Peppermint",
+    "technicalArticleNumber": "3725266",
+    "commercialArticleNumber": "21512",
+    "LongName": "FRISK Peppermint 35g"
+  },
+  {
+    "gtin": "15410126126881",
+    "productId": "44694",
+    "name": "speculoos 6 granen",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "2508071",
+    "commercialArticleNumber": "8306",
+    "LongName": "LOTUS speculoos 6 granen 450g"
+  },
+  {
+    "gtin": "07622210655905",
+    "productId": "262571",
+    "name": "melk biscuit",
+    "technicalArticleNumber": "3582772",
+    "commercialArticleNumber": "50994",
+    "LongName": "MILKA melk biscuit 600g"
+  },
+  {
+    "gtin": "05410126006766",
+    "productId": "7154",
+    "name": "speculoos chocolade",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1160202",
+    "commercialArticleNumber": "21531",
+    "LongName": "LOTUS speculoos chocolade 7x22g"
+  },
+  {
+    "gtin": "07622200348084",
+    "productId": "1426",
+    "name": "Nougatti",
+    "technicalArticleNumber": "20456",
+    "commercialArticleNumber": "20456",
+    "LongName": "CÔTE D'OR Nougatti 9x30g"
+  },
+  {
+    "gtin": "07622200885381",
+    "productId": "1556",
+    "name": "Puur",
+    "technicalArticleNumber": "20560",
+    "commercialArticleNumber": "20560",
+    "LongName": "CHOKOTOFF Puur 1kg"
+  },
+  {
+    "gtin": "05400141444292",
+    "productId": "1544",
+    "name": "boterwafels",
+    "technicalArticleNumber": "21852",
+    "commercialArticleNumber": "21852",
+    "LongName": "BONI boterwafels 500g"
+  },
+  {
+    "gtin": "05400141602685",
+    "productId": "286240",
+    "name": "chocolade paashaas",
+    "description": "*Belgische\nchocolade\n*Rainforest Alliance\ngecertificeerd",
+    "technicalArticleNumber": "3694606",
+    "commercialArticleNumber": "51103",
+    "LongName": "BONI chocolade paashaas 150g"
+  },
+  {
+    "gtin": "07622201751708",
+    "productId": "866324",
+    "name": "Cookies Sensations",
+    "technicalArticleNumber": "4718781",
+    "commercialArticleNumber": "7283",
+    "LongName": "MILKA Cookies Sensations 208g"
+  },
+  {
+    "gtin": "15400141244370",
+    "productId": "39998",
+    "name": "gummies mix",
+    "technicalArticleNumber": "1820356",
+    "commercialArticleNumber": "20285",
+    "LongName": "BONI gummies mix 600g"
+  },
+  {
+    "gtin": "08000500134658",
+    "productId": "27836",
+    "name": "verrassing",
+    "technicalArticleNumber": "2242493",
+    "commercialArticleNumber": "20069",
+    "LongName": "KINDER JOY verrassing 3x20g"
+  },
+  {
+    "gtin": "15411113014822",
+    "productId": "55018",
+    "name": "ambachtelijke wafels",
+    "technicalArticleNumber": "2291415",
+    "commercialArticleNumber": "21168",
+    "LongName": "EIGENBAK ambachtelijke wafels 340g"
+  },
+  {
+    "gtin": "05413121105168",
+    "productId": "51764",
+    "name": "chocoladereep",
+    "technicalArticleNumber": "2215146",
+    "commercialArticleNumber": "21428",
+    "LongName": "KOETJESREEP chocoladereep 12x15g"
+  },
+  {
+    "gtin": "07622210655806",
+    "productId": "262584",
+    "name": "wit",
+    "technicalArticleNumber": "3582789",
+    "commercialArticleNumber": "51001",
+    "LongName": "MILKA wit 600g"
+  },
+  {
+    "gtin": "05407008810023",
+    "productId": "700593",
+    "name": "rosette chocolade",
+    "technicalArticleNumber": "4433083",
+    "commercialArticleNumber": "15392",
+    "LongName": "ALISA'S COOKIES rosette chocolade 200g"
+  },
+  {
+    "gtin": "07622201513771",
+    "productId": "332987",
+    "name": "petit moelleux nature",
+    "technicalArticleNumber": "3817155",
+    "commercialArticleNumber": "15680",
+    "LongName": "LU petit moelleux nature 140g"
+  },
+  {
+    "gtin": "07622210368997",
+    "productId": "30137",
+    "name": "alpenmelk",
+    "technicalArticleNumber": "1660533",
+    "commercialArticleNumber": "19529",
+    "LongName": "MILKA alpenmelk 100g"
+  },
+  {
+    "gtin": "08000500290507",
+    "productId": "589799",
+    "name": "white",
+    "technicalArticleNumber": "4247774",
+    "commercialArticleNumber": "1354",
+    "LongName": "KINDER BUENO white 8x39g"
+  },
+  {
+    "gtin": "15400141430612",
+    "productId": "51499",
+    "name": "chocokoeken vanille",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "2401746",
+    "commercialArticleNumber": "26803",
+    "LongName": "BONI chocokoeken vanille 9x25g"
+  },
+  {
+    "gtin": "08711513756163",
+    "productId": "740262",
+    "name": "Cafe noir",
+    "technicalArticleNumber": "4504479",
+    "commercialArticleNumber": "26454",
+    "LongName": "VAN DELFT Cafe noir 200g"
+  },
+  {
+    "gtin": "05400141109481",
+    "productId": "462107",
+    "name": "Zero pure chocolade",
+    "technicalArticleNumber": "3952223",
+    "commercialArticleNumber": "1900",
+    "LongName": "CÔTE D'OR Zero pure chocolade 4x50g"
+  },
+  {
+    "gtin": "08717399041737",
+    "productId": "356921",
+    "name": "fruit mix",
+    "technicalArticleNumber": "3874424",
+    "commercialArticleNumber": "18057",
+    "LongName": "NAPOLEON fruit mix 340g"
+  },
+  {
+    "gtin": "08713600920655",
+    "productId": "533636",
+    "name": "fruit",
+    "technicalArticleNumber": "4126717",
+    "commercialArticleNumber": "9350",
+    "LongName": "MENTOS fruit 4x37,5g"
+  },
+  {
+    "gtin": "07622210655844",
+    "productId": "261977",
+    "name": "Crusty praline",
+    "technicalArticleNumber": "3582767",
+    "commercialArticleNumber": "50992",
+    "LongName": "MILKA Crusty praline 600g"
+  },
+  {
+    "gtin": "05410126104103",
+    "productId": "318830",
+    "name": "dinosaurus mini melkchoc.",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3772754",
+    "commercialArticleNumber": "12521",
+    "LongName": "LOTUS dinosaurus mini melkchoc. 6x25g"
+  },
+  {
+    "gtin": "07622300491161",
+    "productId": "103883",
+    "name": "koeken White Choc",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3089634",
+    "commercialArticleNumber": "41896",
+    "LongName": "OREO koeken White Choc 6x41g"
+  },
+  {
+    "gtin": "07622210396341",
+    "productId": "143698",
+    "name": "Choc & Choc",
+    "technicalArticleNumber": "3298979",
+    "commercialArticleNumber": "9143",
+    "LongName": "MILKA Choc & Choc 7x25g"
+  },
+  {
+    "gtin": "04017100013324",
+    "productId": "12038",
+    "name": "Original",
+    "technicalArticleNumber": "1393742",
+    "commercialArticleNumber": "21909",
+    "LongName": "LEIBNIZ ZOO Original 125g"
+  },
+  {
+    "gtin": "08001585008070",
+    "productId": "806074",
+    "name": "wafers cacao",
+    "technicalArticleNumber": "4626165",
+    "commercialArticleNumber": "5622",
+    "LongName": "BALCONI wafers cacao 175g"
+  },
+  {
+    "gtin": "05410059759920",
+    "productId": "826151",
+    "name": "matinettes puur 60%",
+    "description": "*Met 60% cacao\n*Belgische chocolade",
+    "technicalArticleNumber": "4663275",
+    "commercialArticleNumber": "29958",
+    "LongName": "JACQUES matinettes puur 60% 224g"
+  },
+  {
+    "gtin": "08000500035603",
+    "productId": "16658",
+    "name": "T4",
+    "technicalArticleNumber": "1471137",
+    "commercialArticleNumber": "20321",
+    "LongName": "KINDER SURPRISE T4 80g"
+  },
+  {
+    "gtin": "07622210385451",
+    "productId": "1633",
+    "technicalArticleNumber": "21111",
+    "commercialArticleNumber": "21111",
+    "LongName": "LU CHOCO AS 12x20g"
+  },
+  {
+    "gtin": "05400141764499",
+    "productId": "638915",
+    "name": "koeken assortiment",
+    "technicalArticleNumber": "4330554",
+    "commercialArticleNumber": "10053",
+    "LongName": "BONI koeken assortiment 500g"
+  },
+  {
+    "gtin": "15400141449171",
+    "productId": "739853",
+    "name": "chocolade puur hazelnoten FT",
+    "technicalArticleNumber": "4504049",
+    "commercialArticleNumber": "23912",
+    "LongName": "BONI chocolade puur hazelnoten FT 200g"
+  },
+  {
+    "gtin": "15410126014188",
+    "productId": "219567",
+    "name": "vanille wafels choclade 8st",
+    "technicalArticleNumber": "3482724",
+    "commercialArticleNumber": "50491",
+    "LongName": "SUZY vanille wafels choclade 8st 8x36,5g"
+  },
+  {
+    "gtin": "03017760000208",
+    "productId": "184464",
+    "name": "Véritab.Petit Beurre Pocket 12st",
+    "technicalArticleNumber": "3438779",
+    "commercialArticleNumber": "50140",
+    "LongName": "LU Véritab.Petit Beurre Pocket 12st 300g"
+  },
+  {
+    "gtin": "05410381001773",
+    "productId": "1560",
+    "name": "bonbon Hartmint munt",
+    "technicalArticleNumber": "20573",
+    "commercialArticleNumber": "20573",
+    "LongName": "TREFIN bonbon Hartmint munt 600g"
+  },
+  {
+    "gtin": "00000025212778",
+    "productId": "1648",
+    "name": "Original",
+    "technicalArticleNumber": "21277",
+    "commercialArticleNumber": "21277",
+    "LongName": "LU CENT WAFERS Original 190g"
+  },
+  {
+    "gtin": "04008400280103",
+    "productId": "137091",
+    "name": "Schoko-Bons 300 g V",
+    "technicalArticleNumber": "3173455",
+    "commercialArticleNumber": "44219",
+    "LongName": "KINDER Schoko-Bons 300 g V"
+  },
+  {
+    "gtin": "15407008810013",
+    "productId": "700576",
+    "name": "kattetong chocolade",
+    "technicalArticleNumber": "4433066",
+    "commercialArticleNumber": "15215",
+    "LongName": "ALISA'S COOKIES kattetong chocolade 200g"
+  },
+  {
+    "gtin": "15410126080770",
+    "productId": "282393",
+    "name": "Zebra Chocolade",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3657502",
+    "commercialArticleNumber": "14240",
+    "LongName": "LOTUS Zebra Chocolade 6x38,5g"
+  },
+  {
+    "gtin": "05410081201848",
+    "productId": "1473",
+    "name": "noir de noir",
+    "description": "*Min. 54 %\ncacaobestanddelen\n*Belgische chocolade",
+    "technicalArticleNumber": "20018",
+    "commercialArticleNumber": "20018",
+    "LongName": "CÔTE D'OR noir de noir 150g"
+  },
+  {
+    "gtin": "00000041015445",
+    "productId": "242605",
+    "name": "Cake Marmorkuchen",
+    "technicalArticleNumber": "3537426",
+    "commercialArticleNumber": "50729",
+    "LongName": "KUCHENMEISTER Cake Marmorkuchen 400g"
+  },
+  {
+    "gtin": "05410126006353",
+    "productId": "595636",
+    "name": "speculoos gev.melkchocolade",
+    "technicalArticleNumber": "4257269",
+    "commercialArticleNumber": "22496",
+    "LongName": "LOTUS speculoos gev.melkchocolade 15x10g"
+  },
+  {
+    "gtin": "05400141086218",
+    "productId": "13405",
+    "name": "koeken appel",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1309167",
+    "commercialArticleNumber": "21919",
+    "LongName": "SULTANA koeken appel 5x43,6g"
+  },
+  {
+    "gtin": "15410126043058",
+    "productId": "44702",
+    "name": "krokante wafeltjes",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "2508104",
+    "commercialArticleNumber": "8321",
+    "LongName": "LOTUS krokante wafeltjes 6x36g"
+  },
+  {
+    "gtin": "07622210776525",
+    "productId": "332982",
+    "name": "petit moelleux choco",
+    "technicalArticleNumber": "3817150",
+    "commercialArticleNumber": "15643",
+    "LongName": "LU petit moelleux choco 5x28g"
+  },
+  {
+    "gtin": "07610400270380",
+    "productId": "226239",
+    "name": "orange intense",
+    "technicalArticleNumber": "3564951",
+    "commercialArticleNumber": "13023",
+    "LongName": "LINDT EXCELLENCE orange intense 100g"
+  },
+  {
+    "gtin": "05425026053031",
+    "productId": "701900",
+    "name": "mini amandelspeculoos",
+    "technicalArticleNumber": "4435000",
+    "commercialArticleNumber": "17266",
+    "LongName": "CRUMBEL mini amandelspeculoos 225g"
+  },
+  {
+    "gtin": "07622210655868",
+    "productId": "262576",
+    "name": "oreo",
+    "technicalArticleNumber": "3582779",
+    "commercialArticleNumber": "50997",
+    "LongName": "MILKA oreo 600g"
+  },
+  {
+    "gtin": "05400141367850",
+    "productId": "591287",
+    "name": "winegums tropical",
+    "technicalArticleNumber": "4249773",
+    "commercialArticleNumber": "9703",
+    "LongName": "BONI winegums tropical 600g"
+  },
+  {
+    "gtin": "05410126262025",
+    "productId": "134900",
+    "name": "Luikse wafels super",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3196010",
+    "commercialArticleNumber": "12458",
+    "LongName": "LOTUS SUZY Luikse wafels super 6x90g"
+  },
+  {
+    "gtin": "15400141019749",
+    "productId": "30828",
+    "name": "zachte speculoos",
+    "technicalArticleNumber": "1661938",
+    "commercialArticleNumber": "19740",
+    "LongName": "BONI zachte speculoos 350g"
+  },
+  {
+    "gtin": "07622201514341",
+    "productId": "766571",
+    "name": "melkchocolade kokosnoot",
+    "description": "*Belgische chocolade\n*melkchocolade\n*met kokoscrème (40%)",
+    "technicalArticleNumber": "4550001",
+    "commercialArticleNumber": "12947",
+    "LongName": "CÔTE D'OR melkchocolade kokosnoot 4x44g"
+  },
+  {
+    "gtin": "05400141124484",
+    "productId": "115926",
+    "name": "Vanille 6st",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3050687",
+    "commercialArticleNumber": "26386",
+    "LongName": "LU PRINCE CHOCO PRINCE Vanille 6st 171g"
+  },
+  {
+    "gtin": "07622210194046",
+    "productId": "89630",
+    "name": "Oreo tablet",
+    "technicalArticleNumber": "3020248",
+    "commercialArticleNumber": "18429",
+    "LongName": "MILKA Oreo tablet 100g"
+  },
+  {
+    "gtin": "08001585011261",
+    "productId": "425375",
+    "name": "mix max",
+    "technicalArticleNumber": "3930690",
+    "commercialArticleNumber": "22756",
+    "LongName": "BALCONI mix max 10x35g"
+  },
+  {
+    "gtin": "15400141608103",
+    "productId": "332806",
+    "name": "kauwgom spearmint 50st",
+    "technicalArticleNumber": "3813297",
+    "commercialArticleNumber": "18245",
+    "LongName": "BONI kauwgom spearmint 50st 100g"
+  },
+  {
+    "gtin": "07622210623805",
+    "productId": "300396",
+    "name": "choco brownie",
+    "technicalArticleNumber": "3728776",
+    "commercialArticleNumber": "21757",
+    "LongName": "MILKA choco brownie 6x30g"
+  },
+  {
+    "gtin": "05411128412111",
+    "productId": "1526",
+    "name": "speculoos geel",
+    "technicalArticleNumber": "21526",
+    "commercialArticleNumber": "21526",
+    "LongName": "VERMEIREN speculoos geel 2x162,5g"
+  },
+  {
+    "gtin": "05400141684766",
+    "productId": "654226",
+    "name": "paashaas gechocolat.guimauve",
+    "technicalArticleNumber": "4353640",
+    "commercialArticleNumber": "2365",
+    "LongName": "BONI paashaas gechocolat.guimauve 250g"
+  },
+  {
+    "gtin": "00000087146752",
+    "productId": "1576",
+    "name": "pepermunt",
+    "technicalArticleNumber": "20633",
+    "commercialArticleNumber": "20633",
+    "LongName": "KING pepermunt 4x44g"
+  },
+  {
+    "gtin": "05400141565171",
+    "productId": "732307",
+    "name": "koeken nutties",
+    "technicalArticleNumber": "4491066",
+    "commercialArticleNumber": "14308",
+    "LongName": "BONI koeken nutties 172g"
+  },
+  {
+    "gtin": "07622300348793",
+    "productId": "29057",
+    "name": "LEO GO! Mini",
+    "technicalArticleNumber": "2231506",
+    "commercialArticleNumber": "20072",
+    "LongName": "MILKA LEO GO! Mini 10x18,2g"
+  },
+  {
+    "gtin": "15400141276616",
+    "productId": "150741",
+    "name": "zeevruchten",
+    "description": "zeevruchtjes in melk- en witte\nchocolade met hazelnootpraliné",
+    "technicalArticleNumber": "3304427",
+    "commercialArticleNumber": "24611",
+    "LongName": "BONI zeevruchten 250g"
+  },
+  {
+    "gtin": "15400141046011",
+    "productId": "261595",
+    "name": "chocolade puur FT",
+    "description": "*min.69,9%\ncacaobestanddelen\n*Belgische chocolade\n*Fairtrade",
+    "technicalArticleNumber": "3608696",
+    "commercialArticleNumber": "17587",
+    "LongName": "BONI BIO chocolade puur FT 100g"
+  },
+  {
+    "gtin": "15410126854159",
+    "productId": "267720",
+    "name": "koeken melkchocolade 4st",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3650198",
+    "commercialArticleNumber": "20986",
+    "LongName": "DINOSAURUS koeken melkchocolade 4st 171g"
+  },
+  {
+    "gtin": "03182650608687",
+    "productId": "509759",
+    "name": "botermadeleine",
+    "technicalArticleNumber": "4080229",
+    "commercialArticleNumber": "7637",
+    "LongName": "LOTUS botermadeleine 10x28g"
+  },
+  {
+    "gtin": "03116430210555",
+    "productId": "1630",
+    "name": "Namur",
+    "technicalArticleNumber": "21028",
+    "commercialArticleNumber": "21028",
+    "LongName": "DELACRE Namur 200g"
+  },
+  {
+    "gtin": "05411901063004",
+    "productId": "15310",
+    "name": "zakje paasfig.melkchocolade",
+    "description": "*Belgische chocolade",
+    "technicalArticleNumber": "1620686",
+    "commercialArticleNumber": "22947",
+    "LongName": "LIBEERT zakje paasfig.melkchocolade 175g"
+  },
+  {
+    "gtin": "05410126014426",
+    "productId": "220170",
+    "name": "Jumbo vanille wafel choco.",
+    "technicalArticleNumber": "3482741",
+    "commercialArticleNumber": "50492",
+    "LongName": "SUZY Jumbo vanille wafel choco. 4x75g"
+  },
+  {
+    "gtin": "05410126043419",
+    "productId": "175279",
+    "name": "krok.wafels chocolade",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3348177",
+    "commercialArticleNumber": "21467",
+    "LongName": "LOTUS krok.wafels chocolade 4x46g"
+  },
+  {
+    "gtin": "08410076710819",
+    "productId": "346876",
+    "name": "protein pind&choc.GV",
+    "description": "*Rijk aan vezels\n*Eiwitrijk\n*Glutenvrij",
+    "technicalArticleNumber": "3741102",
+    "commercialArticleNumber": "15245",
+    "LongName": "NATURE VALLEY protein pind&choc.GV 160g"
+  },
+  {
+    "gtin": "05410059450544",
+    "productId": "567452",
+    "name": "callets fondant",
+    "technicalArticleNumber": "4210471",
+    "commercialArticleNumber": "16185",
+    "LongName": "JACQUES callets fondant 400g"
+  },
+  {
+    "gtin": "35400141312721",
+    "productId": "545397",
+    "name": "chocolade melk pouch",
+    "technicalArticleNumber": "4172110",
+    "commercialArticleNumber": "9938",
+    "LongName": "M&M'S chocolade melk pouch 550g"
+  },
+  {
+    "gtin": "05400141201284",
+    "productId": "1487",
+    "name": "melk honing nougat",
+    "technicalArticleNumber": "20128",
+    "commercialArticleNumber": "20128",
+    "LongName": "TOBLERONE melk honing nougat 100g"
+  },
+  {
+    "gtin": "05410126000955",
+    "productId": "9831",
+    "name": "Marshmallow chocolade",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1401667",
+    "commercialArticleNumber": "21969",
+    "LongName": "LOTUS Marshmallow chocolade 5x27g"
+  },
+  {
+    "gtin": "15400141500124",
+    "productId": "511243",
+    "name": "B-Bar",
+    "technicalArticleNumber": "4083290",
+    "commercialArticleNumber": "7754",
+    "LongName": "BONI B-Bar 8x44g"
+  },
+  {
+    "gtin": "05400141086195",
+    "productId": "13402",
+    "name": "koeken Naturel fruit",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1309159",
+    "commercialArticleNumber": "21915",
+    "LongName": "SULTANA koeken Naturel fruit 5x43,6g"
+  },
+  {
+    "gtin": "15400141936015",
+    "productId": "797861",
+    "name": "fizzy tongues",
+    "technicalArticleNumber": "4609658",
+    "commercialArticleNumber": "5776",
+    "LongName": "BONI fizzy tongues 600g"
+  },
+  {
+    "gtin": "05425026052690",
+    "productId": "660678",
+    "name": "mini cake chocolade",
+    "technicalArticleNumber": "4365004",
+    "commercialArticleNumber": "24117",
+    "LongName": "CRUMBEL mini cake chocolade 300g"
+  },
+  {
+    "gtin": "05400141381924",
+    "productId": "210613",
+    "name": "Black&White",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3522988",
+    "commercialArticleNumber": "10735",
+    "LongName": "LU PRINCE MINISTARS Black&White 5x37,4g"
+  },
+  {
+    "gtin": "15400141331797",
+    "productId": "87016",
+    "name": "honingkoek",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3018664",
+    "commercialArticleNumber": "38836",
+    "LongName": "BONI honingkoek 8x40g"
+  },
+  {
+    "gtin": "15410041405306",
+    "productId": "154",
+    "name": "koeken appel-abrikoos",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "15040",
+    "commercialArticleNumber": "15040",
+    "LongName": "LU GRANY koeken appel-abrikoos 6x32,5g"
+  },
+  {
+    "gtin": "05400141926569",
+    "productId": "740177",
+    "name": "Fairtrade melk kar. zeezout",
+    "technicalArticleNumber": "4504388",
+    "commercialArticleNumber": "25531",
+    "LongName": "BONI Fairtrade melk kar. zeezout 200g"
+  },
+  {
+    "gtin": "08717677335640",
+    "productId": "149356",
+    "name": "melk caramel zeezout",
+    "description": "Melkchocolade met stukjes karamel en\nzeezout",
+    "technicalArticleNumber": "3307450",
+    "commercialArticleNumber": "25624",
+    "LongName": "TONY'S melk caramel zeezout 180g"
+  },
+  {
+    "gtin": "13017760736012",
+    "productId": "29364",
+    "name": "Pocket Chocolade",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1910471",
+    "commercialArticleNumber": "21949",
+    "LongName": "LU PRINCE Pocket Chocolade 10x40g"
+  },
+  {
+    "gtin": "07622300331313",
+    "productId": "53834",
+    "name": "LEO witte chocolade",
+    "technicalArticleNumber": "2210328",
+    "commercialArticleNumber": "21398",
+    "LongName": "MILKA LEO witte chocolade 12x33g"
+  },
+  {
+    "gtin": "08410076710826",
+    "productId": "337960",
+    "name": "prot.gez.kar.noten GV",
+    "description": "*Rijk aan vezels\n*Eiwitrijk\n*Glutenvrij",
+    "technicalArticleNumber": "3741114",
+    "commercialArticleNumber": "15403",
+    "LongName": "NATURE VALLEY prot.gez.kar.noten GV 160g"
+  },
+  {
+    "gtin": "05410383011008",
+    "productId": "1114",
+    "name": "peperkoek met honing",
+    "technicalArticleNumber": "16640",
+    "commercialArticleNumber": "16640",
+    "LongName": "VONDELMOLEN peperkoek met honing 500g"
+  },
+  {
+    "gtin": "15400141778165",
+    "productId": "709558",
+    "name": "Fairtrade crispi witte chocol.",
+    "technicalArticleNumber": "4449471",
+    "commercialArticleNumber": "26370",
+    "LongName": "BONI Fairtrade crispi witte chocol. 200g"
+  },
+  {
+    "gtin": "05400141624496",
+    "productId": "16538",
+    "name": "koeken sigaretten",
+    "technicalArticleNumber": "1469611",
+    "commercialArticleNumber": "21320",
+    "LongName": "BONI koeken sigaretten 180g"
+  },
+  {
+    "gtin": "05410126012576",
+    "productId": "488551",
+    "name": "luikse wafel melkchocolade",
+    "description": "*individueel verpakt",
+    "technicalArticleNumber": "4038581",
+    "commercialArticleNumber": "5907",
+    "LongName": "LOTUS SUZY luikse wafel melkchocolade 8x57,5g"
+  },
+  {
+    "gtin": "05410126210859",
+    "productId": "384253",
+    "name": "Tartélice framboos",
+    "technicalArticleNumber": "3842189",
+    "commercialArticleNumber": "52000",
+    "LongName": "LOTUS Tartélice framboos 6x57,5g"
+  },
+  {
+    "gtin": "08001585055005",
+    "productId": "806075",
+    "name": "wafers cacao multipack",
+    "technicalArticleNumber": "4626166",
+    "commercialArticleNumber": "5685",
+    "LongName": "BALCONI wafers cacao multipack 5x45g"
+  },
+  {
+    "gtin": "05000159434539",
+    "productId": "909771",
+    "name": "5-pack",
+    "technicalArticleNumber": "4759146",
+    "commercialArticleNumber": "4207",
+    "LongName": "BOUNTY 5-pack 285g"
+  },
+  {
+    "gtin": "15410126844051",
+    "productId": "267724",
+    "name": "koeken chocolade 4st",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3650205",
+    "commercialArticleNumber": "20993",
+    "LongName": "DINOSAURUS koeken chocolade 4st 171g"
+  },
+  {
+    "gtin": "05411901927917",
+    "productId": "68455",
+    "name": "paaseieren witte chocolade",
+    "technicalArticleNumber": "2742443",
+    "commercialArticleNumber": "40912",
+    "LongName": "LIBEERT paaseieren witte chocolade 120g"
+  },
+  {
+    "gtin": "08710412974067",
+    "productId": "192807",
+    "name": "koeken it.kruid",
+    "technicalArticleNumber": "3457044",
+    "commercialArticleNumber": "50267",
+    "LongName": "SULTANA CRUNCHERS koeken it.kruid 5x35g"
+  },
+  {
+    "gtin": "05400141072365",
+    "productId": "461631",
+    "name": "melk nootjes",
+    "technicalArticleNumber": "3957431",
+    "commercialArticleNumber": "2255",
+    "LongName": "CÔTE D'OR melk nootjes 4x45g"
+  },
+  {
+    "gtin": "75400141276021",
+    "productId": "519740",
+    "name": "tablet caramel",
+    "technicalArticleNumber": "4103034",
+    "commercialArticleNumber": "6568",
+    "LongName": "MILKA tablet caramel 100g"
+  },
+  {
+    "gtin": "07622210591005",
+    "productId": "513003",
+    "name": "Tender Moo",
+    "technicalArticleNumber": "4085488",
+    "commercialArticleNumber": "7881",
+    "LongName": "MILKA Tender Moo 5x28g"
+  },
+  {
+    "gtin": "05400141321753",
+    "productId": "1109",
+    "name": "honingkoek",
+    "technicalArticleNumber": "16600",
+    "commercialArticleNumber": "16600",
+    "LongName": "BONI honingkoek 500g"
+  },
+  {
+    "gtin": "08000500267103",
+    "productId": "532866",
+    "name": "Délice T10",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "4125336",
+    "commercialArticleNumber": "9315",
+    "LongName": "KINDER Délice T10 10x39g"
+  },
+  {
+    "gtin": "07622201009595",
+    "productId": "15653",
+    "name": "Mignonnette Noir 70 %",
+    "description": "*Met 70 % cacao\n*Belgische chocolade",
+    "technicalArticleNumber": "1623998",
+    "commercialArticleNumber": "20727",
+    "LongName": "COTE D'OR Mignonnette Noir 70 % 180g"
+  },
+  {
+    "gtin": "08717677079957",
+    "productId": "832720",
+    "name": "Paaseieren mixzak",
+    "technicalArticleNumber": "4673708",
+    "commercialArticleNumber": "30261",
+    "LongName": "ABS SWEETS Paaseieren mixzak 750g"
+  },
+  {
+    "gtin": "07622210996381",
+    "productId": "211503",
+    "name": "Bloc puur hazelnoot",
+    "description": "*Belgische chocolade",
+    "technicalArticleNumber": "3512718",
+    "commercialArticleNumber": "50596",
+    "LongName": "CÔTE D'OR Bloc puur hazelnoot 180g"
+  },
+  {
+    "gtin": "07622210039880",
+    "productId": "100657",
+    "name": "Cookie Choco XL",
+    "technicalArticleNumber": "2854675",
+    "commercialArticleNumber": "34400",
+    "LongName": "MILKA Cookie Choco XL 184g"
+  },
+  {
+    "gtin": "03116430003416",
+    "productId": "1646",
+    "name": "Marquisettes",
+    "technicalArticleNumber": "21256",
+    "commercialArticleNumber": "21256",
+    "LongName": "DELACRE Marquisettes 175g"
+  },
+  {
+    "gtin": "07622200715428",
+    "productId": "306020",
+    "name": "tablet praliné noir",
+    "technicalArticleNumber": "3722433",
+    "commercialArticleNumber": "20187",
+    "LongName": "CÔTE D'OR tablet praliné noir 200g"
+  },
+  {
+    "gtin": "07613039800324",
+    "productId": "712889",
+    "name": "melk",
+    "technicalArticleNumber": "4456164",
+    "commercialArticleNumber": "2612",
+    "LongName": "NESTLÉ SMARTIES melk 6x34st"
+  },
+  {
+    "gtin": "05411901927924",
+    "productId": "68457",
+    "name": "paaseieren fondant chocol.",
+    "technicalArticleNumber": "2742447",
+    "commercialArticleNumber": "40913",
+    "LongName": "LIBEERT paaseieren fondant chocol. 120g"
+  },
+  {
+    "gtin": "05400141139365",
+    "productId": "114298",
+    "name": "super fizzy stixx extra zuur",
+    "technicalArticleNumber": "3077300",
+    "commercialArticleNumber": "31335",
+    "LongName": "BONI super fizzy stixx extra zuur 600g"
+  },
+  {
+    "gtin": "05425024688037",
+    "productId": "1026435",
+    "name": "Boterwafeltjes Mini",
+    "technicalArticleNumber": "4791619",
+    "commercialArticleNumber": "33560",
+    "LongName": "PETIT BARON Boterwafeltjes Mini 240g"
+  },
+  {
+    "gtin": "05400141140125",
+    "productId": "309113",
+    "name": "crispy",
+    "technicalArticleNumber": "3744121",
+    "commercialArticleNumber": "14304",
+    "LongName": "M&M'S crispy 374g"
+  },
+  {
+    "gtin": "15400141564577",
+    "productId": "94610",
+    "name": "ABC Gummies",
+    "technicalArticleNumber": "2817168",
+    "commercialArticleNumber": "16766",
+    "LongName": "BONI ABC Gummies 600g"
+  },
+  {
+    "gtin": "04017100220685",
+    "productId": "19036",
+    "name": "pure chocolade",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1773538",
+    "commercialArticleNumber": "21138",
+    "LongName": "PICK UP! pure chocolade 10x28g"
+  },
+  {
+    "gtin": "05400141150292",
+    "productId": "11417",
+    "name": "koeken granen",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1373364",
+    "commercialArticleNumber": "15029",
+    "LongName": "LU GRANY koeken granen 6x28,5g"
+  },
+  {
+    "gtin": "00000080895442",
+    "productId": "509150",
+    "name": "wintergreen 55st",
+    "technicalArticleNumber": "4086266",
+    "commercialArticleNumber": "7904",
+    "LongName": "MENTOS PURE FRESH wintergreen 55st 110g"
+  },
+  {
+    "gtin": "05410081200292",
+    "productId": "1472",
+    "name": "melk hazelnoot",
+    "description": "*Belgische chocolade",
+    "technicalArticleNumber": "20014",
+    "commercialArticleNumber": "20014",
+    "LongName": "CÔTE D'OR melk hazelnoot 2x200g"
+  },
+  {
+    "gtin": "03045140015832",
+    "productId": "38965",
+    "name": "carrés melk hele hazeln.",
+    "description": "*Belgische chocolade",
+    "technicalArticleNumber": "1656587",
+    "commercialArticleNumber": "19540",
+    "LongName": "CÔTE D'OR carrés melk hele hazeln. 200g"
+  },
+  {
+    "gtin": "07622210948878",
+    "productId": "478684",
+    "name": "Ei Noisettine",
+    "technicalArticleNumber": "3994765",
+    "commercialArticleNumber": "4290",
+    "LongName": "MILKA Ei Noisettine 600g"
+  },
+  {
+    "gtin": "15400141914785",
+    "productId": "136686",
+    "name": "snoep colaflesjes",
+    "technicalArticleNumber": "3168674",
+    "commercialArticleNumber": "24926",
+    "LongName": "EVERYDAY snoep colaflesjes 500g"
+  },
+  {
+    "gtin": "15400141436379",
+    "productId": "797865",
+    "name": "fruit rings",
+    "technicalArticleNumber": "4609662",
+    "commercialArticleNumber": "5895",
+    "LongName": "BONI fruit rings 600g"
+  },
+  {
+    "gtin": "05400141138832",
+    "productId": "36575",
+    "name": "Carré frangipane Abr. 6st",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1865466",
+    "commercialArticleNumber": "21022",
+    "LongName": "BONI Carré frangipane Abr. 6st 6x50g"
+  },
+  {
+    "gtin": "08710412042278",
+    "productId": "855641",
+    "name": "Framboos",
+    "description": "*Individueel verpakt\n*5x3stuks",
+    "technicalArticleNumber": "4704992",
+    "commercialArticleNumber": "31361",
+    "LongName": "SULTANA Framboos 5x43,6g"
+  },
+  {
+    "gtin": "15410126020011",
+    "productId": "509768",
+    "name": "madeleine chocolade",
+    "technicalArticleNumber": "4080238",
+    "commercialArticleNumber": "7642",
+    "LongName": "LOTUS madeleine chocolade 12x25g"
+  },
+  {
+    "gtin": "05400141215892",
+    "productId": "59407",
+    "name": "Sprits boter-chocolade",
+    "technicalArticleNumber": "2192029",
+    "commercialArticleNumber": "21589",
+    "LongName": "BONI Sprits boter-chocolade 200g"
+  },
+  {
+    "gtin": "05425026053079",
+    "productId": "704413",
+    "name": "sprits frambozenconfituur",
+    "technicalArticleNumber": "4439059",
+    "commercialArticleNumber": "23722",
+    "LongName": "CRUMBEL sprits frambozenconfituur 300g"
+  },
+  {
+    "gtin": "05400141073980",
+    "productId": "461616",
+    "name": "Dessert 58",
+    "technicalArticleNumber": "3957416",
+    "commercialArticleNumber": "2246",
+    "LongName": "CÔTE D'OR Dessert 58 4x45g"
+  },
+  {
+    "gtin": "15410126001164",
+    "productId": "17658",
+    "name": "confituurtaartje abrikoos",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1542226",
+    "commercialArticleNumber": "22316",
+    "LongName": "LOTUS confituurtaartje abrikoos 6x34g"
+  },
+  {
+    "gtin": "05410041003000",
+    "productId": "15559",
+    "name": "ABC The Original",
+    "technicalArticleNumber": "1623418",
+    "commercialArticleNumber": "22985",
+    "LongName": "LU LULU ABC The Original 1kg"
+  },
+  {
+    "gtin": "07622400010422",
+    "productId": "304058",
+    "name": "tablet praliné wit",
+    "technicalArticleNumber": "3722401",
+    "commercialArticleNumber": "20198",
+    "LongName": "CÔTE D'OR tablet praliné wit 200g"
+  },
+  {
+    "gtin": "05425019201739",
+    "productId": "243317",
+    "name": "Paw Patrol Choco Bars",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3535976",
+    "commercialArticleNumber": "50724",
+    "LongName": "ZAGAZOE! Paw Patrol Choco Bars 6x20g"
+  },
+  {
+    "gtin": "07622400013423",
+    "productId": "183570",
+    "name": "noir brut 86%",
+    "technicalArticleNumber": "3471684",
+    "commercialArticleNumber": "50423",
+    "LongName": "CÔTE D'OR noir brut 86% 100g"
+  },
+  {
+    "gtin": "05412036017207",
+    "productId": "756614",
+    "name": "mini boterwafels",
+    "technicalArticleNumber": "4532411",
+    "commercialArticleNumber": "10649",
+    "LongName": "BUTTER BISCUITS mini boterwafels 175g"
+  },
+  {
+    "gtin": "08720874519003",
+    "productId": "832697",
+    "name": "Chocolade Pasen eieren",
+    "technicalArticleNumber": "4673678",
+    "commercialArticleNumber": "30260",
+    "LongName": "ABS SWEETS Chocolade Pasen eieren 500g"
+  },
+  {
+    "gtin": "05400141289770",
+    "productId": "200679",
+    "name": "pure chocolade",
+    "technicalArticleNumber": "3425107",
+    "commercialArticleNumber": "13203",
+    "LongName": "DÉLICHOC pure chocolade 150g"
+  },
+  {
+    "gtin": "05400141287257",
+    "productId": "161751",
+    "name": "chocolade puur mini",
+    "description": "Boni mignonette fondant 300gram.",
+    "technicalArticleNumber": "3288756",
+    "commercialArticleNumber": "44699",
+    "LongName": "BONI chocolade puur mini 300g"
+  },
+  {
+    "gtin": "03061990142153",
+    "productId": "28302",
+    "name": "De Smurfen melkchocolade",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1940109",
+    "commercialArticleNumber": "21155",
+    "LongName": "DELACRE De Smurfen melkchocolade 6x25g"
+  },
+  {
+    "gtin": "04009900504386",
+    "productId": "54181",
+    "name": "Sweet Mint 5x10st",
+    "technicalArticleNumber": "2478703",
+    "commercialArticleNumber": "38499",
+    "LongName": "FREEDENT WHITE Sweet Mint 5x10st 70g"
+  },
+  {
+    "gtin": "07622200688012",
+    "productId": "38966",
+    "name": "Carrés Puur Hazelnoten",
+    "description": "*Min. 47 %\ncacaobestanddelen\n*Belgische chocolade",
+    "technicalArticleNumber": "1656589",
+    "commercialArticleNumber": "19541",
+    "LongName": "CÔTE D'OR Carrés Puur Hazelnoten 200g"
+  },
+  {
+    "gtin": "13017760649138",
+    "productId": "28029",
+    "name": "witte chocolade",
+    "technicalArticleNumber": "1973649",
+    "commercialArticleNumber": "22241",
+    "LongName": "LU MIKADO witte chocolade 70g"
+  },
+  {
+    "gtin": "15400141277064",
+    "productId": "302864",
+    "name": "paashaas praliné",
+    "technicalArticleNumber": "3729293",
+    "commercialArticleNumber": "16727",
+    "LongName": "BONI paashaas praliné 200g"
+  },
+  {
+    "gtin": "08717399035866",
+    "productId": "553810",
+    "name": "eucalyptus",
+    "technicalArticleNumber": "4186885",
+    "commercialArticleNumber": "13762",
+    "LongName": "DR. TOM'S eucalyptus 150g"
+  },
+  {
+    "gtin": "07622210792617",
+    "productId": "306034",
+    "name": "tabl.pral.double noisette",
+    "technicalArticleNumber": "3722450",
+    "commercialArticleNumber": "18578",
+    "LongName": "CÔTE D'OR tabl.pral.double noisette 200g"
+  },
+  {
+    "gtin": "05410126250855",
+    "productId": "856264",
+    "name": "tartélice citroen",
+    "technicalArticleNumber": "4705674",
+    "commercialArticleNumber": "31404",
+    "LongName": "LOTUS tartélice citroen 6x57,5g"
+  },
+  {
+    "gtin": "05400141642711",
+    "productId": "734818",
+    "name": "paashaas wit fairtrade",
+    "technicalArticleNumber": "4495338",
+    "commercialArticleNumber": "15512",
+    "LongName": "BONI paashaas wit fairtrade 180g"
+  },
+  {
+    "gtin": "05400141415896",
+    "productId": "135788",
+    "name": "Muffins chocolade",
+    "technicalArticleNumber": "3175609",
+    "commercialArticleNumber": "35685",
+    "LongName": "BONI Muffins chocolade 15x15g"
+  },
+  {
+    "gtin": "07622210229519",
+    "productId": "106928",
+    "name": "Bouchée Mini",
+    "description": "*Belgische chocolade",
+    "technicalArticleNumber": "3106024",
+    "commercialArticleNumber": "1405",
+    "LongName": "CÔTE D'OR Bouchée Mini 122g"
+  },
+  {
+    "gtin": "04014400929355",
+    "productId": "717333",
+    "name": "peanut bar",
+    "technicalArticleNumber": "4463939",
+    "commercialArticleNumber": "26784",
+    "LongName": "KNOPPERS peanut bar 5x40g"
+  },
+  {
+    "gtin": "07622210665713",
+    "productId": "851504",
+    "name": "Witte choco.",
+    "technicalArticleNumber": "4699562",
+    "commercialArticleNumber": "30953",
+    "LongName": "LU PRINCE MINISTARS Witte choco. 5x37,5g"
+  },
+  {
+    "gtin": "08000500253694",
+    "productId": "280945",
+    "name": "mini",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3668087",
+    "commercialArticleNumber": "11533",
+    "LongName": "KINDER BUENO mini 108g"
+  },
+  {
+    "gtin": "05411901062137",
+    "productId": "59555",
+    "name": "fijnproever zakje mix",
+    "technicalArticleNumber": "2299424",
+    "commercialArticleNumber": "21539",
+    "LongName": "LIBEERT fijnproever zakje mix 155g"
+  },
+  {
+    "gtin": "07622201424848",
+    "productId": "645484",
+    "name": "tablet cookies",
+    "technicalArticleNumber": "4341552",
+    "commercialArticleNumber": "6859",
+    "LongName": "MILKA tablet cookies 100g"
+  },
+  {
+    "gtin": "18426617127647",
+    "productId": "116586",
+    "name": "snoep Worldmix",
+    "technicalArticleNumber": "3053805",
+    "commercialArticleNumber": "20260",
+    "LongName": "HARIBO snoep Worldmix 400g"
+  },
+  {
+    "gtin": "15400141836070",
+    "productId": "134443",
+    "name": "chocolaatjes melk 30st",
+    "description": "*Belgische chocolade",
+    "technicalArticleNumber": "3175101",
+    "commercialArticleNumber": "18758",
+    "LongName": "BONI chocolaatjes melk 30st 300g"
+  },
+  {
+    "gtin": "04000512270010",
+    "productId": "377132",
+    "name": "mini hamburgers",
+    "technicalArticleNumber": "3843243",
+    "commercialArticleNumber": "51290",
+    "LongName": "TROLLI mini hamburgers 170g"
+  },
+  {
+    "gtin": "05410628101129",
+    "productId": "868150",
+    "name": "Karamelsnoep",
+    "technicalArticleNumber": "4720972",
+    "commercialArticleNumber": "14171",
+    "LongName": "MOKATINE Karamelsnoep 175g"
+  },
+  {
+    "gtin": "07622300787844",
+    "productId": "519738",
+    "name": "lu sandwich",
+    "technicalArticleNumber": "4103032",
+    "commercialArticleNumber": "6460",
+    "LongName": "MILKA lu sandwich 87g"
+  },
+  {
+    "gtin": "15400141420590",
+    "productId": "511486",
+    "name": "Golden Roll",
+    "technicalArticleNumber": "4074993",
+    "commercialArticleNumber": "7344",
+    "LongName": "OREO Golden Roll 154g"
+  },
+  {
+    "gtin": "05400141275391",
+    "productId": "310634",
+    "name": "M'Cakes",
+    "technicalArticleNumber": "3751637",
+    "commercialArticleNumber": "12006",
+    "LongName": "BONI M'Cakes 20x17g"
+  },
+  {
+    "gtin": "03061990134219",
+    "productId": "14166",
+    "name": "Choc'Land",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1573123",
+    "commercialArticleNumber": "21657",
+    "LongName": "BN Choc'Land 4x37,5g"
+  },
+  {
+    "gtin": "05400141074000",
+    "productId": "461629",
+    "name": "melk",
+    "technicalArticleNumber": "3957429",
+    "commercialArticleNumber": "2251",
+    "LongName": "CÔTE D'OR melk 4x47g"
+  },
+  {
+    "gtin": "05000159507356",
+    "productId": "83966",
+    "technicalArticleNumber": "2955507",
+    "commercialArticleNumber": "1589",
+    "LongName": "MILKYWAY 9x21,5g"
+  },
+  {
+    "gtin": "04008400183008",
+    "productId": "625754",
+    "name": "T23",
+    "technicalArticleNumber": "4308353",
+    "commercialArticleNumber": "16340",
+    "LongName": "RAFFAELLO T23 230g"
+  },
+  {
+    "gtin": "15410126087267",
+    "productId": "153104",
+    "name": "gebak assortiment 10st",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3246223",
+    "commercialArticleNumber": "9409",
+    "LongName": "LOTUS gebak assortiment 10st 385g"
+  },
+  {
+    "gtin": "05400141186628",
+    "productId": "13110",
+    "name": "boterwafels",
+    "technicalArticleNumber": "1220517",
+    "commercialArticleNumber": "21812",
+    "LongName": "BONI BIO boterwafels 500g"
+  },
+  {
+    "gtin": "05400141237429",
+    "productId": "384662",
+    "name": "Peanut Pouch",
+    "technicalArticleNumber": "3838283",
+    "commercialArticleNumber": "51269",
+    "LongName": "M&M'S Peanut Pouch 330g"
+  },
+  {
+    "gtin": "05400141761801",
+    "productId": "709291",
+    "name": "melkchocolade praliné FT",
+    "technicalArticleNumber": "4448947",
+    "commercialArticleNumber": "26347",
+    "LongName": "BONI melkchocolade praliné FT 200g"
+  },
+  {
+    "gtin": "33472860091265",
+    "productId": "28186",
+    "name": "zand/theekoekjes",
+    "technicalArticleNumber": "1939479",
+    "commercialArticleNumber": "21833",
+    "LongName": "LA MÈRE POULARD zand/theekoekjes 300g"
+  },
+  {
+    "gtin": "05996379301105",
+    "productId": "511130",
+    "name": "Goudberen",
+    "technicalArticleNumber": "4077980",
+    "commercialArticleNumber": "7453",
+    "LongName": "HARIBO Goudberen 500g"
+  },
+  {
+    "gtin": "08436549487385",
+    "productId": "600326",
+    "name": "Lol+Paw Patrol verrassingsei",
+    "technicalArticleNumber": "4266083",
+    "commercialArticleNumber": "16440",
+    "LongName": "HAMLET Lol+Paw Patrol verrassingsei 60g"
+  },
+  {
+    "gtin": "03116430519856",
+    "productId": "1644",
+    "name": "Gâteau",
+    "technicalArticleNumber": "21246",
+    "commercialArticleNumber": "21246",
+    "LongName": "DELACRE Gâteau 200g"
+  },
+  {
+    "gtin": "15400141605393",
+    "productId": "332801",
+    "name": "kauwgom peppermint 50st",
+    "technicalArticleNumber": "3813291",
+    "commercialArticleNumber": "18231",
+    "LongName": "BONI kauwgom peppermint 50st 100g"
+  },
+  {
+    "gtin": "04009900455312",
+    "productId": "153368",
+    "name": "fruit",
+    "technicalArticleNumber": "3291306",
+    "commercialArticleNumber": "44815",
+    "LongName": "SKITTLES fruit 174g"
+  },
+  {
+    "gtin": "00000076222276",
+    "productId": "3741",
+    "name": "LEO",
+    "technicalArticleNumber": "1103298",
+    "commercialArticleNumber": "20976",
+    "LongName": "MILKA LEO 33,3g"
+  },
+  {
+    "gtin": "05425024680000",
+    "productId": "871052",
+    "name": "Boterwafels vanille",
+    "technicalArticleNumber": "4724888",
+    "commercialArticleNumber": "5818",
+    "LongName": "PETIT BARON Boterwafels vanille 280g"
+  },
+  {
+    "gtin": "15400141642732",
+    "productId": "734781",
+    "name": "paashaas puur fairtrade",
+    "description": "*Belgische chocolade\n*Min. 56 %\ncacaobestanddelen\n*Fairtrade gecertificeerd",
+    "technicalArticleNumber": "4495301",
+    "commercialArticleNumber": "15467",
+    "LongName": "BONI paashaas puur fairtrade 180g"
+  },
+  {
+    "gtin": "08410076601414",
+    "productId": "346939",
+    "name": "crunchy haver&honing",
+    "description": "*Vegan\n*Volkoren",
+    "technicalArticleNumber": "3740503",
+    "commercialArticleNumber": "14173",
+    "LongName": "NATURE VALLEY crunchy haver&honing 210g"
+  },
+  {
+    "gtin": "15400141848790",
+    "productId": "461152",
+    "name": "tubo aardbeismaak",
+    "technicalArticleNumber": "3954301",
+    "commercialArticleNumber": "2021",
+    "LongName": "BONI tubo aardbeismaak 500g"
+  },
+  {
+    "gtin": "05411901063028",
+    "productId": "25544",
+    "name": "zakje paasfiguur fondant",
+    "description": "*Belgische chocolade",
+    "technicalArticleNumber": "1958485",
+    "commercialArticleNumber": "20188",
+    "LongName": "LIBEERT zakje paasfiguur fondant 175g"
+  },
+  {
+    "gtin": "15410126012436",
+    "productId": "692545",
+    "name": "mini wafel melkchocolade",
+    "technicalArticleNumber": "4420202",
+    "commercialArticleNumber": "25698",
+    "LongName": "LOTUS SUZY mini wafel melkchocolade 292g"
+  },
+  {
+    "gtin": "00000080858003",
+    "productId": "338941",
+    "name": "aardbei 50st",
+    "technicalArticleNumber": "3831427",
+    "commercialArticleNumber": "14675",
+    "LongName": "MENTOS PURE FRESH aardbei 50st 100g"
+  },
+  {
+    "gtin": "04001686371091",
+    "productId": "345923",
+    "name": "roulette",
+    "technicalArticleNumber": "3831086",
+    "commercialArticleNumber": "51249",
+    "LongName": "HARIBO roulette 250g"
+  },
+  {
+    "gtin": "00000024211086",
+    "productId": "1631",
+    "name": "Choco Leibniz melk",
+    "technicalArticleNumber": "21108",
+    "commercialArticleNumber": "21108",
+    "LongName": "BAHLSEN Choco Leibniz melk 125g"
+  },
+  {
+    "gtin": "08710434511110",
+    "productId": "11198",
+    "name": "Mergpijpjes marsepein",
+    "technicalArticleNumber": "1372328",
+    "commercialArticleNumber": "21754",
+    "LongName": "LOTUS Mergpijpjes marsepein 200g"
+  },
+  {
+    "gtin": "05996379749761",
+    "productId": "895591",
+    "name": "Greatest Hits",
+    "technicalArticleNumber": "4755655",
+    "commercialArticleNumber": "8838",
+    "LongName": "HARIBO Greatest Hits 475g"
+  },
+  {
+    "gtin": "05900951251801",
+    "productId": "794027",
+    "name": "biscuit",
+    "technicalArticleNumber": "4602307",
+    "commercialArticleNumber": "11964",
+    "LongName": "M&M'S biscuit 198g"
+  },
+  {
+    "gtin": "07622300491215",
+    "productId": "136541",
+    "name": "koeken Milk Choc",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3178696",
+    "commercialArticleNumber": "15391",
+    "LongName": "OREO koeken Milk Choc 6x41g"
+  },
+  {
+    "gtin": "03472860001713",
+    "productId": "183199",
+    "name": "grote galetten",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3339594",
+    "commercialArticleNumber": "34200",
+    "LongName": "LA MÈRE POULARD grote galetten 135g"
+  },
+  {
+    "gtin": "05411901603477",
+    "productId": "261976",
+    "name": "Zakje eieren melk color",
+    "description": "*5 eieren",
+    "technicalArticleNumber": "3582766",
+    "commercialArticleNumber": "50991",
+    "LongName": "LIBEERT Zakje eieren melk color 125g"
+  },
+  {
+    "gtin": "00000087345025",
+    "productId": "472969",
+    "name": "Peppermint",
+    "technicalArticleNumber": "4063389",
+    "commercialArticleNumber": "7065",
+    "LongName": "FRISK Peppermint 105g"
+  },
+  {
+    "gtin": "05400265171128",
+    "productId": "748424",
+    "name": "Peppermint 36st",
+    "technicalArticleNumber": "4518102",
+    "commercialArticleNumber": "3074",
+    "LongName": "SMART Peppermint 36st 40g"
+  },
+  {
+    "gtin": "00000054138391",
+    "productId": "334663",
+    "name": "Clean Breath peppermint",
+    "technicalArticleNumber": "3806920",
+    "commercialArticleNumber": "14589",
+    "LongName": "FRISK Clean Breath peppermint 35g"
+  },
+  {
+    "gtin": "05410522513257",
+    "productId": "1478",
+    "name": "callets puur 54,5% cacao",
+    "description": "*Min. 53,8 %\ncacaobestanddelen\n*Belgische chocolade\n*Altijd met factuur",
+    "technicalArticleNumber": "20084",
+    "commercialArticleNumber": "20084",
+    "LongName": "CALLEBAUT callets puur 54,5% cacao 2,5kg"
+  },
+  {
+    "gtin": "05400141275599",
+    "productId": "332236",
+    "name": "Nicaragua puur 72%",
+    "technicalArticleNumber": "3800860",
+    "commercialArticleNumber": "13225",
+    "LongName": "BONI Nicaragua puur 72% 100g"
+  },
+  {
+    "gtin": "05000159561013",
+    "productId": "56170",
+    "name": "BEST OF OUR MINIS",
+    "technicalArticleNumber": "2473264",
+    "commercialArticleNumber": "38385",
+    "LongName": "MARS BEST OF OUR MINIS 1,425kg"
+  },
+  {
+    "gtin": "05400141184761",
+    "productId": "55010",
+    "name": "mini",
+    "technicalArticleNumber": "2326737",
+    "commercialArticleNumber": "18476",
+    "LongName": "NESTLÉ LION mini 350g"
+  },
+  {
+    "gtin": "07622210869593",
+    "productId": "361908",
+    "name": "pointe de sel Bio",
+    "description": "*70% cacao",
+    "technicalArticleNumber": "3784569",
+    "commercialArticleNumber": "51177",
+    "LongName": "CÔTE D'OR pointe de sel Bio 90g"
+  },
+  {
+    "gtin": "25400141602443",
+    "productId": "289042",
+    "name": "chocolade paaskip",
+    "technicalArticleNumber": "3693497",
+    "commercialArticleNumber": "16383",
+    "LongName": "BONI chocolade paaskip 150g"
+  },
+  {
+    "gtin": "05410383011015",
+    "productId": "1113",
+    "name": "peperkoek honing suiker",
+    "technicalArticleNumber": "16635",
+    "commercialArticleNumber": "16635",
+    "LongName": "VONDELMOLEN peperkoek honing suiker 500g"
+  },
+  {
+    "gtin": "07622210677105",
+    "productId": "588535",
+    "name": "tablet caramel salé",
+    "technicalArticleNumber": "4245819",
+    "commercialArticleNumber": "20282",
+    "LongName": "CÔTE D'OR tablet caramel salé 150g"
+  },
+  {
+    "gtin": "03046920028004",
+    "productId": "226237",
+    "name": "70% cacao",
+    "description": "*70 % cacao",
+    "technicalArticleNumber": "3564947",
+    "commercialArticleNumber": "12693",
+    "LongName": "LINDT EXCELLENCE 70% cacao 100g"
+  },
+  {
+    "gtin": "07622202020049",
+    "productId": "250803",
+    "name": "Ontb.koek hon-cho-hazel",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3614285",
+    "commercialArticleNumber": "18962",
+    "LongName": "LU BELVITA Ontb.koek hon-cho-hazel 6x50g"
+  },
+  {
+    "gtin": "05900951264665",
+    "productId": "384659",
+    "name": "Choco Pouch",
+    "technicalArticleNumber": "3838280",
+    "commercialArticleNumber": "51268",
+    "LongName": "M&M'S Choco Pouch 330g"
+  },
+  {
+    "gtin": "05410038403004",
+    "productId": "12413",
+    "name": "honingkoek 10x2st",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1225451",
+    "commercialArticleNumber": "16650",
+    "LongName": "MELI honingkoek 10x2st 400g"
+  },
+  {
+    "gtin": "07622210137265",
+    "productId": "209020",
+    "name": "koeken Double extra vanille",
+    "technicalArticleNumber": "3512054",
+    "commercialArticleNumber": "50592",
+    "LongName": "OREO koeken Double extra vanille 157g"
+  },
+  {
+    "gtin": "05000159457620",
+    "productId": "802325",
+    "name": "peanut pouch",
+    "technicalArticleNumber": "4617823",
+    "commercialArticleNumber": "11277",
+    "LongName": "M&M'S peanut pouch 1kg"
+  },
+  {
+    "gtin": "05900951295065",
+    "productId": "731746",
+    "name": "creamy pean.butter",
+    "technicalArticleNumber": "4489774",
+    "commercialArticleNumber": "13042",
+    "LongName": "SNICKERS creamy pean.butter 5x36,5g"
+  },
+  {
+    "gtin": "07622210043429",
+    "productId": "7232",
+    "name": "Original",
+    "technicalArticleNumber": "1156340",
+    "commercialArticleNumber": "20440",
+    "LongName": "STIMOROL Original 6x14g"
+  },
+  {
+    "gtin": "05412132129996",
+    "productId": "1410",
+    "name": "snoep gommen driekleurig",
+    "technicalArticleNumber": "20315",
+    "commercialArticleNumber": "20315",
+    "LongName": "THIJS snoep gommen driekleurig 500g"
+  },
+  {
+    "gtin": "00000025150940",
+    "productId": "161",
+    "name": "koeken amandel-abrikoos",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "15094",
+    "commercialArticleNumber": "15094",
+    "LongName": "LU GRANY koeken amandel-abrikoos 6x32,5g"
+  },
+  {
+    "gtin": "05400265030265",
+    "productId": "1419",
+    "name": "choc. orangettes",
+    "description": "*UTZ gecertificeerd",
+    "technicalArticleNumber": "20360",
+    "commercialArticleNumber": "20360",
+    "LongName": "SWEET ORIGINALS choc. orangettes 200g"
+  },
+  {
+    "gtin": "05400141219487",
+    "productId": "29363",
+    "name": "Pocket Vanille",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1910457",
+    "commercialArticleNumber": "21948",
+    "LongName": "LU PRINCE Pocket Vanille 10x40g"
+  },
+  {
+    "gtin": "05410471910749",
+    "productId": "92133",
+    "name": "Maya koeken",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "2860998",
+    "commercialArticleNumber": "7447",
+    "LongName": "JULES DESTROOPER Maya koeken 8x25g"
+  },
+  {
+    "gtin": "07622201809478",
+    "productId": "321948",
+    "name": "Moelleux trio natuur",
+    "technicalArticleNumber": "3681315",
+    "commercialArticleNumber": "22635",
+    "LongName": "LU Moelleux trio natuur 6x30g"
+  },
+  {
+    "gtin": "05400141331103",
+    "productId": "21616",
+    "name": "koeken palets bretons",
+    "technicalArticleNumber": "2157387",
+    "commercialArticleNumber": "21193",
+    "LongName": "BONI BIO koeken palets bretons 12x20g"
+  },
+  {
+    "gtin": "04009900452229",
+    "productId": "54293",
+    "name": "Strong Mint 5x10st",
+    "technicalArticleNumber": "2478725",
+    "commercialArticleNumber": "38848",
+    "LongName": "FREEDENT WHITE Strong Mint 5x10st 70g"
+  },
+  {
+    "gtin": "07622210444141",
+    "productId": "206939",
+    "name": "Soft Baked choc.stukjes",
+    "technicalArticleNumber": "3515556",
+    "commercialArticleNumber": "50609",
+    "LongName": "LU BELVITA Soft Baked choc.stukjes 5x50g"
+  },
+  {
+    "gtin": "05400141412413",
+    "productId": "1596",
+    "name": "zachte menthol gommen 200 g V",
+    "technicalArticleNumber": "20765",
+    "commercialArticleNumber": "20765",
+    "LongName": "BONI zachte menthol gommen 200 g V 200g"
+  },
+  {
+    "gtin": "07622210926852",
+    "productId": "460284",
+    "name": "melk hele hazelnoot",
+    "technicalArticleNumber": "3957386",
+    "commercialArticleNumber": "2229",
+    "LongName": "CÔTE D'OR melk hele hazelnoot 4x45g"
+  },
+  {
+    "gtin": "05400141364866",
+    "productId": "247138",
+    "name": "chocolade puur hazelno. FT",
+    "description": "*min.71,9%\ncacao bestanddelen\n*Belgische chocolade\n*Fairtrade",
+    "technicalArticleNumber": "3608254",
+    "commercialArticleNumber": "17300",
+    "LongName": "BONI BIO chocolade puur hazelno. FT 100g"
+  },
+  {
+    "gtin": "05400141778182",
+    "productId": "709614",
+    "name": "Fairtrade chocolade puur pral.",
+    "technicalArticleNumber": "4449554",
+    "commercialArticleNumber": "26377",
+    "LongName": "BONI Fairtrade chocolade puur pral. 200g"
+  },
+  {
+    "gtin": "04000417702609",
+    "productId": "259232",
+    "name": "Nut sel. puur hazeln.",
+    "technicalArticleNumber": "3587203",
+    "commercialArticleNumber": "51011",
+    "LongName": "RITTER SPORT Nut sel. puur hazeln. 100g"
+  },
+  {
+    "gtin": "05411446001004",
+    "productId": "1600",
+    "name": "onze lieve vrouw guimauves",
+    "technicalArticleNumber": "20780",
+    "commercialArticleNumber": "20780",
+    "LongName": "ETNA onze lieve vrouw guimauves 1kg"
+  },
+  {
+    "gtin": "07622210121233",
+    "productId": "116548",
+    "name": "Chocol. 6st",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3050757",
+    "commercialArticleNumber": "26382",
+    "LongName": "LU PRINCE CHOCO PRINCE Chocol. 6st 171g"
+  },
+  {
+    "gtin": "04000417700001",
+    "productId": "258491",
+    "name": "Nut sel. melk hazeln.",
+    "technicalArticleNumber": "3587151",
+    "commercialArticleNumber": "51009",
+    "LongName": "RITTER SPORT Nut sel. melk hazeln. 100g"
+  },
+  {
+    "gtin": "04009900422499",
+    "productId": "54289",
+    "name": "kauwgom Mint 5x10st",
+    "technicalArticleNumber": "2478717",
+    "commercialArticleNumber": "38845",
+    "LongName": "FREEDENT kauwgom Mint 5x10st 70g"
+  },
+  {
+    "gtin": "08000500413241",
+    "productId": "863617",
+    "name": "Limoen & Sinaasappel",
+    "description": "Limoen & Sinaasappel",
+    "technicalArticleNumber": "4715165",
+    "commercialArticleNumber": "31935",
+    "LongName": "TIC TAC Limoen & Sinaasappel 49g"
+  },
+  {
+    "gtin": "03046920727280",
+    "productId": "321234",
+    "name": "caramel fl.sel",
+    "technicalArticleNumber": "3764410",
+    "commercialArticleNumber": "15682",
+    "LongName": "LINDT EXCELLENCE caramel fl.sel 100g"
+  },
+  {
+    "gtin": "05410041371000",
+    "productId": "38989",
+    "name": "Ontbijtkoek mul.granen",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1675044",
+    "commercialArticleNumber": "21101",
+    "LongName": "LU BELVITA Ontbijtkoek mul.granen 15st"
+  },
+  {
+    "gtin": "15400141086819",
+    "productId": "198188",
+    "name": "Black Cookies gv",
+    "description": "*Glutenvrij",
+    "technicalArticleNumber": "3437453",
+    "commercialArticleNumber": "50130",
+    "LongName": "BONI Black Cookies gv 200g"
+  },
+  {
+    "gtin": "05400141280654",
+    "productId": "316836",
+    "name": "wafel Choc&Crunch",
+    "technicalArticleNumber": "3677813",
+    "commercialArticleNumber": "22304",
+    "LongName": "BONI wafel Choc&Crunch 5x32g"
+  },
+  {
+    "gtin": "05410471908401",
+    "productId": "41382",
+    "name": "natuurboterwafels",
+    "technicalArticleNumber": "2503782",
+    "commercialArticleNumber": "8324",
+    "LongName": "JULES DESTROOPER natuurboterwafels 175g"
+  },
+  {
+    "gtin": "03760093911672",
+    "productId": "879164",
+    "name": "minicakes aardbeien",
+    "technicalArticleNumber": "4735679",
+    "commercialArticleNumber": "23206",
+    "LongName": "C'TROTOP minicakes aardbeien 14x30g"
+  },
+  {
+    "gtin": "05400141072372",
+    "productId": "463904",
+    "name": "Zero melkchocolade",
+    "technicalArticleNumber": "3952255",
+    "commercialArticleNumber": "1888",
+    "LongName": "CÔTE D'OR Zero melkchocolade 4x50g"
+  },
+  {
+    "gtin": "08000500289884",
+    "productId": "552517",
+    "name": "schokobons white",
+    "technicalArticleNumber": "4184592",
+    "commercialArticleNumber": "13146",
+    "LongName": "KINDER schokobons white 200g"
+  },
+  {
+    "gtin": "05400265172620",
+    "productId": "747745",
+    "name": "paasfiguurtje",
+    "technicalArticleNumber": "4516972",
+    "commercialArticleNumber": "15506",
+    "LongName": "HAMLET paasfiguurtje 55g"
+  },
+  {
+    "gtin": "04046802311773",
+    "productId": "292423",
+    "name": "Zitrone vitamin C",
+    "technicalArticleNumber": "3685432",
+    "commercialArticleNumber": "13385",
+    "LongName": "DEXTRO ENERGY Zitrone vitamin C 3x46g"
+  },
+  {
+    "gtin": "05400141999563",
+    "productId": "341005",
+    "name": "brownie",
+    "technicalArticleNumber": "3820089",
+    "commercialArticleNumber": "40433",
+    "LongName": "BONI brownie 285g"
+  },
+  {
+    "gtin": "04001686703892",
+    "productId": "330896",
+    "name": "dragibus duomix",
+    "description": "*Zonder dierlijke\ngelatine",
+    "technicalArticleNumber": "3810160",
+    "commercialArticleNumber": "15648",
+    "LongName": "HARIBO dragibus duomix 130g"
+  },
+  {
+    "gtin": "05410591267907",
+    "productId": "1565",
+    "name": "borstbollen",
+    "technicalArticleNumber": "20596",
+    "commercialArticleNumber": "20596",
+    "LongName": "WYCAMS borstbollen 325g"
+  },
+  {
+    "gtin": "15410471908996",
+    "productId": "58342",
+    "name": "mini koeken",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "2298063",
+    "commercialArticleNumber": "7880",
+    "LongName": "PLOP mini koeken 8x30g"
+  },
+  {
+    "gtin": "08723400797593",
+    "productId": "869473",
+    "name": "Summer Fruits Vegan",
+    "technicalArticleNumber": "4722810",
+    "commercialArticleNumber": "18540",
+    "LongName": "FRUIT-TELLA Summer Fruits Vegan 400g"
+  },
+  {
+    "gtin": "08713600195169",
+    "productId": "344751",
+    "name": "zure aardbeimatten",
+    "technicalArticleNumber": "3830208",
+    "commercialArticleNumber": "14136",
+    "LongName": "LOOK O LOOK zure aardbeimatten 145g"
+  },
+  {
+    "gtin": "00000080723028",
+    "productId": "301425",
+    "name": "gum white sweetmint",
+    "technicalArticleNumber": "3715793",
+    "commercialArticleNumber": "20464",
+    "LongName": "MENTOS gum white sweetmint 60g"
+  },
+  {
+    "gtin": "04003084812145",
+    "productId": "685448",
+    "name": "dino rex",
+    "technicalArticleNumber": "4408119",
+    "commercialArticleNumber": "24866",
+    "LongName": "TROLLI dino rex 200g"
+  },
+  {
+    "gtin": "15407008810150",
+    "productId": "804904",
+    "name": "damier",
+    "technicalArticleNumber": "4622472",
+    "commercialArticleNumber": "1164",
+    "LongName": "ALISA'S COOKIES damier 200g"
+  },
+  {
+    "gtin": "07610700949085",
+    "productId": "158297",
+    "name": "pastille eucalyptus sv",
+    "technicalArticleNumber": "3275681",
+    "commercialArticleNumber": "3218",
+    "LongName": "RICOLA pastille eucalyptus sv 50g"
+  },
+  {
+    "gtin": "05410063040632",
+    "productId": "866603",
+    "name": "koekjes choco crunchies",
+    "technicalArticleNumber": "4719255",
+    "commercialArticleNumber": "9508",
+    "LongName": "CEREAL koekjes choco crunchies 185g"
+  },
+  {
+    "gtin": "15410126301530",
+    "productId": "887215",
+    "name": "peperkoek minder suiker",
+    "technicalArticleNumber": "4746527",
+    "commercialArticleNumber": "32753",
+    "LongName": "LOTUS peperkoek minder suiker 455g"
+  },
+  {
+    "gtin": "07622210932785",
+    "productId": "460272",
+    "name": "puur hele noot",
+    "technicalArticleNumber": "3957371",
+    "commercialArticleNumber": "2224",
+    "LongName": "CÔTE D'OR puur hele noot 4x45g"
+  },
+  {
+    "gtin": "00000025202229",
+    "productId": "1398",
+    "name": "chocolade popri wit",
+    "technicalArticleNumber": "20222",
+    "commercialArticleNumber": "20222",
+    "LongName": "NESTLÉ GALAK chocolade popri wit 2x125g"
+  },
+  {
+    "gtin": "05000159473095",
+    "productId": "914236",
+    "name": "mini",
+    "technicalArticleNumber": "4759930",
+    "commercialArticleNumber": "9627",
+    "LongName": "TWIX mini 333g"
+  },
+  {
+    "gtin": "03017760472890",
+    "productId": "13570",
+    "name": "Ontbijt choc.stukjes",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1616696",
+    "commercialArticleNumber": "22951",
+    "LongName": "LU BELVITA Ontbijt choc.stukjes 6x50g"
+  },
+  {
+    "gtin": "03017621823052",
+    "productId": "1415",
+    "name": "Rocher 30st",
+    "technicalArticleNumber": "20326",
+    "commercialArticleNumber": "20326",
+    "LongName": "FERRERO Rocher 30st 375g"
+  },
+  {
+    "gtin": "05400141677881",
+    "productId": "809454",
+    "name": "melkchocolade speculoospast.FT",
+    "description": "*Belgische chocolade\n*Speculoospastavulling\n*Fairtrade",
+    "technicalArticleNumber": "4632830",
+    "commercialArticleNumber": "12235",
+    "LongName": "BONI melkchocolade speculoospast.FT 200g"
+  },
+  {
+    "gtin": "05400141072402",
+    "productId": "460295",
+    "name": "vanille",
+    "technicalArticleNumber": "3957397",
+    "commercialArticleNumber": "2234",
+    "LongName": "CÔTE D'OR vanille 4x47,5g"
+  },
+  {
+    "gtin": "05425024689843",
+    "productId": "871211",
+    "name": "Boterwafels chocolade",
+    "technicalArticleNumber": "4724988",
+    "commercialArticleNumber": "7366",
+    "LongName": "PETIT BARON Boterwafels chocolade 320g"
+  },
+  {
+    "gtin": "08713600794744",
+    "productId": "152295",
+    "name": "Regenboogmatten",
+    "description": "Regenboogmatten",
+    "technicalArticleNumber": "3317131",
+    "commercialArticleNumber": "2372",
+    "LongName": "LOOK O LOOK Regenboogmatten 115g"
+  },
+  {
+    "gtin": "03116742064747",
+    "productId": "826539",
+    "name": "Scoubidou",
+    "technicalArticleNumber": "4663740",
+    "commercialArticleNumber": "30089",
+    "LongName": "LUTTI Scoubidou 100g"
+  },
+  {
+    "gtin": "03116430216977",
+    "productId": "1629",
+    "name": "Tea Time Tradition",
+    "technicalArticleNumber": "21018",
+    "commercialArticleNumber": "21018",
+    "LongName": "DELACRE Tea Time Tradition 1kg"
+  },
+  {
+    "gtin": "05000159527262",
+    "productId": "881435",
+    "name": "Salted Caramel 5pack",
+    "technicalArticleNumber": "4738838",
+    "commercialArticleNumber": "2180",
+    "LongName": "TWIX Salted Caramel 5pack 5x46g"
+  },
+  {
+    "gtin": "08003440974957",
+    "productId": "742442",
+    "name": "Big Tutti Frutti 6st",
+    "technicalArticleNumber": "4508470",
+    "commercialArticleNumber": "28135",
+    "LongName": "CHUPA CHUPS Big Tutti Frutti 6st 3x27,6g"
+  },
+  {
+    "gtin": "05410976221128",
+    "productId": "300087",
+    "name": "zeevruchten",
+    "technicalArticleNumber": "3696365",
+    "commercialArticleNumber": "17684",
+    "LongName": "GUYLIAN zeevruchten 250g"
+  },
+  {
+    "gtin": "07622201690649",
+    "productId": "811129",
+    "name": "Bouchées wit",
+    "description": "*Belgische chocolade",
+    "technicalArticleNumber": "4636155",
+    "commercialArticleNumber": "5271",
+    "LongName": "COTE D'OR Bouchées wit 8x21g"
+  },
+  {
+    "gtin": "05411901063011",
+    "productId": "25545",
+    "name": "zakje paasfig.witte chocol.",
+    "description": "*Belgische chocolade",
+    "technicalArticleNumber": "1958489",
+    "commercialArticleNumber": "20189",
+    "LongName": "LIBEERT zakje paasfig.witte chocol. 175g"
+  },
+  {
+    "gtin": "08717399041713",
+    "productId": "356918",
+    "name": "citroen",
+    "technicalArticleNumber": "3874417",
+    "commercialArticleNumber": "18055",
+    "LongName": "NAPOLEON citroen 340g"
+  },
+  {
+    "gtin": "05410391002807",
+    "productId": "10889",
+    "name": "snoep cuberdons",
+    "technicalArticleNumber": "1344952",
+    "commercialArticleNumber": "31023",
+    "LongName": "GELDHOF snoep cuberdons 200g"
+  },
+  {
+    "gtin": "04001686333655",
+    "productId": "301863",
+    "name": "smurfen",
+    "technicalArticleNumber": "3715698",
+    "commercialArticleNumber": "20459",
+    "LongName": "HARIBO smurfen 500g"
+  },
+  {
+    "gtin": "15425019203631",
+    "productId": "705991",
+    "name": "Mini Cakes choc chips",
+    "technicalArticleNumber": "4442402",
+    "commercialArticleNumber": "11857",
+    "LongName": "ZAGAZOE! Mini Cakes choc chips 5x30g"
+  },
+  {
+    "gtin": "03182650008814",
+    "productId": "508420",
+    "name": "botermadeleine marbré",
+    "technicalArticleNumber": "4080215",
+    "commercialArticleNumber": "7632",
+    "LongName": "LOTUS botermadeleine marbré 8x28g"
+  },
+  {
+    "gtin": "07622210926791",
+    "productId": "461608",
+    "name": "advocaat",
+    "technicalArticleNumber": "3957408",
+    "commercialArticleNumber": "2239",
+    "LongName": "CÔTE D'OR advocaat 4x47,5g"
+  },
+  {
+    "gtin": "03116430003430",
+    "productId": "1634",
+    "name": "Biarritz",
+    "technicalArticleNumber": "21116",
+    "commercialArticleNumber": "21116",
+    "LongName": "DELACRE Biarritz 175g"
+  },
+  {
+    "gtin": "07610700614679",
+    "productId": "14769",
+    "name": "pastille vlierbloesem sv",
+    "technicalArticleNumber": "1544673",
+    "commercialArticleNumber": "22321",
+    "LongName": "RICOLA pastille vlierbloesem sv 50g"
+  },
+  {
+    "gtin": "05000159474399",
+    "productId": "912193",
+    "name": "mini",
+    "technicalArticleNumber": "4759783",
+    "commercialArticleNumber": "8930",
+    "LongName": "SNICKERS mini 333g"
+  },
+  {
+    "gtin": "07622210626103",
+    "productId": "206330",
+    "name": "Bloc melk amandel",
+    "description": "*Belgische chocolade",
+    "technicalArticleNumber": "3515521",
+    "commercialArticleNumber": "50608",
+    "LongName": "CÔTE D'OR Bloc melk amandel 180g"
+  },
+  {
+    "gtin": "07622210708878",
+    "productId": "298209",
+    "name": "tablet melk hele noot",
+    "technicalArticleNumber": "3723028",
+    "commercialArticleNumber": "20582",
+    "LongName": "MILKA tablet melk hele noot 270g"
+  },
+  {
+    "gtin": "05400141314250",
+    "productId": "59984",
+    "name": "Melkvulling",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "2365045",
+    "commercialArticleNumber": "31425",
+    "LongName": "LU LULU Melkvulling 5x30g"
+  },
+  {
+    "gtin": "07622400006753",
+    "productId": "18902",
+    "name": "noir intense 70%",
+    "description": "*Met 70 % cacao\n*Belgische chocolade",
+    "technicalArticleNumber": "1771989",
+    "commercialArticleNumber": "20058",
+    "LongName": "CÔTE D'OR noir intense 70% 100g"
+  },
+  {
+    "gtin": "08717677337354",
+    "productId": "209594",
+    "name": "puur 51% amandel zeezout",
+    "description": "*Belgische chocolade",
+    "technicalArticleNumber": "3510388",
+    "commercialArticleNumber": "15977",
+    "LongName": "TONY'S puur 51% amandel zeezout 180g"
+  },
+  {
+    "gtin": "00000080874669",
+    "productId": "343367",
+    "name": "Pure Fresh Cherry Cola 50st",
+    "technicalArticleNumber": "3833060",
+    "commercialArticleNumber": "16373",
+    "LongName": "MENTOS PURE FRESH Pure Fresh Cherry Cola 50st 100g"
+  },
+  {
+    "gtin": "15410471917738",
+    "productId": "863736",
+    "name": "koekjes met chocolade",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "4715335",
+    "commercialArticleNumber": "31951",
+    "LongName": "SMURFEN koekjes met chocolade 200g"
+  },
+  {
+    "gtin": "00000080739449",
+    "productId": "355928",
+    "name": "gum Mighty mint 100st",
+    "technicalArticleNumber": "3858474",
+    "commercialArticleNumber": "22127",
+    "LongName": "MENTOS gum Mighty mint 100st 150g"
+  },
+  {
+    "gtin": "05400141309690",
+    "productId": "218771",
+    "name": "brownies glutenvrij",
+    "description": "*Individueel verpakt\n*Glutenvrij",
+    "technicalArticleNumber": "3503836",
+    "commercialArticleNumber": "50564",
+    "LongName": "BONI brownies glutenvrij 4x50g"
+  },
+  {
+    "gtin": "04001686580653",
+    "productId": "211717",
+    "name": "snoep maomix",
+    "technicalArticleNumber": "3526933",
+    "commercialArticleNumber": "50647",
+    "LongName": "MAOAM snoep maomix 480g"
+  },
+  {
+    "gtin": "05400141412307",
+    "productId": "15970",
+    "name": "choco toffee",
+    "technicalArticleNumber": "1563090",
+    "commercialArticleNumber": "22599",
+    "LongName": "BONI choco toffee 500g"
+  },
+  {
+    "gtin": "05400141383782",
+    "productId": "182258",
+    "name": "Soft Baked rode vrucht",
+    "technicalArticleNumber": "3347632",
+    "commercialArticleNumber": "33157",
+    "LongName": "LU BELVITA Soft Baked rode vrucht 5x50g"
+  },
+  {
+    "gtin": "07610700947531",
+    "productId": "18899",
+    "name": "pastille alpin fresh sv",
+    "technicalArticleNumber": "1771936",
+    "commercialArticleNumber": "20411",
+    "LongName": "RICOLA pastille alpin fresh sv 50g"
+  },
+  {
+    "gtin": "07622210653314",
+    "productId": "205430",
+    "name": "nougatti mini 14st",
+    "technicalArticleNumber": "3526239",
+    "commercialArticleNumber": "50640",
+    "LongName": "CÔTE D'OR nougatti mini 14st 180g"
+  },
+  {
+    "gtin": "08445290470454",
+    "productId": "877422",
+    "name": "Brownie",
+    "description": "*Limited edition",
+    "technicalArticleNumber": "4733307",
+    "commercialArticleNumber": "9374",
+    "LongName": "NESTLÉ LION Brownie 5x30g"
+  },
+  {
+    "gtin": "05400141241747",
+    "productId": "450186",
+    "name": "frangipane suiker arm",
+    "description": "*Maltitol",
+    "technicalArticleNumber": "4028227",
+    "commercialArticleNumber": "5438",
+    "LongName": "BONI frangipane suiker arm 6x50g"
+  },
+  {
+    "gtin": "07622210678683",
+    "productId": "14841",
+    "name": "puur truffé",
+    "description": "*Belgische chocolade",
+    "technicalArticleNumber": "1462111",
+    "commercialArticleNumber": "20056",
+    "LongName": "CÔTE D'OR puur truffé 190g"
+  },
+  {
+    "gtin": "04000417701602",
+    "productId": "258629",
+    "name": "Nut sel. wit hazeln.",
+    "technicalArticleNumber": "3587189",
+    "commercialArticleNumber": "51010",
+    "LongName": "RITTER SPORT Nut sel. wit hazeln. 100g"
+  },
+  {
+    "gtin": "04000417025005",
+    "productId": "262493",
+    "name": "marsepein",
+    "technicalArticleNumber": "3587515",
+    "commercialArticleNumber": "51013",
+    "LongName": "RITTER SPORT marsepein 100g"
+  },
+  {
+    "gtin": "08713600795178",
+    "productId": "338457",
+    "name": "aardbeiveters",
+    "technicalArticleNumber": "3830914",
+    "commercialArticleNumber": "14374",
+    "LongName": "LOOK O LOOK aardbeiveters 145g"
+  },
+  {
+    "gtin": "07622210268488",
+    "productId": "102946",
+    "name": "puur-marzipan",
+    "description": "*Belgische chocolade",
+    "technicalArticleNumber": "3119472",
+    "commercialArticleNumber": "3872",
+    "LongName": "CÔTE D'OR puur-marzipan 150g"
+  },
+  {
+    "gtin": "05400141043365",
+    "productId": "1110",
+    "name": "honingkoek",
+    "technicalArticleNumber": "16601",
+    "commercialArticleNumber": "16601",
+    "LongName": "BONI BIO honingkoek 300g"
+  },
+  {
+    "gtin": "07622201811495",
+    "productId": "137133",
+    "name": "Choco Trio",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "3176246",
+    "commercialArticleNumber": "44245",
+    "LongName": "MILKA Choco Trio 5x30g"
+  },
+  {
+    "gtin": "04001686735848",
+    "productId": "32224",
+    "name": "Funny Mix",
+    "description": "*Zonder dierlijke\ngelatine",
+    "technicalArticleNumber": "1857388",
+    "commercialArticleNumber": "20216",
+    "LongName": "HARIBO Funny Mix 500g"
+  },
+  {
+    "gtin": "07622210926432",
+    "productId": "461611",
+    "name": "pistache",
+    "technicalArticleNumber": "3957411",
+    "commercialArticleNumber": "2241",
+    "LongName": "CÔTE D'OR pistache 4x47g"
+  },
+  {
+    "gtin": "15410126020073",
+    "productId": "689798",
+    "name": "Madeleine amandel 12st",
+    "technicalArticleNumber": "4415685",
+    "commercialArticleNumber": "15154",
+    "LongName": "LOTUS Madeleine amandel 12st 12x25g"
+  },
+  {
+    "gtin": "08003440930458",
+    "productId": "301435",
+    "name": "white greenmint 40st",
+    "technicalArticleNumber": "3715804",
+    "commercialArticleNumber": "20473",
+    "LongName": "MENTOS white greenmint 40st 60g"
+  },
+  {
+    "gtin": "07613033139543",
+    "productId": "151071",
+    "name": "mini",
+    "technicalArticleNumber": "3340755",
+    "commercialArticleNumber": "43067",
+    "LongName": "NESTLÉ SMARTIES mini 26x14,4g"
+  },
+  {
+    "gtin": "07622202019364",
+    "productId": "912156",
+    "name": "fantast.friend.creamy",
+    "technicalArticleNumber": "4759745",
+    "commercialArticleNumber": "8366",
+    "LongName": "CÔTE D'OR fantast.friend.creamy 12x16,8g"
+  },
+  {
+    "gtin": "05411901949162",
+    "productId": "17363",
+    "name": "zakje Décoré Pasen",
+    "description": "*Belgische chocolade",
+    "technicalArticleNumber": "1714471",
+    "commercialArticleNumber": "32986",
+    "LongName": "LIBEERT zakje Décoré Pasen 180g"
+  },
+  {
+    "gtin": "15400141677895",
+    "productId": "809469",
+    "name": "melkchocolade crun.speculoo.FT",
+    "description": "*Belgische chocolade\n*Speculoosstukjes\n*Fairtrade",
+    "technicalArticleNumber": "4632845",
+    "commercialArticleNumber": "12359",
+    "LongName": "BONI melkchocolade crun.speculoo.FT 200g"
+  },
+  {
+    "gtin": "04001686309346",
+    "productId": "415453",
+    "name": "happy cherries fizz",
+    "technicalArticleNumber": "3929756",
+    "commercialArticleNumber": "14760",
+    "LongName": "HARIBO happy cherries fizz 400g"
+  },
+  {
+    "gtin": "07610700600054",
+    "productId": "1566",
+    "name": "Zwitserse kruidenbonbons",
+    "technicalArticleNumber": "20606",
+    "commercialArticleNumber": "20606",
+    "LongName": "RICOLA Zwitserse kruidenbonbons 250g"
+  },
+  {
+    "gtin": "04017100124310",
+    "productId": "56883",
+    "name": "zoo spelt & oats",
+    "technicalArticleNumber": "2480234",
+    "commercialArticleNumber": "38091",
+    "LongName": "LEIBNIZ zoo spelt & oats 125g"
+  },
+  {
+    "gtin": "07613036137867",
+    "productId": "391331",
+    "name": "tube",
+    "technicalArticleNumber": "3939159",
+    "commercialArticleNumber": "1358",
+    "LongName": "NESTLÉ ROLO tube 4x41,6g"
+  },
+  {
+    "gtin": "03800020492956",
+    "productId": "886203",
+    "name": "Mini mix",
+    "technicalArticleNumber": "4745313",
+    "commercialArticleNumber": "32648",
+    "LongName": "NESTLÉ KITKAT Mini mix 197,4g"
+  },
+  {
+    "gtin": "05411128200015",
+    "productId": "1527",
+    "name": "speculoos voltarwe",
+    "technicalArticleNumber": "21527",
+    "commercialArticleNumber": "21527",
+    "LongName": "VERMEIREN speculoos voltarwe 2x162,5g"
+  },
+  {
+    "gtin": "07622201749811",
+    "productId": "14369",
+    "name": "witte chocolade",
+    "description": "*Belgische chocolade",
+    "technicalArticleNumber": "1575238",
+    "commercialArticleNumber": "20439",
+    "LongName": "CÔTE D'OR witte chocolade 2x200g"
+  },
+  {
+    "gtin": "00000025212174",
+    "productId": "1640",
+    "name": "koeken Madeira",
+    "technicalArticleNumber": "21217",
+    "commercialArticleNumber": "21217",
+    "LongName": "LU koeken Madeira 100g"
+  },
+  {
+    "gtin": "05400265170909",
+    "productId": "747878",
+    "name": "Spearmint 36st",
+    "technicalArticleNumber": "4517207",
+    "commercialArticleNumber": "16242",
+    "LongName": "SMART Spearmint 36st 40g"
+  },
+  {
+    "gtin": "15400141334156",
+    "productId": "553063",
+    "name": "coco's chocolade gv",
+    "technicalArticleNumber": "4185498",
+    "commercialArticleNumber": "13340",
+    "LongName": "BONI coco's chocolade gv 200g"
+  },
+  {
+    "gtin": "07622201791216",
+    "productId": "746367",
+    "name": "eggs mix melk-puur pral.",
+    "technicalArticleNumber": "4514883",
+    "commercialArticleNumber": "7576",
+    "LongName": "CÔTE D'OR eggs mix melk-puur pral. 350g"
+  },
+  {
+    "gtin": "04014400113129",
+    "productId": "413579",
+    "name": "mousse au chocolat",
+    "technicalArticleNumber": "3931254",
+    "commercialArticleNumber": "22774",
+    "LongName": "MERCI mousse au chocolat 210g"
+  },
+  {
+    "gtin": "08710412006867",
+    "productId": "492694",
+    "name": "Croustifondante",
+    "technicalArticleNumber": "4039207",
+    "commercialArticleNumber": "5913",
+    "LongName": "DELACRE Croustifondante 150g"
+  },
+  {
+    "gtin": "03046920043489",
+    "productId": "265486",
+    "name": "crème brûlée",
+    "technicalArticleNumber": "3627935",
+    "commercialArticleNumber": "19184",
+    "LongName": "LINDT CREATION crème brûlée 150g"
+  },
+  {
+    "gtin": "07622210926906",
+    "productId": "458953",
+    "name": "wit praliné",
+    "technicalArticleNumber": "3957352",
+    "commercialArticleNumber": "2222",
+    "LongName": "CÔTE D'OR wit praliné 4x46g"
+  },
+  {
+    "gtin": "05400787013548",
+    "productId": "15649",
+    "name": "snoep draculatanden",
+    "technicalArticleNumber": "1623690",
+    "commercialArticleNumber": "20517",
+    "LongName": "LUTTI snoep draculatanden 1kg"
+  },
+  {
+    "gtin": "08717399040853",
+    "productId": "640189",
+    "name": "mint menthol",
+    "technicalArticleNumber": "4332670",
+    "commercialArticleNumber": "13098",
+    "LongName": "DR. TOM'S mint menthol 150g"
+  },
+  {
+    "gtin": "04014400140422",
+    "productId": "528073",
+    "name": "tablet puur-marsepein",
+    "technicalArticleNumber": "4117013",
+    "commercialArticleNumber": "2319",
+    "LongName": "MERCI tablet puur-marsepein 112g"
+  },
+  {
+    "gtin": "04009900381109",
+    "productId": "54287",
+    "name": "kauwgom Fruit 5x10st",
+    "technicalArticleNumber": "2478715",
+    "commercialArticleNumber": "38844",
+    "LongName": "FREEDENT WHITE kauwgom Fruit 5x10st 70g"
+  },
+  {
+    "gtin": "08000500408162",
+    "productId": "12692",
+    "name": "likeurpralines 30 stuks",
+    "technicalArticleNumber": "1215914",
+    "commercialArticleNumber": "20946",
+    "LongName": "MON CHERI likeurpralines 30 stuks 315g"
+  },
+  {
+    "gtin": "03116430210388",
+    "productId": "107648",
+    "name": "Cigarettes Russes",
+    "technicalArticleNumber": "3103340",
+    "commercialArticleNumber": "43563",
+    "LongName": "DELACRE Cigarettes Russes 200g"
+  },
+  {
+    "gtin": "05410059451770",
+    "productId": "567443",
+    "name": "Bloc Dessert puur",
+    "technicalArticleNumber": "4210462",
+    "commercialArticleNumber": "16184",
+    "LongName": "JACQUES Bloc Dessert puur 500g"
+  },
+  {
+    "gtin": "00000025203202",
+    "productId": "1412",
+    "name": "melk big nuts",
+    "description": "*Belgische chocolade",
+    "technicalArticleNumber": "20320",
+    "commercialArticleNumber": "20320",
+    "LongName": "CÔTE D'OR melk big nuts 2x75g"
+  },
+  {
+    "gtin": "03046920029759",
+    "productId": "524837",
+    "name": "Noir 90%",
+    "technicalArticleNumber": "4111699",
+    "commercialArticleNumber": "8814",
+    "LongName": "LINDT EXCELLENCE Noir 90% 100g"
+  },
+  {
+    "gtin": "05400141139433",
+    "productId": "1420",
+    "name": "marsepein amandel",
+    "technicalArticleNumber": "20374",
+    "commercialArticleNumber": "20374",
+    "LongName": "BONI marsepein amandel 250g"
+  },
+  {
+    "gtin": "08000300264388",
+    "productId": "62056",
+    "name": "chocolade",
+    "technicalArticleNumber": "2744508",
+    "commercialArticleNumber": "41762",
+    "LongName": "NESTLÉ CRUNCH chocolade 100g"
+  },
+  {
+    "gtin": "07622202019340",
+    "productId": "912149",
+    "name": "fantastic friend milk",
+    "description": "*Milk",
+    "technicalArticleNumber": "4759738",
+    "commercialArticleNumber": "8008",
+    "LongName": "CÔTE D'OR fantastic friend milk 12x17,4g"
+  },
+  {
+    "gtin": "05000159561204",
+    "productId": "221447",
+    "name": "Mixed Minis",
+    "technicalArticleNumber": "3476841",
+    "commercialArticleNumber": "50475",
+    "LongName": "MARS Mixed Minis 20x20g"
+  },
+  {
+    "gtin": "04046802311759",
+    "productId": "322574",
+    "name": "Classic",
+    "technicalArticleNumber": "3685416",
+    "commercialArticleNumber": "12941",
+    "LongName": "DEXTRO ENERGY Classic 3x46g"
+  },
+  {
+    "gtin": "07622210377159",
+    "productId": "380066",
+    "name": "Wild cherry 70st",
+    "technicalArticleNumber": "3861953",
+    "commercialArticleNumber": "22446",
+    "LongName": "STIMOROL Wild cherry 70st 102g"
+  },
+  {
+    "gtin": "05704592006628",
+    "productId": "7233",
+    "name": "Wild Cherry sticks",
+    "technicalArticleNumber": "1156341",
+    "commercialArticleNumber": "20482",
+    "LongName": "STIMOROL Wild Cherry sticks 6x14g"
+  },
+  {
+    "gtin": "05400141281897",
+    "productId": "114468",
+    "name": "studentenhaver+choco",
+    "technicalArticleNumber": "3002837",
+    "commercialArticleNumber": "12557",
+    "LongName": "BONI studentenhaver+choco 350g"
+  },
+  {
+    "gtin": "05400141014327",
+    "productId": "94242",
+    "name": "Luikse wafels",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "2841640",
+    "commercialArticleNumber": "23433",
+    "LongName": "BONI BIO Luikse wafels 6x50g"
+  },
+  {
+    "gtin": "05400787049356",
+    "productId": "784014",
+    "name": "snoep mix party toppers",
+    "description": "*Snoep mix van:\n-Jack'Gom\n-Aardbeien\n-Zure tutters\n-Draculatanden",
+    "technicalArticleNumber": "4583038",
+    "commercialArticleNumber": "8905",
+    "LongName": "LUTTI snoep mix party toppers 1kg"
+  },
+  {
+    "gtin": "00000025206609",
+    "productId": "1581",
+    "name": "snoep Colabizz",
+    "technicalArticleNumber": "20660",
+    "commercialArticleNumber": "20660",
+    "LongName": "LUTTI snoep Colabizz 400g"
+  },
+  {
+    "gtin": "00000024211093",
+    "productId": "1632",
+    "name": "choco leibniz fondant",
+    "technicalArticleNumber": "21109",
+    "commercialArticleNumber": "21109",
+    "LongName": "BAHLSEN choco leibniz fondant 125g"
+  },
+  {
+    "gtin": "00000087354133",
+    "productId": "753488",
+    "name": "XL aardbei",
+    "technicalArticleNumber": "4527128",
+    "commercialArticleNumber": "24573",
+    "LongName": "FRISK XL aardbei 35g"
+  },
+  {
+    "gtin": "05400787035762",
+    "productId": "1435",
+    "name": "Ademvrij eucalyptus sv box",
+    "technicalArticleNumber": "20541",
+    "commercialArticleNumber": "20541",
+    "LongName": "VICKS Ademvrij eucalyptus sv box 40g"
+  },
+  {
+    "gtin": "07622200867646",
+    "productId": "1475",
+    "name": "Mignonnette Melk",
+    "description": "*Belgische chocolade",
+    "technicalArticleNumber": "20025",
+    "commercialArticleNumber": "20025",
+    "LongName": "COTE D'OR Mignonnette Melk 1,2kg"
+  },
+  {
+    "gtin": "05000159474597",
+    "productId": "912194",
+    "name": "mini",
+    "technicalArticleNumber": "4759785",
+    "commercialArticleNumber": "9361",
+    "LongName": "MARS mini 333g"
+  },
+  {
+    "gtin": "05400787035786",
+    "productId": "26056",
+    "name": "munt sv",
+    "technicalArticleNumber": "1970168",
+    "commercialArticleNumber": "20581",
+    "LongName": "VICKS BLUE munt sv 144g"
+  },
+  {
+    "gtin": "07622210607843",
+    "productId": "429047",
+    "name": "carrés amandel-caramel",
+    "technicalArticleNumber": "3973475",
+    "commercialArticleNumber": "3356",
+    "LongName": "CÔTE D'OR carrés amandel-caramel 180g"
+  },
+  {
+    "gtin": "08000300354003",
+    "productId": "234872",
+    "name": "chocolade wit",
+    "technicalArticleNumber": "3523653",
+    "commercialArticleNumber": "10872",
+    "LongName": "GALAK chocolade wit 2x125g"
+  },
+  {
+    "gtin": "05410126057300",
+    "productId": "13854",
+    "name": "28 Moments",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1334262",
+    "commercialArticleNumber": "21977",
+    "LongName": "LOTUS 28 Moments 992g"
+  },
+  {
+    "gtin": "75400141420592",
+    "productId": "63207",
+    "name": "Original | 70 stuks",
+    "technicalArticleNumber": "2786069",
+    "commercialArticleNumber": "43461",
+    "LongName": "STIMOROL Original | 70 stuks 102g"
+  },
+  {
+    "gtin": "05400787048212",
+    "productId": "830443",
+    "name": "Vampires",
+    "technicalArticleNumber": "4669891",
+    "commercialArticleNumber": "30156",
+    "LongName": "LUTTI Vampires 100g"
+  },
+  {
+    "gtin": "15400141802280",
+    "productId": "261597",
+    "name": "chocolade melk FT",
+    "description": "*Belgische chocolade\n*Fairtrade",
+    "technicalArticleNumber": "3608773",
+    "commercialArticleNumber": "17611",
+    "LongName": "BONI BIO chocolade melk FT 100g"
+  },
+  {
+    "gtin": "08723400797302",
+    "productId": "874507",
+    "name": "Summer Fruits Vegan",
+    "technicalArticleNumber": "4729470",
+    "commercialArticleNumber": "32131",
+    "LongName": "FRUIT-TELLA Summer Fruits Vegan 164g"
+  },
+  {
+    "gtin": "03103221033370",
+    "productId": "691928",
+    "name": "tagada",
+    "technicalArticleNumber": "4419321",
+    "commercialArticleNumber": "24232",
+    "LongName": "HARIBO tagada 400g"
+  },
+  {
+    "gtin": "04014400330656",
+    "productId": "342764",
+    "name": "sv snoep classic",
+    "technicalArticleNumber": "3829351",
+    "commercialArticleNumber": "11604",
+    "LongName": "WERTHER'S ORIGINAL sv snoep classic 42g"
+  },
+  {
+    "gtin": "08711400426568",
+    "productId": "32410",
+    "name": "smash mint 6x12st",
+    "technicalArticleNumber": "1882041",
+    "commercialArticleNumber": "20703",
+    "LongName": "SPORTLIFE smash mint 6x12st 108g"
+  },
+  {
+    "gtin": "08410031936988",
+    "productId": "793517",
+    "name": "mini bag",
+    "technicalArticleNumber": "4601411",
+    "commercialArticleNumber": "9566",
+    "LongName": "CHUPA CHUPS mini bag 210g"
+  },
+  {
+    "gtin": "07622300733537",
+    "productId": "65854",
+    "name": "Mignonnette Double Lait",
+    "description": "*Belgische chocolade",
+    "technicalArticleNumber": "2745471",
+    "commercialArticleNumber": "40843",
+    "LongName": "COTE D'OR Mignonnette Double Lait 210g"
+  },
+  {
+    "gtin": "08710497962393",
+    "productId": "330457",
+    "name": "bbq marshmallows",
+    "technicalArticleNumber": "3816954",
+    "commercialArticleNumber": "13304",
+    "LongName": "MACKAY bbq marshmallows 300g"
+  },
+  {
+    "gtin": "03116742064846",
+    "productId": "825531",
+    "name": "bubblizz",
+    "technicalArticleNumber": "4662404",
+    "commercialArticleNumber": "29882",
+    "LongName": "LUTTI bubblizz 100g"
+  },
+  {
+    "gtin": "05410471917786",
+    "productId": "854762",
+    "name": "boterwaf.zou.kara",
+    "technicalArticleNumber": "4703792",
+    "commercialArticleNumber": "31273",
+    "LongName": "JULES DESTROOPER boterwaf.zou.kara 175g"
+  },
+  {
+    "gtin": "05410471916895",
+    "productId": "780399",
+    "name": "boterwafels choco.",
+    "description": "*Natuurboterwafels met\n*laagje pure Belgische\n*chocolade (13%)",
+    "technicalArticleNumber": "4574664",
+    "commercialArticleNumber": "28714",
+    "LongName": "JULES DESTROOPER boterwafels choco. 175g"
+  },
+  {
+    "gtin": "05410471915980",
+    "productId": "698033",
+    "name": "Boter | Pocket",
+    "technicalArticleNumber": "4428922",
+    "commercialArticleNumber": "2344",
+    "LongName": "JULES DESTROOPER Boter | Pocket 6x24g"
+  },
+  {
+    "gtin": "08713600194681",
+    "productId": "143278",
+    "name": "Chupa Chups Mix",
+    "description": "Chupa Chups Mix",
+    "technicalArticleNumber": "3317245",
+    "commercialArticleNumber": "2689",
+    "LongName": "LOOK O LOOK Chupa Chups Mix 102g"
+  },
+  {
+    "gtin": "08000300354546",
+    "productId": "257111",
+    "name": "chocolade wit popri",
+    "technicalArticleNumber": "3593283",
+    "commercialArticleNumber": "13788",
+    "LongName": "GALAK chocolade wit popri 4x40g"
+  },
+  {
+    "gtin": "04014400121018",
+    "productId": "153120",
+    "name": "zacht&chocolade",
+    "technicalArticleNumber": "3248335",
+    "commercialArticleNumber": "12720",
+    "LongName": "WERTHER'S ORIGINAL zacht&chocolade 180g"
+  },
+  {
+    "gtin": "04014400140118",
+    "productId": "528076",
+    "name": "tablet mokka-room",
+    "technicalArticleNumber": "4117016",
+    "commercialArticleNumber": "2498",
+    "LongName": "MERCI tablet mokka-room 100g"
+  },
+  {
+    "gtin": "55400141540975",
+    "productId": "527036",
+    "name": "chocolade wit speculoos",
+    "technicalArticleNumber": "4115046",
+    "commercialArticleNumber": "8968",
+    "LongName": "GALAK chocolade wit speculoos 125g"
+  },
+  {
+    "gtin": "05412038981704",
+    "productId": "765608",
+    "name": "repen melk praliné 3pack",
+    "technicalArticleNumber": "4548434",
+    "commercialArticleNumber": "9190",
+    "LongName": "GALLER repen melk praliné 3pack 3x70g"
+  },
+  {
+    "gtin": "05000159557344",
+    "productId": "881379",
+    "name": "White 5pack",
+    "technicalArticleNumber": "4738767",
+    "commercialArticleNumber": "1444",
+    "LongName": "TWIX White 5pack 5x46g"
+  },
+  {
+    "gtin": "05400141211962",
+    "productId": "14600",
+    "name": "koeken appel en granen",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1576595",
+    "commercialArticleNumber": "21196",
+    "LongName": "LU GRANY koeken appel en granen 6x28,5g"
+  },
+  {
+    "gtin": "05400265040783",
+    "productId": "802979",
+    "name": "orange",
+    "technicalArticleNumber": "4619221",
+    "commercialArticleNumber": "11752",
+    "LongName": "SWEET ORIGINALS orange 2x48g"
+  },
+  {
+    "gtin": "08000500373002",
+    "productId": "849372",
+    "name": "tab.hazelno-melk cho.",
+    "technicalArticleNumber": "4696834",
+    "commercialArticleNumber": "30781",
+    "LongName": "FERRERO ROCHER tab.hazelno-melk cho. 90g"
+  },
+  {
+    "gtin": "05400265040790",
+    "productId": "802982",
+    "name": "mint",
+    "technicalArticleNumber": "4619224",
+    "commercialArticleNumber": "11788",
+    "LongName": "SWEET ORIGINALS mint 2x48g"
+  },
+  {
+    "gtin": "08713600794850",
+    "productId": "644974",
+    "name": "snoep ijsjes",
+    "technicalArticleNumber": "4340805",
+    "commercialArticleNumber": "3801",
+    "LongName": "LOOK O LOOK snoep ijsjes 71g"
+  },
+  {
+    "gtin": "04000512010869",
+    "productId": "685444",
+    "name": "gloeiwormen",
+    "technicalArticleNumber": "4408115",
+    "commercialArticleNumber": "24854",
+    "LongName": "TROLLI gloeiwormen 200g"
+  },
+  {
+    "gtin": "04030300022491",
+    "productId": "26055",
+    "name": "Ademvrij eucalyptus sv",
+    "technicalArticleNumber": "1970163",
+    "commercialArticleNumber": "20580",
+    "LongName": "VICKS Ademvrij eucalyptus sv 144g"
+  },
+  {
+    "gtin": "05400787040117",
+    "productId": "350515",
+    "name": "zure draculatanden",
+    "technicalArticleNumber": "3855429",
+    "commercialArticleNumber": "21405",
+    "LongName": "LUTTI zure draculatanden 600g"
+  },
+  {
+    "gtin": "05413121370016",
+    "productId": "858663",
+    "name": "chocolade hartjes",
+    "technicalArticleNumber": "4708928",
+    "commercialArticleNumber": "31669",
+    "LongName": "THE BELGIAN chocolade hartjes 200g"
+  },
+  {
+    "gtin": "00000080791812",
+    "productId": "57380",
+    "name": "Aardb.&Mand. 14st",
+    "technicalArticleNumber": "2347501",
+    "commercialArticleNumber": "24788",
+    "LongName": "MENTOS AQUA KISS Aardb.&Mand. 14st 26g"
+  },
+  {
+    "gtin": "05410358464570",
+    "productId": "287609",
+    "name": "chamallows party",
+    "technicalArticleNumber": "3698040",
+    "commercialArticleNumber": "18581",
+    "LongName": "HARIBO chamallows party 400g"
+  },
+  {
+    "gtin": "05412038981711",
+    "productId": "765393",
+    "name": "repen manon 3pack",
+    "technicalArticleNumber": "4547555",
+    "commercialArticleNumber": "7640",
+    "LongName": "GALLER repen manon 3pack 195g"
+  },
+  {
+    "gtin": "05400265138039",
+    "productId": "757454",
+    "name": "pralines ballotin",
+    "technicalArticleNumber": "4533877",
+    "commercialArticleNumber": "16097",
+    "LongName": "HAMLET pralines ballotin 250g"
+  },
+  {
+    "gtin": "05410358452577",
+    "productId": "289575",
+    "name": "chamallows",
+    "technicalArticleNumber": "3698058",
+    "commercialArticleNumber": "18669",
+    "LongName": "HARIBO chamallows 400g"
+  },
+  {
+    "gtin": "07610700947340",
+    "productId": "1568",
+    "name": "pastille sinaasappel munt sv",
+    "technicalArticleNumber": "20612",
+    "commercialArticleNumber": "20612",
+    "LongName": "RICOLA pastille sinaasappel munt sv 50g"
+  },
+  {
+    "gtin": "07622210615794",
+    "productId": "205858",
+    "name": "melk hazelnoten",
+    "technicalArticleNumber": "3510064",
+    "commercialArticleNumber": "50583",
+    "LongName": "MILKA melk hazelnoten 3x45g"
+  },
+  {
+    "gtin": "05400141074017",
+    "productId": "463447",
+    "name": "puur praliné truffle",
+    "technicalArticleNumber": "3957438",
+    "commercialArticleNumber": "2257",
+    "LongName": "CÔTE D'OR puur praliné truffle 4x44g"
+  },
+  {
+    "gtin": "15400141890058",
+    "productId": "173186",
+    "name": "amandelgebak glutenvrij",
+    "description": "*Glutenvrij",
+    "technicalArticleNumber": "3375349",
+    "commercialArticleNumber": "23667",
+    "LongName": "BONI amandelgebak glutenvrij 4x50g"
+  },
+  {
+    "gtin": "07622300166984",
+    "productId": "44283",
+    "name": "Culinaire",
+    "description": "*Min. 54 %\ncacaobestanddelen\n*Belgische chocolade",
+    "technicalArticleNumber": "2439152",
+    "commercialArticleNumber": "25543",
+    "LongName": "CÔTE D'OR Culinaire 400g"
+  },
+  {
+    "gtin": "00000087345032",
+    "productId": "504997",
+    "name": "Clean Breath",
+    "technicalArticleNumber": "4063380",
+    "commercialArticleNumber": "7064",
+    "LongName": "FRISK Clean Breath 105g"
+  },
+  {
+    "gtin": "07622210869586",
+    "productId": "362940",
+    "name": "puur 70% Bio",
+    "technicalArticleNumber": "3783593",
+    "commercialArticleNumber": "50086",
+    "LongName": "CÔTE D'OR puur 70% Bio 90g"
+  },
+  {
+    "gtin": "07622201413958",
+    "productId": "715033",
+    "name": "Leo wafer cubes",
+    "technicalArticleNumber": "4459836",
+    "commercialArticleNumber": "21122",
+    "LongName": "MILKA Leo wafer cubes 150g"
+  },
+  {
+    "gtin": "08713600195152",
+    "productId": "377358",
+    "name": "eetpapier",
+    "technicalArticleNumber": "3833929",
+    "commercialArticleNumber": "16880",
+    "LongName": "LOOK O LOOK eetpapier 30g"
+  },
+  {
+    "gtin": "04030300022613",
+    "productId": "1434",
+    "name": "munt box suikervrij",
+    "technicalArticleNumber": "20540",
+    "commercialArticleNumber": "20540",
+    "LongName": "VICKS BLUE munt box suikervrij 40g"
+  },
+  {
+    "gtin": "05407008810672",
+    "productId": "804901",
+    "name": "choco chips",
+    "technicalArticleNumber": "4622469",
+    "commercialArticleNumber": "1108",
+    "LongName": "ALISA'S COOKIES choco chips 180g"
+  },
+  {
+    "gtin": "07622210117823",
+    "productId": "441521",
+    "name": "Bouchée Truffée Puur",
+    "technicalArticleNumber": "3976865",
+    "commercialArticleNumber": "3586",
+    "LongName": "CÔTE D'OR Bouchée Truffée Puur 8x19,5g"
+  },
+  {
+    "gtin": "05410059448107",
+    "productId": "344012",
+    "name": "crème tablet pistache",
+    "technicalArticleNumber": "3818731",
+    "commercialArticleNumber": "18703",
+    "LongName": "JACQUES crème tablet pistache 200g"
+  },
+  {
+    "gtin": "05400141867220",
+    "productId": "914205",
+    "name": "Salted caramel",
+    "technicalArticleNumber": "4759898",
+    "commercialArticleNumber": "9455",
+    "LongName": "M&M'S Salted caramel 367g"
+  },
+  {
+    "gtin": "07622201123888",
+    "productId": "644427",
+    "name": "Original | Crunchies",
+    "technicalArticleNumber": "4339679",
+    "commercialArticleNumber": "2136",
+    "LongName": "OREO Original | Crunchies 110g"
+  },
+  {
+    "gtin": "05425026054373",
+    "productId": "783517",
+    "name": "speculoos",
+    "technicalArticleNumber": "4581903",
+    "commercialArticleNumber": "6219",
+    "LongName": "CRUMBEL speculoos 260g"
+  },
+  {
+    "gtin": "07610700626603",
+    "productId": "105769",
+    "name": "pastille bergmunt suikervrij",
+    "technicalArticleNumber": "3099079",
+    "commercialArticleNumber": "43228",
+    "LongName": "RICOLA pastille bergmunt suikervrij 50g"
+  },
+  {
+    "gtin": "07622210377142",
+    "productId": "250323",
+    "name": "Spearmint 70st",
+    "technicalArticleNumber": "3673337",
+    "commercialArticleNumber": "43462",
+    "LongName": "STIMOROL Spearmint 70st 102g"
+  },
+  {
+    "gtin": "05412841606498",
+    "productId": "334665",
+    "name": "Clean Breath intens mint",
+    "technicalArticleNumber": "3806922",
+    "commercialArticleNumber": "14596",
+    "LongName": "FRISK Clean Breath intens mint 35g"
+  },
+  {
+    "gtin": "05410471903475",
+    "productId": "67526",
+    "name": "koek amandelbrood",
+    "technicalArticleNumber": "2773674",
+    "commercialArticleNumber": "42388",
+    "LongName": "JULES DESTROOPER koek amandelbrood 350g"
+  },
+  {
+    "gtin": "07622210771049",
+    "productId": "848894",
+    "name": "Moelleux Aardbei",
+    "technicalArticleNumber": "4696236",
+    "commercialArticleNumber": "30731",
+    "LongName": "BELVITA Moelleux Aardbei 5x50g"
+  },
+  {
+    "gtin": "07622201030162",
+    "productId": "1486",
+    "name": "melk nootjes",
+    "description": "*Belgische chocolade",
+    "technicalArticleNumber": "20116",
+    "commercialArticleNumber": "20116",
+    "LongName": "CÔTE D'OR melk nootjes 150g"
+  },
+  {
+    "gtin": "08720701140080",
+    "productId": "782928",
+    "name": "melk hazelnoot crunch",
+    "description": "*Belgische chocolade\n*Fairtrade",
+    "technicalArticleNumber": "4580628",
+    "commercialArticleNumber": "5469",
+    "LongName": "TONY'S melk hazelnoot crunch 180g"
+  },
+  {
+    "gtin": "03046920028721",
+    "productId": "259589",
+    "name": "99% cacao",
+    "description": "*99% cacao",
+    "technicalArticleNumber": "3596952",
+    "commercialArticleNumber": "51030",
+    "LongName": "LINDT EXCELLENCE 99% cacao 50g"
+  },
+  {
+    "gtin": "05411901963472",
+    "productId": "746681",
+    "name": "chocolade kip met eitjes",
+    "technicalArticleNumber": "4515303",
+    "commercialArticleNumber": "1069",
+    "LongName": "LIBEERT chocolade kip met eitjes 230g"
+  },
+  {
+    "gtin": "03116742064860",
+    "productId": "825600",
+    "name": "surffizz fruits",
+    "technicalArticleNumber": "4662505",
+    "commercialArticleNumber": "29894",
+    "LongName": "LUTTI surffizz fruits 100g"
+  },
+  {
+    "gtin": "07622200007790",
+    "productId": "1474",
+    "name": "Mignonnette noir de noir",
+    "description": "*Min. 54 %\ncacaobestanddelen\n*Belgische chocolade",
+    "technicalArticleNumber": "20024",
+    "commercialArticleNumber": "20024",
+    "LongName": "CÔTE D'OR Mignonnette noir de noir 1,2kg"
+  },
+  {
+    "gtin": "07613287199584",
+    "productId": "1038439",
+    "name": "Peanut",
+    "technicalArticleNumber": "4796878",
+    "commercialArticleNumber": "35944",
+    "LongName": "LION Peanut 155g"
+  },
+  {
+    "gtin": "05410481003806",
+    "productId": "1431",
+    "name": "nougat zacht",
+    "technicalArticleNumber": "20528",
+    "commercialArticleNumber": "20528",
+    "LongName": "CARLIER nougat zacht 125g"
+  },
+  {
+    "gtin": "05000159474085",
+    "productId": "912191",
+    "name": "mini",
+    "technicalArticleNumber": "4759780",
+    "commercialArticleNumber": "8878",
+    "LongName": "MILKYWAY mini 333g"
+  },
+  {
+    "gtin": "08717677335565",
+    "productId": "149347",
+    "name": "melkchocolade 32%",
+    "description": "Melchocolade",
+    "technicalArticleNumber": "3307422",
+    "commercialArticleNumber": "25495",
+    "LongName": "TONY'S melkchocolade 32% 180g"
+  },
+  {
+    "gtin": "08723400818557",
+    "productId": "304654",
+    "name": "Spearmint",
+    "technicalArticleNumber": "3725257",
+    "commercialArticleNumber": "21497",
+    "LongName": "FRISK Spearmint 35g"
+  },
+  {
+    "gtin": "04009900403580",
+    "productId": "82821",
+    "name": "Classic",
+    "technicalArticleNumber": "2925656",
+    "commercialArticleNumber": "12689",
+    "LongName": "SUGUS Classic 400g"
+  },
+  {
+    "gtin": "04011100058972",
+    "productId": "1436",
+    "name": "melkchocolade pinda's",
+    "technicalArticleNumber": "20547",
+    "commercialArticleNumber": "20547",
+    "LongName": "M&M'S melkchocolade pinda's 10x45g"
+  },
+  {
+    "gtin": "05410471111009",
+    "productId": "1542",
+    "name": "natuurboterwafels",
+    "technicalArticleNumber": "21840",
+    "commercialArticleNumber": "21840",
+    "LongName": "JULES DESTROOPER natuurboterwafels 700g"
+  },
+  {
+    "gtin": "08000500359891",
+    "productId": "849369",
+    "name": "tab.hazelno-wit.choc.",
+    "technicalArticleNumber": "4696827",
+    "commercialArticleNumber": "30778",
+    "LongName": "FERRERO ROCHER tab.hazelno-wit.choc. 90g"
+  },
+  {
+    "gtin": "03046920010047",
+    "productId": "865594",
+    "name": "Excellence 78% pure chocolade",
+    "description": "*Met 78% cacao",
+    "technicalArticleNumber": "4717784",
+    "commercialArticleNumber": "4010",
+    "LongName": "LINDT Excellence 78% pure chocolade 100g"
+  },
+  {
+    "gtin": "15407008810662",
+    "productId": "781917",
+    "name": "Amandine Chocolade",
+    "description": "*Zandkoekje met:\n-amandelschilfers\n-Belgische melkchocolade",
+    "technicalArticleNumber": "4578281",
+    "commercialArticleNumber": "28949",
+    "LongName": "ALISA'S COOKIES Amandine Chocolade 200g"
+  },
+  {
+    "gtin": "05410059448114",
+    "productId": "783536",
+    "name": "creme tablet banaan",
+    "technicalArticleNumber": "4581973",
+    "commercialArticleNumber": "6297",
+    "LongName": "JACQUES creme tablet banaan 200g"
+  },
+  {
+    "gtin": "05000159532969",
+    "productId": "684971",
+    "name": "dark chocolat nuts & salt",
+    "technicalArticleNumber": "4407494",
+    "commercialArticleNumber": "24805",
+    "LongName": "BE-KIND dark chocolat nuts & salt 3x30g"
+  },
+  {
+    "gtin": "07622210031938",
+    "productId": "97575",
+    "name": "Melk",
+    "technicalArticleNumber": "2907952",
+    "commercialArticleNumber": "35029",
+    "LongName": "CHOKOTOFF Melk 500g"
+  },
+  {
+    "gtin": "05410059062433",
+    "productId": "1483",
+    "name": "chocolade melk banaan",
+    "technicalArticleNumber": "20107",
+    "commercialArticleNumber": "20107",
+    "LongName": "JACQUES chocolade melk banaan 6x47g"
+  },
+  {
+    "gtin": "04000415764104",
+    "productId": "846028",
+    "name": "wafelrepen",
+    "description": "*Wafelreep\n*Hazelnoot & Vanille\n*Caramel",
+    "technicalArticleNumber": "4692178",
+    "commercialArticleNumber": "10010",
+    "LongName": "DUOPENOTTI wafelrepen 4x36g"
+  },
+  {
+    "gtin": "15400141799658",
+    "productId": "248889",
+    "name": "marsepein fruit",
+    "technicalArticleNumber": "3665636",
+    "commercialArticleNumber": "51076",
+    "LongName": "BONI marsepein fruit 150g"
+  },
+  {
+    "gtin": "05410059759036",
+    "productId": "717503",
+    "name": "melkchocolade",
+    "technicalArticleNumber": "4465424",
+    "commercialArticleNumber": "26823",
+    "LongName": "JACQUES melkchocolade 180g"
+  },
+  {
+    "gtin": "05410057195942",
+    "productId": "63280",
+    "name": "snoep gesuikerde aardbeien",
+    "technicalArticleNumber": "2777726",
+    "commercialArticleNumber": "19686",
+    "LongName": "LUTTI snoep gesuikerde aardbeien 1kg"
+  },
+  {
+    "gtin": "08000300409826",
+    "productId": "732272",
+    "name": "White balls",
+    "technicalArticleNumber": "4491022",
+    "commercialArticleNumber": "13849",
+    "LongName": "GALAK White balls 250g"
+  },
+  {
+    "gtin": "08713600194667",
+    "productId": "152287",
+    "name": "Beertjes",
+    "description": "Beertjes",
+    "technicalArticleNumber": "3317122",
+    "commercialArticleNumber": "1154",
+    "LongName": "LOOK O LOOK Beertjes 135g"
+  },
+  {
+    "gtin": "08723400781240",
+    "productId": "289584",
+    "name": "pastilles lemon",
+    "technicalArticleNumber": "3698068",
+    "commercialArticleNumber": "18733",
+    "LongName": "FRISK pastilles lemon 35g"
+  },
+  {
+    "gtin": "05412038981568",
+    "productId": "765610",
+    "name": "repen praliné puur 3pack",
+    "technicalArticleNumber": "4548436",
+    "commercialArticleNumber": "9212",
+    "LongName": "GALLER repen praliné puur 3pack 210g"
+  },
+  {
+    "gtin": "04014400140125",
+    "productId": "528088",
+    "name": "tablet amandel hazelnoot",
+    "technicalArticleNumber": "4117028",
+    "commercialArticleNumber": "2740",
+    "LongName": "MERCI tablet amandel hazelnoot 100g"
+  },
+  {
+    "gtin": "07622201710217",
+    "productId": "852457",
+    "name": "Mignonnette Annivers.Mix",
+    "technicalArticleNumber": "4700905",
+    "commercialArticleNumber": "31103",
+    "LongName": "COTE D'OR Mignonnette Annivers.Mix 510g"
+  },
+  {
+    "gtin": "05400141218657",
+    "productId": "10665",
+    "name": "Parijse wafels",
+    "technicalArticleNumber": "1396558",
+    "commercialArticleNumber": "21865",
+    "LongName": "JULES DESTROOPER Parijse wafels 125g"
+  },
+  {
+    "gtin": "05410057138062",
+    "productId": "1595",
+    "name": "snoep fruit",
+    "technicalArticleNumber": "20755",
+    "commercialArticleNumber": "20755",
+    "LongName": "LUTTI OH-LA-LA snoep fruit 150g"
+  },
+  {
+    "gtin": "03116430530509",
+    "productId": "859109",
+    "name": "caramel intense",
+    "technicalArticleNumber": "4709441",
+    "commercialArticleNumber": "31793",
+    "LongName": "DELACRE caramel intense 130g"
+  },
+  {
+    "gtin": "08410031934892",
+    "productId": "342872",
+    "name": "Melody pops",
+    "technicalArticleNumber": "3833053",
+    "commercialArticleNumber": "16175",
+    "LongName": "CHUPA CHUPS Melody pops 60g"
+  },
+  {
+    "gtin": "00000025205183",
+    "productId": "1429",
+    "name": "grootmoeders keelpastilles",
+    "technicalArticleNumber": "20518",
+    "commercialArticleNumber": "20518",
+    "LongName": "KATHY grootmoeders keelpastilles 200g"
+  },
+  {
+    "gtin": "04000417119407",
+    "productId": "780583",
+    "name": "mini tower colour.var.",
+    "description": "*Chocoladeassortiment\n*Bevat 9 stuks",
+    "technicalArticleNumber": "4575391",
+    "commercialArticleNumber": "28755",
+    "LongName": "RITTER SPORT mini tower colour.var. 150g"
+  },
+  {
+    "gtin": "08713600186204",
+    "productId": "644977",
+    "name": "snoep kettingen",
+    "technicalArticleNumber": "4340808",
+    "commercialArticleNumber": "3935",
+    "LongName": "LOOK O LOOK snoep kettingen 155g"
+  },
+  {
+    "gtin": "05900951251795",
+    "productId": "209756",
+    "name": "Top",
+    "technicalArticleNumber": "3528039",
+    "commercialArticleNumber": "50654",
+    "LongName": "TWIX Top 10x21g"
+  },
+  {
+    "gtin": "07610700017692",
+    "productId": "855741",
+    "name": "Raspberry mint suikervrij",
+    "technicalArticleNumber": "4704865",
+    "commercialArticleNumber": "31344",
+    "LongName": "RICOLA Raspberry mint suikervrij 50g"
+  },
+  {
+    "gtin": "05400141137217",
+    "productId": "156993",
+    "name": "honingwafels",
+    "technicalArticleNumber": "3270612",
+    "commercialArticleNumber": "34297",
+    "LongName": "BONI BIO honingwafels 175g"
+  },
+  {
+    "gtin": "07610700612026",
+    "productId": "57585",
+    "name": "pastille blackcurrant sv",
+    "technicalArticleNumber": "2478692",
+    "commercialArticleNumber": "38497",
+    "LongName": "RICOLA pastille blackcurrant sv 50g"
+  },
+  {
+    "gtin": "07622210333124",
+    "productId": "1471",
+    "name": "Mignonnette Variété",
+    "description": "*Belgische chocolade",
+    "technicalArticleNumber": "20011",
+    "commercialArticleNumber": "20011",
+    "LongName": "COTE D'OR Mignonnette Variété 320g"
+  },
+  {
+    "gtin": "07622210607966",
+    "productId": "466365",
+    "name": "Migno.Noir pointe sel Bio",
+    "technicalArticleNumber": "4072325",
+    "commercialArticleNumber": "7261",
+    "LongName": "COTE D'OR Migno.Noir pointe sel Bio 180g"
+  },
+  {
+    "gtin": "08723400819240",
+    "productId": "338938",
+    "name": "Pure Fresh Bubblefresh 50st",
+    "technicalArticleNumber": "3831424",
+    "commercialArticleNumber": "14825",
+    "LongName": "MENTOS PURE FRESH Pure Fresh Bubblefresh 50st 50st"
+  },
+  {
+    "gtin": "05410126006193",
+    "productId": "186203",
+    "name": "speculoos",
+    "technicalArticleNumber": "3459991",
+    "commercialArticleNumber": "50300",
+    "LongName": "LOTUS speculoos 2,5kg"
+  },
+  {
+    "gtin": "07610700021460",
+    "productId": "82823",
+    "name": "pastille zoethout suikervrij",
+    "technicalArticleNumber": "2925668",
+    "commercialArticleNumber": "35693",
+    "LongName": "RICOLA pastille zoethout suikervrij 50g"
+  },
+  {
+    "gtin": "08718781583187",
+    "productId": "809532",
+    "name": "Suikerspin aardbeiensmaak",
+    "technicalArticleNumber": "4632915",
+    "commercialArticleNumber": "12791",
+    "LongName": "Suikerspin aardbeiensmaak 3x20g"
+  },
+  {
+    "gtin": "07622210043498",
+    "productId": "7235",
+    "name": "Chlorophylle sticks",
+    "technicalArticleNumber": "1156345",
+    "commercialArticleNumber": "20457",
+    "LongName": "STIMOROL Chlorophylle sticks 6x14g"
+  },
+  {
+    "gtin": "04001686101964",
+    "productId": "626739",
+    "name": "rotella",
+    "description": "*Zonder dierlijke\ngelatine",
+    "technicalArticleNumber": "4310053",
+    "commercialArticleNumber": "21106",
+    "LongName": "HARIBO rotella 400g"
+  },
+  {
+    "gtin": "03103220009703",
+    "productId": "9804",
+    "name": "snoep megafeest",
+    "technicalArticleNumber": "1383027",
+    "commercialArticleNumber": "20712",
+    "LongName": "HARIBO snoep megafeest 1kg"
+  },
+  {
+    "gtin": "00000080772743",
+    "productId": "354665",
+    "name": "gum chlorophyl 100st",
+    "technicalArticleNumber": "3859306",
+    "commercialArticleNumber": "22212",
+    "LongName": "MENTOS gum chlorophyl 100st 150g"
+  },
+  {
+    "gtin": "05412841606115",
+    "productId": "55984",
+    "name": "Peppermint",
+    "technicalArticleNumber": "2411839",
+    "commercialArticleNumber": "18576",
+    "LongName": "FRISK Peppermint 3st"
+  },
+  {
+    "gtin": "05400787026296",
+    "productId": "84579",
+    "name": "snoep zure matten",
+    "technicalArticleNumber": "2956015",
+    "commercialArticleNumber": "1216",
+    "LongName": "LUTTI snoep zure matten 600g"
+  },
+  {
+    "gtin": "08711400406539",
+    "productId": "32411",
+    "name": "Peppermint 6x12st",
+    "technicalArticleNumber": "1882043",
+    "commercialArticleNumber": "20737",
+    "LongName": "SPORTLIFE Peppermint 6x12st 108g"
+  },
+  {
+    "gtin": "03116430530516",
+    "productId": "859153",
+    "name": "sable choco noir",
+    "technicalArticleNumber": "4709550",
+    "commercialArticleNumber": "31794",
+    "LongName": "DELACRE sable choco noir 130g"
+  },
+  {
+    "gtin": "04001686781531",
+    "productId": "862512",
+    "name": "Candy Cups",
+    "technicalArticleNumber": "4713867",
+    "commercialArticleNumber": "31873",
+    "LongName": "HARIBO Candy Cups 190g"
+  },
+  {
+    "gtin": "04001686395233",
+    "productId": "330894",
+    "name": "cherry cola mix",
+    "technicalArticleNumber": "3810158",
+    "commercialArticleNumber": "15625",
+    "LongName": "HARIBO cherry cola mix 100g"
+  },
+  {
+    "gtin": "05410522513530",
+    "productId": "1477",
+    "name": "melk callets 33,6% cacao",
+    "description": "*Belgische chocolade\n*Altijd met factuur",
+    "technicalArticleNumber": "20083",
+    "commercialArticleNumber": "20083",
+    "LongName": "CALLEBAUT melk callets 33,6% cacao 2,5kg"
+  },
+  {
+    "gtin": "05411951037543",
+    "productId": "784057",
+    "name": "harde snoep violette zakje",
+    "technicalArticleNumber": "4583081",
+    "commercialArticleNumber": "9322",
+    "LongName": "GICOPA harde snoep violette zakje 218g"
+  },
+  {
+    "gtin": "08711753001061",
+    "productId": "14830",
+    "name": "volk.mueslikoeken bio",
+    "technicalArticleNumber": "1443133",
+    "commercialArticleNumber": "8341",
+    "LongName": "BILLY'S FARM volk.mueslikoeken bio 250g"
+  },
+  {
+    "gtin": "03116740026136",
+    "productId": "778534",
+    "name": "best fizz",
+    "technicalArticleNumber": "4572074",
+    "commercialArticleNumber": "28529",
+    "LongName": "LUTTI best fizz 350g"
+  },
+  {
+    "gtin": "04001686110690",
+    "productId": "812847",
+    "name": "balla red",
+    "technicalArticleNumber": "4638870",
+    "commercialArticleNumber": "15640",
+    "LongName": "HARIBO balla red 110g"
+  },
+  {
+    "gtin": "05400787048182",
+    "productId": "825694",
+    "name": "muizen",
+    "technicalArticleNumber": "4662744",
+    "commercialArticleNumber": "29902",
+    "LongName": "LUTTI muizen 500g"
+  },
+  {
+    "gtin": "05410471917311",
+    "productId": "892828",
+    "name": "Choc&Croc amandel",
+    "technicalArticleNumber": "4754784",
+    "commercialArticleNumber": "3829",
+    "LongName": "JULES DESTROOPER Choc&Croc amandel 100g"
+  },
+  {
+    "gtin": "08713600037551",
+    "productId": "690451",
+    "name": "zure regenboogmatten",
+    "technicalArticleNumber": "4416951",
+    "commercialArticleNumber": "18434",
+    "LongName": "LOOK O LOOK zure regenboogmatten 200g"
+  },
+  {
+    "gtin": "08000300423112",
+    "productId": "872081",
+    "name": "Mix Balls",
+    "technicalArticleNumber": "4726199",
+    "commercialArticleNumber": "15966",
+    "LongName": "GALAK Mix Balls 250g"
+  },
+  {
+    "gtin": "07622201125646",
+    "productId": "644433",
+    "name": "Crunchy Bites Dipped",
+    "technicalArticleNumber": "4339685",
+    "commercialArticleNumber": "2514",
+    "LongName": "OREO Crunchy Bites Dipped 110g"
+  },
+  {
+    "gtin": "05400141210071",
+    "productId": "1626",
+    "name": "Fantasy koekenmengeling",
+    "description": "*Individueel verpakt\n*Altijd met factuur",
+    "technicalArticleNumber": "21007",
+    "commercialArticleNumber": "21007",
+    "LongName": "ROYAL Fantasy koekenmengeling 1kg"
+  },
+  {
+    "gtin": "05410358460022",
+    "productId": "674301",
+    "name": "chamallows soft kiss",
+    "technicalArticleNumber": "4389391",
+    "commercialArticleNumber": "11644",
+    "LongName": "HARIBO chamallows soft kiss 400g"
+  },
+  {
+    "gtin": "00000087353969",
+    "productId": "703790",
+    "name": "Defensive Orange",
+    "technicalArticleNumber": "4438131",
+    "commercialArticleNumber": "21453",
+    "LongName": "FRISK Defensive Orange 35g"
+  },
+  {
+    "gtin": "05000426112160",
+    "productId": "132616",
+    "name": "choc. ass. toff-pr",
+    "technicalArticleNumber": "3135972",
+    "commercialArticleNumber": "42488",
+    "LongName": "QUALITY STREET choc. ass. toff-pr 265g"
+  },
+  {
+    "gtin": "08007681000109",
+    "productId": "36745",
+    "name": "varrassingsei",
+    "technicalArticleNumber": "1797959",
+    "commercialArticleNumber": "24644",
+    "LongName": "FUNNY FRIENDS varrassingsei 3x20g"
+  },
+  {
+    "gtin": "08723400779780",
+    "productId": "272677",
+    "name": "fruit",
+    "technicalArticleNumber": "3710954",
+    "commercialArticleNumber": "20874",
+    "LongName": "MENTOS fruit 300g"
+  },
+  {
+    "gtin": "04001686398364",
+    "productId": "785678",
+    "name": "starmix",
+    "technicalArticleNumber": "4586433",
+    "commercialArticleNumber": "16215",
+    "LongName": "HARIBO starmix 1kg"
+  },
+  {
+    "gtin": "07622201754358",
+    "productId": "889483",
+    "name": "Repen amandelen pindanoten",
+    "technicalArticleNumber": "4750007",
+    "commercialArticleNumber": "5129",
+    "LongName": "GRANY Repen amandelen pindanoten 3x35g"
+  },
+  {
+    "gtin": "05400787046133",
+    "productId": "717650",
+    "name": "scoubies",
+    "technicalArticleNumber": "4465653",
+    "commercialArticleNumber": "26832",
+    "LongName": "LUTTI scoubies 500g"
+  },
+  {
+    "gtin": "08713600920006",
+    "productId": "782907",
+    "name": "special mix 5-pack",
+    "technicalArticleNumber": "4580607",
+    "commercialArticleNumber": "4898",
+    "LongName": "MENTOS special mix 5-pack 187,5g"
+  },
+  {
+    "gtin": "05410383410665",
+    "productId": "877437",
+    "name": "Artisa.peperkoek honing",
+    "description": "*Artisanale peperkoek met honing\nen parelsuiker",
+    "technicalArticleNumber": "4733322",
+    "commercialArticleNumber": "9708",
+    "LongName": "VONDELMOLEN Artisa.peperkoek honing 400g"
+  },
+  {
+    "gtin": "08719956494321",
+    "productId": "877012",
+    "name": "Lil'Bits melk kara.cook.mix",
+    "description": "*Melk, karamel zeezout en cookie mix",
+    "technicalArticleNumber": "4732257",
+    "commercialArticleNumber": "5194",
+    "LongName": "TONY'S Lil'Bits melk kara.cook.mix 120g"
+  },
+  {
+    "gtin": "05410534211172",
+    "productId": "849949",
+    "name": "koeken 5varianten lux",
+    "description": "*Individueel verpakt\n*Altijd met factuur\n*140st",
+    "technicalArticleNumber": "4697308",
+    "commercialArticleNumber": "30826",
+    "LongName": "ROYAL koeken 5varianten lux 990g"
+  },
+  {
+    "gtin": "05400787048236",
+    "productId": "830446",
+    "name": "Vampirezz",
+    "technicalArticleNumber": "4669900",
+    "commercialArticleNumber": "30160",
+    "LongName": "LUTTI Vampirezz 100g"
+  },
+  {
+    "gtin": "05400787049745",
+    "productId": "612581",
+    "name": "zure tutters",
+    "technicalArticleNumber": "4286520",
+    "commercialArticleNumber": "21591",
+    "LongName": "LUTTI zure tutters 1kg"
+  },
+  {
+    "gtin": "08410031958409",
+    "productId": "129286",
+    "name": "XL blackmint",
+    "technicalArticleNumber": "3256531",
+    "commercialArticleNumber": "39706",
+    "LongName": "FRISK XL blackmint 35g"
+  },
+  {
+    "gtin": "07622201817145",
+    "productId": "736123",
+    "name": "blok petit beurre",
+    "technicalArticleNumber": "4497778",
+    "commercialArticleNumber": "27839",
+    "LongName": "CÔTE D'OR blok petit beurre 170g"
+  },
+  {
+    "gtin": "08716100560826",
+    "productId": "83531",
+    "name": "snoep zure rode matten",
+    "technicalArticleNumber": "2995436",
+    "commercialArticleNumber": "17925",
+    "LongName": "LUTTI snoep zure rode matten 500g"
+  },
+  {
+    "gtin": "05013803001582",
+    "productId": "857304",
+    "name": "donkere choco.-zout GV",
+    "technicalArticleNumber": "4707216",
+    "commercialArticleNumber": "31491",
+    "LongName": "EAT NATURAL donkere choco.-zout GV 3x45g"
+  },
+  {
+    "gtin": "05410059062419",
+    "productId": "1484",
+    "name": "chocolade melk mokka-rhum",
+    "technicalArticleNumber": "20108",
+    "commercialArticleNumber": "20108",
+    "LongName": "JACQUES chocolade melk mokka-rhum 6x47g"
+  },
+  {
+    "gtin": "07622201771164",
+    "productId": "705744",
+    "name": "collection pralines",
+    "technicalArticleNumber": "4442025",
+    "commercialArticleNumber": "3764",
+    "LongName": "CÔTE D'OR collection pralines 242g"
+  },
+  {
+    "gtin": "07610700020012",
+    "productId": "940027",
+    "name": "Honey",
+    "technicalArticleNumber": "4767539",
+    "commercialArticleNumber": "1679",
+    "LongName": "RICOLA Honey 50g"
+  },
+  {
+    "gtin": "05410063024069",
+    "productId": "377536",
+    "name": "mini cakes choc. GV LV",
+    "description": "*Glutenvrij",
+    "technicalArticleNumber": "3848517",
+    "commercialArticleNumber": "13288",
+    "LongName": "CÉRÉAL mini cakes choc. GV LV 230g"
+  },
+  {
+    "gtin": "05400787044474",
+    "productId": "639257",
+    "name": "fili sticks",
+    "technicalArticleNumber": "4331066",
+    "commercialArticleNumber": "11422",
+    "LongName": "LUTTI fili sticks 500g"
+  },
+  {
+    "gtin": "15400141277033",
+    "productId": "302373",
+    "name": "assortiment pralines",
+    "technicalArticleNumber": "3716830",
+    "commercialArticleNumber": "10313",
+    "LongName": "BONI assortiment pralines 250g"
+  },
+  {
+    "gtin": "04820219344483",
+    "productId": "776443",
+    "name": "apple-strawberr.fruit roll",
+    "description": "*Puur fruit & bessen\n*Geen suiker toegevoegd\n*Glutenvrij\n*Vegan",
+    "technicalArticleNumber": "4568279",
+    "commercialArticleNumber": "10705",
+    "LongName": "BOB SNAIL apple-strawberr.fruit roll 60g"
+  },
+  {
+    "gtin": "00000080739456",
+    "productId": "355923",
+    "name": "gum Breezemint 100st",
+    "technicalArticleNumber": "3858468",
+    "commercialArticleNumber": "22124",
+    "LongName": "MENTOS gum Breezemint 100st 150g"
+  },
+  {
+    "gtin": "00000080968870",
+    "productId": "753493",
+    "name": "gum cherry 100st",
+    "technicalArticleNumber": "4527133",
+    "commercialArticleNumber": "24605",
+    "LongName": "MENTOS gum cherry 100st 150g"
+  },
+  {
+    "gtin": "08720701142329",
+    "productId": "844536",
+    "name": "melk karamel biscuit",
+    "technicalArticleNumber": "4690189",
+    "commercialArticleNumber": "1666",
+    "LongName": "TONY'S melk karamel biscuit 180g"
+  },
+  {
+    "gtin": "05400787029686",
+    "productId": "339783",
+    "name": "crazy mix",
+    "technicalArticleNumber": "3827558",
+    "commercialArticleNumber": "21791",
+    "LongName": "LUTTI crazy mix 400g"
+  },
+  {
+    "gtin": "05412038335293",
+    "productId": "879442",
+    "name": "Flowp.bâtons puur expresso",
+    "description": "*Flowpack",
+    "technicalArticleNumber": "4735888",
+    "commercialArticleNumber": "24237",
+    "LongName": "GALLER Flowp.bâtons puur expresso 210g"
+  },
+  {
+    "gtin": "03014680004521",
+    "productId": "1425",
+    "name": "Chlorophylle 11st",
+    "description": "*Met suiker",
+    "technicalArticleNumber": "20431",
+    "commercialArticleNumber": "20431",
+    "LongName": "HOLLYWOOD Chlorophylle 11st 5x31g"
+  },
+  {
+    "gtin": "15400141368076",
+    "productId": "63259",
+    "name": "boudoirs",
+    "technicalArticleNumber": "2769755",
+    "commercialArticleNumber": "45696",
+    "LongName": "BONI BIO boudoirs 125g"
+  },
+  {
+    "gtin": "05400141932003",
+    "productId": "740224",
+    "name": "Fairtrade wit praline",
+    "technicalArticleNumber": "4504441",
+    "commercialArticleNumber": "26211",
+    "LongName": "BONI Fairtrade wit praline 200g"
+  },
+  {
+    "gtin": "05000159500852",
+    "productId": "272777",
+    "name": "mini-assortiment",
+    "technicalArticleNumber": "3711796",
+    "commercialArticleNumber": "20207",
+    "LongName": "CELEBRATIONS mini-assortiment 385g"
+  },
+  {
+    "gtin": "04820219344469",
+    "productId": "776405",
+    "name": "apple-raspberry fruit roll",
+    "description": "*Puur fruit & bessen\n*Geen suiker toegevoegd\n*Glutenvrij\n*Vegan",
+    "technicalArticleNumber": "4568241",
+    "commercialArticleNumber": "10424",
+    "LongName": "BOB SNAIL apple-raspberry fruit roll 60g"
+  },
+  {
+    "gtin": "04001686333945",
+    "productId": "813696",
+    "name": "miami fizz",
+    "description": "*Zonder dierlijke\ngelatine",
+    "technicalArticleNumber": "4640544",
+    "commercialArticleNumber": "18536",
+    "LongName": "HARIBO miami fizz 80g"
+  },
+  {
+    "gtin": "04030300022590",
+    "productId": "1433",
+    "name": "Fruit Plus C citron sv box",
+    "technicalArticleNumber": "20535",
+    "commercialArticleNumber": "20535",
+    "LongName": "VICKS Fruit Plus C citron sv box 40g"
+  },
+  {
+    "gtin": "05410471067009",
+    "productId": "97289",
+    "name": "Jules' Finest",
+    "technicalArticleNumber": "2805860",
+    "commercialArticleNumber": "45750",
+    "LongName": "JULES DESTROOPER Jules' Finest 250g"
+  },
+  {
+    "gtin": "05410063023949",
+    "productId": "468019",
+    "name": "Mini cake marmer GV LV",
+    "technicalArticleNumber": "4064512",
+    "commercialArticleNumber": "7117",
+    "LongName": "CÉRÉAL Mini cake marmer GV LV 200g"
+  },
+  {
+    "gtin": "05900951294228",
+    "productId": "730120",
+    "name": "brownie",
+    "technicalArticleNumber": "4487083",
+    "commercialArticleNumber": "25041",
+    "LongName": "M&M'S brownie 400g"
+  },
+  {
+    "gtin": "04001686753279",
+    "productId": "696880",
+    "name": "party box",
+    "technicalArticleNumber": "4427009",
+    "commercialArticleNumber": "26080",
+    "LongName": "HARIBO party box 500g"
+  },
+  {
+    "gtin": "08719956498244",
+    "productId": "823119",
+    "name": "Ben & Jerry's melk brownie",
+    "technicalArticleNumber": "4658724",
+    "commercialArticleNumber": "29783",
+    "LongName": "TONY'S Ben & Jerry's melk brownie 180g"
+  },
+  {
+    "gtin": "03664346328395",
+    "productId": "717651",
+    "name": "bubble bottles",
+    "technicalArticleNumber": "4465654",
+    "commercialArticleNumber": "26833",
+    "LongName": "LUTTI bubble bottles 1kg"
+  },
+  {
+    "gtin": "05000396053449",
+    "productId": "855892",
+    "name": "melk chocolade pretzels",
+    "technicalArticleNumber": "4705219",
+    "commercialArticleNumber": "31365",
+    "LongName": "FLIPZ melk chocolade pretzels 90g"
+  },
+  {
+    "gtin": "15745000121134",
+    "productId": "853911",
+    "name": "Watermelon",
+    "description": "*Keelbonbons\n*Smaak: watermeloen\n*Suikervrij",
+    "technicalArticleNumber": "4702611",
+    "commercialArticleNumber": "31228",
+    "LongName": "TRUE MINTS Watermelon 13g"
+  },
+  {
+    "gtin": "04030300022569",
+    "productId": "26054",
+    "name": "fruit citroen sv",
+    "technicalArticleNumber": "1970153",
+    "commercialArticleNumber": "20577",
+    "LongName": "VICKS fruit citroen sv 144g"
+  },
+  {
+    "gtin": "07622210377180",
+    "productId": "250329",
+    "name": "Peppermint 70st",
+    "technicalArticleNumber": "3673343",
+    "commercialArticleNumber": "43465",
+    "LongName": "STIMOROL Peppermint 70st 102g"
+  },
+  {
+    "gtin": "05412038335255",
+    "productId": "879439",
+    "name": "Flowp.bâtons puur framboos",
+    "description": "*Flowpack",
+    "technicalArticleNumber": "4735885",
+    "commercialArticleNumber": "24093",
+    "LongName": "GALLER Flowp.bâtons puur framboos 210g"
+  },
+  {
+    "gtin": "05400141477610",
+    "productId": "408698",
+    "name": "truffels melk",
+    "technicalArticleNumber": "3929281",
+    "commercialArticleNumber": "22429",
+    "LongName": "BONI truffels melk 200g"
+  },
+  {
+    "gtin": "25400141915253",
+    "productId": "618467",
+    "name": "chunky",
+    "technicalArticleNumber": "4295824",
+    "commercialArticleNumber": "2158",
+    "LongName": "NESTLÉ KITKAT chunky 4x40g"
+  },
+  {
+    "gtin": "08713600284054",
+    "productId": "89778",
+    "name": "snoep Topmix",
+    "technicalArticleNumber": "2933530",
+    "commercialArticleNumber": "35606",
+    "LongName": "LOOK O LOOK snoep Topmix 215g"
+  },
+  {
+    "gtin": "05412038335279",
+    "productId": "879433",
+    "name": "Flowpack bâtons wit praliné",
+    "description": "*Flowpack",
+    "technicalArticleNumber": "4735879",
+    "commercialArticleNumber": "23993",
+    "LongName": "GALLER Flowpack bâtons wit praliné 210g"
+  },
+  {
+    "gtin": "08723400797722",
+    "productId": "874235",
+    "name": "Duo Stix vegan",
+    "description": "*vegan",
+    "technicalArticleNumber": "4729195",
+    "commercialArticleNumber": "32082",
+    "LongName": "FRUIT-TELLA Duo Stix vegan 400g"
+  },
+  {
+    "gtin": "05400787049677",
+    "productId": "1018024",
+    "name": "Surferzz XL",
+    "technicalArticleNumber": "4788835",
+    "commercialArticleNumber": "8815",
+    "LongName": "LUTTI Surferzz XL 500g"
+  },
+  {
+    "gtin": "08003340593616",
+    "productId": "865597",
+    "name": "Lindor Cornet assorti",
+    "technicalArticleNumber": "4717789",
+    "commercialArticleNumber": "4034",
+    "LongName": "LINDT Lindor Cornet assorti 200g"
+  },
+  {
+    "gtin": "05000396053425",
+    "productId": "855883",
+    "name": "salted caramel pretzels",
+    "technicalArticleNumber": "4705207",
+    "commercialArticleNumber": "31363",
+    "LongName": "FLIPZ salted caramel pretzels 90g"
+  },
+  {
+    "gtin": "04820219344476",
+    "productId": "776366",
+    "name": "mango fruit rolls",
+    "description": "*100% mango\n*Geen suiker toegevoegd\n*Glutenvrij\n*Vegan",
+    "technicalArticleNumber": "4568202",
+    "commercialArticleNumber": "9796",
+    "LongName": "BOB SNAIL mango fruit rolls 60g"
+  },
+  {
+    "gtin": "08003340093604",
+    "productId": "865607",
+    "name": "Lindor Cornet melk",
+    "technicalArticleNumber": "4717805",
+    "commercialArticleNumber": "4053",
+    "LongName": "LINDT Lindor Cornet melk 200g"
+  },
+  {
+    "gtin": "05410059757223",
+    "productId": "567459",
+    "name": "callets wit",
+    "technicalArticleNumber": "4210479",
+    "commercialArticleNumber": "16187",
+    "LongName": "JACQUES callets wit 400g"
+  },
+  {
+    "gtin": "07622201517458",
+    "productId": "852447",
+    "name": "tab.praline vanille cacao",
+    "technicalArticleNumber": "4700895",
+    "commercialArticleNumber": "31101",
+    "LongName": "CÔTE D'OR tab.praline vanille cacao 192g"
+  },
+  {
+    "gtin": "08713600501830",
+    "productId": "810754",
+    "name": "foamies framboossmaak",
+    "technicalArticleNumber": "4635430",
+    "commercialArticleNumber": "17951",
+    "LongName": "LOOK O LOOK foamies framboossmaak 180g"
+  },
+  {
+    "gtin": "05425032430871",
+    "productId": "865477",
+    "name": "Confetti",
+    "technicalArticleNumber": "4717620",
+    "commercialArticleNumber": "3828",
+    "LongName": "SWEET SWITCH Confetti 22g"
+  },
+  {
+    "gtin": "05410481000034",
+    "productId": "1430",
+    "name": "nougat hard",
+    "technicalArticleNumber": "20526",
+    "commercialArticleNumber": "20526",
+    "LongName": "CARLIER nougat hard 500g"
+  },
+  {
+    "gtin": "04000417652706",
+    "productId": "847400",
+    "name": "Choco Cube Thank you",
+    "technicalArticleNumber": "4693796",
+    "commercialArticleNumber": "19065",
+    "LongName": "RITTER SPORT Choco Cube Thank you 176g"
+  },
+  {
+    "gtin": "15745000121011",
+    "productId": "853914",
+    "name": "Cherry",
+    "description": "*Keelbonbons\n*Kersensmaak\n*Suikervrij",
+    "technicalArticleNumber": "4702614",
+    "commercialArticleNumber": "31231",
+    "LongName": "TRUE MINTS Cherry 13g"
+  },
+  {
+    "gtin": "08003440996836",
+    "productId": "786818",
+    "name": "gum vitamin citrus 30st",
+    "technicalArticleNumber": "4589060",
+    "commercialArticleNumber": "21303",
+    "LongName": "MENTOS gum vitamin citrus 30st 60g"
+  },
+  {
+    "gtin": "08723400796091",
+    "productId": "802347",
+    "name": "fanta",
+    "technicalArticleNumber": "4617862",
+    "commercialArticleNumber": "11290",
+    "LongName": "MENTOS fanta 4x37,5g"
+  },
+  {
+    "gtin": "05700002082534",
+    "productId": "853890",
+    "name": "Rasberry & Vanilla",
+    "description": "*Kauwgom Ras&Vanilla\n*Suikervrij\n*Plastiek vrij\n*Vegan",
+    "technicalArticleNumber": "4702565",
+    "commercialArticleNumber": "31220",
+    "LongName": "TRUE GUM Rasberry & Vanilla 21g"
+  },
+  {
+    "gtin": "05700002082503",
+    "productId": "853829",
+    "name": "Mint",
+    "description": "*Kauwgom Munt\n*Suikervrij\n*Plastiek vrij\n*Vegan",
+    "technicalArticleNumber": "4702484",
+    "commercialArticleNumber": "31216",
+    "LongName": "TRUE GUM Mint 21g"
+  },
+  {
+    "gtin": "04000512364962",
+    "productId": "785103",
+    "name": "squiggle twist sweet & sour",
+    "technicalArticleNumber": "4585180",
+    "commercialArticleNumber": "15291",
+    "LongName": "TROLLI squiggle twist sweet & sour 175g"
+  },
+  {
+    "gtin": "05412841606108",
+    "productId": "55985",
+    "name": "eucalyptus-menthol",
+    "technicalArticleNumber": "2411841",
+    "commercialArticleNumber": "18575",
+    "LongName": "FRISK eucalyptus-menthol 3st"
+  },
+  {
+    "gtin": "00000057059808",
+    "productId": "36792",
+    "name": "White Cool Mint ±60st",
+    "technicalArticleNumber": "1825073",
+    "commercialArticleNumber": "20347",
+    "LongName": "V6 WHITE White Cool Mint ±60st 87,01g"
+  },
+  {
+    "gtin": "15400141275602",
+    "productId": "332243",
+    "name": "Nicaragua melk 35%",
+    "technicalArticleNumber": "3800868",
+    "commercialArticleNumber": "13226",
+    "LongName": "BONI Nicaragua melk 35% 100g"
+  },
+  {
+    "gtin": "05411901604818",
+    "productId": "832045",
+    "name": "choco.doos om te verstoppen",
+    "technicalArticleNumber": "4672011",
+    "commercialArticleNumber": "30178",
+    "LongName": "LIBEERT choco.doos om te verstoppen 300g"
+  },
+  {
+    "gtin": "07622201140564",
+    "productId": "588647",
+    "name": "Oral-B peppermint 45st",
+    "technicalArticleNumber": "4246087",
+    "commercialArticleNumber": "20338",
+    "LongName": "STIMOROL Oral-B peppermint 45st 76,5g"
+  },
+  {
+    "gtin": "08723400798118",
+    "productId": "874218",
+    "name": "Fruity Mix",
+    "technicalArticleNumber": "4729158",
+    "commercialArticleNumber": "32070",
+    "LongName": "FRUIT-TELLA Fruity Mix 370g"
+  },
+  {
+    "gtin": "07622201689483",
+    "productId": "810577",
+    "name": "oral b wh. pepperm. 45st",
+    "technicalArticleNumber": "4635244",
+    "commercialArticleNumber": "17507",
+    "LongName": "STIMOROL oral b wh. pepperm. 45st 76,5g"
+  },
+  {
+    "gtin": "08717677338672",
+    "productId": "748728",
+    "name": "rainbow pack",
+    "technicalArticleNumber": "4518817",
+    "commercialArticleNumber": "6260",
+    "LongName": "TONY'S rainbow pack 288g"
+  },
+  {
+    "gtin": "07622201141202",
+    "productId": "588581",
+    "name": "Oral-B spearmint 45st",
+    "technicalArticleNumber": "4245865",
+    "commercialArticleNumber": "20305",
+    "LongName": "STIMOROL Oral-B spearmint 45st 76,5g"
+  },
+  {
+    "gtin": "08003440925737",
+    "productId": "881028",
+    "name": "Fruit Drops Red Fruit",
+    "technicalArticleNumber": "4738280",
+    "commercialArticleNumber": "32366",
+    "LongName": "FRUIT-TELLA Fruit Drops Red Fruit 45g"
+  },
+  {
+    "gtin": "15400141323792",
+    "productId": "492677",
+    "name": "Vanillewafels maltitol",
+    "technicalArticleNumber": "4039189",
+    "commercialArticleNumber": "5740",
+    "LongName": "BONI Vanillewafels maltitol 200g"
+  },
+  {
+    "gtin": "05410711085091",
+    "productId": "101831",
+    "name": "paasfiguren choco maltitol",
+    "description": "*Met zoetstoffen:\nmaltitol",
+    "technicalArticleNumber": "3100649",
+    "commercialArticleNumber": "7845",
+    "LongName": "MATTHE paasfiguren choco maltitol 150g"
+  },
+  {
+    "gtin": "15425019202757",
+    "productId": "862188",
+    "name": "Freezy Lolly Pops",
+    "technicalArticleNumber": "4713509",
+    "commercialArticleNumber": "31844",
+    "LongName": "ZAGAZOE! Freezy Lolly Pops 534g"
+  },
+  {
+    "gtin": "05425005480131",
+    "productId": "862808",
+    "name": "high protein wafel zoetst.",
+    "technicalArticleNumber": "4714190",
+    "commercialArticleNumber": "31888",
+    "LongName": "BISCOVIT high protein wafel zoetst. 150g"
+  },
+  {
+    "gtin": "15400141144755",
+    "productId": "461146",
+    "name": "tubo colasmaak",
+    "technicalArticleNumber": "3954295",
+    "commercialArticleNumber": "1984",
+    "LongName": "BONI tubo colasmaak 500g"
+  },
+  {
+    "gtin": "05000159532624",
+    "productId": "620802",
+    "name": "honey roast.nuts&sea salt",
+    "technicalArticleNumber": "4300008",
+    "commercialArticleNumber": "23552",
+    "LongName": "BE-KIND honey roast.nuts&sea salt 3x30g"
+  },
+  {
+    "gtin": "08719956494369",
+    "productId": "877016",
+    "name": "Lil'Bits triple chocolade",
+    "description": "*Triple chocolade",
+    "technicalArticleNumber": "4732262",
+    "commercialArticleNumber": "5332",
+    "LongName": "TONY'S Lil'Bits triple chocolade 120g"
+  },
+  {
+    "gtin": "08719956494406",
+    "productId": "1021777",
+    "name": "Melk Marshm.Bisc",
+    "technicalArticleNumber": "4790774",
+    "commercialArticleNumber": "33428",
+    "LongName": "TONY'S Melk Marshm.Bisc 120g"
+  },
+  {
+    "gtin": "00000080758976",
+    "productId": "343365",
+    "name": "Pure Fresh Blackmint 50st",
+    "technicalArticleNumber": "3833058",
+    "commercialArticleNumber": "16225",
+    "LongName": "MENTOS PURE FRESH Pure Fresh Blackmint 50st 100g"
+  },
+  {
+    "gtin": "08003440926192",
+    "productId": "896727",
+    "name": "Gum Pure Fresh Strawb. 70st",
+    "description": "*Pure Fresh Strawberry",
+    "technicalArticleNumber": "4756349",
+    "commercialArticleNumber": "13975",
+    "LongName": "MENTOS Gum Pure Fresh Strawb. 70st 140g"
+  },
+  {
+    "gtin": "08723400824947",
+    "productId": "896710",
+    "name": "Gum White &Sweet Mint 70st",
+    "description": "*White &Sweet Mint",
+    "technicalArticleNumber": "4756325",
+    "commercialArticleNumber": "13578",
+    "LongName": "MENTOS Gum White &Sweet Mint 70st 105g"
+  },
+  {
+    "gtin": "07423601627606",
+    "productId": "861091",
+    "name": "Epic Sour Mix",
+    "technicalArticleNumber": "4712087",
+    "commercialArticleNumber": "18344",
+    "LongName": "NOM NOM CANDY Epic Sour Mix 400g"
+  },
+  {
+    "gtin": "68410525116713",
+    "productId": "862514",
+    "name": "zure wormen halal",
+    "technicalArticleNumber": "4713869",
+    "commercialArticleNumber": "31875",
+    "LongName": "FINI zure wormen halal 90g"
+  },
+  {
+    "gtin": "05425005482630",
+    "productId": "14623",
+    "name": "speltwafels bio ft",
+    "description": "*Individueel verpakt",
+    "technicalArticleNumber": "1577467",
+    "commercialArticleNumber": "41493",
+    "LongName": "BISCOVIT speltwafels bio ft 150g"
+  },
+  {
+    "gtin": "05745000121045",
+    "productId": "853898",
+    "name": "Lemon",
+    "description": "*Kauwgom citroen\n*Suikervrij\n*Plastiek vrij\n*Vegan",
+    "technicalArticleNumber": "4702576",
+    "commercialArticleNumber": "31222",
+    "LongName": "TRUE GUM Lemon 21g"
+  },
+  {
+    "gtin": "05410059759937",
+    "productId": "826156",
+    "name": "matinettes melk hazelnoot",
+    "description": "*Belgische chocolade\n*Melkchocolade met\n*5% hazelnoten",
+    "technicalArticleNumber": "4663280",
+    "commercialArticleNumber": "29962",
+    "LongName": "JACQUES matinettes melk hazelnoot 224g"
+  },
+  {
+    "gtin": "05410381101473",
+    "productId": "1561",
+    "name": "Belgian Eclair",
+    "technicalArticleNumber": "20584",
+    "commercialArticleNumber": "20584",
+    "LongName": "TREFIN Belgian Eclair 450g"
+  },
+  {
+    "gtin": "08723400824930",
+    "productId": "896732",
+    "name": "Gum White Green Mint 70st",
+    "description": "*White Green Mint",
+    "technicalArticleNumber": "4756355",
+    "commercialArticleNumber": "14014",
+    "LongName": "MENTOS Gum White Green Mint 70st 105g"
+  },
+  {
+    "gtin": "04009900504805",
+    "productId": "598896",
+    "name": "tropical",
+    "technicalArticleNumber": "4263219",
+    "commercialArticleNumber": "12062",
+    "LongName": "SKITTLES tropical 174g"
+  },
+  {
+    "gtin": "05425032431410",
+    "productId": "868696",
+    "name": "Amandelen en chocolade",
+    "description": "*Met melkchocolade",
+    "technicalArticleNumber": "4721971",
+    "commercialArticleNumber": "16716",
+    "LongName": "SWEET SWITCH Amandelen en chocolade 100g"
+  },
+  {
+    "gtin": "05000168210285",
+    "productId": "855770",
+    "name": "Goldmark assortiment choco.",
+    "description": "*Assortiment gevulde\nchocolade",
+    "technicalArticleNumber": "4704894",
+    "commercialArticleNumber": "31346",
+    "LongName": "GODIVA Goldmark assortiment choco. 215g"
+  },
+  {
+    "gtin": "03116740037361",
+    "productId": "784900",
+    "name": "pokemon fizz",
+    "technicalArticleNumber": "4584930",
+    "commercialArticleNumber": "13156",
+    "LongName": "LUTTI pokemon fizz 180g"
+  },
+  {
+    "gtin": "05010477364739",
+    "productId": "1021289",
+    "name": "Ultimate Berry",
+    "description": "*Ultimate berry",
+    "technicalArticleNumber": "4790148",
+    "commercialArticleNumber": "26228",
+    "LongName": "JORDANS Ultimate Berry 325g"
+  },
+  {
+    "gtin": "08003440925751",
+    "productId": "871161",
+    "name": "Fruit Drops Citrus Mix",
+    "technicalArticleNumber": "4725202",
+    "commercialArticleNumber": "8430",
+    "LongName": "FRUIT-TELLA Fruit Drops Citrus Mix 45g"
+  },
+  {
+    "gtin": "09044400841246",
+    "productId": "61830",
+    "name": "dispenser fruit assortiment",
+    "technicalArticleNumber": "2776234",
+    "commercialArticleNumber": "17072",
+    "LongName": "PEZ dispenser fruit assortiment 4st"
+  },
+  {
+    "gtin": "08003440926161",
+    "productId": "1045283",
+    "name": "Fresh Mint",
+    "technicalArticleNumber": "4798091",
+    "commercialArticleNumber": "4462",
+    "LongName": "MENTOS PURE FRESH Fresh Mint 70st"
+  },
+  {
+    "gtin": "05411128375010",
+    "productId": "80918",
+    "name": "Specul. Choc.Chips bio ft",
+    "technicalArticleNumber": "2889188",
+    "commercialArticleNumber": "4163",
+    "LongName": "VERMEIREN Specul. Choc.Chips bio ft 125g"
+  },
+  {
+    "gtin": "05010477364715",
+    "productId": "1021290",
+    "name": "Ultimate Honey",
+    "description": "*Ultimate honey",
+    "technicalArticleNumber": "4790149",
+    "commercialArticleNumber": "26513",
+    "LongName": "JORDANS Ultimate Honey 325g"
+  },
+  {
+    "gtin": "08723400779766",
+    "productId": "319963",
+    "name": "munt",
+    "description": "Zakjes van 295 g gommen met suiker\nop basis van munt.",
+    "technicalArticleNumber": "3687825",
+    "commercialArticleNumber": "14630",
+    "LongName": "MENTOS munt 300g"
+  },
+  {
+    "gtin": "05410346102248",
+    "productId": "134648",
+    "name": "snoep in emmer",
+    "technicalArticleNumber": "3165091",
+    "commercialArticleNumber": "37606",
+    "LongName": "KATHY snoep in emmer 1kg"
+  },
+  {
+    "gtin": "05400141335521",
+    "productId": "52822",
+    "name": "gevulde koeken vanille",
+    "technicalArticleNumber": "2394830",
+    "commercialArticleNumber": "9706",
+    "LongName": "EVERYDAY gevulde koeken vanille 500g"
+  }
+]

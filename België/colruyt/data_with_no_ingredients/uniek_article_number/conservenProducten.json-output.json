@@ -1,0 +1,4653 @@
+[
+  {
+    "gtin": "00000025128727",
+    "productId": "821",
+    "name": "tomatenpuree dubbel geconcentr",
+    "description": "*Dubbel\ngeconcentreerde\ntomatenpuree\n*28-30 %\ngeconcentreerd",
+    "technicalArticleNumber": "12872",
+    "commercialArticleNumber": "12872",
+    "LongName": "BONI tomatenpuree dubbel geconcentr 70g"
+  },
+  {
+    "gtin": "05400141128017",
+    "productId": "705",
+    "name": "passata gezeefde tomaten brik",
+    "description": "*Gezeefde tomaten",
+    "technicalArticleNumber": "12801",
+    "commercialArticleNumber": "12801",
+    "LongName": "BONI passata gezeefde tomaten brik 500g"
+  },
+  {
+    "gtin": "05400141174861",
+    "productId": "14214",
+    "name": "tomatenstukjes",
+    "description": "*Tomatenstukjes",
+    "technicalArticleNumber": "1606106",
+    "commercialArticleNumber": "12837",
+    "LongName": "EVERYDAY tomatenstukjes 400g"
+  },
+  {
+    "gtin": "05400141412260",
+    "productId": "606754",
+    "name": "tonijn in eigen nat MSC",
+    "technicalArticleNumber": "4277111",
+    "commercialArticleNumber": "23133",
+    "LongName": "BONI tonijn in eigen nat MSC 200g"
+  },
+  {
+    "gtin": "05400141073904",
+    "productId": "815",
+    "name": "passata gezeefde tom. brik",
+    "description": "*Gezeefde tomaten",
+    "technicalArticleNumber": "12804",
+    "commercialArticleNumber": "12804",
+    "LongName": "EVERYDAY passata gezeefde tom. brik 500g"
+  },
+  {
+    "gtin": "25400141461323",
+    "productId": "454859",
+    "name": "hummus klassiek",
+    "description": "*O.b.v. kikkererwten",
+    "technicalArticleNumber": "4024313",
+    "commercialArticleNumber": "5301",
+    "LongName": "BONI hummus klassiek 200g"
+  },
+  {
+    "gtin": "05400141166712",
+    "productId": "15885",
+    "name": "tomatenpuree dubbel gecon.",
+    "description": "*Dubbel\ngeconcentreerde\ntomatenpuree",
+    "technicalArticleNumber": "1461097",
+    "commercialArticleNumber": "12835",
+    "LongName": "EVERYDAY tomatenpuree dubbel gecon. 140g"
+  },
+  {
+    "gtin": "05400141209976",
+    "productId": "16028",
+    "name": "tonijn in eigen nat",
+    "description": "*Tonijn in eigen nat",
+    "technicalArticleNumber": "1459658",
+    "commercialArticleNumber": "10950",
+    "LongName": "EVERYDAY tonijn in eigen nat 200g"
+  },
+  {
+    "gtin": "05400141083002",
+    "productId": "18382",
+    "name": "zoete maïs blik",
+    "description": "*Zoete maïskorrels\n*Variëteit:\nSupersweet, extra\nzoet",
+    "technicalArticleNumber": "1712980",
+    "commercialArticleNumber": "11501",
+    "LongName": "BONI zoete maïs blik 150g"
+  },
+  {
+    "gtin": "15400141247692",
+    "productId": "818",
+    "name": "tomatenstukjes",
+    "description": "*Tomatenstukjes in\ngeconcentreerd\ntomatensap",
+    "technicalArticleNumber": "12830",
+    "commercialArticleNumber": "12830",
+    "LongName": "BONI tomatenstukjes 400g"
+  },
+  {
+    "gtin": "08712100348679",
+    "productId": "85356",
+    "name": "TV worstjes natuur",
+    "description": "*Worst in blik\n*Klaar voor gebruik\n*Snelle snack\n*Perfect als apero\n*Kwaliteitsvlees",
+    "technicalArticleNumber": "2931290",
+    "commercialArticleNumber": "35566",
+    "LongName": "ZWAN TV worstjes natuur 230g"
+  },
+  {
+    "gtin": "25400141995002",
+    "productId": "722556",
+    "name": "zoete maïs",
+    "description": "*Zoete maïskorrels\n*Met toegevoegde\nsuiker",
+    "technicalArticleNumber": "4474028",
+    "commercialArticleNumber": "27609",
+    "LongName": "EVERYDAY zoete maïs 330g"
+  },
+  {
+    "gtin": "05400141471403",
+    "productId": "669144",
+    "name": "appelmousseline bokaal",
+    "description": "*Appelmousseline",
+    "technicalArticleNumber": "4380614",
+    "commercialArticleNumber": "24327",
+    "LongName": "EVERYDAY appelmousseline bokaal 710g"
+  },
+  {
+    "gtin": "05400141193855",
+    "productId": "819",
+    "name": "tomatenstukjes met basilicum",
+    "description": "*Tomatenstukjes in\ngeconcentreerd\ntomatensap met\nbasilicum",
+    "technicalArticleNumber": "12831",
+    "commercialArticleNumber": "12831",
+    "LongName": "BONI tomatenstukjes met basilicum 400g"
+  },
+  {
+    "gtin": "15400141910558",
+    "productId": "93105",
+    "name": "passata basilic glas",
+    "description": "*Traditionele\nItaliaanse passata\nmet basilicum",
+    "technicalArticleNumber": "2917483",
+    "commercialArticleNumber": "35453",
+    "LongName": "BONI passata basilic glas 690g"
+  },
+  {
+    "gtin": "15400141159827",
+    "productId": "721",
+    "name": "rode bonen blik",
+    "description": "*Rode kidneybonen",
+    "technicalArticleNumber": "11016",
+    "commercialArticleNumber": "11016",
+    "LongName": "BONI rode bonen blik 400g"
+  },
+  {
+    "gtin": "15400141312147",
+    "productId": "10308",
+    "name": "passata glas",
+    "description": "*Biologische\ngezeefde tomaten",
+    "technicalArticleNumber": "1128168",
+    "commercialArticleNumber": "12809",
+    "LongName": "BONI BIO passata glas 700g"
+  },
+  {
+    "gtin": "05400141950793",
+    "productId": "798",
+    "name": "augurken zoetzuur",
+    "description": "Zoetzure augurken. Lekker bij het\naperitief, bij een koude schotel, met\naméricain préparé enz.",
+    "technicalArticleNumber": "13459",
+    "commercialArticleNumber": "13459",
+    "LongName": "EVERYDAY augurken zoetzuur 670g"
+  },
+  {
+    "gtin": "15400141216476",
+    "productId": "751",
+    "name": "Parijse champ.gesn. blik",
+    "description": "*Gesneden Parijse\nchampignons",
+    "technicalArticleNumber": "11661",
+    "commercialArticleNumber": "11661",
+    "LongName": "EVERYDAY Parijse champ.gesn. blik 290g"
+  },
+  {
+    "gtin": "08410066138753",
+    "productId": "847734",
+    "name": "Tomato Frito",
+    "technicalArticleNumber": "4694483",
+    "commercialArticleNumber": "21816",
+    "LongName": "HEINZ Tomato Frito 520g"
+  },
+  {
+    "gtin": "15400141286981",
+    "productId": "519770",
+    "name": "Weense worsten 6st",
+    "technicalArticleNumber": "4103064",
+    "commercialArticleNumber": "7945",
+    "LongName": "EVERYDAY Weense worsten 6st 400g"
+  },
+  {
+    "gtin": "05400141306859",
+    "productId": "555160",
+    "name": "kikkererwten",
+    "description": "*Kikkererwten",
+    "technicalArticleNumber": "4188887",
+    "commercialArticleNumber": "14476",
+    "LongName": "BONI kikkererwten 200g"
+  },
+  {
+    "gtin": "05400141471397",
+    "productId": "676305",
+    "name": "appelcompote stukjes",
+    "description": "*Appelmoes met\nstukjes appel",
+    "technicalArticleNumber": "4392700",
+    "commercialArticleNumber": "16536",
+    "LongName": "EVERYDAY appelcompote stukjes 710g"
+  },
+  {
+    "gtin": "15400141827764",
+    "productId": "227945",
+    "name": "augurken in azijn",
+    "technicalArticleNumber": "3551805",
+    "commercialArticleNumber": "50853",
+    "LongName": "BONI augurken in azijn 330g"
+  },
+  {
+    "gtin": "05400141303537",
+    "productId": "41666",
+    "name": "doperwten wortelen fijn",
+    "description": "*Mengeling van extra\nfijne doperwten en\njonge wortelen",
+    "technicalArticleNumber": "2424867",
+    "commercialArticleNumber": "9157",
+    "LongName": "EVERYDAY doperwten wortelen fijn 800g"
+  },
+  {
+    "gtin": "05400141851809",
+    "productId": "95943",
+    "name": "Pomini appel- & aardbeienmoes",
+    "description": "*Fruitspecialiteit:\nappel, aardbei",
+    "technicalArticleNumber": "2810687",
+    "commercialArticleNumber": "46104",
+    "LongName": "BONI Pomini appel- & aardbeienmoes 4x90g"
+  },
+  {
+    "gtin": "15400141516033",
+    "productId": "59862",
+    "name": "passata rustica glas",
+    "description": "*Tomatenpuree",
+    "technicalArticleNumber": "2413811",
+    "commercialArticleNumber": "36728",
+    "LongName": "BONI passata rustica glas 690g"
+  },
+  {
+    "gtin": "05400141099713",
+    "productId": "2609",
+    "name": "olijven zwart ontpit",
+    "description": "Zwarte ontpitte olijven. Lekker bij\nhet aperitief of als garnituur.",
+    "technicalArticleNumber": "1101211",
+    "commercialArticleNumber": "13099",
+    "LongName": "BONI olijven zwart ontpit 400g"
+  },
+  {
+    "gtin": "15400141352952",
+    "productId": "2368",
+    "name": "olijven groen ontpit",
+    "description": "Groene ontpitte olijven. Lekker bij\nhet aperitief of als garnituur.",
+    "technicalArticleNumber": "1099775",
+    "commercialArticleNumber": "13095",
+    "LongName": "BONI olijven groen ontpit 335g"
+  },
+  {
+    "gtin": "05400141490442",
+    "productId": "452740",
+    "name": "groene olijven met kaas",
+    "description": "*Zie verpakking",
+    "technicalArticleNumber": "4030404",
+    "commercialArticleNumber": "5573",
+    "LongName": "EVERYDAY groene olijven met kaas 200g"
+  },
+  {
+    "gtin": "05400141019711",
+    "productId": "817",
+    "name": "tomaten gepeld",
+    "description": "*Gepelde tomaten\nin tomatensap",
+    "technicalArticleNumber": "12817",
+    "commercialArticleNumber": "12817",
+    "LongName": "EVERYDAY tomaten gepeld 400g"
+  },
+  {
+    "gtin": "05400141207477",
+    "productId": "663",
+    "name": "ananasschijf op sap",
+    "description": "*4 ananasschijven op\nsap",
+    "technicalArticleNumber": "10029",
+    "commercialArticleNumber": "10029",
+    "LongName": "BONI ananasschijf op sap 227g"
+  },
+  {
+    "gtin": "15400141974383",
+    "productId": "949",
+    "name": "groene olijven kaasblokjes",
+    "description": "*Groen\n*Ontpit\n*Griekenland\n*Met kaasblokjes",
+    "technicalArticleNumber": "28894",
+    "commercialArticleNumber": "28894",
+    "LongName": "BONI groene olijven kaasblokjes 150g"
+  },
+  {
+    "gtin": "15400141910473",
+    "productId": "36800",
+    "name": "halve perzik siroop blik",
+    "description": "*Halve perziken op\nlichte siroop",
+    "technicalArticleNumber": "1825760",
+    "commercialArticleNumber": "10270",
+    "LongName": "EVERYDAY halve perzik siroop blik 820g"
+  },
+  {
+    "gtin": "05400141088922",
+    "productId": "947",
+    "name": "groene olijven met look",
+    "description": "*Groen\n*Ontpit\n*Griekenland\n*Met look",
+    "technicalArticleNumber": "28892",
+    "commercialArticleNumber": "28892",
+    "LongName": "BONI groene olijven met look 150g"
+  },
+  {
+    "gtin": "08001240021147",
+    "productId": "475436",
+    "name": "tomatenpuree dubbel geconc.",
+    "description": "* Dubbel geconcentreerde tomatenpuree",
+    "technicalArticleNumber": "4063436",
+    "commercialArticleNumber": "7071",
+    "LongName": "ELVEA tomatenpuree dubbel geconc. 4x70g"
+  },
+  {
+    "gtin": "18001240044747",
+    "productId": "11562",
+    "name": "tomaten blokjes gepeld",
+    "description": "*Blokjes gesneden\nuit gepelde tomaten",
+    "technicalArticleNumber": "1388534",
+    "commercialArticleNumber": "12928",
+    "LongName": "ELVEA tomaten blokjes gepeld 800g"
+  },
+  {
+    "gtin": "05400141352481",
+    "productId": "291562",
+    "name": "olijven mix Grieks",
+    "technicalArticleNumber": "3689959",
+    "commercialArticleNumber": "34023",
+    "LongName": "BONI olijven mix Grieks 150g"
+  },
+  {
+    "gtin": "05400141034516",
+    "productId": "804",
+    "name": "kappertjes azijn",
+    "description": "Kappertjes op azijn. Lekker bij filet\namericain, in sausen, op belegde\nbroodjes, bij visgerechten of op\npizza.",
+    "technicalArticleNumber": "13487",
+    "commercialArticleNumber": "13487",
+    "LongName": "BONI kappertjes azijn 100g"
+  },
+  {
+    "gtin": "05400141573398",
+    "productId": "119123",
+    "name": "Frankfurterworsten bok",
+    "description": "*5\nfrankfurterworsten",
+    "technicalArticleNumber": "3012530",
+    "commercialArticleNumber": "14143",
+    "LongName": "EVERYDAY Frankfurterworsten bok 380g"
+  },
+  {
+    "gtin": "05400141354478",
+    "productId": "200643",
+    "name": "guacamole mild",
+    "description": "*Guacamole op basis\nvan Mexicaanse Hass\navocado's, met\ntomaat, paprika, ui\nen milde kruiding",
+    "technicalArticleNumber": "3422731",
+    "commercialArticleNumber": "30377",
+    "LongName": "BONI guacamole mild 200g"
+  },
+  {
+    "gtin": "00000025119619",
+    "productId": "2480",
+    "name": "witte bonen tomatensaus",
+    "description": "*Witte bonen in\ntomatensaus",
+    "technicalArticleNumber": "1099899",
+    "commercialArticleNumber": "11961",
+    "LongName": "HAK witte bonen tomatensaus 360g"
+  },
+  {
+    "gtin": "05400141114171",
+    "productId": "3126",
+    "name": "schorseneren",
+    "description": "*Schorseneren",
+    "technicalArticleNumber": "1044401",
+    "commercialArticleNumber": "11417",
+    "LongName": "EVERYDAY schorseneren 540g"
+  },
+  {
+    "gtin": "15400141566717",
+    "productId": "3841",
+    "name": "cocktailworstjes",
+    "description": "*12 cocktailworstjes\n*Met 58 %\nkippenseparatorvlees\nen 8 % varkensvlees",
+    "technicalArticleNumber": "1004650",
+    "commercialArticleNumber": "9017",
+    "LongName": "EVERYDAY cocktailworstjes 200g"
+  },
+  {
+    "gtin": "05400141387780",
+    "productId": "91030",
+    "name": "vol-au-vent bokaal",
+    "description": "*Vol-au-vent\n*Aantal porties: 2\n*Opwarmen in de pan,\nin de microgolfoven",
+    "technicalArticleNumber": "2840107",
+    "commercialArticleNumber": "33256",
+    "LongName": "EVERYDAY vol-au-vent bokaal 800g"
+  },
+  {
+    "gtin": "05400141210767",
+    "productId": "18792",
+    "name": "soepparels",
+    "description": "*Soepparels",
+    "technicalArticleNumber": "1771704",
+    "commercialArticleNumber": "19299",
+    "LongName": "BONI soepparels 200g"
+  },
+  {
+    "gtin": "05400141296518",
+    "productId": "714",
+    "name": "noordkrieken ontpit siroop",
+    "description": "*Ontpitte\nnoordkrieken op\nlichte siroop",
+    "technicalArticleNumber": "10652",
+    "commercialArticleNumber": "10652",
+    "LongName": "BONI noordkrieken ontpit siroop 700g"
+  },
+  {
+    "gtin": "15400141979258",
+    "productId": "113215",
+    "name": "gevulde kerspaprika",
+    "description": "*Kerspaprika gevuld\nmet roomkaas",
+    "technicalArticleNumber": "3002190",
+    "commercialArticleNumber": "8446",
+    "LongName": "BONI gevulde kerspaprika 150g"
+  },
+  {
+    "gtin": "05400141096354",
+    "productId": "716",
+    "name": "zoete maïs blik",
+    "description": "*Zoete maïskorrels\n*Variëteit:\nSupersweet, extra\nzoet",
+    "technicalArticleNumber": "11003",
+    "commercialArticleNumber": "11003",
+    "LongName": "BONI zoete maïs blik 330g"
+  },
+  {
+    "gtin": "15400141387633",
+    "productId": "595075",
+    "name": "makreelfilets tomatensaus",
+    "technicalArticleNumber": "4256348",
+    "commercialArticleNumber": "22135",
+    "LongName": "EVERYDAY makreelfilets tomatensaus 125g"
+  },
+  {
+    "gtin": "05400141298628",
+    "productId": "802",
+    "name": "augurkenschijfjes zoetzuur",
+    "description": "Zoetzure augurken in schijfjes. Lekker\nbij het aperitief, bij een koude\nschotel, met filet américain enz.",
+    "technicalArticleNumber": "13464",
+    "commercialArticleNumber": "13464",
+    "LongName": "BONI augurkenschijfjes zoetzuur 670g"
+  },
+  {
+    "gtin": "05400141022681",
+    "productId": "131856",
+    "name": "tomatensoep met balletjes",
+    "description": "*Met tomaat,\n3,5% kippenballetjes\n*In de kookpot",
+    "technicalArticleNumber": "3188075",
+    "commercialArticleNumber": "26316",
+    "LongName": "BONI tomatensoep met balletjes 950ml"
+  },
+  {
+    "gtin": "18001240101617",
+    "productId": "195029",
+    "name": "Pizza a Casa tomatensaus brik",
+    "technicalArticleNumber": "3439968",
+    "commercialArticleNumber": "50159",
+    "LongName": "ELVEA Pizza a Casa tomatensaus brik 250g"
+  },
+  {
+    "gtin": "15400141357537",
+    "productId": "179589",
+    "name": "augurkenschijfjes zoetzuur",
+    "technicalArticleNumber": "3352453",
+    "commercialArticleNumber": "4615",
+    "LongName": "BONI augurkenschijfjes zoetzuur 530g"
+  },
+  {
+    "gtin": "05400141700350",
+    "productId": "131865",
+    "name": "kippensoep",
+    "description": "*3,5 % kippenvlees\n*In de kookpot",
+    "technicalArticleNumber": "3188100",
+    "commercialArticleNumber": "26397",
+    "LongName": "BONI kippensoep 950ml"
+  },
+  {
+    "gtin": "15400141528357",
+    "productId": "595073",
+    "name": "makreelfilets koolzaadolie",
+    "technicalArticleNumber": "4256346",
+    "commercialArticleNumber": "22132",
+    "LongName": "EVERYDAY makreelfilets koolzaadolie 125g"
+  },
+  {
+    "gtin": "05400141472967",
+    "productId": "674061",
+    "name": "appelmousseline",
+    "description": "*Appelmousseline",
+    "technicalArticleNumber": "4387927",
+    "commercialArticleNumber": "4577",
+    "LongName": "BONI appelmousseline 570g"
+  },
+  {
+    "gtin": "05400141278705",
+    "productId": "4086",
+    "name": "prinsessenbonen extra fijn",
+    "description": "*Extra fijne groene\nbonen",
+    "technicalArticleNumber": "1007119",
+    "commercialArticleNumber": "11861",
+    "LongName": "BONI prinsessenbonen extra fijn 340g"
+  },
+  {
+    "gtin": "18001240061911",
+    "productId": "11561",
+    "name": "passata gezeefde tomaten brik",
+    "description": "*Gezeefde tomaten",
+    "technicalArticleNumber": "1388530",
+    "commercialArticleNumber": "12925",
+    "LongName": "ELVEA passata gezeefde tomaten brik 500g"
+  },
+  {
+    "gtin": "15400141984627",
+    "productId": "10220",
+    "name": "rode kool met appelen",
+    "description": "*Rodekool met\nappelen",
+    "technicalArticleNumber": "1148065",
+    "commercialArticleNumber": "11418",
+    "LongName": "EVERYDAY rode kool met appelen 560g"
+  },
+  {
+    "gtin": "05400141282320",
+    "productId": "184839",
+    "name": "appelmousseline bok",
+    "description": "*Appelmousseline",
+    "technicalArticleNumber": "3466862",
+    "commercialArticleNumber": "50370",
+    "LongName": "BONI appelmousseline bok 200g"
+  },
+  {
+    "gtin": "05400141466829",
+    "productId": "731188",
+    "name": "olijven natuur",
+    "description": "*Groene olijf ontpit",
+    "technicalArticleNumber": "4488657",
+    "commercialArticleNumber": "8170",
+    "LongName": "BONI olijven natuur 150g"
+  },
+  {
+    "gtin": "15400141335696",
+    "productId": "86328",
+    "name": "sardines olie",
+    "description": "*Sardines in\nplantaardige olie",
+    "technicalArticleNumber": "3024218",
+    "commercialArticleNumber": "18555",
+    "LongName": "EVERYDAY sardines olie 125g"
+  },
+  {
+    "gtin": "15400141894452",
+    "productId": "10635",
+    "name": "tomatenstukjes",
+    "description": "*Tomatenstukjes van\nbiologische teelt",
+    "technicalArticleNumber": "1378102",
+    "commercialArticleNumber": "12814",
+    "LongName": "BONI BIO tomatenstukjes 500g"
+  },
+  {
+    "gtin": "05400141101287",
+    "productId": "662",
+    "name": "ananas op sap stukjes blik",
+    "description": "*Ananasstukjes op\nsap",
+    "technicalArticleNumber": "10028",
+    "commercialArticleNumber": "10028",
+    "LongName": "BONI ananas op sap stukjes blik 227g"
+  },
+  {
+    "gtin": "05400141677584",
+    "productId": "95316",
+    "name": "Pomini appel- en bananenmoes",
+    "description": "*Fruitspecialiteit:\nappel, banaan",
+    "technicalArticleNumber": "2810368",
+    "commercialArticleNumber": "46105",
+    "LongName": "BONI Pomini appel- en bananenmoes 4x90g"
+  },
+  {
+    "gtin": "05400141516166",
+    "productId": "806732",
+    "name": "Tomato Frito",
+    "technicalArticleNumber": "4627225",
+    "commercialArticleNumber": "6861",
+    "LongName": "BONI Tomato Frito 350g"
+  },
+  {
+    "gtin": "03069539001701",
+    "productId": "19454",
+    "name": "tomatenpuree dubbel gecon.",
+    "description": "*Dubbel\ngeconcentreerde\ntomatenpuree",
+    "technicalArticleNumber": "1642891",
+    "commercialArticleNumber": "12900",
+    "LongName": "CIRIO tomatenpuree dubbel gecon. 4x70g"
+  },
+  {
+    "gtin": "05411251104891",
+    "productId": "11563",
+    "name": "Pelati hele gepelde tomaten",
+    "description": "*Hele gepelde\ntomaten",
+    "technicalArticleNumber": "1388536",
+    "commercialArticleNumber": "12930",
+    "LongName": "ELVEA Pelati hele gepelde tomaten 400g"
+  },
+  {
+    "gtin": "15400141512271",
+    "productId": "876005",
+    "name": "augurken in azijn extra fijn",
+    "description": "*Extra fijne augurken\nop azijn met\neen kruidenmengeling",
+    "technicalArticleNumber": "4730936",
+    "commercialArticleNumber": "32251",
+    "LongName": "BONI augurken in azijn extra fijn 670g"
+  },
+  {
+    "gtin": "05400141126020",
+    "productId": "11642",
+    "name": "Crunchy tomaten-suprême",
+    "description": "*Tomatensuprême met\ncroutons",
+    "technicalArticleNumber": "1375141",
+    "commercialArticleNumber": "12602",
+    "LongName": "ROYCO Crunchy tomaten-suprême 3st"
+  },
+  {
+    "gtin": "15400141870555",
+    "productId": "643543",
+    "name": "ananas schijven sap blik",
+    "description": "*Op sap",
+    "technicalArticleNumber": "4338280",
+    "commercialArticleNumber": "23875",
+    "LongName": "EVERYDAY ananas schijven sap blik 567g"
+  },
+  {
+    "gtin": "05400141721478",
+    "productId": "857852",
+    "name": "Ananasstukjes",
+    "technicalArticleNumber": "4708021",
+    "commercialArticleNumber": "31597",
+    "LongName": "BONI Ananasstukjes 230g"
+  },
+  {
+    "gtin": "15400141516019",
+    "productId": "816",
+    "name": "tomatenstukjes groenten glas",
+    "description": "*Stukjes tomaat in\neen tomatensaus met\ndiverse groenten",
+    "technicalArticleNumber": "12807",
+    "commercialArticleNumber": "12807",
+    "LongName": "BONI tomatenstukjes groenten glas 690g"
+  },
+  {
+    "gtin": "05410056794344",
+    "productId": "11644",
+    "name": "soep kip",
+    "description": "*Klassieke\nkippensoep",
+    "technicalArticleNumber": "1375143",
+    "commercialArticleNumber": "12605",
+    "LongName": "ROYCO soep kip 4st"
+  },
+  {
+    "gtin": "05400141608380",
+    "productId": "766054",
+    "name": "hummus",
+    "technicalArticleNumber": "4549070",
+    "commercialArticleNumber": "12381",
+    "LongName": "BONI hummus 450g"
+  },
+  {
+    "gtin": "08005110170201",
+    "productId": "564229",
+    "name": "tomatenpulp",
+    "technicalArticleNumber": "4204623",
+    "commercialArticleNumber": "15916",
+    "LongName": "MUTTI tomatenpulp 400g"
+  },
+  {
+    "gtin": "05410046804121",
+    "productId": "154112",
+    "name": "appelmousseline bok",
+    "description": "*Appelmousseline",
+    "technicalArticleNumber": "3291439",
+    "commercialArticleNumber": "44722",
+    "LongName": "MATERNE appelmousseline bok 375g"
+  },
+  {
+    "gtin": "05410046070052",
+    "productId": "1103",
+    "name": "appelmousseline bok",
+    "description": "*Appelcompote zonder\nstukjes",
+    "technicalArticleNumber": "16498",
+    "commercialArticleNumber": "16498",
+    "LongName": "MATERNE appelmousseline bok 600g"
+  },
+  {
+    "gtin": "05400141488067",
+    "productId": "447234",
+    "name": "groene olijven knoflook",
+    "description": "*Zie verpakking",
+    "technicalArticleNumber": "4030482",
+    "commercialArticleNumber": "5583",
+    "LongName": "EVERYDAY groene olijven knoflook 200g"
+  },
+  {
+    "gtin": "35400141415941",
+    "productId": "190150",
+    "name": "cocktailworstjes",
+    "description": "*14 cocktailworstjes\n*Met 70% vlees (kip\nen varken)",
+    "technicalArticleNumber": "3460576",
+    "commercialArticleNumber": "50317",
+    "LongName": "BONI cocktailworstjes 200g"
+  },
+  {
+    "gtin": "03075360005658",
+    "productId": "45051",
+    "name": "nature",
+    "description": "*Croutons, natuur",
+    "technicalArticleNumber": "2520090",
+    "commercialArticleNumber": "39708",
+    "LongName": "FLODOR CROÛTONS D'OR nature 75g"
+  },
+  {
+    "gtin": "15400141334637",
+    "productId": "801",
+    "name": "zilveruitjes in azijn",
+    "description": "Zilveruitjes op azijn. Lekker bij het\naperitief, in vleesgerechten en\nstoofschotels, salades, met américain\npréparé enz.",
+    "technicalArticleNumber": "13463",
+    "commercialArticleNumber": "13463",
+    "LongName": "EVERYDAY zilveruitjes in azijn 320g"
+  },
+  {
+    "gtin": "15400141191551",
+    "productId": "659",
+    "name": "tonijn groenten-tom.saus",
+    "description": "*Tonijn met uien en\nerwten in\ntomatensaus",
+    "technicalArticleNumber": "9836",
+    "commercialArticleNumber": "9836",
+    "LongName": "EVERYDAY tonijn groenten-tom.saus 185g"
+  },
+  {
+    "gtin": "05400141166590",
+    "productId": "730",
+    "name": "prinsessenbonen gebr. blik",
+    "description": "*Fijne gebroken\nprinsessenbonen",
+    "technicalArticleNumber": "11286",
+    "commercialArticleNumber": "11286",
+    "LongName": "EVERYDAY prinsessenbonen gebr. blik 800g"
+  },
+  {
+    "gtin": "08720600622458",
+    "productId": "11567",
+    "name": "rode kool met stukjes appel",
+    "description": "*Rodekool met\nstukjes appel",
+    "technicalArticleNumber": "1388570",
+    "commercialArticleNumber": "11986",
+    "LongName": "HAK rode kool met stukjes appel 355g"
+  },
+  {
+    "gtin": "05400141705898",
+    "productId": "472878",
+    "name": "zwarte olijven ontpit",
+    "description": "*Ontpit zwarte\ngeoxideerde olijven\n*Oorsprong: Griekenland",
+    "technicalArticleNumber": "4073699",
+    "commercialArticleNumber": "7285",
+    "LongName": "BONI zwarte olijven ontpit 150g"
+  },
+  {
+    "gtin": "15400141991649",
+    "productId": "667841",
+    "name": "halfgedroogde tomaten",
+    "description": "*Halfgedroogde\ntomaten,\nkruiden gemarineerd",
+    "technicalArticleNumber": "4378176",
+    "commercialArticleNumber": "14258",
+    "LongName": "BONI halfgedroogde tomaten 150g"
+  },
+  {
+    "gtin": "15400141962779",
+    "productId": "355631",
+    "name": "tonijn olijfolie MSC",
+    "description": "*met label MSC",
+    "technicalArticleNumber": "3867377",
+    "commercialArticleNumber": "13469",
+    "LongName": "BONI tonijn olijfolie MSC 190g"
+  },
+  {
+    "gtin": "05410018791855",
+    "productId": "9997",
+    "name": "erwt wortelen extra fijn",
+    "description": "*Extra fijne\ndoperwtjes",
+    "technicalArticleNumber": "1370270",
+    "commercialArticleNumber": "11943",
+    "LongName": "HAK erwt wortelen extra fijn 680g"
+  },
+  {
+    "gtin": "25400141867538",
+    "productId": "16029",
+    "name": "tonijn zonnebloemolie",
+    "description": "*Tonijn in olie",
+    "technicalArticleNumber": "1459668",
+    "commercialArticleNumber": "10955",
+    "LongName": "EVERYDAY tonijn zonnebloemolie 200g"
+  },
+  {
+    "gtin": "05400141352986",
+    "productId": "795",
+    "name": "augurken zoetzuur",
+    "description": "Augurken zoetzuur met natuurazijn en\nkruidenmengsel.",
+    "technicalArticleNumber": "13453",
+    "commercialArticleNumber": "13453",
+    "LongName": "BONI augurken zoetzuur 1,550kg"
+  },
+  {
+    "gtin": "05400141740714",
+    "productId": "664439",
+    "name": "hummus pikant",
+    "description": "*kikkererwten,\nsesampasta,\nchilipeper",
+    "technicalArticleNumber": "4372451",
+    "commercialArticleNumber": "19804",
+    "LongName": "BONI hummus pikant 200g"
+  },
+  {
+    "gtin": "05400141492798",
+    "productId": "11743",
+    "name": "groene olijven zonder pit",
+    "description": "*Groen\n*Ontpit\n*Griekenland",
+    "technicalArticleNumber": "1358366",
+    "commercialArticleNumber": "28925",
+    "LongName": "BONI BIO groene olijven zonder pit 150g"
+  },
+  {
+    "gtin": "05410056187337",
+    "productId": "11641",
+    "name": "Crunchy asperge",
+    "description": "*Aspergesoep met\ncroutons",
+    "technicalArticleNumber": "1375139",
+    "commercialArticleNumber": "12600",
+    "LongName": "ROYCO Crunchy asperge 3st"
+  },
+  {
+    "gtin": "15400141808596",
+    "productId": "463458",
+    "name": "witte bonen tomatensaus",
+    "description": "*Witte bonen in\ntomatensaus",
+    "technicalArticleNumber": "3957449",
+    "commercialArticleNumber": "2260",
+    "LongName": "BONI BIO witte bonen tomatensaus 360g"
+  },
+  {
+    "gtin": "05414972100258",
+    "productId": "178667",
+    "name": "soep pompoen suprême Crunchy",
+    "technicalArticleNumber": "3356990",
+    "commercialArticleNumber": "7112",
+    "LongName": "ROYCO soep pompoen suprême Crunchy 3st"
+  },
+  {
+    "gtin": "00000025092899",
+    "productId": "3409",
+    "name": "ravioli tomatensaus blik",
+    "description": "*Gevogelte ravioli\nin tomatensaus\n*Aantal porties: 2\n*Opwarmen in de pan,\nin de microgolfoven",
+    "technicalArticleNumber": "1097579",
+    "commercialArticleNumber": "9289",
+    "LongName": "EVERYDAY ravioli tomatensaus blik 800g"
+  },
+  {
+    "gtin": "05400141705911",
+    "productId": "189113",
+    "name": "groene olijven basilicum",
+    "description": "*Groene\n*Met basilicum\n*Ontpit\n*Griekenland",
+    "technicalArticleNumber": "3447107",
+    "commercialArticleNumber": "28912",
+    "LongName": "BONI groene olijven basilicum 150g"
+  },
+  {
+    "gtin": "05400141800210",
+    "productId": "851678",
+    "name": "kikkererwten",
+    "technicalArticleNumber": "4699817",
+    "commercialArticleNumber": "30987",
+    "LongName": "BONI BIO kikkererwten 330g"
+  },
+  {
+    "gtin": "15400141228103",
+    "productId": "10886",
+    "name": "Italiaanse garnituur",
+    "description": "*Tomatenbereiding\nmet kruiden",
+    "technicalArticleNumber": "1399471",
+    "commercialArticleNumber": "12825",
+    "LongName": "BONI Italiaanse garnituur 400g"
+  },
+  {
+    "gtin": "08710447785553",
+    "productId": "175773",
+    "name": "Weense worstjes",
+    "description": "*Worst in blik\n*Klaar voor gebruik\n*Snelle snack\n*Perfect als apero\n*Kwaliteitsvlees",
+    "technicalArticleNumber": "3375723",
+    "commercialArticleNumber": "7494",
+    "LongName": "ZWAN Weense worstjes 420g"
+  },
+  {
+    "gtin": "05400141281569",
+    "productId": "513075",
+    "name": "mini salami gedroogd-gerookt",
+    "description": "*5 gerookte,\ngedroogde worsten",
+    "technicalArticleNumber": "4086184",
+    "commercialArticleNumber": "7893",
+    "LongName": "BONI mini salami gedroogd-gerookt 5x25g"
+  },
+  {
+    "gtin": "15400141422846",
+    "productId": "42437",
+    "name": "gegrilde paprika's",
+    "description": "*Rode gegrilde\npaprika's",
+    "technicalArticleNumber": "2436840",
+    "commercialArticleNumber": "2312",
+    "LongName": "BONI gegrilde paprika's 670g"
+  },
+  {
+    "gtin": "00000025164961",
+    "productId": "1101",
+    "name": "appelcompote stuk bok",
+    "description": "*Appelmoes op basis\nvan stukjes appel",
+    "technicalArticleNumber": "16496",
+    "commercialArticleNumber": "16496",
+    "LongName": "MATERNE appelcompote stuk bok 375g"
+  },
+  {
+    "gtin": "05400141074024",
+    "productId": "461594",
+    "name": "appelmoes extra kwaliteit bok",
+    "technicalArticleNumber": "3956411",
+    "commercialArticleNumber": "2166",
+    "LongName": "HAK appelmoes extra kwaliteit bok 355g"
+  },
+  {
+    "gtin": "05400141513103",
+    "productId": "838549",
+    "name": "Dipsauzen Pesto Rosso",
+    "technicalArticleNumber": "4681222",
+    "commercialArticleNumber": "30464",
+    "LongName": "BONI Dipsauzen Pesto Rosso 175g"
+  },
+  {
+    "gtin": "05400141110104",
+    "productId": "718",
+    "name": "doperwten extra fijn blik",
+    "description": "*Extra fijne\nsoeperwtjes",
+    "technicalArticleNumber": "11010",
+    "commercialArticleNumber": "11010",
+    "LongName": "BONI doperwten extra fijn blik 200g"
+  },
+  {
+    "gtin": "15400141474296",
+    "productId": "676787",
+    "name": "appelcompote stukjes",
+    "technicalArticleNumber": "4393439",
+    "commercialArticleNumber": "2956",
+    "LongName": "BONI appelcompote stukjes 570g"
+  },
+  {
+    "gtin": "15400141974871",
+    "productId": "8015",
+    "name": "groene olijven met look",
+    "description": "*Groen\n*Ontpit\n*Griekenland\n*Met look",
+    "technicalArticleNumber": "1181803",
+    "commercialArticleNumber": "28889",
+    "LongName": "BONI groene olijven met look 400g"
+  },
+  {
+    "gtin": "15400141688327",
+    "productId": "736",
+    "name": "witte bonen blik",
+    "description": "*Witte bonen",
+    "technicalArticleNumber": "11313",
+    "commercialArticleNumber": "11313",
+    "LongName": "EVERYDAY witte bonen blik 400g"
+  },
+  {
+    "gtin": "05400141419290",
+    "productId": "103430",
+    "name": "Frankfurterworsten 8st bok",
+    "description": "*8\nfrankfurterworsten",
+    "technicalArticleNumber": "3133869",
+    "commercialArticleNumber": "44004",
+    "LongName": "BONI Frankfurterworsten 8st bok 550g"
+  },
+  {
+    "gtin": "25400141965258",
+    "productId": "705955",
+    "name": "tonijn in eigen nat MSC",
+    "description": "*Tonijn in eigen nat\n*MSC",
+    "technicalArticleNumber": "4442365",
+    "commercialArticleNumber": "11510",
+    "LongName": "BONI tonijn in eigen nat MSC 95g"
+  },
+  {
+    "gtin": "15400141751380",
+    "productId": "265741",
+    "name": "Trio dip Grieks",
+    "technicalArticleNumber": "3648375",
+    "commercialArticleNumber": "31760",
+    "LongName": "BONI Trio dip Grieks 210g"
+  },
+  {
+    "gtin": "05410056187344",
+    "productId": "704",
+    "name": "Crunchy gevogelte",
+    "description": "*Gevogeltesoep\nmet croutons",
+    "technicalArticleNumber": "12678",
+    "commercialArticleNumber": "12678",
+    "LongName": "ROYCO Crunchy gevogelte 3st"
+  },
+  {
+    "gtin": "00000080014546",
+    "productId": "814",
+    "name": "passata glas",
+    "description": "*Gezeefde tomaten",
+    "technicalArticleNumber": "12802",
+    "commercialArticleNumber": "12802",
+    "LongName": "ELVEA passata glas 690g"
+  },
+  {
+    "gtin": "15400141997238",
+    "productId": "2715",
+    "name": "balletjes tomatensaus bok",
+    "description": "*Varkensgehakt-\nballetjes in\ntomatensaus\n*Aantal porties: 2\n*Pan, microgolfoven",
+    "technicalArticleNumber": "1012735",
+    "commercialArticleNumber": "9425",
+    "LongName": "EVERYDAY balletjes tomatensaus bok 800g"
+  },
+  {
+    "gtin": "00000080042563",
+    "productId": "564275",
+    "name": "passata",
+    "technicalArticleNumber": "4201270",
+    "commercialArticleNumber": "14184",
+    "LongName": "MUTTI passata 700g"
+  },
+  {
+    "gtin": "00000025118537",
+    "productId": "761",
+    "name": "prinsessenbonen gebroken",
+    "description": "*Fijne gebroken\nprinsessenbonen",
+    "technicalArticleNumber": "11853",
+    "commercialArticleNumber": "11853",
+    "LongName": "BONI prinsessenbonen gebroken 680g"
+  },
+  {
+    "gtin": "05400141473667",
+    "productId": "291558",
+    "name": "groen peper gevuld LV",
+    "technicalArticleNumber": "3689951",
+    "commercialArticleNumber": "34017",
+    "LongName": "BONI groen peper gevuld LV 150g"
+  },
+  {
+    "gtin": "08720600091100",
+    "productId": "2372",
+    "name": "rode kool met stukjes appel",
+    "description": "*Rodekool met\nstukjes appel",
+    "technicalArticleNumber": "1099849",
+    "commercialArticleNumber": "11919",
+    "LongName": "HAK rode kool met stukjes appel 700g"
+  },
+  {
+    "gtin": "15400141851127",
+    "productId": "763",
+    "name": "rode kool appelen",
+    "description": "*Rodekool met\nappelen",
+    "technicalArticleNumber": "11856",
+    "commercialArticleNumber": "11856",
+    "LongName": "BONI rode kool appelen 680g"
+  },
+  {
+    "gtin": "03083680597210",
+    "productId": "11568",
+    "name": "crispy maïs blik",
+    "description": "*Knapperige\nmaïskorrels",
+    "technicalArticleNumber": "1388621",
+    "commercialArticleNumber": "11201",
+    "LongName": "BONDUELLE crispy maïs blik 150g"
+  },
+  {
+    "gtin": "05400141158854",
+    "productId": "122359",
+    "name": "Minestrone",
+    "description": "Verse minestronesoep. Opwarmen in een\nsteelpannetje of in de microgolfoven.",
+    "technicalArticleNumber": "3188225",
+    "commercialArticleNumber": "26734",
+    "LongName": "BONI Minestrone 950ml"
+  },
+  {
+    "gtin": "18001240100580",
+    "productId": "425866",
+    "name": "cubetti basilicum",
+    "technicalArticleNumber": "3933792",
+    "commercialArticleNumber": "1075",
+    "LongName": "ELVEA cubetti basilicum 400g"
+  },
+  {
+    "gtin": "15400141504818",
+    "productId": "715430",
+    "name": "hummus",
+    "description": "*Bereiding op basis\nvan kikkerwten en\nsesampasta",
+    "technicalArticleNumber": "4460474",
+    "commercialArticleNumber": "22024",
+    "LongName": "BONI BIO hummus 200g"
+  },
+  {
+    "gtin": "15400141406266",
+    "productId": "6027",
+    "name": "zongedroogde tomaten basilicum",
+    "description": "*Zongedroogde\ntomaten met\nbasilicum,\nniet gemarineerd",
+    "technicalArticleNumber": "1170174",
+    "commercialArticleNumber": "28901",
+    "LongName": "BONI zongedroogde tomaten basilicum 100g"
+  },
+  {
+    "gtin": "25400141189975",
+    "productId": "347071",
+    "name": "doperwten zeer fijn",
+    "technicalArticleNumber": "3732344",
+    "commercialArticleNumber": "12644",
+    "LongName": "EVERYDAY doperwten zeer fijn 400g"
+  },
+  {
+    "gtin": "25400141043680",
+    "productId": "255485",
+    "name": "witte asperges geschild",
+    "description": "*Asperges,\ngeschild",
+    "technicalArticleNumber": "3588060",
+    "commercialArticleNumber": "18484",
+    "LongName": "EVERYDAY witte asperges geschild 190g"
+  },
+  {
+    "gtin": "15400141418443",
+    "productId": "616561",
+    "name": "knackworsten",
+    "technicalArticleNumber": "4292621",
+    "commercialArticleNumber": "27075",
+    "LongName": "EVERYDAY knackworsten 10st"
+  },
+  {
+    "gtin": "05400141029079",
+    "productId": "732",
+    "name": "wit bonen tomaten saus blik",
+    "description": "*Witte bonen in\ntomatensaus",
+    "technicalArticleNumber": "11300",
+    "commercialArticleNumber": "11300",
+    "LongName": "BONI wit bonen tomaten saus blik 200g"
+  },
+  {
+    "gtin": "05410056188051",
+    "productId": "12887",
+    "name": "tomaat met balletjes brik",
+    "description": "*Tomatensoep\nmet balletjes",
+    "technicalArticleNumber": "1338370",
+    "commercialArticleNumber": "12188",
+    "LongName": "LIEBIG tomaat met balletjes brik 1L"
+  },
+  {
+    "gtin": "15400141984566",
+    "productId": "752",
+    "name": "Parijse champ. heel blik",
+    "description": "*Hele Parijse\nchampignons",
+    "technicalArticleNumber": "11663",
+    "commercialArticleNumber": "11663",
+    "LongName": "EVERYDAY Parijse champ. heel blik 390g"
+  },
+  {
+    "gtin": "48024046004204",
+    "productId": "10688",
+    "name": "kikkererwten blik",
+    "description": "*Biologische\nkikkererwten",
+    "technicalArticleNumber": "1343538",
+    "commercialArticleNumber": "6756",
+    "LongName": "BIOITALIA kikkererwten blik 400g"
+  },
+  {
+    "gtin": "08000320010118",
+    "productId": "15725",
+    "name": "tomatenstukjes",
+    "description": "*Tomatenblokjes,\ngesneden van gepelde\ntomaten",
+    "technicalArticleNumber": "1583482",
+    "commercialArticleNumber": "12840",
+    "LongName": "CIRIO tomatenstukjes 400g"
+  },
+  {
+    "gtin": "33075360005338",
+    "productId": "45049",
+    "name": "fijne kruiden",
+    "description": "*Croutons met fijne\nkruiden",
+    "technicalArticleNumber": "2520083",
+    "commercialArticleNumber": "39693",
+    "LongName": "FLODOR CROÛTONS D'OR fijne kruiden 75g"
+  },
+  {
+    "gtin": "15400141461098",
+    "productId": "857239",
+    "name": "Seizoensfruit",
+    "description": "*Mengeling van appel\nmeloen, druif\nen ananas.",
+    "technicalArticleNumber": "4707119",
+    "commercialArticleNumber": "31478",
+    "LongName": "BONI Seizoensfruit 230g"
+  },
+  {
+    "gtin": "08001240100262",
+    "productId": "10550",
+    "name": "Cubetti tomatenblokjes v.gr.",
+    "description": "*Tomatenblokjes met\ngroenten",
+    "technicalArticleNumber": "1395506",
+    "commercialArticleNumber": "12821",
+    "LongName": "ELVEA Cubetti tomatenblokjes v.gr. 800g"
+  },
+  {
+    "gtin": "05400141169836",
+    "productId": "55913",
+    "name": "tomatenstukjes chili",
+    "description": "*Licht pikante\ntomatenstukjes in\ngeconcentreerd\ntomatensap",
+    "technicalArticleNumber": "2267652",
+    "commercialArticleNumber": "4672",
+    "LongName": "BONI tomatenstukjes chili 400g"
+  },
+  {
+    "gtin": "05400141168822",
+    "productId": "748",
+    "name": "Parijse champign. schijf blik",
+    "description": "*Parijse champignons\nin schijfjes",
+    "technicalArticleNumber": "11606",
+    "commercialArticleNumber": "11606",
+    "LongName": "BONI Parijse champign. schijf blik 390g"
+  },
+  {
+    "gtin": "05400141990997",
+    "productId": "742545",
+    "name": "halfgedroogde tomaten gemar.",
+    "description": "*Halfgedroogde\ncheritos tomaten,\ngemarineerd zachte\nsmaak",
+    "technicalArticleNumber": "4508691",
+    "commercialArticleNumber": "28142",
+    "LongName": "BONI halfgedroogde tomaten gemar. 200g"
+  },
+  {
+    "gtin": "05400141987812",
+    "productId": "12167",
+    "name": "erwten wortelen extr.fijn blik",
+    "description": "*Mengeling van extra\nfijne doperwtjes en\nextra fijne jonge\nworteltjes",
+    "technicalArticleNumber": "1320938",
+    "commercialArticleNumber": "11171",
+    "LongName": "BONI erwten wortelen extr.fijn blik 200g"
+  },
+  {
+    "gtin": "15400141800194",
+    "productId": "849117",
+    "name": "blonde linzen",
+    "technicalArticleNumber": "4696543",
+    "commercialArticleNumber": "30770",
+    "LongName": "BONI blonde linzen 400g"
+  },
+  {
+    "gtin": "04002359018787",
+    "productId": "869444",
+    "name": "spaghetti italiano 3p",
+    "technicalArticleNumber": "4722778",
+    "commercialArticleNumber": "18197",
+    "LongName": "MIRACOLI spaghetti italiano 3p 376,2g"
+  },
+  {
+    "gtin": "05400141034301",
+    "productId": "4090",
+    "name": "uitjes zoetzuur",
+    "description": "Witte uitjes met zoetzure opgiet.",
+    "technicalArticleNumber": "1007496",
+    "commercialArticleNumber": "13435",
+    "LongName": "BONI uitjes zoetzuur 650g"
+  },
+  {
+    "gtin": "05400141039382",
+    "productId": "51036",
+    "name": "groene olijven kaasblokjes",
+    "description": "*Groen\n*Ontpit\n*Griekenland\n*Met kaasblokjes",
+    "technicalArticleNumber": "2344114",
+    "commercialArticleNumber": "18169",
+    "LongName": "BONI groene olijven kaasblokjes 400g"
+  },
+  {
+    "gtin": "05400141164978",
+    "productId": "1102",
+    "name": "appelcompote stuk bok",
+    "description": "*Appelmoes op basis\nvan stukjes appel",
+    "technicalArticleNumber": "16497",
+    "commercialArticleNumber": "16497",
+    "LongName": "MATERNE appelcompote stuk bok 850g"
+  },
+  {
+    "gtin": "08032817240319",
+    "productId": "86518",
+    "name": "salsa van kerstomaten",
+    "description": "*Kerstomatensalsa",
+    "technicalArticleNumber": "2953018",
+    "commercialArticleNumber": "25638",
+    "LongName": "AGROMONTE salsa van kerstomaten 330g"
+  },
+  {
+    "gtin": "05400141385816",
+    "productId": "480360",
+    "name": "mousseline z.toegev.suiker",
+    "technicalArticleNumber": "4012262",
+    "commercialArticleNumber": "4999",
+    "LongName": "BONI BIO mousseline z.toegev.suiker 350g"
+  },
+  {
+    "gtin": "05400141114959",
+    "productId": "13993",
+    "name": "zoete maïs",
+    "description": "*Zoete maïskorrels\nvan biologische\nteelt",
+    "technicalArticleNumber": "1603461",
+    "commercialArticleNumber": "11495",
+    "LongName": "BONI BIO zoete maïs 340g"
+  },
+  {
+    "gtin": "05410056187054",
+    "productId": "702",
+    "name": "Crunchy curry",
+    "description": "*Kerriesoep\nmet croutons",
+    "technicalArticleNumber": "12652",
+    "commercialArticleNumber": "12652",
+    "LongName": "ROYCO Crunchy curry 3st"
+  },
+  {
+    "gtin": "05414972705125",
+    "productId": "147033",
+    "name": "soep prei",
+    "description": "* Preisoep\nKlassieker",
+    "technicalArticleNumber": "3325136",
+    "commercialArticleNumber": "32415",
+    "LongName": "ROYCO soep prei 4st"
+  },
+  {
+    "gtin": "05414972111896",
+    "productId": "803",
+    "name": "uitjes in azijn",
+    "description": "Op kaliber en kleur gesorteerde\nzilveruitjes. Eerste kwaliteit.\nKaliber 14/18. Uitgefermenteerd en\nopgelegd in een oplossing van azijn\nmet kruiden.",
+    "technicalArticleNumber": "13477",
+    "commercialArticleNumber": "13477",
+    "LongName": "DEVOS LEMMENS uitjes in azijn 315g"
+  },
+  {
+    "gtin": "15400141480907",
+    "productId": "749",
+    "name": "Parijse champign.schijf blik",
+    "description": "*Parijse champignons\nin schijfjes",
+    "technicalArticleNumber": "11630",
+    "commercialArticleNumber": "11630",
+    "LongName": "BONI Parijse champign.schijf blik 195g"
+  },
+  {
+    "gtin": "05400141974195",
+    "productId": "734",
+    "name": "erwten wortelen extr.fijn blik",
+    "description": "*Mengeling van extra\nfijne doperwtjes en\nextra fijne jonge\nwortelen",
+    "technicalArticleNumber": "11307",
+    "commercialArticleNumber": "11307",
+    "LongName": "BONI erwten wortelen extr.fijn blik 400g"
+  },
+  {
+    "gtin": "25400141282690",
+    "productId": "668",
+    "name": "ananas schijven op sap blik",
+    "description": "*10 ananasschijven\nop sap",
+    "technicalArticleNumber": "10211",
+    "commercialArticleNumber": "10211",
+    "LongName": "BONI ananas schijven op sap blik 567g"
+  },
+  {
+    "gtin": "15400141252412",
+    "productId": "41085",
+    "name": "tomatenstukjes basil.ui",
+    "description": "*Biologische\ntomatenstukjes met\nbasilicum en ui",
+    "technicalArticleNumber": "2434511",
+    "commercialArticleNumber": "19536",
+    "LongName": "BONI BIO tomatenstukjes basil.ui 500g"
+  },
+  {
+    "gtin": "05400141927757",
+    "productId": "654143",
+    "name": "mammoet olijven look en chili",
+    "technicalArticleNumber": "4353556",
+    "commercialArticleNumber": "1273",
+    "LongName": "BONI mammoet olijven look en chili 150g"
+  },
+  {
+    "gtin": "05410056184169",
+    "productId": "12888",
+    "name": "kip brik",
+    "description": "*Kippensoep",
+    "technicalArticleNumber": "1338373",
+    "commercialArticleNumber": "12189",
+    "LongName": "LIEBIG DÉLISOUP kip brik 1L"
+  },
+  {
+    "gtin": "05400141221176",
+    "productId": "184850",
+    "name": "appelcompote stukjes",
+    "description": "*Appelmoes met\nstukjes appel\n*Zoet",
+    "technicalArticleNumber": "3466890",
+    "commercialArticleNumber": "50371",
+    "LongName": "BONI appelcompote stukjes 200g"
+  },
+  {
+    "gtin": "05400141277685",
+    "productId": "81270",
+    "name": "rode biet schijven",
+    "description": "*Rode biet in\nschijven",
+    "technicalArticleNumber": "2959092",
+    "commercialArticleNumber": "2640",
+    "LongName": "BONI rode biet schijven 340g"
+  },
+  {
+    "gtin": "05414972705095",
+    "productId": "101841",
+    "name": "soep tomaten",
+    "description": "*Klassieke\ntomatensoep",
+    "technicalArticleNumber": "3104163",
+    "commercialArticleNumber": "43694",
+    "LongName": "ROYCO soep tomaten 4st"
+  },
+  {
+    "gtin": "15400141354451",
+    "productId": "154273",
+    "name": "tomaten tapenade",
+    "description": "*Tomenade op basis\nvan gedroogde tomaat",
+    "technicalArticleNumber": "3255076",
+    "commercialArticleNumber": "34835",
+    "LongName": "BONI tomaten tapenade 150g"
+  },
+  {
+    "gtin": "15400141910923",
+    "productId": "789760",
+    "name": "halfgedroogde kerstomaten",
+    "description": "*Bereiding op basis\nvan tomaten",
+    "technicalArticleNumber": "4595523",
+    "commercialArticleNumber": "29424",
+    "LongName": "BONI halfgedroogde kerstomaten 200g"
+  },
+  {
+    "gtin": "05410056186705",
+    "productId": "11643",
+    "name": "soep st germain",
+    "description": "*St. Germainsoep met\nCroutons",
+    "technicalArticleNumber": "1375142",
+    "commercialArticleNumber": "12604",
+    "LongName": "ROYCO CRUNCHY soep st germain 3st"
+  },
+  {
+    "gtin": "05400141915785",
+    "productId": "697073",
+    "name": "Tzatziki",
+    "description": "*Dip op basis van\nyoghurt en komkommer",
+    "technicalArticleNumber": "4427202",
+    "commercialArticleNumber": "26099",
+    "LongName": "BONI Tzatziki 175g"
+  },
+  {
+    "gtin": "15410363710034",
+    "productId": "11556",
+    "name": "ansjovisreepjes olijfolie",
+    "description": "*Ansjovisfilet in\nolijfolie",
+    "technicalArticleNumber": "1388474",
+    "commercialArticleNumber": "9823",
+    "LongName": "IMPERIAL ansjovisreepjes olijfolie 50g"
+  },
+  {
+    "gtin": "05400141299663",
+    "productId": "796",
+    "name": "zilveruitjes op azijn",
+    "description": "Extra fijne zilveruitjes. Lekker bij\nhet aperitief, in vleesgerechten en\nstoofschotels, salades, met filet\naméricain enz.",
+    "technicalArticleNumber": "13456",
+    "commercialArticleNumber": "13456",
+    "LongName": "BONI zilveruitjes op azijn 320g"
+  },
+  {
+    "gtin": "25400141582790",
+    "productId": "135428",
+    "name": "halve perziken op sap blik",
+    "description": "*Halve perziken op\nsap",
+    "technicalArticleNumber": "3202438",
+    "commercialArticleNumber": "18879",
+    "LongName": "BONI halve perziken op sap blik 240g"
+  },
+  {
+    "gtin": "05400141209853",
+    "productId": "138652",
+    "name": "groene tapenade",
+    "description": "*Tapenade op basis\nvan groene olijven,\nkappers",
+    "technicalArticleNumber": "3202574",
+    "commercialArticleNumber": "34376",
+    "LongName": "BONI groene tapenade 150g"
+  },
+  {
+    "gtin": "08032817240371",
+    "productId": "86517",
+    "name": "passata kerstomaten glas",
+    "description": "*Kerstomatenpuree\nmet olie, knoflook,\nui en selder",
+    "technicalArticleNumber": "2953012",
+    "commercialArticleNumber": "25461",
+    "LongName": "AGROMONTE passata kerstomaten glas 360g"
+  },
+  {
+    "gtin": "15400141507123",
+    "productId": "293546",
+    "name": "kerspaprika gevuld lactosevrij",
+    "description": "*Gevuld met kaas\n*Lactosevrij",
+    "technicalArticleNumber": "3689793",
+    "commercialArticleNumber": "34014",
+    "LongName": "BONI kerspaprika gevuld lactosevrij 150g"
+  },
+  {
+    "gtin": "00000025213140",
+    "productId": "737",
+    "name": "witte bonen blik",
+    "description": "*Witte bonen\n*Extra groot",
+    "technicalArticleNumber": "11314",
+    "commercialArticleNumber": "11314",
+    "LongName": "BONI witte bonen blik 400g"
+  },
+  {
+    "gtin": "05425020166553",
+    "productId": "571160",
+    "name": "Trio hummus papr-peterselie-basil.",
+    "description": "*Paprika, peterselie\nbasilicum",
+    "technicalArticleNumber": "4216337",
+    "commercialArticleNumber": "7536",
+    "LongName": "Trio hummus papr-peterselie-basil. 210g"
+  },
+  {
+    "gtin": "05400141850598",
+    "productId": "3006",
+    "name": "tomaten gepeld",
+    "description": "*Biologische gepelde\ntomaten",
+    "technicalArticleNumber": "1044160",
+    "commercialArticleNumber": "12800",
+    "LongName": "BONI BIO tomaten gepeld 400g"
+  },
+  {
+    "gtin": "05400141402049",
+    "productId": "673",
+    "name": "fruitcocktail in siroop",
+    "description": "*Fruitcocktail op\nlichte siroop",
+    "technicalArticleNumber": "10301",
+    "commercialArticleNumber": "10301",
+    "LongName": "EVERYDAY fruitcocktail in siroop 820g"
+  },
+  {
+    "gtin": "05400141513097",
+    "productId": "838247",
+    "name": "Dipsaus groene pesto",
+    "technicalArticleNumber": "4681079",
+    "commercialArticleNumber": "30456",
+    "LongName": "BONI Dipsaus groene pesto 175g"
+  },
+  {
+    "gtin": "05400141278897",
+    "productId": "133972",
+    "name": "doperwten extra fijn",
+    "description": "*Extra fijne\ndoperwtjes",
+    "technicalArticleNumber": "3172023",
+    "commercialArticleNumber": "44002",
+    "LongName": "BONI doperwten extra fijn 340g"
+  },
+  {
+    "gtin": "05400141284577",
+    "productId": "493034",
+    "name": "soep tomaat balletjes",
+    "description": "*Tomatensoep\nmet balletjes",
+    "technicalArticleNumber": "4091008",
+    "commercialArticleNumber": "8095",
+    "LongName": "BONI soep tomaat balletjes 1L"
+  },
+  {
+    "gtin": "15400141026884",
+    "productId": "417582",
+    "name": "doperwten wortelen fijn",
+    "description": "*Erwten en wortels\nzeer fijn",
+    "technicalArticleNumber": "3948965",
+    "commercialArticleNumber": "1807",
+    "LongName": "EVERYDAY doperwten wortelen fijn 400g"
+  },
+  {
+    "gtin": "15400141570370",
+    "productId": "44377",
+    "name": "tropisch.fruitmix siroop cup",
+    "description": "*Fruitmix op\nlichte siroop",
+    "technicalArticleNumber": "2428941",
+    "commercialArticleNumber": "13983",
+    "LongName": "BONI tropisch.fruitmix siroop cup 4x120g"
+  },
+  {
+    "gtin": "00000025114195",
+    "productId": "740",
+    "name": "geraspte knolselder",
+    "description": "*Geraspte knolselder",
+    "technicalArticleNumber": "11419",
+    "commercialArticleNumber": "11419",
+    "LongName": "BONI geraspte knolselder 320g"
+  },
+  {
+    "gtin": "05400141336436",
+    "productId": "554925",
+    "name": "red kidney beans",
+    "description": "*Rode kidneybonen",
+    "technicalArticleNumber": "4188652",
+    "commercialArticleNumber": "14315",
+    "LongName": "BONI red kidney beans 200g"
+  },
+  {
+    "gtin": "05400141488081",
+    "productId": "948",
+    "name": "olijven Kalamon Grieks",
+    "description": "*Zwart\n*Met pit\n*Griekenland",
+    "technicalArticleNumber": "28893",
+    "commercialArticleNumber": "28893",
+    "LongName": "BONI olijven Kalamon Grieks 200g"
+  },
+  {
+    "gtin": "15400141264750",
+    "productId": "129254",
+    "name": "soep groentevelouté brik",
+    "description": "*Groentenvelouté",
+    "technicalArticleNumber": "3253863",
+    "commercialArticleNumber": "4443",
+    "LongName": "BONI soep groentevelouté brik 1L"
+  },
+  {
+    "gtin": "05400141326109",
+    "productId": "547295",
+    "name": "Trio hummus",
+    "description": "O.b.v. gegrilde rode\npaprika en zon-\ngedroogde tomaten",
+    "technicalArticleNumber": "4175818",
+    "commercialArticleNumber": "11675",
+    "LongName": "BONI Trio hummus 210g"
+  },
+  {
+    "gtin": "08712566624263",
+    "productId": "40025",
+    "name": "Soup Idee kip",
+    "description": "*Droge soep\n*Makkelijk bereiden\n*Instant gerecht\n*Snelle maaltijd\n*Warm gerecht",
+    "technicalArticleNumber": "2480572",
+    "commercialArticleNumber": "38971",
+    "LongName": "KNORR Soup Idee kip 92g"
+  },
+  {
+    "gtin": "15400141987482",
+    "productId": "2196",
+    "name": "groene olijven pikant",
+    "description": "*Groen\n*Ontpit\n*Griekenland\n*Met pikante saus",
+    "technicalArticleNumber": "28898",
+    "commercialArticleNumber": "28898",
+    "LongName": "BONI groene olijven pikant 150g"
+  },
+  {
+    "gtin": "05400141168648",
+    "productId": "517",
+    "name": "ravioli bolognaisesaus blik",
+    "description": "*Ravioli met\nbolognesesaus\n*Aantal porties: 1\n*Opwarmen in de pan,\nmicrogolf, oven",
+    "technicalArticleNumber": "9280",
+    "commercialArticleNumber": "9280",
+    "LongName": "BONI ravioli bolognaisesaus blik 400g"
+  },
+  {
+    "gtin": "08710522616970",
+    "productId": "18696",
+    "name": "soep tomaten crème",
+    "description": "*Soep in blik\n*Snelle maaltijd\n*Snelle maaltijd\n*Groentensoep\n*Warm gerecht",
+    "technicalArticleNumber": "1717190",
+    "commercialArticleNumber": "12154",
+    "LongName": "KNORR soep tomaten crème 515ml"
+  },
+  {
+    "gtin": "05400141172287",
+    "productId": "139735",
+    "name": "ratatouille blik",
+    "description": "*Provençaalse\ngroentemix",
+    "technicalArticleNumber": "3179793",
+    "commercialArticleNumber": "15393",
+    "LongName": "BONI ratatouille blik 385g"
+  },
+  {
+    "gtin": "08720600622489",
+    "productId": "61341",
+    "name": "erwten wortelen extra fijn",
+    "description": "*Extra fijne\ndoperwten en\nwortelen",
+    "technicalArticleNumber": "2749246",
+    "commercialArticleNumber": "42205",
+    "LongName": "HAK erwten wortelen extra fijn 350g"
+  },
+  {
+    "gtin": "00000024105408",
+    "productId": "710",
+    "name": "halve perzik sap blik",
+    "description": "*Halve perziken op\nfruitsap",
+    "technicalArticleNumber": "10540",
+    "commercialArticleNumber": "10540",
+    "LongName": "DEL MONTE halve perzik sap blik 415g"
+  },
+  {
+    "gtin": "08001440118944",
+    "productId": "93349",
+    "name": "Finissima fijne tomatenpulp",
+    "description": "*Fijn gesneden\nstukjes gepelde\ntomaat",
+    "technicalArticleNumber": "2808759",
+    "commercialArticleNumber": "44271",
+    "LongName": "CIRIO Finissima fijne tomatenpulp 400g"
+  },
+  {
+    "gtin": "08005110191015",
+    "productId": "564223",
+    "name": "passata met basilicum",
+    "technicalArticleNumber": "4204616",
+    "commercialArticleNumber": "15894",
+    "LongName": "MUTTI passata met basilicum 700g"
+  },
+  {
+    "gtin": "00000025117806",
+    "productId": "756",
+    "name": "zuurkool blik",
+    "description": "*Zuurkool\n*Opwarmen in een\nkookpot,\nin de microgolfoven",
+    "technicalArticleNumber": "11780",
+    "commercialArticleNumber": "11780",
+    "LongName": "RHEINLAND zuurkool blik 810g"
+  },
+  {
+    "gtin": "05400141464344",
+    "productId": "747",
+    "name": "hele aardappelen voorgekookt",
+    "description": "*Voorgekookte en\ngeschilde hele\naardappelen",
+    "technicalArticleNumber": "11472",
+    "commercialArticleNumber": "11472",
+    "LongName": "BONI hele aardappelen voorgekookt 680g"
+  },
+  {
+    "gtin": "15400141367017",
+    "productId": "477295",
+    "name": "Grissini rozemarijn",
+    "technicalArticleNumber": "4015026",
+    "commercialArticleNumber": "5022",
+    "LongName": "BONI Grissini rozemarijn 100g"
+  },
+  {
+    "gtin": "05400141027938",
+    "productId": "175463",
+    "name": "Belg.krieken ontpit siroop bok",
+    "description": "*Krieken van\nBelgische oorsprong",
+    "technicalArticleNumber": "3358009",
+    "commercialArticleNumber": "7338",
+    "LongName": "BONI Belg.krieken ontpit siroop bok 340g"
+  },
+  {
+    "gtin": "05400141400281",
+    "productId": "489635",
+    "name": "croutons look/peterselie",
+    "technicalArticleNumber": "4041914",
+    "commercialArticleNumber": "6130",
+    "LongName": "BONI croutons look/peterselie 75g"
+  },
+  {
+    "gtin": "00000025118599",
+    "productId": "764",
+    "name": "prinsessenbonen extra fijn",
+    "description": "*Extra fijne hele\nprinsessenbonen",
+    "technicalArticleNumber": "11859",
+    "commercialArticleNumber": "11859",
+    "LongName": "BONI prinsessenbonen extra fijn 660g"
+  },
+  {
+    "gtin": "05414972101569",
+    "productId": "10126",
+    "name": "jul.tomaat-gr-balletjes brik",
+    "description": "*Tomaten-groentesoep\nmet balletjes\n(julienne)",
+    "technicalArticleNumber": "1384587",
+    "commercialArticleNumber": "12190",
+    "LongName": "LIEBIG jul.tomaat-gr-balletjes brik 1L"
+  },
+  {
+    "gtin": "05400141033175",
+    "productId": "12941",
+    "name": "Cassoulet blik",
+    "description": "*Bonen in tomaten-\nsaus, spek en worst\n*Aantal porties: 2\n*Opwarmen au bain-\nmarie, microgolfoven",
+    "technicalArticleNumber": "1238135",
+    "commercialArticleNumber": "9200",
+    "LongName": "EVERYDAY Cassoulet blik 840g"
+  },
+  {
+    "gtin": "08712566436453",
+    "productId": "94049",
+    "name": "Frankworstjes 6st",
+    "description": "*Worst in blik\n*Klaar voor gebruik\n*Snelle snack\n*Perfect als apero\n*Kwaliteitsvlees",
+    "technicalArticleNumber": "2802685",
+    "commercialArticleNumber": "43983",
+    "LongName": "ZWAN Frankworstjes 6st 550g"
+  },
+  {
+    "gtin": "05400141800203",
+    "productId": "857351",
+    "name": "zwarte bonen",
+    "technicalArticleNumber": "4707311",
+    "commercialArticleNumber": "31492",
+    "LongName": "BONI zwarte bonen 200g"
+  },
+  {
+    "gtin": "05400141364293",
+    "productId": "18149",
+    "name": "wortelen zeer fijn blik",
+    "description": "*Zeer fijne wortelen",
+    "technicalArticleNumber": "1710888",
+    "commercialArticleNumber": "11611",
+    "LongName": "EVERYDAY wortelen zeer fijn blik 400g"
+  },
+  {
+    "gtin": "08712566436484",
+    "productId": "27453",
+    "name": "Hotdogworstjes 8st",
+    "description": "*Worst in blik\n*Klaar voor gebruik\n*Snelle snack\n*Perfect als apero\n*Kwaliteitsvlees",
+    "technicalArticleNumber": "1980648",
+    "commercialArticleNumber": "9097",
+    "LongName": "ZWAN Hotdogworstjes 8st 550g"
+  },
+  {
+    "gtin": "15400141474760",
+    "productId": "755818",
+    "name": "Halfgedroogde tomaat olie",
+    "technicalArticleNumber": "4530669",
+    "commercialArticleNumber": "8169",
+    "LongName": "BONI Halfgedroogde tomaat olie 470g"
+  },
+  {
+    "gtin": "05410056193383",
+    "productId": "32047",
+    "name": "wortel pompoen balletjes brik",
+    "description": "*Wortel-pompoensoep\nmet balletjes",
+    "technicalArticleNumber": "1680814",
+    "commercialArticleNumber": "12162",
+    "LongName": "LIEBIG wortel pompoen balletjes brik 1L"
+  },
+  {
+    "gtin": "05400141121476",
+    "productId": "18693",
+    "name": "soep tom.groenten balletjes",
+    "description": "*Soep in blik\n*Snelle maaltijd\n*Snelle maaltijd\n*Groentensoep\n*Warm gerecht",
+    "technicalArticleNumber": "1717179",
+    "commercialArticleNumber": "12147",
+    "LongName": "KNORR soep tom.groenten balletjes 515ml"
+  },
+  {
+    "gtin": "05400141171051",
+    "productId": "674",
+    "name": "hele witte asperges",
+    "description": "*Hele, geschilde\nwitte asperges",
+    "technicalArticleNumber": "11916",
+    "commercialArticleNumber": "11916",
+    "LongName": "BONI hele witte asperges 330g"
+  },
+  {
+    "gtin": "15400141387817",
+    "productId": "10342",
+    "name": "rode kool met appelen",
+    "description": "*Rodekool met\nappelen van\nbiologische teelt",
+    "technicalArticleNumber": "1137814",
+    "commercialArticleNumber": "11872",
+    "LongName": "BONI BIO rode kool met appelen 360g"
+  },
+  {
+    "gtin": "15400141826163",
+    "productId": "187099",
+    "name": "Chunky dip&mix",
+    "description": "*Nederland\n*Mengeling van\ntomaten, cashewnoten\nbasilicum",
+    "technicalArticleNumber": "3452482",
+    "commercialArticleNumber": "31782",
+    "LongName": "BONI Chunky dip&mix"
+  },
+  {
+    "gtin": "03083681012705",
+    "productId": "84949",
+    "name": "doperwtjes blik",
+    "technicalArticleNumber": "2984049",
+    "commercialArticleNumber": "36024",
+    "LongName": "BONDUELLE doperwtjes blik 160g"
+  },
+  {
+    "gtin": "15400141301721",
+    "productId": "534327",
+    "name": "tapenade sweet pepper",
+    "technicalArticleNumber": "4128909",
+    "commercialArticleNumber": "9421",
+    "LongName": "BONI tapenade sweet pepper 150g"
+  },
+  {
+    "gtin": "00000025102093",
+    "productId": "667",
+    "name": "ananas stukjes op sap blik",
+    "description": "*Ananasstukjes op\nsap",
+    "technicalArticleNumber": "10209",
+    "commercialArticleNumber": "10209",
+    "LongName": "BONI ananas stukjes op sap blik 567g"
+  },
+  {
+    "gtin": "05400141919752",
+    "productId": "27698",
+    "name": "Italiaanse schotel blik",
+    "description": "*Pasta met\nvleesballetjes in\ntomatensaus\n*Aantal porties: 1\n*Pan, microgolfoven",
+    "technicalArticleNumber": "2241263",
+    "commercialArticleNumber": "1168",
+    "LongName": "EVERYDAY Italiaanse schotel blik 400g"
+  },
+  {
+    "gtin": "05414972705132",
+    "productId": "523238",
+    "name": "soep erwten ham",
+    "technicalArticleNumber": "4109090",
+    "commercialArticleNumber": "8704",
+    "LongName": "ROYCO soep erwten ham 4st"
+  },
+  {
+    "gtin": "05414972705194",
+    "productId": "703",
+    "name": "Crunchy tomatencrème",
+    "description": "*Tomatenroomsoep\nmet croutons",
+    "technicalArticleNumber": "12677",
+    "commercialArticleNumber": "12677",
+    "LongName": "ROYCO Crunchy tomatencrème 3st"
+  },
+  {
+    "gtin": "05400141345971",
+    "productId": "567563",
+    "name": "tapenades trio classic",
+    "description": "*Groene olijven,\ngegrilde paprika,\nzongedroogde tomaten,\nkappers",
+    "technicalArticleNumber": "4210583",
+    "commercialArticleNumber": "16202",
+    "LongName": "BONI tapenades trio classic 210g"
+  },
+  {
+    "gtin": "08720600620881",
+    "productId": "816345",
+    "name": "appelmoes extra kwaliteit",
+    "description": "*Appelmoes\n*Extra kwaliteit",
+    "technicalArticleNumber": "4645328",
+    "commercialArticleNumber": "25063",
+    "LongName": "HAK appelmoes extra kwaliteit 700g"
+  },
+  {
+    "gtin": "00000024092104",
+    "productId": "514",
+    "name": "Cassoulet blik",
+    "description": "*Bonen, varkens- en\nrundsvlees in\ntomatensaus\n*Aantal porties: 1\n*Pan, microgolfoven",
+    "technicalArticleNumber": "9210",
+    "commercialArticleNumber": "9210",
+    "LongName": "WILLIAM SAURIN Cassoulet blik 420g"
+  },
+  {
+    "gtin": "15400141585947",
+    "productId": "44376",
+    "name": "fruicocktail siroop cup",
+    "description": "*Fruitcocktail\nop siroop",
+    "technicalArticleNumber": "2428939",
+    "commercialArticleNumber": "13970",
+    "LongName": "BONI fruicocktail siroop cup 4x120g"
+  },
+  {
+    "gtin": "15410363010059",
+    "productId": "8818",
+    "name": "ansjovis fil.olijfolie bok",
+    "description": "*Wild",
+    "technicalArticleNumber": "1146797",
+    "commercialArticleNumber": "9950",
+    "LongName": "IMPERIAL ansjovis fil.olijfolie bok 100g"
+  },
+  {
+    "gtin": "15400141301714",
+    "productId": "534322",
+    "name": "Hummus paprika chili",
+    "technicalArticleNumber": "4128904",
+    "commercialArticleNumber": "9420",
+    "LongName": "BONI Hummus paprika chili 150g"
+  },
+  {
+    "gtin": "05400141406405",
+    "productId": "755",
+    "name": "artisjok harten blik",
+    "description": "*Artisjokharten",
+    "technicalArticleNumber": "11745",
+    "commercialArticleNumber": "11745",
+    "LongName": "BONI artisjok harten blik 240g"
+  },
+  {
+    "gtin": "03083681127379",
+    "productId": "802259",
+    "name": "Crispy maïs 0% zout Blik",
+    "technicalArticleNumber": "4617741",
+    "commercialArticleNumber": "11192",
+    "LongName": "BONDUELLE Crispy maïs 0% zout Blik 150g"
+  },
+  {
+    "gtin": "03083681006964",
+    "productId": "82073",
+    "name": "kikkererwten blik",
+    "description": "*Kikkererwten",
+    "technicalArticleNumber": "2940638",
+    "commercialArticleNumber": "24758",
+    "LongName": "BONDUELLE kikkererwten blik 310g"
+  },
+  {
+    "gtin": "00000025118506",
+    "productId": "759",
+    "name": "doperwten extra fijn",
+    "description": "*Extra fijne\ndoperwtjes",
+    "technicalArticleNumber": "11850",
+    "commercialArticleNumber": "11850",
+    "LongName": "BONI doperwten extra fijn 660g"
+  },
+  {
+    "gtin": "25400141265228",
+    "productId": "772",
+    "name": "sardines olijfolie",
+    "description": "*Sardines in\nolijfolie",
+    "technicalArticleNumber": "9624",
+    "commercialArticleNumber": "9624",
+    "LongName": "BONI sardines olijfolie 125g"
+  },
+  {
+    "gtin": "05410363010472",
+    "productId": "509660",
+    "name": "sardienen ZV/ZG OO milles.",
+    "technicalArticleNumber": "4088105",
+    "commercialArticleNumber": "7950",
+    "LongName": "IMPERIAL sardienen ZV/ZG OO milles. 125g"
+  },
+  {
+    "gtin": "15400141963578",
+    "productId": "747532",
+    "name": "maïs",
+    "technicalArticleNumber": "4516580",
+    "commercialArticleNumber": "14122",
+    "LongName": "BONI BIO maïs 150g"
+  },
+  {
+    "gtin": "05412374001173",
+    "productId": "594660",
+    "name": "makreel chili",
+    "technicalArticleNumber": "4255476",
+    "commercialArticleNumber": "21921",
+    "LongName": "FEUILLE D'OR makreel chili 125g"
+  },
+  {
+    "gtin": "00000025100303",
+    "productId": "664",
+    "name": "halve perzik siroop blik",
+    "description": "*Halve perziken op\nsiroop",
+    "technicalArticleNumber": "10030",
+    "commercialArticleNumber": "10030",
+    "LongName": "DEL MONTE halve perzik siroop blik 825g"
+  },
+  {
+    "gtin": "15400141057109",
+    "productId": "8817",
+    "name": "prins.bonen gebr. z.fijn blik",
+    "description": "*Zeer fijne gebroken\nprinsessenbonen",
+    "technicalArticleNumber": "1146585",
+    "commercialArticleNumber": "11330",
+    "LongName": "BONI prins.bonen gebr. z.fijn blik 200g"
+  },
+  {
+    "gtin": "05400141118834",
+    "productId": "10343",
+    "name": "doperwten en wortelen",
+    "description": "*Biologisch geteelde\ndoperwten en jonge\nwortelen",
+    "technicalArticleNumber": "1137818",
+    "commercialArticleNumber": "11873",
+    "LongName": "BONI BIO doperwten en wortelen 340g"
+  },
+  {
+    "gtin": "05425010830150",
+    "productId": "826421",
+    "name": "tomatenroomsoep balletj.",
+    "technicalArticleNumber": "4663931",
+    "commercialArticleNumber": "30104",
+    "LongName": "BUTTERFLY tomatenroomsoep balletj. 950ml"
+  },
+  {
+    "gtin": "15400141214212",
+    "productId": "742",
+    "name": "geraspte wortelen",
+    "description": "*Geraspte wortelen\nmet azijn",
+    "technicalArticleNumber": "11421",
+    "commercialArticleNumber": "11421",
+    "LongName": "BONI geraspte wortelen 330g"
+  },
+  {
+    "gtin": "00000025119817",
+    "productId": "2481",
+    "name": "schorseneren",
+    "description": "*Gesneden\nschorseneren",
+    "technicalArticleNumber": "1099901",
+    "commercialArticleNumber": "11981",
+    "LongName": "HAK schorseneren 340g"
+  },
+  {
+    "gtin": "15400141282372",
+    "productId": "253725",
+    "name": "pilchards tomatensaus",
+    "technicalArticleNumber": "3605445",
+    "commercialArticleNumber": "11188",
+    "LongName": "BONI pilchards tomatensaus 385g"
+  },
+  {
+    "gtin": "05412514937188",
+    "productId": "844836",
+    "name": "groen.jalapeños schijfjes",
+    "technicalArticleNumber": "4690467",
+    "commercialArticleNumber": "2179",
+    "LongName": "POCO LOCO groen.jalapeños schijfjes 225g"
+  },
+  {
+    "gtin": "05400141279887",
+    "productId": "513726",
+    "name": "Aioli",
+    "description": "*Knoflooksaus",
+    "technicalArticleNumber": "4083334",
+    "commercialArticleNumber": "7757",
+    "LongName": "BONI Aioli 150g"
+  },
+  {
+    "gtin": "05410056188044",
+    "productId": "11120",
+    "name": "kervelsoep met balletjes brik",
+    "description": "*Kervelsoep\nmet balletjes",
+    "technicalArticleNumber": "1384589",
+    "commercialArticleNumber": "12192",
+    "LongName": "LIEBIG kervelsoep met balletjes brik 1L"
+  },
+  {
+    "gtin": "05400141469646",
+    "productId": "630162",
+    "name": "guacamole 300 g V",
+    "technicalArticleNumber": "4315685",
+    "commercialArticleNumber": "6245",
+    "LongName": "BONI guacamole 300 g V"
+  },
+  {
+    "gtin": "05415087008415",
+    "productId": "59033",
+    "name": "tonijn in olijfolie",
+    "description": "*Tonijnmoot in\nolijfolie",
+    "technicalArticleNumber": "2332969",
+    "commercialArticleNumber": "19304",
+    "LongName": "RIO MARE tonijn in olijfolie 160g"
+  },
+  {
+    "gtin": "04002359018640",
+    "productId": "869455",
+    "name": "macaroni Formaggio 5P",
+    "technicalArticleNumber": "4722790",
+    "commercialArticleNumber": "18398",
+    "LongName": "MIRACOLI macaroni Formaggio 5P 448,5g"
+  },
+  {
+    "gtin": "05414972101521",
+    "productId": "14449",
+    "name": "9 groentenweelde brik",
+    "description": "*Groentesoep",
+    "technicalArticleNumber": "1632613",
+    "commercialArticleNumber": "12187",
+    "LongName": "LIEBIG 9 groentenweelde brik 1L"
+  },
+  {
+    "gtin": "15400141568513",
+    "productId": "11829",
+    "name": "perzikschijven op sap blik",
+    "description": "*Perzikschijven op\nsap",
+    "technicalArticleNumber": "1415473",
+    "commercialArticleNumber": "10656",
+    "LongName": "BONI perzikschijven op sap blik 410g"
+  },
+  {
+    "gtin": "05400141017106",
+    "productId": "42524",
+    "name": "soep Class.tom.balletjes brik",
+    "description": "*Tomatensoep\n*Soep in brik\n*Klaar voor gebruik\n*Warm gerecht\n*Makkelijk bereiden",
+    "technicalArticleNumber": "2532541",
+    "commercialArticleNumber": "14444",
+    "LongName": "KNORR soep Class.tom.balletjes brik 1L"
+  },
+  {
+    "gtin": "05400141122213",
+    "productId": "18697",
+    "name": "soep asperge crème",
+    "description": "*Soep in blik\n*Snelle maaltijd\n*Snelle maaltijd\n*Groentensoep\n*Warm gerecht",
+    "technicalArticleNumber": "1717191",
+    "commercialArticleNumber": "12221",
+    "LongName": "KNORR soep asperge crème 515ml"
+  },
+  {
+    "gtin": "05410056186941",
+    "productId": "699",
+    "name": "soep tomaten suprême",
+    "description": "*Tomatensuprême\nmet croutons",
+    "technicalArticleNumber": "12625",
+    "commercialArticleNumber": "12625",
+    "LongName": "ROYCO CRUNCHY soep tomaten suprême 20st"
+  },
+  {
+    "gtin": "05410046017811",
+    "productId": "192782",
+    "name": "appelcomp. znd toeg. suiker",
+    "description": "*Appelmoes op basis\nvan stukjes appel",
+    "technicalArticleNumber": "3456017",
+    "commercialArticleNumber": "50253",
+    "LongName": "MATERNE appelcomp. znd toeg. suiker 350g"
+  },
+  {
+    "gtin": "05400141118797",
+    "productId": "9398",
+    "name": "doperwten extra fijn",
+    "description": "*Extra fijne\ndoperwtjes",
+    "technicalArticleNumber": "1137057",
+    "commercialArticleNumber": "11869",
+    "LongName": "BONI BIO doperwten extra fijn 340g"
+  },
+  {
+    "gtin": "05400141038781",
+    "productId": "10555",
+    "name": "erwtensoep spekblokjes brik",
+    "description": "*Erwtensoep\nmet spekblokjes",
+    "technicalArticleNumber": "1395757",
+    "commercialArticleNumber": "12194",
+    "LongName": "LIEBIG erwtensoep spekblokjes brik 1L"
+  },
+  {
+    "gtin": "04000404430881",
+    "productId": "649",
+    "name": "Hotdogworsten 6st",
+    "description": "*6 hotdogworsten",
+    "technicalArticleNumber": "9029",
+    "commercialArticleNumber": "9029",
+    "LongName": "BÖKLUNDER Hotdogworsten 6st 550g"
+  },
+  {
+    "gtin": "05414972100210",
+    "productId": "55427",
+    "name": "8 groentenweelde bal. brik",
+    "description": "*Groentesoep met\nballetjes",
+    "technicalArticleNumber": "2398198",
+    "commercialArticleNumber": "36643",
+    "LongName": "LIEBIG 8 groentenweelde bal. brik 1L"
+  },
+  {
+    "gtin": "05400141991017",
+    "productId": "742569",
+    "name": "olijven zonder pit Hercules",
+    "description": "*Groen\n*Ontpit\n*Griekenland\n*Met paprikapasta,\nkruidige marinade",
+    "technicalArticleNumber": "4508715",
+    "commercialArticleNumber": "28143",
+    "LongName": "BONI olijven zonder pit Hercules 145g"
+  },
+  {
+    "gtin": "15400141282433",
+    "productId": "596409",
+    "name": "gegrilde makreelfil. olijfolie",
+    "technicalArticleNumber": "4258528",
+    "commercialArticleNumber": "22798",
+    "LongName": "BONI gegrilde makreelfil. olijfolie 120g"
+  },
+  {
+    "gtin": "15400141712695",
+    "productId": "869904",
+    "name": "Olijven Pesto",
+    "technicalArticleNumber": "4723343",
+    "commercialArticleNumber": "19973",
+    "LongName": "BONI Olijven Pesto 150g"
+  },
+  {
+    "gtin": "05400141385762",
+    "productId": "12841",
+    "name": "appelmousseline bokaal",
+    "description": "*Biologische\nappelmousseline",
+    "technicalArticleNumber": "1236107",
+    "commercialArticleNumber": "16486",
+    "LongName": "BONI BIO appelmousseline bokaal 360g"
+  },
+  {
+    "gtin": "05400141212709",
+    "productId": "288045",
+    "name": "dip zoete aardappel",
+    "technicalArticleNumber": "3687168",
+    "commercialArticleNumber": "36223",
+    "LongName": "BONI dip zoete aardappel 150g"
+  },
+  {
+    "gtin": "05400141164848",
+    "productId": "2357",
+    "name": "appelcompote stuk bok",
+    "description": "*Biologische\nappelcompote",
+    "technicalArticleNumber": "1098246",
+    "commercialArticleNumber": "16484",
+    "LongName": "BONI BIO appelcompote stuk bok 360g"
+  },
+  {
+    "gtin": "05400141215830",
+    "productId": "744",
+    "name": "groentemengeling",
+    "description": "*Groentemengeling",
+    "technicalArticleNumber": "11423",
+    "commercialArticleNumber": "11423",
+    "LongName": "EVERYDAY groentemengeling 400g"
+  },
+  {
+    "gtin": "05400141122183",
+    "productId": "18692",
+    "name": "soep malse kip",
+    "description": "*Soep in blik\n*Snelle maaltijd\n*Snelle maaltijd\n*Groentensoep\n*Warm gerecht",
+    "technicalArticleNumber": "1717177",
+    "commercialArticleNumber": "12218",
+    "LongName": "KNORR soep malse kip 515ml"
+  },
+  {
+    "gtin": "15400141351771",
+    "productId": "147209",
+    "name": "trio tapenade",
+    "description": "*Sweetbite tapenade,\nkaastapenade en\nroomkaastapenade met\nzoete peper",
+    "technicalArticleNumber": "3321363",
+    "commercialArticleNumber": "31769",
+    "LongName": "BONI trio tapenade 210g"
+  },
+  {
+    "gtin": "15400141814719",
+    "productId": "651",
+    "name": "stoofvlees rund bokaal",
+    "description": "*Runderstoofvlees\n*Aantal porties: 3\n*Opwarmen in de pan,\nin de microgolfoven",
+    "technicalArticleNumber": "9039",
+    "commercialArticleNumber": "9039",
+    "LongName": "EVERYDAY stoofvlees rund bokaal 800g"
+  },
+  {
+    "gtin": "15400141871521",
+    "productId": "129253",
+    "name": "soep tomatenvelouté brik",
+    "description": "*Tomaatvelouté",
+    "technicalArticleNumber": "3253860",
+    "commercialArticleNumber": "4417",
+    "LongName": "BONI soep tomatenvelouté brik 1L"
+  },
+  {
+    "gtin": "15400141002642",
+    "productId": "726",
+    "name": "doperwten extra fijn blik",
+    "description": "*Extra fijne\ndoperwtjes",
+    "technicalArticleNumber": "11097",
+    "commercialArticleNumber": "11097",
+    "LongName": "EVERYDAY doperwten extra fijn blik 800g"
+  },
+  {
+    "gtin": "05410056195363",
+    "productId": "39308",
+    "name": "minestrone brik",
+    "description": "*Minestrone",
+    "technicalArticleNumber": "1833097",
+    "commercialArticleNumber": "12230",
+    "LongName": "LIEBIG minestrone brik 1L"
+  },
+  {
+    "gtin": "05411251500495",
+    "productId": "11803",
+    "name": "sardienen in olijfolie",
+    "description": "*Sardines in\nolijfolie",
+    "technicalArticleNumber": "1390677",
+    "commercialArticleNumber": "9774",
+    "LongName": "COCAGNE sardienen in olijfolie 125g"
+  },
+  {
+    "gtin": "05414972710464",
+    "productId": "134161",
+    "name": "soep pompoen",
+    "description": "*Klassieke\npompoensoep",
+    "technicalArticleNumber": "3195661",
+    "commercialArticleNumber": "6564",
+    "LongName": "ROYCO soep pompoen 3st"
+  },
+  {
+    "gtin": "15400141771319",
+    "productId": "765035",
+    "name": "Mezze",
+    "technicalArticleNumber": "4545990",
+    "commercialArticleNumber": "7566",
+    "LongName": "BONI Mezze 370g"
+  },
+  {
+    "gtin": "05400141056983",
+    "productId": "782",
+    "name": "tonijn olijfolie",
+    "description": "*Tonijn in olijfolie",
+    "technicalArticleNumber": "9815",
+    "commercialArticleNumber": "9815",
+    "LongName": "BONI tonijn olijfolie 195/200g"
+  },
+  {
+    "gtin": "05410046020019",
+    "productId": "865074",
+    "name": "Abrikozencompote",
+    "technicalArticleNumber": "4717116",
+    "commercialArticleNumber": "2350",
+    "LongName": "MATERNE Abrikozencompote 600g"
+  },
+  {
+    "gtin": "00000050232284",
+    "productId": "669",
+    "name": "ananas schijven op siroop blik",
+    "description": "*4 ananasschijven op\nlichte siroop",
+    "technicalArticleNumber": "10216",
+    "commercialArticleNumber": "10216",
+    "LongName": "BONI ananas schijven op siroop blik 227g"
+  },
+  {
+    "gtin": "00024000040132",
+    "productId": "707",
+    "name": "fr.cockt.lichte sir. blik",
+    "description": "*Fruitcocktail op\nlichte siroop",
+    "technicalArticleNumber": "10330",
+    "commercialArticleNumber": "10330",
+    "LongName": "DEL MONTE fr.cockt.lichte sir. blik 227g"
+  },
+  {
+    "gtin": "15400141637462",
+    "productId": "350562",
+    "name": "Muhammara dip",
+    "technicalArticleNumber": "3857329",
+    "commercialArticleNumber": "22014",
+    "LongName": "BONI Muhammara dip 200g"
+  },
+  {
+    "gtin": "03083681012613",
+    "productId": "509644",
+    "name": "Rode Kidneybonen blik",
+    "description": "*Rode kidneybonen",
+    "technicalArticleNumber": "4088089",
+    "commercialArticleNumber": "7946",
+    "LongName": "BONDUELLE Rode Kidneybonen blik 310g"
+  },
+  {
+    "gtin": "25400141058387",
+    "productId": "728",
+    "name": "hele prinsessenbonen blik",
+    "description": "*Hele fijne\nprinsesenboontjes",
+    "technicalArticleNumber": "11212",
+    "commercialArticleNumber": "11212",
+    "LongName": "EVERYDAY hele prinsessenbonen blik 800g"
+  },
+  {
+    "gtin": "15400141247739",
+    "productId": "129772",
+    "name": "vol-au-vent bokaal",
+    "description": "*Vol-au-vent met kip\nen champignons\n*Aantal porties: 1\n*Opwarmen in de pan",
+    "technicalArticleNumber": "3241185",
+    "commercialArticleNumber": "22732",
+    "LongName": "BONI vol-au-vent bokaal 400g"
+  },
+  {
+    "gtin": "25410046995946",
+    "productId": "865079",
+    "name": "Appelmousseline",
+    "technicalArticleNumber": "4717121",
+    "commercialArticleNumber": "2416",
+    "LongName": "MATERNE Appelmousseline 850g"
+  },
+  {
+    "gtin": "05400141117257",
+    "productId": "17283",
+    "name": "bereide krieken ontpit bokaal",
+    "description": "*Ontpitte krieken op\ningedikt sap",
+    "technicalArticleNumber": "1749250",
+    "commercialArticleNumber": "10725",
+    "LongName": "BONI bereide krieken ontpit bokaal 570g"
+  },
+  {
+    "gtin": "05400141058147",
+    "productId": "773",
+    "name": "makreelfilet olijfolie",
+    "description": "*Makreelfilets in\nolijfolie",
+    "technicalArticleNumber": "9678",
+    "commercialArticleNumber": "9678",
+    "LongName": "BONI makreelfilet olijfolie 125g"
+  },
+  {
+    "gtin": "05010436600007",
+    "productId": "623517",
+    "name": "corned beef",
+    "technicalArticleNumber": "4304557",
+    "commercialArticleNumber": "23714",
+    "LongName": "TARGET corned beef 198g"
+  },
+  {
+    "gtin": "05400141171099",
+    "productId": "3398",
+    "name": "gehakte roomspinazie",
+    "description": "*Gehakte spinazie\nmet room",
+    "technicalArticleNumber": "1096643",
+    "commercialArticleNumber": "11951",
+    "LongName": "BONI gehakte roomspinazie 330g"
+  },
+  {
+    "gtin": "00000025091205",
+    "productId": "509",
+    "name": "Corned Beef",
+    "description": "*Gekookt rundsvlees",
+    "technicalArticleNumber": "9120",
+    "commercialArticleNumber": "9120",
+    "LongName": "TARGET Corned Beef 340g"
+  },
+  {
+    "gtin": "05400141443646",
+    "productId": "865578",
+    "name": "Trio Mediterraans",
+    "technicalArticleNumber": "4717768",
+    "commercialArticleNumber": "3993",
+    "LongName": "BONI Trio Mediterraans 180g"
+  },
+  {
+    "gtin": "15411251500508",
+    "productId": "93236",
+    "name": "sardienen olijfolie",
+    "description": "*Sardines zonder vel\nen zonder graten in\nolijfolie",
+    "technicalArticleNumber": "2890173",
+    "commercialArticleNumber": "34620",
+    "LongName": "COCAGNE sardienen olijfolie 105g"
+  },
+  {
+    "gtin": "05400141163100",
+    "productId": "741",
+    "name": "groentemacédoine blik",
+    "description": "*Groentemengeling",
+    "technicalArticleNumber": "11420",
+    "commercialArticleNumber": "11420",
+    "LongName": "BONI groentemacédoine blik 200g"
+  },
+  {
+    "gtin": "03083680597234",
+    "productId": "722",
+    "name": "Sperziebonen Bokaal",
+    "description": "*Sperziebonen",
+    "technicalArticleNumber": "11021",
+    "commercialArticleNumber": "11021",
+    "LongName": "BONDUELLE Sperziebonen Bokaal 530g"
+  },
+  {
+    "gtin": "08005360001744",
+    "productId": "841575",
+    "name": "zongedr.tomat.",
+    "technicalArticleNumber": "4686425",
+    "commercialArticleNumber": "22777",
+    "LongName": "CONSERVE DELLA NONNA zongedr.tomat. 340g"
+  },
+  {
+    "gtin": "05415087002017",
+    "productId": "488347",
+    "name": "Insalatissime Messic.P&L",
+    "technicalArticleNumber": "4043452",
+    "commercialArticleNumber": "6263",
+    "LongName": "RIO MARE Insalatissime Messic.P&L 160g"
+  },
+  {
+    "gtin": "15400141423386",
+    "productId": "463455",
+    "name": "hummus mango kokos",
+    "description": "*obv kikkererwten",
+    "technicalArticleNumber": "3957446",
+    "commercialArticleNumber": "2259",
+    "LongName": "BONI hummus mango kokos 150g"
+  },
+  {
+    "gtin": "08712566143214",
+    "productId": "49698",
+    "name": "Soup Idee tom. groenten",
+    "description": "*Droge soep\n*Makkelijk bereiden\n*Instant gerecht\n*Snelle maaltijd\n*Warm gerecht",
+    "technicalArticleNumber": "2480569",
+    "commercialArticleNumber": "38967",
+    "LongName": "KNORR Soup Idee tom. groenten 57g"
+  },
+  {
+    "gtin": "05400141891584",
+    "productId": "648001",
+    "name": "balletjes tomatensaus blik",
+    "description": "*Balletjes in\ntomatensaus",
+    "technicalArticleNumber": "4345549",
+    "commercialArticleNumber": "19151",
+    "LongName": "BONI balletjes tomatensaus blik 200g"
+  },
+  {
+    "gtin": "05410056190221",
+    "productId": "16717",
+    "name": "broc.bieslook brik",
+    "description": "*Broccoli-\nbieslooksoep",
+    "technicalArticleNumber": "1434486",
+    "commercialArticleNumber": "12288",
+    "LongName": "LIEBIG DÉLISOUP broc.bieslook brik 1L"
+  },
+  {
+    "gtin": "05400141076134",
+    "productId": "735",
+    "name": "peulbonen extra fijn blik",
+    "description": "*Fijne groene\npeulbonen of\nflageolets",
+    "technicalArticleNumber": "11309",
+    "commercialArticleNumber": "11309",
+    "LongName": "BONI peulbonen extra fijn blik 400g"
+  },
+  {
+    "gtin": "15400141399810",
+    "productId": "452160",
+    "name": "hummus topping",
+    "description": "*O.b.v. kikkererwten",
+    "technicalArticleNumber": "4028261",
+    "commercialArticleNumber": "5447",
+    "LongName": "BONI hummus topping 200g"
+  },
+  {
+    "gtin": "15400141907749",
+    "productId": "139736",
+    "name": "piperade blik",
+    "description": "*Zuiderse\ngroentemengeling",
+    "technicalArticleNumber": "3179797",
+    "commercialArticleNumber": "15406",
+    "LongName": "BONI piperade blik 385g"
+  },
+  {
+    "gtin": "05415087003809",
+    "productId": "180290",
+    "name": "tonijn in eigen nat",
+    "description": "*Tonijn in eigen nat",
+    "technicalArticleNumber": "3374602",
+    "commercialArticleNumber": "6695",
+    "LongName": "SAUPIQUET tonijn in eigen nat 160g"
+  },
+  {
+    "gtin": "03083681012767",
+    "productId": "85550",
+    "name": "erwten & wortelen blik",
+    "technicalArticleNumber": "2984131",
+    "commercialArticleNumber": "36045",
+    "LongName": "BONDUELLE erwten & wortelen blik 150g"
+  },
+  {
+    "gtin": "05425020166546",
+    "productId": "572801",
+    "name": "Hummus tomaat basilicum",
+    "technicalArticleNumber": "4219280",
+    "commercialArticleNumber": "17432",
+    "LongName": "Hummus tomaat basilicum 150g"
+  },
+  {
+    "gtin": "00000025092950",
+    "productId": "519",
+    "name": "ravioli zuiver rund blik",
+    "description": "*Ravioli van zuiver\nrundsvlees met\nItaliaanse saus\n*Aantal porties: 2\n*Pan, microgolfoven",
+    "technicalArticleNumber": "9295",
+    "commercialArticleNumber": "9295",
+    "LongName": "ZAPETTI ravioli zuiver rund blik 800g"
+  },
+  {
+    "gtin": "03083680602594",
+    "productId": "143143",
+    "name": "linzen blik",
+    "description": "*Linzen",
+    "technicalArticleNumber": "3282172",
+    "commercialArticleNumber": "20362",
+    "LongName": "BONDUELLE linzen blik 310g"
+  },
+  {
+    "gtin": "08032817247974",
+    "productId": "871744",
+    "name": "polpa Datterino tomaten",
+    "technicalArticleNumber": "4725717",
+    "commercialArticleNumber": "11152",
+    "LongName": "AGROMONTE polpa Datterino tomaten 360g"
+  },
+  {
+    "gtin": "05412374001296",
+    "productId": "594640",
+    "name": "makreelfilets natuur",
+    "technicalArticleNumber": "4255456",
+    "commercialArticleNumber": "21890",
+    "LongName": "FEUILLE D'OR makreelfilets natuur 125g"
+  },
+  {
+    "gtin": "05425010839887",
+    "productId": "826411",
+    "name": "groenteweelde balletjes",
+    "technicalArticleNumber": "4663921",
+    "commercialArticleNumber": "30100",
+    "LongName": "BUTTERFLY groenteweelde balletjes 950ml"
+  },
+  {
+    "gtin": "05400141208030",
+    "productId": "712",
+    "name": "mandarijn op siroop blik",
+    "description": "*Mandarijnpartjes\nop lichte siroop",
+    "technicalArticleNumber": "10605",
+    "commercialArticleNumber": "10605",
+    "LongName": "BONI mandarijn op siroop blik 312g"
+  },
+  {
+    "gtin": "05400141098303",
+    "productId": "783",
+    "name": "tonijn in eigen nat",
+    "description": "*Tonijn in eigen nat",
+    "technicalArticleNumber": "9818",
+    "commercialArticleNumber": "9818",
+    "LongName": "BONI tonijn in eigen nat 400g"
+  },
+  {
+    "gtin": "25400141464355",
+    "productId": "89090",
+    "name": "Parijse minichampign.heel blik",
+    "description": "*Hele Parijse\nminichampignons",
+    "technicalArticleNumber": "2923980",
+    "commercialArticleNumber": "35746",
+    "LongName": "BONI Parijse minichampign.heel blik 195g"
+  },
+  {
+    "gtin": "15400141869818",
+    "productId": "172987",
+    "name": "Weense worstjes",
+    "description": "* 7 Weense worsten",
+    "technicalArticleNumber": "3348843",
+    "commercialArticleNumber": "17455",
+    "LongName": "BONI Weense worstjes 400g"
+  },
+  {
+    "gtin": "03083681012675",
+    "productId": "276252",
+    "name": "kikkererwten blik",
+    "description": "*Kikkererwten",
+    "technicalArticleNumber": "3653301",
+    "commercialArticleNumber": "51049",
+    "LongName": "BONDUELLE kikkererwten blik 150g"
+  },
+  {
+    "gtin": "05400141200157",
+    "productId": "661",
+    "name": "perzik schijven siroop blik",
+    "description": "*Perzikschijven op\nsiroop",
+    "technicalArticleNumber": "10015",
+    "commercialArticleNumber": "10015",
+    "LongName": "BONI perzik schijven siroop blik 220g"
+  },
+  {
+    "gtin": "05400141991000",
+    "productId": "742533",
+    "name": "artisjokhart gemarineerd",
+    "description": "*Artisjokharten\nin marinade",
+    "technicalArticleNumber": "4508677",
+    "commercialArticleNumber": "28141",
+    "LongName": "BONI artisjokhart gemarineerd 125g"
+  },
+  {
+    "gtin": "05400141104530",
+    "productId": "10761",
+    "name": "ananas schijf sap blik",
+    "description": "*10 ananasschijven\nop sap",
+    "technicalArticleNumber": "1397691",
+    "commercialArticleNumber": "10453",
+    "LongName": "DEL MONTE ananas schijf sap blik 565g"
+  },
+  {
+    "gtin": "05410046994563",
+    "productId": "843797",
+    "name": "appelmoes.zond.t.suiker",
+    "description": "*Appelmousseline\n*Zonder toegevoegde\nsuikers\n*Natuurlijke suikers",
+    "technicalArticleNumber": "4689384",
+    "commercialArticleNumber": "30675",
+    "LongName": "MATERNE appelmoes.zond.t.suiker 580g"
+  },
+  {
+    "gtin": "07611100370271",
+    "productId": "319328",
+    "name": "Pasta Snack carbonara pot",
+    "description": "*Snack\n*Klaar voor gebruik\n*Makkelijk bereiden\n*Instant maaltijd\n*Carbonara smaak",
+    "technicalArticleNumber": "3683280",
+    "commercialArticleNumber": "12342",
+    "LongName": "KNORR Pasta Snack carbonara pot 71g"
+  },
+  {
+    "gtin": "05414972705798",
+    "productId": "15811",
+    "name": "jul.gr.balletjes brik",
+    "description": "*Groentesoep met\nballetjes",
+    "technicalArticleNumber": "1639152",
+    "commercialArticleNumber": "12305",
+    "LongName": "LIEBIG DÉLISOUP jul.gr.balletjes brik 1L"
+  },
+  {
+    "gtin": "03083680600774",
+    "productId": "724",
+    "name": "Erwjes & Worteltjes Bok.",
+    "description": "*Doperwten en jonge\nwortelen",
+    "technicalArticleNumber": "11023",
+    "commercialArticleNumber": "11023",
+    "LongName": "BONDUELLE Erwjes & Worteltjes Bok. 530g"
+  },
+  {
+    "gtin": "08720600614163",
+    "productId": "290405",
+    "name": "appelmoes 0% suiker bok",
+    "description": "*Appelmoes zonder\nsuiker of zoetstof",
+    "technicalArticleNumber": "3692427",
+    "commercialArticleNumber": "51096",
+    "LongName": "HAK appelmoes 0% suiker bok 350g"
+  },
+  {
+    "gtin": "05400141354263",
+    "productId": "574083",
+    "name": "gegrilde paprika's z.rood",
+    "description": "*Gegrilde paprika",
+    "technicalArticleNumber": "4220973",
+    "commercialArticleNumber": "17647",
+    "LongName": "BONI gegrilde paprika's z.rood 270g"
+  },
+  {
+    "gtin": "03083681022384",
+    "productId": "97290",
+    "name": "rode kidneybonen blik",
+    "description": "*Rode kidneybonen",
+    "technicalArticleNumber": "2811500",
+    "commercialArticleNumber": "46103",
+    "LongName": "BONDUELLE rode kidneybonen blik 160g"
+  },
+  {
+    "gtin": "03083681023268",
+    "productId": "805296",
+    "name": "witte bonen blik",
+    "technicalArticleNumber": "4623088",
+    "commercialArticleNumber": "2369",
+    "LongName": "BONDUELLE witte bonen blik 160g"
+  },
+  {
+    "gtin": "15400141420903",
+    "productId": "130827",
+    "name": "pikante tapenade",
+    "description": "*Tapenade op basis\nvan groene olijven,\nzongedroogde tomaten\npaprika en rode\npepers",
+    "technicalArticleNumber": "3221125",
+    "commercialArticleNumber": "35239",
+    "LongName": "BONI pikante tapenade 150g"
+  },
+  {
+    "gtin": "15400141155935",
+    "productId": "325687",
+    "name": "olijven Nocellara Italiaans",
+    "technicalArticleNumber": "3676362",
+    "commercialArticleNumber": "9252",
+    "LongName": "BONI olijven Nocellara Italiaans 150g"
+  },
+  {
+    "gtin": "03165950114010",
+    "productId": "18664",
+    "name": "tonijn in eigen nat",
+    "description": "*Tonijn in eigen nat",
+    "technicalArticleNumber": "1770236",
+    "commercialArticleNumber": "9511",
+    "LongName": "SAUPIQUET tonijn in eigen nat 400g"
+  },
+  {
+    "gtin": "03083680600910",
+    "productId": "42074",
+    "name": "gr.macédoine blik",
+    "description": "*Groentemengeling",
+    "technicalArticleNumber": "2495569",
+    "commercialArticleNumber": "39383",
+    "LongName": "BONDUELLE gr.macédoine blik 200g"
+  },
+  {
+    "gtin": "05410363000343",
+    "productId": "494761",
+    "name": "makreel olijfolie",
+    "technicalArticleNumber": "4088120",
+    "commercialArticleNumber": "7955",
+    "LongName": "IMPERIAL makreel olijfolie 125g"
+  },
+  {
+    "gtin": "05400141655971",
+    "productId": "50090",
+    "name": "Cassoulet blik",
+    "description": "*Bonen, varkens- en\nrundsvlees in\ntomatensaus\n*Aantal porties: 3\n*Pan, microgolfoven",
+    "technicalArticleNumber": "2470061",
+    "commercialArticleNumber": "38349",
+    "LongName": "WILLIAM SAURIN Cassoulet blik 840g"
+  },
+  {
+    "gtin": "05410046804022",
+    "productId": "59025",
+    "name": "compote abrikoos-appel bok",
+    "description": "*Compote op basis\nvan appelen en\nabrikozen",
+    "technicalArticleNumber": "2332348",
+    "commercialArticleNumber": "18829",
+    "LongName": "MATERNE compote abrikoos-appel bok 375g"
+  },
+  {
+    "gtin": "08711200325269",
+    "productId": "40024",
+    "name": "Soup Idee groenten vermi.",
+    "description": "*Droge soep\n*Makkelijk bereiden\n*Instant gerecht\n*Snelle maaltijd\n*Warm gerecht",
+    "technicalArticleNumber": "2480571",
+    "commercialArticleNumber": "38970",
+    "LongName": "KNORR Soup Idee groenten vermi. 33g"
+  },
+  {
+    "gtin": "05400141122589",
+    "productId": "18694",
+    "name": "soep tomaten suprême stukjes",
+    "description": "*Soep in blik\n*Snelle maaltijd\n*Snelle maaltijd\n*Groentensoep\n*Warm gerecht",
+    "technicalArticleNumber": "1717183",
+    "commercialArticleNumber": "12158",
+    "LongName": "KNORR soep tomaten suprême stukjes 515ml"
+  },
+  {
+    "gtin": "05400141165814",
+    "productId": "138646",
+    "name": "zwarte tapenade",
+    "description": "*Tapenade op basis\nvan zwarte olijven,\nkappers",
+    "technicalArticleNumber": "3202566",
+    "commercialArticleNumber": "34411",
+    "LongName": "BONI zwarte tapenade 150g"
+  },
+  {
+    "gtin": "05425001800063",
+    "productId": "484157",
+    "name": "guacamole pikant",
+    "technicalArticleNumber": "4009865",
+    "commercialArticleNumber": "4799",
+    "LongName": "WONKY guacamole pikant 150g"
+  },
+  {
+    "gtin": "05414972100289",
+    "productId": "50749",
+    "name": "soep pompoen suprême",
+    "description": "*Pompoenroomsoep",
+    "technicalArticleNumber": "2400631",
+    "commercialArticleNumber": "36654",
+    "LongName": "ROYCO CRUNCHY soep pompoen suprême 20st"
+  },
+  {
+    "gtin": "08720182422040",
+    "productId": "656",
+    "name": "Spaghetteria carbonara",
+    "description": "*Heerlijke maaltijd\n*Snel gerecht\n*Klaar voor gebruik\n*Carbonarasmaak\n*Warm gerecht",
+    "technicalArticleNumber": "9067",
+    "commercialArticleNumber": "9067",
+    "LongName": "KNORR Spaghetteria carbonara 154g"
+  },
+  {
+    "gtin": "05400141570366",
+    "productId": "455875",
+    "name": "fruitcocktail op lichte siroop",
+    "technicalArticleNumber": "4028724",
+    "commercialArticleNumber": "5467",
+    "LongName": "BONI fruitcocktail op lichte siroop 200g"
+  },
+  {
+    "gtin": "05414972104348",
+    "productId": "64483",
+    "name": "tomaat-pasta-kippenballetjes",
+    "description": "*Tomatensoep met\nkippenballetjes",
+    "technicalArticleNumber": "2770810",
+    "commercialArticleNumber": "43304",
+    "LongName": "LIEBIG tomaat-pasta-kippenballetjes 1L"
+  },
+  {
+    "gtin": "15400141557234",
+    "productId": "673154",
+    "name": "edamame bonen",
+    "technicalArticleNumber": "4387521",
+    "commercialArticleNumber": "4134",
+    "LongName": "BONI edamame bonen 200g"
+  },
+  {
+    "gtin": "25400141239885",
+    "productId": "97669",
+    "name": "wilde roze zalm blik MSC",
+    "description": "*Wilde roze zalm\n*met label MSC",
+    "technicalArticleNumber": "2897901",
+    "commercialArticleNumber": "35077",
+    "LongName": "EVERYDAY wilde roze zalm blik MSC 200g"
+  },
+  {
+    "gtin": "08000320992414",
+    "productId": "34752",
+    "name": "passata Rustica basilicum bok",
+    "description": "*Traditionele\nItaliaanse gezeefde\ntomaten en basilicum",
+    "technicalArticleNumber": "1824845",
+    "commercialArticleNumber": "12846",
+    "LongName": "CIRIO passata Rustica basilicum bok 680g"
+  },
+  {
+    "gtin": "00000024100403",
+    "productId": "665",
+    "name": "perzik schijf siroop blik",
+    "description": "*Perzikschijven op\nsiroop",
+    "technicalArticleNumber": "10040",
+    "commercialArticleNumber": "10040",
+    "LongName": "DEL MONTE perzik schijf siroop blik 227g"
+  },
+  {
+    "gtin": "05400141886276",
+    "productId": "745253",
+    "name": "lookteentjes basilicum",
+    "description": "*Knoflookteentjes\nmet basilicum",
+    "technicalArticleNumber": "4512947",
+    "commercialArticleNumber": "6537",
+    "LongName": "BONI lookteentjes basilicum 150g"
+  },
+  {
+    "gtin": "05414972110172",
+    "productId": "132114",
+    "name": "tomaten suprême brik",
+    "description": "*Tomatensuprême",
+    "technicalArticleNumber": "3171600",
+    "commercialArticleNumber": "37169",
+    "LongName": "LIEBIG tomaten suprême brik 1L"
+  },
+  {
+    "gtin": "04002359018619",
+    "productId": "869449",
+    "name": "kit macaroni Formaggio3p",
+    "technicalArticleNumber": "4722783",
+    "commercialArticleNumber": "18324",
+    "LongName": "MIRACOLI kit macaroni Formaggio3p 291,4g"
+  },
+  {
+    "gtin": "05400141355451",
+    "productId": "576311",
+    "name": "chili con carne",
+    "technicalArticleNumber": "4224940",
+    "commercialArticleNumber": "18220",
+    "LongName": "BONI chili con carne 425g"
+  },
+  {
+    "gtin": "05410056186514",
+    "productId": "689",
+    "name": "soep kip",
+    "description": "*Klassieke\nkippensoep",
+    "technicalArticleNumber": "12603",
+    "commercialArticleNumber": "12603",
+    "LongName": "ROYCO soep kip 25st"
+  },
+  {
+    "gtin": "15400141057574",
+    "productId": "110232",
+    "name": "mango schijf siroop blik",
+    "description": "*Schijfjes mango op\nsiroop",
+    "technicalArticleNumber": "3087918",
+    "commercialArticleNumber": "39473",
+    "LongName": "BONI mango schijf siroop blik 425g"
+  },
+  {
+    "gtin": "03083680613385",
+    "productId": "725",
+    "name": "Erwten & Wortelen Bokaal",
+    "description": "*Doperwten en jonge\nworteltjes",
+    "technicalArticleNumber": "11027",
+    "commercialArticleNumber": "11027",
+    "LongName": "BONDUELLE Erwten & Wortelen Bokaal 330g"
+  },
+  {
+    "gtin": "05412374001241",
+    "productId": "594669",
+    "name": "makreelfil.ui tomaten",
+    "technicalArticleNumber": "4255485",
+    "commercialArticleNumber": "21922",
+    "LongName": "FEUILLE D'OR makreelfil.ui tomaten 125g"
+  },
+  {
+    "gtin": "05400141886221",
+    "productId": "15817",
+    "name": "olijven groen&zwart paprika",
+    "description": "*Mix groen en zwart\n*Ontpit\n*Griekenland",
+    "technicalArticleNumber": "1639582",
+    "commercialArticleNumber": "31604",
+    "LongName": "BONI olijven groen&zwart paprika 150g"
+  },
+  {
+    "gtin": "05400141277937",
+    "productId": "750",
+    "name": "Parijse minichampign.heel blik",
+    "description": "*Hele Parijse\nminichampignons",
+    "technicalArticleNumber": "11635",
+    "commercialArticleNumber": "11635",
+    "LongName": "BONI Parijse minichampign.heel blik 390g"
+  },
+  {
+    "gtin": "03083681025835",
+    "productId": "90658",
+    "name": "crispy maïs blik",
+    "description": "*Knapperige\nmaïskorrels",
+    "technicalArticleNumber": "2889064",
+    "commercialArticleNumber": "34445",
+    "LongName": "BONDUELLE crispy maïs blik 300g"
+  },
+  {
+    "gtin": "03083681028461",
+    "productId": "85551",
+    "name": "doperwtjes blik",
+    "technicalArticleNumber": "2984138",
+    "commercialArticleNumber": "36021",
+    "LongName": "BONDUELLE doperwtjes blik 320g"
+  },
+  {
+    "gtin": "05400141664867",
+    "productId": "183769",
+    "name": "appelkappertjes azijn",
+    "description": "*Appelkappertjes op\nazijn",
+    "technicalArticleNumber": "3435713",
+    "commercialArticleNumber": "50113",
+    "LongName": "BONI appelkappertjes azijn 340g"
+  },
+  {
+    "gtin": "15400141131878",
+    "productId": "439341",
+    "name": "zilverzalm MSC",
+    "description": "*MSC certificatie",
+    "technicalArticleNumber": "3988540",
+    "commercialArticleNumber": "4094",
+    "LongName": "BONI zilverzalm MSC 213g"
+  },
+  {
+    "gtin": "05400141406542",
+    "productId": "11742",
+    "name": "olijven gr&zw paprika look",
+    "description": "* Mix groen en zwart\n* Ontpit\n* Griekenland\n* Met paprika, look en kruiden gevuld",
+    "technicalArticleNumber": "1358365",
+    "commercialArticleNumber": "28924",
+    "LongName": "BONI olijven gr&zw paprika look 1,25kg"
+  },
+  {
+    "gtin": "00000025092158",
+    "productId": "515",
+    "name": "gegarn.zuurkool blik",
+    "description": "*Zuurkool met spek\nen gerookte worst\n*Aantal porties: 1\n*Opwarmen in een\nkookpot",
+    "technicalArticleNumber": "9215",
+    "commercialArticleNumber": "9215",
+    "LongName": "WILLIAM SAURIN gegarn.zuurkool blik 400g"
+  },
+  {
+    "gtin": "03083681002409",
+    "productId": "601086",
+    "name": "Maïs Bio Blik",
+    "technicalArticleNumber": "4267188",
+    "commercialArticleNumber": "20490",
+    "LongName": "BONDUELLE Maïs Bio Blik 300g"
+  },
+  {
+    "gtin": "05400141236613",
+    "productId": "190021",
+    "name": "soep tomaat groente ball.",
+    "description": "*Tomaten-groentesoep\nmet balletjes",
+    "technicalArticleNumber": "3460531",
+    "commercialArticleNumber": "50314",
+    "LongName": "BONI soep tomaat groente ball. 460ml"
+  },
+  {
+    "gtin": "08005110170461",
+    "productId": "564212",
+    "name": "tomatenpulp met knoflook",
+    "technicalArticleNumber": "4204605",
+    "commercialArticleNumber": "15882",
+    "LongName": "MUTTI tomatenpulp met knoflook 400g"
+  },
+  {
+    "gtin": "05400141033250",
+    "productId": "94930",
+    "name": "appelmoes stuk bok",
+    "description": "*Appelmoes met\nstukjes appel",
+    "technicalArticleNumber": "2849697",
+    "commercialArticleNumber": "34161",
+    "LongName": "HAK appelmoes stuk bok 350g"
+  },
+  {
+    "gtin": "05400141302226",
+    "productId": "806",
+    "name": "rode uien",
+    "description": "Rode uien op azijn.",
+    "technicalArticleNumber": "13489",
+    "commercialArticleNumber": "13489",
+    "LongName": "BONI rode uien 660g"
+  },
+  {
+    "gtin": "15400141301745",
+    "productId": "534330",
+    "name": "Auberginecrème",
+    "technicalArticleNumber": "4128912",
+    "commercialArticleNumber": "9422",
+    "LongName": "BONI Auberginecrème 150g"
+  },
+  {
+    "gtin": "05400141712681",
+    "productId": "873039",
+    "name": "guacamole",
+    "technicalArticleNumber": "4727513",
+    "commercialArticleNumber": "24281",
+    "LongName": "BONI guacamole 450g"
+  },
+  {
+    "gtin": "05400141461343",
+    "productId": "709265",
+    "name": "Tarama",
+    "description": "*Dip op basis\nvan viseitjes",
+    "technicalArticleNumber": "4448921",
+    "commercialArticleNumber": "26344",
+    "LongName": "BONI Tarama 175g"
+  },
+  {
+    "gtin": "05400141438536",
+    "productId": "534952",
+    "name": "HUMMUS PESTO",
+    "technicalArticleNumber": "4128897",
+    "commercialArticleNumber": "9416",
+    "LongName": "BONI HUMMUS PESTO 150g"
+  },
+  {
+    "gtin": "05400141128765",
+    "productId": "822",
+    "name": "tomaten pulp stukjes sap",
+    "description": "*Tomatenstukjes in\ntomatensap\n*Altijd met factuur",
+    "technicalArticleNumber": "12876",
+    "commercialArticleNumber": "12876",
+    "LongName": "ECONOM tomaten pulp stukjes sap 2,5kg"
+  },
+  {
+    "gtin": "08004030101203",
+    "productId": "451898",
+    "name": "tonijn P&L olijfolie",
+    "technicalArticleNumber": "4012085",
+    "commercialArticleNumber": "4954",
+    "LongName": "RIO MARE tonijn P&L olijfolie 4x80g"
+  },
+  {
+    "gtin": "00024000001973",
+    "productId": "790771",
+    "name": "ananas stukjes op sap",
+    "technicalArticleNumber": "4597364",
+    "commercialArticleNumber": "1577",
+    "LongName": "DEL MONTE ananas stukjes op sap 435g"
+  },
+  {
+    "gtin": "05414972715513",
+    "productId": "149733",
+    "name": "pompoen brik",
+    "description": "* Pompoensoep",
+    "technicalArticleNumber": "3344884",
+    "commercialArticleNumber": "6573",
+    "LongName": "LIEBIG DÉLISOUP pompoen brik 1L"
+  },
+  {
+    "gtin": "05400141422207",
+    "productId": "4222",
+    "name": "lychees lichte siroop",
+    "description": "*Gepelde lychees\nop lichte siroop",
+    "technicalArticleNumber": "1009058",
+    "commercialArticleNumber": "12220",
+    "LongName": "BONI lychees lichte siroop 567g"
+  },
+  {
+    "gtin": "05400141001020",
+    "productId": "49696",
+    "name": "soep Classics tom.moza. brik",
+    "description": "*Tomatensoep\n*Soep in brik\n*Klaar voor gebruik\n*Warm gerecht\n*Makkelijk bereiden",
+    "technicalArticleNumber": "2480564",
+    "commercialArticleNumber": "38962",
+    "LongName": "KNORR soep Classics tom.moza. brik 1L"
+  },
+  {
+    "gtin": "15425020166574",
+    "productId": "572224",
+    "name": "Hummus Griekse topping",
+    "technicalArticleNumber": "4218516",
+    "commercialArticleNumber": "17255",
+    "LongName": "Hummus Griekse topping 200g"
+  },
+  {
+    "gtin": "05400141502312",
+    "productId": "866922",
+    "name": "Hummus Rode Biet Bio",
+    "technicalArticleNumber": "4719596",
+    "commercialArticleNumber": "10343",
+    "LongName": "BONI BIO Hummus Rode Biet Bio 200g"
+  },
+  {
+    "gtin": "05400141443691",
+    "productId": "863503",
+    "name": "mango hummus",
+    "technicalArticleNumber": "4714915",
+    "commercialArticleNumber": "31923",
+    "LongName": "BONI mango hummus 175g"
+  },
+  {
+    "gtin": "00024000058885",
+    "productId": "709",
+    "name": "hal.peer lichte sir. blik",
+    "description": "*Halve peren op\nlichte siroop",
+    "technicalArticleNumber": "10530",
+    "commercialArticleNumber": "10530",
+    "LongName": "DEL MONTE hal.peer lichte sir. blik 825g"
+  },
+  {
+    "gtin": "03083680613613",
+    "productId": "720",
+    "name": "Doperwten Bokaal",
+    "description": "*Doperwten",
+    "technicalArticleNumber": "11015",
+    "commercialArticleNumber": "11015",
+    "LongName": "BONDUELLE Doperwten Bokaal 330g"
+  },
+  {
+    "gtin": "15400141704690",
+    "productId": "854316",
+    "name": "pasta kit spaghetti pomodoro",
+    "technicalArticleNumber": "4703257",
+    "commercialArticleNumber": "31240",
+    "LongName": "BONI pasta kit spaghetti pomodoro 397g"
+  },
+  {
+    "gtin": "08410066135424",
+    "productId": "868275",
+    "name": "Tomato Frito Creat.ui&sjalot",
+    "description": "*Tomatensaus met\ngekarameliseerde uien\n& sjalotten",
+    "technicalArticleNumber": "4721265",
+    "commercialArticleNumber": "14663",
+    "LongName": "HEINZ Tomato Frito Creat.ui&sjalot 495g"
+  },
+  {
+    "gtin": "15400141453321",
+    "productId": "865590",
+    "name": "Cheritos in pesto",
+    "technicalArticleNumber": "4717780",
+    "commercialArticleNumber": "3995",
+    "LongName": "BONI Cheritos in pesto 150g"
+  },
+  {
+    "gtin": "15400141458340",
+    "productId": "14313",
+    "name": "perzikschijven light blik",
+    "description": "*Perzikschijfjes met\nzoetstoffen i.p.v.\nsuiker",
+    "technicalArticleNumber": "1608102",
+    "commercialArticleNumber": "11530",
+    "LongName": "BONI perzikschijven light blik 215g"
+  },
+  {
+    "gtin": "05400141443677",
+    "productId": "863494",
+    "name": "Hummus met Muhammara",
+    "technicalArticleNumber": "4714906",
+    "commercialArticleNumber": "31921",
+    "LongName": "BONI Hummus met Muhammara 175g"
+  },
+  {
+    "gtin": "35400141453325",
+    "productId": "863492",
+    "name": "Tomaat mozzarella dip",
+    "technicalArticleNumber": "4714896",
+    "commercialArticleNumber": "31918",
+    "LongName": "BONI Tomaat mozzarella dip 175g"
+  },
+  {
+    "gtin": "05414972709512",
+    "productId": "101838",
+    "name": "thai brik",
+    "description": "*Thaïse soep",
+    "technicalArticleNumber": "3104153",
+    "commercialArticleNumber": "43693",
+    "LongName": "LIEBIG DÉLISOUP thai brik 1L"
+  },
+  {
+    "gtin": "05400141711875",
+    "productId": "13033",
+    "name": "witte bonen bokaal",
+    "description": "*Biologische witte\nbonen",
+    "technicalArticleNumber": "1239803",
+    "commercialArticleNumber": "11875",
+    "LongName": "BONI BIO witte bonen bokaal 340g"
+  },
+  {
+    "gtin": "04002359018602",
+    "productId": "869446",
+    "name": "spaghetti formaggio 3P",
+    "technicalArticleNumber": "4722780",
+    "commercialArticleNumber": "18203",
+    "LongName": "MIRACOLI spaghetti formaggio 3P 311,4g"
+  },
+  {
+    "gtin": "05400141001259",
+    "productId": "49697",
+    "name": "soep Finesse asperge crème",
+    "description": "*Droge soep\n*Gebruiksklaar\n*Makkelijk bereiden\n*Warm gerecht\n*In een zakje",
+    "technicalArticleNumber": "2480565",
+    "commercialArticleNumber": "38965",
+    "LongName": "KNORR soep Finesse asperge crème 73g"
+  },
+  {
+    "gtin": "05410046020378",
+    "productId": "832430",
+    "name": "rabarbercompote",
+    "technicalArticleNumber": "4672683",
+    "commercialArticleNumber": "30227",
+    "LongName": "MATERNE rabarbercompote 375g"
+  },
+  {
+    "gtin": "00024000012313",
+    "productId": "629912",
+    "name": "ananas siroop",
+    "technicalArticleNumber": "4315206",
+    "commercialArticleNumber": "2214",
+    "LongName": "DEL MONTE ananas siroop 570g"
+  },
+  {
+    "gtin": "00000025103021",
+    "productId": "7128",
+    "name": "fruitcocktail op sap",
+    "description": "*Fruitcocktail op\ndruivensap",
+    "technicalArticleNumber": "1155645",
+    "commercialArticleNumber": "10302",
+    "LongName": "BONI fruitcocktail op sap 410g"
+  },
+  {
+    "gtin": "03083681028485",
+    "productId": "85539",
+    "name": "erwtjes & worteltjes blik",
+    "technicalArticleNumber": "2984071",
+    "commercialArticleNumber": "36023",
+    "LongName": "BONDUELLE erwtjes & worteltjes blik 305g"
+  },
+  {
+    "gtin": "00024000027584",
+    "productId": "102105",
+    "name": "halve peren siroop",
+    "description": "*Halve peren op\nlichte siroop",
+    "technicalArticleNumber": "3061216",
+    "commercialArticleNumber": "31441",
+    "LongName": "DEL MONTE halve peren siroop 420g"
+  },
+  {
+    "gtin": "05410056186934",
+    "productId": "698",
+    "name": "soep st germain",
+    "description": "*St. Germainsoep\nmet croutons",
+    "technicalArticleNumber": "12623",
+    "commercialArticleNumber": "12623",
+    "LongName": "ROYCO CRUNCHY soep st germain 20st"
+  },
+  {
+    "gtin": "05400141004144",
+    "productId": "15484",
+    "name": "asperge punten",
+    "description": "*Aspergepunten van\nwitte asperges",
+    "technicalArticleNumber": "1582001",
+    "commercialArticleNumber": "11900",
+    "LongName": "BONI asperge punten 190g"
+  },
+  {
+    "gtin": "03083681029307",
+    "productId": "85547",
+    "name": "doperwt & wortel blik",
+    "technicalArticleNumber": "2984122",
+    "commercialArticleNumber": "36022",
+    "LongName": "BONDUELLE doperwt & wortel blik 610g"
+  },
+  {
+    "gtin": "00000025105063",
+    "productId": "708",
+    "name": "halve peren lichte siroop",
+    "description": "*Halve peren op\nlichte siroop",
+    "technicalArticleNumber": "10506",
+    "commercialArticleNumber": "10506",
+    "LongName": "EVERYDAY halve peren lichte siroop 820g"
+  },
+  {
+    "gtin": "00000024093002",
+    "productId": "520",
+    "name": "ravioli zuiver rund blik",
+    "description": "*Ravioli van zuiver\nrundsvlees met\nItaliaanse saus\n*Aantal porties: 1\n*Pan, microgolfoven",
+    "technicalArticleNumber": "9300",
+    "commercialArticleNumber": "9300",
+    "LongName": "ZAPETTI ravioli zuiver rund blik 400g"
+  },
+  {
+    "gtin": "03083680534796",
+    "productId": "729",
+    "name": "Franse sper.bonen blik",
+    "description": "*Zeer fijne\nprinsessenbonen",
+    "technicalArticleNumber": "11283",
+    "commercialArticleNumber": "11283",
+    "LongName": "BONDUELLE Franse sper.bonen blik 400g"
+  },
+  {
+    "gtin": "05400141273786",
+    "productId": "473943",
+    "name": "gevogelteworsten",
+    "technicalArticleNumber": "4072259",
+    "commercialArticleNumber": "7243",
+    "LongName": "BONI gevogelteworsten 550g"
+  },
+  {
+    "gtin": "05414972337654",
+    "productId": "883427",
+    "name": "Tomatensoep kippenballetjes",
+    "technicalArticleNumber": "4741581",
+    "commercialArticleNumber": "27441",
+    "LongName": "LIEBIG Tomatensoep kippenballetjes 500ml"
+  },
+  {
+    "gtin": "05410363000794",
+    "productId": "120019",
+    "name": "tonijn olijfolie p&l",
+    "description": "*Tonijn met\nolijfolie",
+    "technicalArticleNumber": "3073024",
+    "commercialArticleNumber": "34248",
+    "LongName": "IMPERIAL tonijn olijfolie p&l 180g"
+  },
+  {
+    "gtin": "15410363010752",
+    "productId": "200925",
+    "name": "wilde roze zalm",
+    "description": "*Wilde zalm zonder\nvel, zonder graten",
+    "technicalArticleNumber": "3410874",
+    "commercialArticleNumber": "50057",
+    "LongName": "IMPERIAL wilde roze zalm 213g"
+  },
+  {
+    "gtin": "08004030624016",
+    "productId": "187953",
+    "name": "makreelf. tomatensaus",
+    "description": "*Gegrilde\nmakreelfilets in\ntomatensaus",
+    "technicalArticleNumber": "3470575",
+    "commercialArticleNumber": "50409",
+    "LongName": "RIO MARE makreelf. tomatensaus 169g"
+  },
+  {
+    "gtin": "05400141720396",
+    "productId": "17449",
+    "name": "artisjokbodems bok",
+    "description": "*Artisjokbodems",
+    "technicalArticleNumber": "1767972",
+    "commercialArticleNumber": "12040",
+    "LongName": "BONI artisjokbodems bok 410g"
+  },
+  {
+    "gtin": "08720600621826",
+    "productId": "826202",
+    "name": "selderharten",
+    "technicalArticleNumber": "4663333",
+    "commercialArticleNumber": "29974",
+    "LongName": "HAK selderharten 660g"
+  },
+  {
+    "gtin": "05400141134865",
+    "productId": "436218",
+    "name": "groene asperges",
+    "technicalArticleNumber": "3989782",
+    "commercialArticleNumber": "4150",
+    "LongName": "BONI groene asperges 330g"
+  },
+  {
+    "gtin": "05415087002000",
+    "productId": "493414",
+    "name": "insalatissime mais e tonno",
+    "technicalArticleNumber": "4044739",
+    "commercialArticleNumber": "5574",
+    "LongName": "RIO MARE insalatissime mais e tonno 160g"
+  },
+  {
+    "gtin": "00000025106510",
+    "productId": "2488",
+    "name": "noordkrieken ontpit siroop bok",
+    "description": "*Ontpitte\nnoordkrieken op\nsiroop",
+    "technicalArticleNumber": "1100081",
+    "commercialArticleNumber": "10651",
+    "LongName": "HAK noordkrieken ontpit siroop bok 700g"
+  },
+  {
+    "gtin": "35601010124036",
+    "productId": "241918",
+    "name": "makreelfilets in olijfolie",
+    "description": "*Makreelfilets in\nolijfolie",
+    "technicalArticleNumber": "3535538",
+    "commercialArticleNumber": "50720",
+    "LongName": "COCAGNE makreelfilets in olijfolie 125g"
+  },
+  {
+    "gtin": "05400141479751",
+    "productId": "856993",
+    "name": "exotische fruitsalad",
+    "description": "*Fruitmengeling\n*Ananas, kiwi,\nmango, blauwe bes",
+    "technicalArticleNumber": "4706876",
+    "commercialArticleNumber": "31461",
+    "LongName": "BONI exotische fruitsalad 160g"
+  },
+  {
+    "gtin": "05410046017828",
+    "productId": "214884",
+    "name": "appelmous.zond.t.suik. bok",
+    "description": "*Appelmousseline\nzonder suiker",
+    "technicalArticleNumber": "3504973",
+    "commercialArticleNumber": "50565",
+    "LongName": "MATERNE appelmous.zond.t.suik. bok 360g"
+  },
+  {
+    "gtin": "00000025102574",
+    "productId": "672",
+    "name": "hal.abrik.lichte sir blik",
+    "description": "*Halve abrikozen op\nlichte siroop",
+    "technicalArticleNumber": "10257",
+    "commercialArticleNumber": "10257",
+    "LongName": "DEL MONTE hal.abrik.lichte sir blik 420g"
+  },
+  {
+    "gtin": "15411251104003",
+    "productId": "58256",
+    "name": "sardienen in eigen nat",
+    "description": "*Sardines in eigen\nnat",
+    "technicalArticleNumber": "2310779",
+    "commercialArticleNumber": "16804",
+    "LongName": "COCAGNE sardienen in eigen nat 125g"
+  },
+  {
+    "gtin": "05415087016090",
+    "productId": "623507",
+    "name": "tonijn natuur",
+    "technicalArticleNumber": "4304547",
+    "commercialArticleNumber": "23713",
+    "LongName": "SAUPIQUET tonijn natuur 185g"
+  },
+  {
+    "gtin": "08720600056109",
+    "productId": "821504",
+    "name": "doperwtjes extra fijn",
+    "technicalArticleNumber": "4655743",
+    "commercialArticleNumber": "29689",
+    "LongName": "HAK doperwtjes extra fijn 350g"
+  },
+  {
+    "gtin": "08004030125001",
+    "productId": "690671",
+    "name": "tonijn MSC olijfolie",
+    "description": "*Tonijnmoot in\nolijfolie\n*MSC",
+    "technicalArticleNumber": "4417176",
+    "commercialArticleNumber": "19789",
+    "LongName": "RIO MARE tonijn MSC olijfolie 160g"
+  },
+  {
+    "gtin": "03083680615433",
+    "productId": "866274",
+    "name": "Witte bonen Tmtnsaus Blik",
+    "description": "*Witte bonen in\n*tomatensaus",
+    "technicalArticleNumber": "4718725",
+    "commercialArticleNumber": "6978",
+    "LongName": "BONDUELLE Witte bonen Tmtnsaus Blik 200g"
+  },
+  {
+    "gtin": "05412374001258",
+    "productId": "594648",
+    "name": "makreelfil.mosterdsaus",
+    "technicalArticleNumber": "4255464",
+    "commercialArticleNumber": "21893",
+    "LongName": "FEUILLE D'OR makreelfil.mosterdsaus 125g"
+  },
+  {
+    "gtin": "00000025093049",
+    "productId": "522",
+    "name": "ravioli bolognese blik",
+    "description": "*Ravioli met\nbolognesesaus\n*Aantal porties: 1\n*Opwarmen in oven,\npan, microgolfoven",
+    "technicalArticleNumber": "9304",
+    "commercialArticleNumber": "9304",
+    "LongName": "ZAPETTI ravioli bolognese blik 800g"
+  },
+  {
+    "gtin": "00000025092905",
+    "productId": "518",
+    "name": "ravioli zuiver rund blik",
+    "description": "*Ravioli van zuiver\nrundsvlees met\nItaliaanse saus\n*Aantal porties: 3\n*Pan, microgolfoven",
+    "technicalArticleNumber": "9290",
+    "commercialArticleNumber": "9290",
+    "LongName": "ZAPETTI ravioli zuiver rund blik 1,2kg"
+  },
+  {
+    "gtin": "05412535002599",
+    "productId": "686674",
+    "name": "ontpitte groene olijven",
+    "technicalArticleNumber": "4410172",
+    "commercialArticleNumber": "24986",
+    "LongName": "BRINDOLIVE ontpitte groene olijven 940g"
+  },
+  {
+    "gtin": "05410056186965",
+    "productId": "697",
+    "name": "Crunchy curry",
+    "description": "*Kerriesoep met\ncroutons",
+    "technicalArticleNumber": "12620",
+    "commercialArticleNumber": "12620",
+    "LongName": "ROYCO Crunchy curry 20st"
+  },
+  {
+    "gtin": "08004030140011",
+    "productId": "287915",
+    "name": "tonijn in olijfolie",
+    "technicalArticleNumber": "3682763",
+    "commercialArticleNumber": "12108",
+    "LongName": "RIO MARE tonijn in olijfolie 240g"
+  },
+  {
+    "gtin": "05414972727370",
+    "productId": "523243",
+    "name": "julienne oosterse groenten",
+    "technicalArticleNumber": "4109095",
+    "commercialArticleNumber": "8705",
+    "LongName": "LIEBIG julienne oosterse groenten 1L"
+  },
+  {
+    "gtin": "05400141662313",
+    "productId": "708085",
+    "name": "leverpastei",
+    "technicalArticleNumber": "4447580",
+    "commercialArticleNumber": "22309",
+    "LongName": "BONI leverpastei 3x43g"
+  },
+  {
+    "gtin": "05410056187467",
+    "productId": "691",
+    "name": "soep gevogelte",
+    "description": "*Gevogeltesoep met\ncroutons",
+    "technicalArticleNumber": "12610",
+    "commercialArticleNumber": "12610",
+    "LongName": "ROYCO CRUNCHY soep gevogelte 20st"
+  },
+  {
+    "gtin": "08715017220335",
+    "productId": "662032",
+    "name": "sojascheuten",
+    "technicalArticleNumber": "4368327",
+    "commercialArticleNumber": "24165",
+    "LongName": "SO THAI sojascheuten 340g"
+  },
+  {
+    "gtin": "05400141166897",
+    "productId": "18568",
+    "name": "mirabellen op siroop bokaal",
+    "description": "*Kleine ronde pruim\nop siroop",
+    "technicalArticleNumber": "1716018",
+    "commercialArticleNumber": "10438",
+    "LongName": "BONI mirabellen op siroop bokaal 560g"
+  },
+  {
+    "gtin": "05400141911176",
+    "productId": "873527",
+    "name": "Trio wintergroenten",
+    "technicalArticleNumber": "4728419",
+    "commercialArticleNumber": "31676",
+    "LongName": "BONI Trio wintergroenten 180g"
+  },
+  {
+    "gtin": "15410363000449",
+    "productId": "139734",
+    "name": "pilchards tomatensaus",
+    "description": "*Pilchard met\ntomatensaus",
+    "technicalArticleNumber": "3176861",
+    "commercialArticleNumber": "1515",
+    "LongName": "IMPERIAL pilchards tomatensaus 400g"
+  },
+  {
+    "gtin": "08710277113205",
+    "productId": "18534",
+    "name": "asperges geschild",
+    "description": "*Witte geschilde\nasperges",
+    "technicalArticleNumber": "1654434",
+    "commercialArticleNumber": "11769",
+    "LongName": "AARTS asperges geschild 530g"
+  },
+  {
+    "gtin": "15400141155690",
+    "productId": "285957",
+    "name": "Franse zwarte olijven Nyons",
+    "technicalArticleNumber": "3677008",
+    "commercialArticleNumber": "9258",
+    "LongName": "BONI Franse zwarte olijven Nyons 150g"
+  },
+  {
+    "gtin": "05400141665604",
+    "productId": "712476",
+    "name": "levercrème",
+    "description": "*Levercrème",
+    "technicalArticleNumber": "4455005",
+    "commercialArticleNumber": "26674",
+    "LongName": "BONI levercrème 3x43g"
+  },
+  {
+    "gtin": "08714100879580",
+    "productId": "394419",
+    "name": "pastasnack tomato mozzarella",
+    "description": "*Snack\n*Klaar voor gebruik\n*Makkelijk bereiden\n*Instant maaltijd\n*Tomatensmaak",
+    "technicalArticleNumber": "3944306",
+    "commercialArticleNumber": "1623",
+    "LongName": "KNORR pastasnack tomato mozzarella 72g"
+  },
+  {
+    "gtin": "05410056189485",
+    "productId": "701",
+    "name": "Crunchy tomaat met balletjes",
+    "description": "*Tomatensoep\nmet balletjes\nen croutons",
+    "technicalArticleNumber": "12650",
+    "commercialArticleNumber": "12650",
+    "LongName": "ROYCO Crunchy tomaat met balletjes 20st"
+  },
+  {
+    "gtin": "00000025117356",
+    "productId": "754",
+    "name": "palmharten blik",
+    "description": "*Palmharten",
+    "technicalArticleNumber": "11735",
+    "commercialArticleNumber": "11735",
+    "LongName": "BONI palmharten blik 400g"
+  },
+  {
+    "gtin": "15400141618577",
+    "productId": "735059",
+    "name": "soep kip groente",
+    "technicalArticleNumber": "4496000",
+    "commercialArticleNumber": "19866",
+    "LongName": "BONI soep kip groente 515ml"
+  },
+  {
+    "gtin": "05410033201650",
+    "productId": "10767",
+    "name": "tv-worstjes light",
+    "description": "*Worst in blik\n*Klaar voor gebruik\n*Snelle snack\n*Perfect als apero\n*Kwaliteitsvlees",
+    "technicalArticleNumber": "1397789",
+    "commercialArticleNumber": "9086",
+    "LongName": "ZWAN tv-worstjes light 205g"
+  },
+  {
+    "gtin": "05410611611079",
+    "productId": "568035",
+    "name": "worst",
+    "technicalArticleNumber": "4211183",
+    "commercialArticleNumber": "16260",
+    "LongName": "BOMA worst 30g"
+  },
+  {
+    "gtin": "08001240101566",
+    "productId": "768500",
+    "name": "polpa tomatenpulp",
+    "technicalArticleNumber": "4554214",
+    "commercialArticleNumber": "18309",
+    "LongName": "ELVEA polpa tomatenpulp 690g"
+  },
+  {
+    "gtin": "05410056187450",
+    "productId": "693",
+    "name": "soep asperge",
+    "description": "*Aspergesoep met\ncroutons",
+    "technicalArticleNumber": "12613",
+    "commercialArticleNumber": "12613",
+    "LongName": "ROYCO CRUNCHY soep asperge 20st"
+  },
+  {
+    "gtin": "00024000124764",
+    "productId": "629904",
+    "name": "perzik schijven op sap",
+    "technicalArticleNumber": "4315198",
+    "commercialArticleNumber": "1612",
+    "LongName": "DEL MONTE perzik schijven op sap 415g"
+  },
+  {
+    "gtin": "05413612210326",
+    "productId": "850331",
+    "name": "croutons Natuur",
+    "technicalArticleNumber": "4697751",
+    "commercialArticleNumber": "30856",
+    "LongName": "CROUSTI SALAD croutons Natuur 700g"
+  },
+  {
+    "gtin": "05410056187443",
+    "productId": "694",
+    "name": "soep champignon",
+    "description": "*Champignonsoep met\ncroutons",
+    "technicalArticleNumber": "12614",
+    "commercialArticleNumber": "12614",
+    "LongName": "ROYCO CRUNCHY soep champignon 20st"
+  },
+  {
+    "gtin": "05410363010922",
+    "productId": "57350",
+    "name": "wilde tonijn olijfolie",
+    "description": "*Tonijn in olijfolie",
+    "technicalArticleNumber": "2339841",
+    "commercialArticleNumber": "18380",
+    "LongName": "IMPERIAL wilde tonijn olijfolie 400g"
+  },
+  {
+    "gtin": "05414972337678",
+    "productId": "883405",
+    "name": "Kippensoep met pasta",
+    "technicalArticleNumber": "4741543",
+    "commercialArticleNumber": "27081",
+    "LongName": "LIEBIG Kippensoep met pasta 500ml"
+  },
+  {
+    "gtin": "65400141257900",
+    "productId": "40662",
+    "name": "Classics 8 gr.velouté brik",
+    "description": "*Groentesoep\n*Soep in brik\n*Klaar voor gebruik\n*Warm gerecht\n*Makkelijk bereiden",
+    "technicalArticleNumber": "2481816",
+    "commercialArticleNumber": "39160",
+    "LongName": "KNORR Classics 8 gr.velouté brik 500ml"
+  },
+  {
+    "gtin": "00024000147275",
+    "productId": "711",
+    "name": "fruitcocktail sap blik",
+    "description": "*Fruitcocktail op\nfruitsap",
+    "technicalArticleNumber": "10542",
+    "commercialArticleNumber": "10542",
+    "LongName": "DEL MONTE fruitcocktail sap blik 415g"
+  },
+  {
+    "gtin": "85400141618453",
+    "productId": "879038",
+    "name": "macaroni Italiano 5P",
+    "description": "*macaroni italiano",
+    "technicalArticleNumber": "4735263",
+    "commercialArticleNumber": "20193",
+    "LongName": "MIRACOLI macaroni Italiano 5P 560g"
+  },
+  {
+    "gtin": "15410363700615",
+    "productId": "11479",
+    "name": "wilde roze zalm",
+    "description": "*Wilde roze zalm",
+    "technicalArticleNumber": "1388464",
+    "commercialArticleNumber": "9806",
+    "LongName": "IMPERIAL wilde roze zalm 106g"
+  },
+  {
+    "gtin": "08720182273857",
+    "productId": "43135",
+    "name": "soep sm.v.toen kip vermi. brik",
+    "description": "*Soep in brik\n*Snelle maaltijd\n*Klaar voor gebruik\n*Snelle maaltijd\n*Groentensoep",
+    "technicalArticleNumber": "2532887",
+    "commercialArticleNumber": "15314",
+    "LongName": "KNORR soep sm.v.toen kip vermi. brik 1L"
+  },
+  {
+    "gtin": "08004030341784",
+    "productId": "621260",
+    "name": "tonijn natuur",
+    "technicalArticleNumber": "4300753",
+    "commercialArticleNumber": "23585",
+    "LongName": "RIO MARE tonijn natuur 2x160g"
+  },
+  {
+    "gtin": "08720182422248",
+    "productId": "16603",
+    "name": "Spaghetteria Pomodoro-Mozz.",
+    "description": "*Heerlijke maaltijd\n*Snel gerecht\n*Klaar voor gebruik\n*Tomatensmaak\n*Warm gerecht",
+    "technicalArticleNumber": "1433528",
+    "commercialArticleNumber": "9095",
+    "LongName": "KNORR Spaghetteria Pomodoro-Mozz. 163g"
+  },
+  {
+    "gtin": "15410363710164",
+    "productId": "86421",
+    "name": "krab Pacific Pink",
+    "description": "*Roze krab uit\nde Stille Oceaan",
+    "technicalArticleNumber": "3016991",
+    "commercialArticleNumber": "14144",
+    "LongName": "IMPERIAL krab Pacific Pink 170g"
+  },
+  {
+    "gtin": "05400141122220",
+    "productId": "18699",
+    "name": "soep kreeft",
+    "description": "*Soep in blik\n*Snelle maaltijd\n*Snelle maaltijd\n*Groentensoep\n*Warm gerecht",
+    "technicalArticleNumber": "1717200",
+    "commercialArticleNumber": "12222",
+    "LongName": "KNORR soep kreeft 515ml"
+  },
+  {
+    "gtin": "00000025093025",
+    "productId": "521",
+    "name": "ravioli bolognese blik",
+    "description": "*Ravioli met\nbolognesesaus\n*Aantal porties: 1\n*Opwarmen in oven,\npan, microgolfoven",
+    "technicalArticleNumber": "9302",
+    "commercialArticleNumber": "9302",
+    "LongName": "ZAPETTI ravioli bolognese blik 400g"
+  },
+  {
+    "gtin": "75400141257907",
+    "productId": "225009",
+    "name": "tomatensupreme",
+    "description": "*Soep in brik\n*Snelle maaltijd\n*Klaar voor gebruik\n*Vegetarisch eten\n*Groentensoep",
+    "technicalArticleNumber": "3558145",
+    "commercialArticleNumber": "50920",
+    "LongName": "KNORR tomatensupreme 500ml"
+  },
+  {
+    "gtin": "08712100109904",
+    "productId": "83537",
+    "name": "soep Classics pomp.bal. brik",
+    "description": "*Soep in brik\n*Snelle maaltijd\n*Klaar voor gebruik\n*Snelle maaltijd\n*Groentensoep",
+    "technicalArticleNumber": "2995465",
+    "commercialArticleNumber": "12856",
+    "LongName": "KNORR soep Classics pomp.bal. brik 1L"
+  },
+  {
+    "gtin": "08720600371103",
+    "productId": "765",
+    "name": "asperges hors-d'oeuvre",
+    "description": "*Asperges hors\nd'oeuvre",
+    "technicalArticleNumber": "11912",
+    "commercialArticleNumber": "11912",
+    "LongName": "HAK asperges hors-d'oeuvre 280g"
+  },
+  {
+    "gtin": "00000025091984",
+    "productId": "513",
+    "name": "gegarn.zuurkool blik",
+    "description": "*Zuurkool, met spek\nen gerookte worst\n*Aantal porties: 2\n*Opwarmen in een\nkookpot",
+    "technicalArticleNumber": "9198",
+    "commercialArticleNumber": "9198",
+    "LongName": "WILLIAM SAURIN gegarn.zuurkool blik 800g"
+  },
+  {
+    "gtin": "05414972100265",
+    "productId": "50750",
+    "name": "soep tomaten groenten vermi.",
+    "description": "*Tomaten-groentesoep\nmet vermicelli",
+    "technicalArticleNumber": "2400632",
+    "commercialArticleNumber": "36655",
+    "LongName": "ROYCO soep tomaten groenten vermi. 20st"
+  },
+  {
+    "gtin": "05400141002133",
+    "productId": "42547",
+    "name": "soep Class.courg.prei brik",
+    "description": "*Groentesoep\n*Soep in brik\n*Klaar voor gebruik\n*Warm gerecht\n*Makkelijk bereiden",
+    "technicalArticleNumber": "2532874",
+    "commercialArticleNumber": "15313",
+    "LongName": "KNORR soep Class.courg.prei brik 500ml"
+  },
+  {
+    "gtin": "03038353410501",
+    "productId": "81690",
+    "name": "cousc.Roy.9gr. blik",
+    "description": "*Couscous met 9\ngroenten\n*Opwarmen in de pan,\nin de microgolfoven",
+    "technicalArticleNumber": "2962241",
+    "commercialArticleNumber": "40519",
+    "LongName": "WILLIAM SAURIN cousc.Roy.9gr. blik 980g"
+  },
+  {
+    "gtin": "25400141660245",
+    "productId": "677294",
+    "name": "soep tomaat-vermicelli",
+    "description": "*Soep in brik\n*Snelle maaltijd\n*Klaar voor gebruik\n*Vegetarisch eten\n*Groentensoep",
+    "technicalArticleNumber": "4394140",
+    "commercialArticleNumber": "12859",
+    "LongName": "KNORR soep tomaat-vermicelli 1L"
+  },
+  {
+    "gtin": "04000503846002",
+    "productId": "31410",
+    "name": "Weense w. bio lv gv bok",
+    "description": "*Biologische Weense\nworstjes. Lactosevrij en glutenvrij",
+    "technicalArticleNumber": "1662435",
+    "commercialArticleNumber": "42999",
+    "LongName": "MEICA Weense w. bio lv gv bok 540g"
+  },
+  {
+    "gtin": "05410056186507",
+    "productId": "688",
+    "name": "soep tomaten",
+    "description": "*Klassieke\ntomatensoep",
+    "technicalArticleNumber": "12601",
+    "commercialArticleNumber": "12601",
+    "LongName": "ROYCO soep tomaten 25st"
+  },
+  {
+    "gtin": "18001240101709",
+    "productId": "663926",
+    "name": "passata brik",
+    "technicalArticleNumber": "4371275",
+    "commercialArticleNumber": "16241",
+    "LongName": "ELVEA passata brik 1kg"
+  },
+  {
+    "gtin": "05412374001135",
+    "productId": "594674",
+    "name": "makreelfilets visolie",
+    "technicalArticleNumber": "4255490",
+    "commercialArticleNumber": "21923",
+    "LongName": "FEUILLE D'OR makreelfilets visolie 125g"
+  },
+  {
+    "gtin": "05412374001333",
+    "productId": "706601",
+    "name": "makreelfil. olijfolie",
+    "technicalArticleNumber": "4443597",
+    "commercialArticleNumber": "16344",
+    "LongName": "FEUILLE D'OR makreelfil. olijfolie 125g"
+  },
+  {
+    "gtin": "15415087014765",
+    "productId": "869134",
+    "name": "insalatissime quinoa",
+    "technicalArticleNumber": "4722569",
+    "commercialArticleNumber": "17790",
+    "LongName": "RIO MARE insalatissime quinoa 160g"
+  },
+  {
+    "gtin": "05410056186545",
+    "productId": "700",
+    "name": "soep prei",
+    "description": "*Klassieke preisoep",
+    "technicalArticleNumber": "12627",
+    "commercialArticleNumber": "12627",
+    "LongName": "ROYCO soep prei 25st"
+  },
+  {
+    "gtin": "03021690030587",
+    "productId": "803849",
+    "name": "pasta rund balletjes tomaat",
+    "technicalArticleNumber": "4620376",
+    "commercialArticleNumber": "14617",
+    "LongName": "ZAPETTI pasta rund balletjes tomaat 400g"
+  },
+  {
+    "gtin": "05414972116174",
+    "productId": "978793",
+    "name": "soep 9 Groenteweelde",
+    "technicalArticleNumber": "4777913",
+    "commercialArticleNumber": "9081",
+    "LongName": "LIEBIG soep 9 Groenteweelde 2x350ml"
+  },
+  {
+    "gtin": "05400141406399",
+    "productId": "53555",
+    "name": "zuurkool witte wijn blik",
+    "description": "*Zuurkool met witte\nwijn, varkensvlees\nen gerookte worsten\n*Aantal porties: 2\n*Pan, microgolfoven",
+    "technicalArticleNumber": "2376294",
+    "commercialArticleNumber": "26308",
+    "LongName": "EVERYDAY zuurkool witte wijn blik 800g"
+  },
+  {
+    "gtin": "08004030860032",
+    "productId": "869465",
+    "name": "Insa.Tonijn Couscous MSC",
+    "technicalArticleNumber": "4722802",
+    "commercialArticleNumber": "18423",
+    "LongName": "RIO MARE Insa.Tonijn Couscous MSC 2x160g"
+  },
+  {
+    "gtin": "08712566669455",
+    "productId": "43136",
+    "name": "soep sm.v.toen jul.tom.bal brik",
+    "description": "*Soep in brik\n*Snelle maaltijd\n*Klaar voor gebruik\n*Snelle maaltijd\n*Groentensoep",
+    "technicalArticleNumber": "2532888",
+    "commercialArticleNumber": "15698",
+    "LongName": "KNORR soep sm.v.toen jul.tom.bal brik 1L"
+  },
+  {
+    "gtin": "08720182548320",
+    "productId": "858650",
+    "name": "TV worstjes veggie 11 stuks",
+    "technicalArticleNumber": "4708915",
+    "commercialArticleNumber": "31667",
+    "LongName": "ZWAN TV worstjes veggie 11 stuks 200g"
+  },
+  {
+    "gtin": "15400141251903",
+    "productId": "59356",
+    "name": "TV-worstjes gevogelte",
+    "description": "*Worst in blik\n*Klaar voor gebruik\n*Snelle snack\n*Perfect als apero\n*Kwaliteitsvlees",
+    "technicalArticleNumber": "2350739",
+    "commercialArticleNumber": "24032",
+    "LongName": "ZWAN TV-worstjes gevogelte 205g"
+  },
+  {
+    "gtin": "05410951003015",
+    "productId": "190746",
+    "name": "uienkonfijt bok",
+    "technicalArticleNumber": "3462421",
+    "commercialArticleNumber": "50333",
+    "LongName": "DIDDEN uienkonfijt bok 220g"
+  },
+  {
+    "gtin": "05400141168600",
+    "productId": "645",
+    "name": "Hotdogworsten",
+    "description": "*48 hotdogworsten\n*Altijd met factuur",
+    "technicalArticleNumber": "9019",
+    "commercialArticleNumber": "9019",
+    "LongName": "ECONOM Hotdogworsten 2,650kg"
+  },
+  {
+    "gtin": "05425001808625",
+    "productId": "774510",
+    "name": "tomaat bruschetta",
+    "technicalArticleNumber": "4563904",
+    "commercialArticleNumber": "1523",
+    "LongName": "WONKY tomaat bruschetta 150g"
+  },
+  {
+    "gtin": "15410951003029",
+    "productId": "184290",
+    "name": "uienkonfijt Ardense bok",
+    "technicalArticleNumber": "3470438",
+    "commercialArticleNumber": "50404",
+    "LongName": "DIDDEN uienkonfijt Ardense bok 220g"
+  },
+  {
+    "gtin": "15410363700677",
+    "productId": "11559",
+    "name": "wilde rode zalm MSC",
+    "description": "*Wilde rode zalm",
+    "technicalArticleNumber": "1388515",
+    "commercialArticleNumber": "9841",
+    "LongName": "IMPERIAL wilde rode zalm MSC 106g"
+  },
+  {
+    "gtin": "15400141095644",
+    "productId": "133156",
+    "name": "witte tonijn olijfolie MSC",
+    "description": "*Witte tonijn met\nolijfolie\n*met label MSC",
+    "technicalArticleNumber": "3182954",
+    "commercialArticleNumber": "8673",
+    "LongName": "BONI witte tonijn olijfolie MSC 110g"
+  },
+  {
+    "gtin": "05400141243628",
+    "productId": "188122",
+    "name": "soep tomaten crème",
+    "description": "*Tomatencrème soep",
+    "technicalArticleNumber": "3460508",
+    "commercialArticleNumber": "50313",
+    "LongName": "BONI soep tomaten crème 460ml"
+  },
+  {
+    "gtin": "00000025091755",
+    "productId": "511",
+    "name": "vleesballetjes in tomatensaus",
+    "description": "*25 vleesballetjes\nin tomatensaus\n*Aantal porties: 4\n*Opwarmen in de pan,\nin de microgolfoven",
+    "technicalArticleNumber": "9175",
+    "commercialArticleNumber": "9175",
+    "LongName": "ZWAN vleesballetjes in tomatensaus 210g"
+  },
+  {
+    "gtin": "15400141324195",
+    "productId": "129251",
+    "name": "soep pompoen velouté brik",
+    "description": "*Pompoenvelouté",
+    "technicalArticleNumber": "3253857",
+    "commercialArticleNumber": "3787",
+    "LongName": "BONI soep pompoen velouté brik 1L"
+  },
+  {
+    "gtin": "08001240040414",
+    "productId": "211247",
+    "name": "gepelde tomaten blokjes",
+    "description": "*Gepelde tomaten\n*Blokjes versneden\n*Textuur geven aan\nsauzen\n*Altijd met factuur",
+    "technicalArticleNumber": "3522236",
+    "commercialArticleNumber": "1927",
+    "LongName": "ELVEA gepelde tomaten blokjes 2,5kg"
+  },
+  {
+    "gtin": "05400141506617",
+    "productId": "730654",
+    "name": "Zalmstukj Belle Vue",
+    "description": "*Hapjes gestoomde\nzalm kruiden",
+    "technicalArticleNumber": "4487719",
+    "commercialArticleNumber": "2417",
+    "LongName": "BONI Zalmstukj Belle Vue 90g"
+  },
+  {
+    "gtin": "08004030104167",
+    "productId": "881201",
+    "name": "Tonijn in olijfolie msc",
+    "technicalArticleNumber": "4738575",
+    "commercialArticleNumber": "32403",
+    "LongName": "RIO MARE Tonijn in olijfolie msc 2x120g"
+  },
+  {
+    "gtin": "00000024091459",
+    "productId": "510",
+    "name": "boterhamworst",
+    "description": "*Boterhamworst van\nvarkens- en\nkippenvlees",
+    "technicalArticleNumber": "9145",
+    "commercialArticleNumber": "9145",
+    "LongName": "ZWAN boterhamworst 205g"
+  },
+  {
+    "gtin": "05410611610225",
+    "productId": "882121",
+    "name": "Frankfurter Deluxe",
+    "description": "*frankfurterworsten",
+    "technicalArticleNumber": "4739862",
+    "commercialArticleNumber": "7461",
+    "LongName": "BOMA Frankfurter Deluxe 40g"
+  },
+  {
+    "gtin": "85400141453320",
+    "productId": "865608",
+    "name": "Pesto",
+    "technicalArticleNumber": "4717806",
+    "commercialArticleNumber": "4056",
+    "LongName": "BONI Pesto 300g"
+  },
+  {
+    "gtin": "15400141022336",
+    "productId": "13764",
+    "name": "halve peer sap blik",
+    "description": "*Halve peren op\nperensap",
+    "technicalArticleNumber": "1231118",
+    "commercialArticleNumber": "10509",
+    "LongName": "BONI halve peer sap blik 412g"
+  },
+  {
+    "gtin": "15400141299509",
+    "productId": "532732",
+    "name": "kappertjes azijn",
+    "technicalArticleNumber": "4125189",
+    "commercialArticleNumber": "9284",
+    "LongName": "ECONOM kappertjes azijn 900g"
+  },
+  {
+    "gtin": "08013945932802",
+    "productId": "849830",
+    "name": "tapenade zwart olijf",
+    "technicalArticleNumber": "4697180",
+    "commercialArticleNumber": "30821",
+    "LongName": "FATTORIE UMBRE tapenade zwart olijf 140g"
+  },
+  {
+    "gtin": "05400141982008",
+    "productId": "745",
+    "name": "groenten macédoine blik",
+    "description": "*Groentemengeling",
+    "technicalArticleNumber": "11424",
+    "commercialArticleNumber": "11424",
+    "LongName": "BONI groenten macédoine blik 400g"
+  },
+  {
+    "gtin": "15400141367451",
+    "productId": "10341",
+    "name": "wortelen",
+    "description": "*Biologische\nwortelen",
+    "technicalArticleNumber": "1137803",
+    "commercialArticleNumber": "11871",
+    "LongName": "BONI BIO wortelen 340g"
+  },
+  {
+    "gtin": "15400141387824",
+    "productId": "54370",
+    "name": "hele prins.bonen ex.fijn",
+    "description": "*Extra fijne hele\nprinsessenbonen",
+    "technicalArticleNumber": "2158347",
+    "commercialArticleNumber": "12388",
+    "LongName": "BONI BIO hele prins.bonen ex.fijn 340g"
+  },
+  {
+    "gtin": "05410153654909",
+    "productId": "55733",
+    "name": "maïskorrels z.suiker bio",
+    "description": "*Gele maïskorrels\nzonder toegevoegde\nsuiker",
+    "technicalArticleNumber": "2327387",
+    "commercialArticleNumber": "18445",
+    "LongName": "NOLIKO maïskorrels z.suiker bio 340g"
+  },
+  {
+    "gtin": "05410363000091",
+    "productId": "797586",
+    "name": "kabeljauwlever",
+    "technicalArticleNumber": "4609017",
+    "commercialArticleNumber": "3949",
+    "LongName": "IMPERIAL kabeljauwlever 121g"
+  },
+  {
+    "gtin": "08004030830110",
+    "productId": "224120",
+    "name": "Insalatissime Pasta MSC",
+    "description": "*Tonijn met pasta\nen cherry tomatoes",
+    "technicalArticleNumber": "3473909",
+    "commercialArticleNumber": "50449",
+    "LongName": "RIO MARE Insalatissime Pasta MSC 220g"
+  },
+  {
+    "gtin": "05410533185597",
+    "productId": "1104",
+    "name": "bosbessen bereid met wijn blik",
+    "description": "*Bereide bosbessen\nmet wijn",
+    "technicalArticleNumber": "16570",
+    "commercialArticleNumber": "16570",
+    "LongName": "HABI bosbessen bereid met wijn blik 485g"
+  },
+  {
+    "gtin": "08690508900142",
+    "productId": "446523",
+    "name": "tomaten pasta",
+    "technicalArticleNumber": "4026026",
+    "commercialArticleNumber": "5361",
+    "LongName": "TUKAS tomaten pasta 830g"
+  },
+  {
+    "gtin": "18001240010407",
+    "productId": "17390",
+    "name": "Pelati hele gepelde tom.blik",
+    "description": "*Hele gepelde\ntomaten\n*Altijd met factuur",
+    "technicalArticleNumber": "1733131",
+    "commercialArticleNumber": "12944",
+    "LongName": "ELVEA Pelati hele gepelde tom.blik 2,5kg"
+  },
+  {
+    "gtin": "15400141850014",
+    "productId": "878676",
+    "name": "groene olijven",
+    "technicalArticleNumber": "4734923",
+    "commercialArticleNumber": "18766",
+    "LongName": "BONI groene olijven 300g"
+  },
+  {
+    "gtin": "04010142054324",
+    "productId": "939987",
+    "name": "Hotdog | 8 st",
+    "technicalArticleNumber": "4767498",
+    "commercialArticleNumber": "1452",
+    "LongName": "WIKINGER Hotdog | 8 st 300g"
+  },
+  {
+    "gtin": "05400141350791",
+    "productId": "162453",
+    "name": "Gazpacho",
+    "description": "*Verse groenten-\ngazpacho met olijf-\nolie",
+    "technicalArticleNumber": "3258788",
+    "commercialArticleNumber": "40138",
+    "LongName": "BONI Gazpacho 1L"
+  },
+  {
+    "gtin": "04010142054317",
+    "productId": "942030",
+    "name": "Frankfurter worst 6 st",
+    "technicalArticleNumber": "4767729",
+    "commercialArticleNumber": "4894",
+    "LongName": "WIKINGER Frankfurter worst 6 st 270g"
+  },
+  {
+    "gtin": "15410363012848",
+    "productId": "799123",
+    "name": "gerookte tonijn",
+    "technicalArticleNumber": "4612310",
+    "commercialArticleNumber": "9556",
+    "LongName": "IMPERIAL gerookte tonijn 160g"
+  },
+  {
+    "gtin": "04010142101479",
+    "productId": "940014",
+    "name": "Cocktailworstjes | 14 st",
+    "technicalArticleNumber": "4767526",
+    "commercialArticleNumber": "1600",
+    "LongName": "WIKINGER Cocktailworstjes | 14 st 120g"
+  },
+  {
+    "gtin": "05400141850031",
+    "productId": "878681",
+    "name": "zwarte olijven",
+    "technicalArticleNumber": "4734935",
+    "commercialArticleNumber": "18860",
+    "LongName": "BONI zwarte olijven 300g"
+  },
+  {
+    "gtin": "05410046070311",
+    "productId": "865076",
+    "name": "Appelencompote met stukjes",
+    "technicalArticleNumber": "4717118",
+    "commercialArticleNumber": "2403",
+    "LongName": "MATERNE Appelencompote met stukjes 200g"
+  },
+  {
+    "gtin": "05404009103758",
+    "productId": "339760",
+    "name": "augurkenschijfjes zoetzuur",
+    "technicalArticleNumber": "3826733",
+    "commercialArticleNumber": "21685",
+    "LongName": "ECONOM augurkenschijfjes zoetzuur 2,30kg"
+  },
+  {
+    "gtin": "05404009106834",
+    "productId": "568126",
+    "name": "cocktailuitjes",
+    "technicalArticleNumber": "4211657",
+    "commercialArticleNumber": "16436",
+    "LongName": "ECONOM cocktailuitjes 2,3kg"
+  },
+  {
+    "gtin": "04006795984729",
+    "productId": "764299",
+    "name": "tonijn in eigen nat MSC",
+    "technicalArticleNumber": "4545033",
+    "commercialArticleNumber": "7349",
+    "LongName": "LA PERLA tonijn in eigen nat MSC 1,7kg"
+  },
+  {
+    "gtin": "05410046994693",
+    "productId": "890126",
+    "name": "Ui met Luikse siroop",
+    "description": "*Uienkonfijt met Luikse siroop",
+    "technicalArticleNumber": "4750857",
+    "commercialArticleNumber": "8717",
+    "LongName": "MATERNE Ui met Luikse siroop 210g"
+  },
+  {
+    "gtin": "18000483504209",
+    "productId": "674435",
+    "name": "passata",
+    "technicalArticleNumber": "4389525",
+    "commercialArticleNumber": "11714",
+    "LongName": "VICTORIA passata 2,650L"
+  },
+  {
+    "gtin": "04010142154307",
+    "productId": "942029",
+    "name": "Weense worsten | 8 st",
+    "technicalArticleNumber": "4767728",
+    "commercialArticleNumber": "4775",
+    "LongName": "WIKINGER Weense worsten | 8 st 240g"
+  },
+  {
+    "gtin": "05411100444567",
+    "productId": "172358",
+    "name": "soep kreeftenbisque 1,6l",
+    "description": "*Altijd met factuur",
+    "technicalArticleNumber": "3385585",
+    "commercialArticleNumber": "31067",
+    "LongName": "KNORR soep kreeftenbisque 1,6l 1,6L"
+  },
+  {
+    "gtin": "05404009108173",
+    "productId": "384311",
+    "name": "tonijn zonnenbloemolie MSC",
+    "technicalArticleNumber": "3843783",
+    "commercialArticleNumber": "51300",
+    "LongName": "ECONOM tonijn zonnenbloemolie MSC 1,7kg"
+  },
+  {
+    "gtin": "04010142031028",
+    "productId": "944252",
+    "name": "Hotdog | 30 st",
+    "technicalArticleNumber": "4768036",
+    "commercialArticleNumber": "7179",
+    "LongName": "WIKINGER Hotdog | 30 st 1,5kg"
+  },
+  {
+    "gtin": "05410046020606",
+    "productId": "99344",
+    "name": "appelcompote stukjes blik",
+    "description": "*Appelcompote met\nstukjes",
+    "technicalArticleNumber": "2838439",
+    "commercialArticleNumber": "20995",
+    "LongName": "MATERNE appelcompote stukjes blik 2,7kg"
+  },
+  {
+    "gtin": "05404009102300",
+    "productId": "161606",
+    "name": "geraspte wortelen",
+    "description": "*Wortelsalade\n*Altijd met factuur",
+    "technicalArticleNumber": "3288654",
+    "commercialArticleNumber": "44801",
+    "LongName": "ECONOM geraspte wortelen 2,65L"
+  },
+  {
+    "gtin": "05400141281415",
+    "productId": "225405",
+    "name": "fruitcocktail light blik",
+    "description": "*Fruitcocktail met\nzoetstoffen i.p.v.\nsuiker",
+    "technicalArticleNumber": "3552815",
+    "commercialArticleNumber": "50877",
+    "LongName": "BONI fruitcocktail light blik 200g"
+  },
+  {
+    "gtin": "05404009103901",
+    "productId": "426455",
+    "name": "fruitcocktail op siroop NG",
+    "technicalArticleNumber": "3976897",
+    "commercialArticleNumber": "3596",
+    "LongName": "ECONOM fruitcocktail op siroop NG 2,5kg"
+  },
+  {
+    "gtin": "08412289003740",
+    "productId": "334405",
+    "name": "tapas de queso",
+    "description": "*Spanje\n*Iberico, Cabra,\nManchego",
+    "technicalArticleNumber": "3797124",
+    "commercialArticleNumber": "33057",
+    "LongName": "GARCIA BAQUERO tapas de queso 150g"
+  },
+  {
+    "gtin": "05400141625875",
+    "productId": "820",
+    "name": "tomatenpuree dubbel geconcentr",
+    "description": "*Dubbel\ngeconcentreerde\ntomatenpuree\n*28-30 %\ngeconcentreerd",
+    "technicalArticleNumber": "12868",
+    "commercialArticleNumber": "12868",
+    "LongName": "BONI tomatenpuree dubbel geconcentr 140g"
+  },
+  {
+    "gtin": "08712100631672",
+    "productId": "126982",
+    "name": "frikadellen met tomatensaus",
+    "description": "*Vleesballetjes in\ntomatensaus\n*Opwarmen in de pan,\nin de microgolfoven",
+    "technicalArticleNumber": "3207030",
+    "commercialArticleNumber": "13833",
+    "LongName": "ZWAN frikadellen met tomatensaus 537g"
+  },
+  {
+    "gtin": "15400141446088",
+    "productId": "525719",
+    "name": "tonijn olijfolie MSC",
+    "description": "*Tonijn in olijfolie",
+    "technicalArticleNumber": "4113337",
+    "commercialArticleNumber": "8884",
+    "LongName": "BONI tonijn olijfolie MSC 95g"
+  },
+  {
+    "gtin": "25400141336287",
+    "productId": "738",
+    "name": "witte bonen tomaten saus",
+    "description": "*Witte bonen in\ntomatensaus",
+    "technicalArticleNumber": "11315",
+    "commercialArticleNumber": "11315",
+    "LongName": "EVERYDAY witte bonen tomaten saus 400g"
+  },
+  {
+    "gtin": "15400141386735",
+    "productId": "416097",
+    "name": "tomatenpuree dubbel gecon.",
+    "description": "*Dubbel geconcentreerd\ntomatenpuree\n*Biologisch gecertificeerd",
+    "technicalArticleNumber": "3937384",
+    "commercialArticleNumber": "1241",
+    "LongName": "BONI BIO tomatenpuree dubbel gecon. 140g"
+  }
+]
